@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<title>モニュメントMAP - モニュメントnet</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="モニュメントnet(memorial-object.jp)で紹介している各地のモニュメントを地図上に表示します。">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+<style>
+  html, body { margin: 0; height: 100%; font-family: "Yu Gothic UI", "Meiryo", sans-serif; }
+  #map { height: 100%; }
+  .panel {
+    background: rgba(255,255,255,.94); padding: 10px 12px; border-radius: 6px;
+    box-shadow: 0 1px 5px rgba(0,0,0,.4); font-size: 13px; line-height: 1.9;
+  }
+  .panel h1 { font-size: 15px; margin: 0 0 4px; }
+  .panel label { display: block; cursor: pointer; white-space: nowrap; }
+  .panel .sw {
+    display: inline-block; width: 12px; height: 12px; margin-right: 6px;
+    border-radius: 50%; border: 1px solid #666; vertical-align: -1px;
+  }
+  .panel .cnt { color: #666; margin-left: 4px; }
+  .panel .site-link { font-size: 12px; margin-top: 6px; }
+  .popup { width: 230px; }
+  .popup img { width: 100%; border-radius: 4px; display: block; margin-bottom: 6px; }
+  .popup .p-name { font-weight: bold; font-size: 14px; margin-bottom: 4px; }
+  .popup .p-addr { color: #444; font-size: 12px; }
+  .popup .p-cats { color: #777; font-size: 11px; margin: 2px 0 4px; }
+  .popup a.p-link {
+    display: inline-block; margin-top: 4px; padding: 4px 10px; background: #2b6cb0;
+    color: #fff; border-radius: 4px; text-decoration: none; font-size: 12px;
+  }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script>
+const CATEGORIES = [
+  { name: "駅前",       color: "#E53935" },
+  { name: "公園",       color: "#43A047" },
+  { name: "広場・通り", color: "#FB8C00" },
+  { name: "商業施設",   color: "#8E24AA" },
+  { name: "住宅地",     color: "#3949AB" },
+  { name: "海浜",       color: "#00ACC1" },
+  { name: "公共施設",   color: "#6D4C41" },
+  { name: "学校",       color: "#C0CA33" },
+  { name: "神社仏閣",   color: "#D81B60" },
+  { name: "その他",     color: "#757575" },
+];
+const COLOR = Object.fromEntries(CATEGORIES.map(c => [c.name, c.color]));
+
+const map = L.map("map").setView([36.5, 138.5], 7);
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  maxZoom: 19, attribution: '&copy; OpenStreetMap contributors | <a href="https://www.memorial-object.jp/" target="_blank">モニュメントnet</a>'
+}).addTo(map);
+
+const cluster = L.markerClusterGroup({ maxClusterRadius: 40 });
+map.addLayer(cluster);
+
+let monuments = [];
+const enabled = new Set();      // 表示中カテゴリ
+const counts = {};
+
+// 代表カテゴリ(色分け用): CATEGORIES の並び順で最初に一致したもの
+function primaryCat(cats) {
+  for (const c of CATEGORIES) if (cats.includes(c.name)) return c.name;
+  return "その他";
+}
+
+function pinIcon(color) {
+  return L.divIcon({
+    className: "",
+    html: `<svg width="26" height="36" viewBox="0 0 26 36"><path d="M13 0C5.8 0 0 5.8 0 13c0 9.8 13 23 13 23s13-13.2 13-23C26 5.8 20.2 0 13 0z" fill="${color}" stroke="#333" stroke-width="1"/><circle cx="13" cy="13" r="4.5" fill="#fff"/></svg>`,
+    iconSize: [26, 36], iconAnchor: [13, 36], popupAnchor: [0, -34],
+  });
+}
+
+function popupHtml(m) {
+  return `<div class="popup">
+    ${m.image ? `<a href="${m.url}" target="_blank"><img src="${m.image}" alt="" loading="lazy"></a>` : ""}
+    <div class="p-name">${m.name}</div>
+    <div class="p-cats">${m.categories.join(" / ")}</div>
+    <div class="p-addr">${m.address}${m.access ? "<br>アクセス: " + m.access : ""}</div>
+    <a class="p-link" href="${m.url}" target="_blank">記事を見る ≫</a>
+  </div>`;
+}
+
+function render() {
+  cluster.clearLayers();
+  for (const m of monuments) {
+    const cat = primaryCat(m.categories);
+    if (!enabled.has(cat)) continue;
+    const mk = L.marker([m.lat, m.lng], { icon: pinIcon(COLOR[cat]), title: m.name });
+    mk.bindPopup(popupHtml(m), { maxWidth: 260 });
+    cluster.addLayer(mk);
+  }
+}
+
+// 凡例 + カテゴリフィルタ
+const legend = L.control({ position: "topright" });
+legend.onAdd = () => {
+  const div = L.DomUtil.create("div", "panel");
+  L.DomEvent.disableClickPropagation(div);
+  let html = `<h1>モニュメントMAP</h1>`;
+  for (const c of CATEGORIES) {
+    if (!counts[c.name]) continue;
+    html += `<label><input type="checkbox" data-cat="${c.name}" checked>
+      <span class="sw" style="background:${c.color}"></span>${c.name}<span class="cnt">(${counts[c.name]})</span></label>`;
+  }
+  html += `<div class="site-link"><a href="https://www.memorial-object.jp/" target="_blank">モニュメントnet</a> 掲載 <b><span id="total"></span></b> 件</div>`;
+  div.innerHTML = html;
+  div.querySelectorAll("input").forEach(cb => cb.addEventListener("change", e => {
+    e.target.checked ? enabled.add(e.target.dataset.cat) : enabled.delete(e.target.dataset.cat);
+    render();
+  }));
+  return div;
+};
+
+fetch("monuments.json").then(r => r.json()).then(data => {
+  monuments = data;
+  for (const m of monuments) {
+    const cat = primaryCat(m.categories);
+    counts[cat] = (counts[cat] || 0) + 1;
+    enabled.add(cat);
+  }
+  legend.addTo(map);
+  document.getElementById("total").textContent = monuments.length;
+  render();
+});
+</script>
+</body>
+</html>
