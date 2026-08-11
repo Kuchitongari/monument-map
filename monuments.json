@@ -6,6 +6,7 @@
   "address": "茨城県笠間市友部駅前１",
   "access": "友部駅南口付近",
   "categories": [
+   "広場・通り",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/05/00087_1.png",
@@ -114,6 +115,7 @@
   "address": "山梨県甲州市塩山上於曽",
   "access": "塩山駅北口付近",
   "categories": [
+   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00137_1.png",
@@ -234,7 +236,6 @@
   "address": "千葉県船橋市本町７丁目１",
   "access": "船橋駅北口出てすぐ（ペデストリアンデッキ上）",
   "categories": [
-   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00195_1.jpg",
@@ -247,6 +248,7 @@
   "address": "神奈川県川崎市川崎区駅前本町２６番地２",
   "access": "川崎駅東口付近",
   "categories": [
+   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00156_1.jpg",
@@ -465,7 +467,6 @@
   "address": "東京都杉並区阿佐谷南３丁目３６",
   "access": "阿佐ヶ谷駅南口出てすぐ",
   "categories": [
-   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00108_1.png",
@@ -598,7 +599,6 @@
   "address": "山梨県山梨市上神内川７４−５",
   "access": "山梨市駅北口出てすぐ",
   "categories": [
-   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00141_1.png",
@@ -611,6 +611,7 @@
   "address": "茨城県牛久市中央５丁目",
   "access": "牛久駅東口徒歩１分",
   "categories": [
+   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/03/00067_tenchijin4.png",
@@ -731,7 +732,6 @@
   "address": "東京都三鷹市下連雀３丁目４６−１",
   "access": "三鷹駅北口付近",
   "categories": [
-   "広場・通り",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00113_1.png",
@@ -756,6 +756,7 @@
   "address": "埼玉県白岡市新白岡４丁目",
   "access": "新白岡駅東口徒歩１分（※接近困難）",
   "categories": [
+   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2025/12/00035_shinshiraoka1.png",
@@ -927,6 +928,7 @@
   "address": "栃木県矢板市片岡",
   "access": "片岡駅出てすぐ（ロータリー内）",
   "categories": [
+   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/02/00052_kataoka90th3.png",
@@ -1013,7 +1015,6 @@
   "address": "山梨県笛吹市石和町松本１６５−５",
   "access": "石和温泉駅北口出てすぐ",
   "categories": [
-   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00144_1.png",
@@ -1051,6 +1052,7 @@
   "address": "茨城県石岡市北根本",
   "access": "高浜駅出てすぐ",
   "categories": [
+   "公園",
    "駅前"
   ],
   "image": "",
@@ -1075,6 +1077,8 @@
   "address": "神奈川県足柄下郡真鶴町真鶴１８２９-イ",
   "access": "真鶴駅東口出てすぐ",
   "categories": [
+   "商業施設",
+   "広場・通り",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00183_1.jpg",
@@ -1171,7 +1175,6 @@
   "address": "神奈川県小田原市鴨宮",
   "access": "鴨宮駅北口付近",
   "categories": [
-   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00176_1.jpg",
@@ -1208,7 +1211,6 @@
   "address": "東京都杉並区",
   "access": "高円寺駅北口付近",
   "categories": [
-   "広場・通り",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00104_1.png",
@@ -1233,6 +1235,7 @@
   "address": "東京都杉並区阿佐谷南３丁目３６−２",
   "access": "阿佐ヶ谷駅南口付近",
   "categories": [
+   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00107_1.png",
@@ -1269,6 +1272,7 @@
   "address": "山梨県甲州市塩山上於曽",
   "access": "塩山駅南口付近",
   "categories": [
+   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00138_1.png",
@@ -1281,6 +1285,7 @@
   "address": "埼玉県行田市壱里山町",
   "access": "行田駅東口出てすぐ（※2025年現在は同所に現存せず）",
   "categories": [
+   "広場・通り",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2025/11/gyoda_izuminoai5.png",
@@ -1293,7 +1298,7 @@
   "address": "神奈川県藤沢市藤沢",
   "access": "",
   "categories": [
-   "公園",
+   "広場・通り",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00164_1.jpg",
@@ -1330,6 +1335,7 @@
   "address": "神奈川県横浜市西区北幸１丁目３−２３",
   "access": "横浜駅西口出てすぐ",
   "categories": [
+   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00160_1.jpg",
@@ -1427,7 +1433,6 @@
   "address": "山梨県笛吹市石和町駅前",
   "access": "石和温泉駅南口出てすぐ",
   "categories": [
-   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00146_1.png",
@@ -1500,7 +1505,6 @@
   "address": "山梨県韮崎市若宮１丁目１−１",
   "access": "韮崎駅付近",
   "categories": [
-   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00153_1.png",
@@ -1837,6 +1841,7 @@
   "address": "東京都荒川区南千住４丁目１−１",
   "access": "JR南千住駅東口徒歩３分",
   "categories": [
+   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/02/00060_donau5.png",
@@ -1849,6 +1854,7 @@
   "address": "茨城県取手市中央町２",
   "access": "JR取手駅西口出てすぐ",
   "categories": [
+   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/03/00063_owl1.png",
@@ -1946,6 +1952,7 @@
   "access": "東鷲宮駅東口徒歩２分",
   "categories": [
    "公園",
+   "広場・通り",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/01/00037_seedofpeace1.png",
@@ -2006,7 +2013,6 @@
   "address": "東京都荒川区西日暮里２丁目１９",
   "access": "日暮里駅徒歩１分",
   "categories": [
-   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/02/00057_dokan4-1024x682.png",
@@ -2057,6 +2063,7 @@
   "address": "茨城県土浦市有明町１",
   "access": "土浦駅西口徒歩１分",
   "categories": [
+   "広場・通り",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/03/00075_shiosai3.png",
@@ -2081,7 +2088,6 @@
   "address": "神奈川県平塚市八重咲町２−２",
   "access": "平塚駅南口出てすぐ",
   "categories": [
-   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00170_1.jpg",
@@ -2106,7 +2112,6 @@
   "address": "山梨県笛吹市石和町駅前１８",
   "access": "石和温泉駅南口出てすぐ",
   "categories": [
-   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00147_1.png",
@@ -2131,7 +2136,6 @@
   "address": "山梨県甲府市丸の内１丁目１",
   "access": "甲府駅北口付近",
   "categories": [
-   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00151_1.png",
@@ -2180,7 +2184,6 @@
   "address": "群馬県高崎市八島町２２２ 高崎モントレ １Ｆ",
   "access": "高崎駅1F西口出てすぐ",
   "categories": [
-   "広場・通り",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2025/12/00025_darumapoem5.png",
@@ -2193,6 +2196,7 @@
   "address": "茨城県笠間市友部駅前１",
   "access": "友部駅北口付近",
   "categories": [
+   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/05/00085_1.png",
@@ -2253,8 +2257,6 @@
   "address": "茨城県ひたちなか市武田",
   "access": "勝田駅東口付近",
   "categories": [
-   "商業施設",
-   "広場・通り",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00095_1.png",
@@ -2291,6 +2293,8 @@
   "address": "千葉県習志野市",
   "access": "津田沼駅北口付近（ペデストリアンデッキ上）",
   "categories": [
+   "商業施設",
+   "広場・通り",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00198_1.jpg",
@@ -2315,7 +2319,6 @@
   "address": "東京都立川市曙町２丁目１",
   "access": "立川駅南↑付近",
   "categories": [
-   "公園",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00126_1.png",
@@ -2376,7 +2379,6 @@
   "address": "埼玉県白岡市小久喜白岡駅",
   "access": "白岡駅東口出てすぐ",
   "categories": [
-   "広場・通り",
    "駅前"
   ],
   "image": "https://www.memorial-object.jp/wp-content/uploads/2025/12/00034_okanoue2.png",
