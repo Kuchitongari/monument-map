@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """memorial-object.jp の全記事からモニュメント情報を収集し monuments.json を出力する"""
 import json
+import os
 import re
 import sys
 import time
@@ -11,20 +12,46 @@ BASE = "https://www.memorial-object.jp"
 SITEMAP = BASE + "/post-sitemap.xml"
 OUT = "monuments.json"
 EXCLUDE = {"/blog-top/"}  # 記事以外のページ
+RETRY_WAITS = [3, 10, 30]  # 一時エラー時の待機秒 (最大4回試行)
+# 取得失敗がこの数を超えたら JSON を書かずに異常終了する (旧データを守る)
+MAX_FETCH_ERRORS = int(os.environ.get("MAX_FETCH_ERRORS", "5"))
 
 session = requests.Session()
 session.headers["User-Agent"] = "monument-map-builder (site owner)"
 
 
+class FetchError(Exception):
+    """リトライしても取得できなかった (座標なしとは区別する)"""
+
+
+def get(url):
+    """一時的なエラー (5xx / 429 / 通信断) はリトライする"""
+    last = None
+    for i, wait in enumerate([0] + RETRY_WAITS):
+        if wait:
+            time.sleep(wait)
+        try:
+            r = session.get(url, timeout=30)
+            if r.status_code >= 500 or r.status_code == 429:
+                last = f"{r.status_code} {r.reason}"
+                print(f"  RETRY {url}: {last} ({i + 1}回目)", file=sys.stderr)
+                continue
+            r.raise_for_status()
+            return r
+        except requests.RequestException as e:
+            last = str(e)
+            print(f"  RETRY {url}: {last} ({i + 1}回目)", file=sys.stderr)
+    raise FetchError(last)
+
+
 def get_post_urls():
-    xml = session.get(SITEMAP, timeout=30).text
+    xml = get(SITEMAP).text
     urls = re.findall(r"<loc><!\[CDATA\[(https://www\.memorial-object\.jp/[^\]]+)\]\]></loc>", xml)
     return [u for u in urls if not any(u.endswith(e) or e in u for e in EXCLUDE)]
 
 
 def parse_post(url):
-    r = session.get(url, timeout=30)
-    r.raise_for_status()
+    r = get(url)
     soup = BeautifulSoup(r.text, "html.parser")
 
     m = re.search(r"google\.com/maps\?q=([\d.]+),([\d.]+)", r.text)
@@ -70,27 +97,48 @@ def parse_post(url):
 def main():
     urls = get_post_urls()
     print(f"{len(urls)} 記事を処理します")
-    items, skipped = [], []
+    items, no_coord, failed = [], [], []
     for i, u in enumerate(urls, 1):
         try:
             item = parse_post(u)
+        except FetchError as e:
+            print(f"  ERROR {u}: {e}", file=sys.stderr)
+            failed.append(u)
+            continue
         except Exception as e:
             print(f"  ERROR {u}: {e}", file=sys.stderr)
-            skipped.append(u)
+            failed.append(u)
             continue
         if item:
             items.append(item)
         else:
-            skipped.append(u)
+            no_coord.append(u)
         if i % 20 == 0:
             print(f"  {i}/{len(urls)}")
         time.sleep(0.3)  # サーバーに優しく
+
+    for u in no_coord:
+        print(f"  座標なし: {u}")
+
+    if len(failed) > MAX_FETCH_ERRORS:
+        print(
+            f"中止: {len(failed)} 記事を取得できませんでした "
+            f"(上限 {MAX_FETCH_ERRORS} 件)。{OUT} は更新しません。",
+            file=sys.stderr,
+        )
+        for u in failed:
+            print(f"  取得失敗: {u}", file=sys.stderr)
+        sys.exit(1)
+
     items.sort(key=lambda x: x["name"])
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(items, f, ensure_ascii=False, indent=1)
-    print(f"完了: {len(items)} 件を {OUT} に保存 (座標なし等スキップ {len(skipped)} 件)")
-    for s in skipped:
-        print(f"  skip: {s}")
+    print(
+        f"完了: {len(items)} 件を {OUT} に保存 "
+        f"(座標なし {len(no_coord)} 件 / 取得失敗 {len(failed)} 件)"
+    )
+    for u in failed:
+        print(f"  取得失敗: {u}")
 
 
 if __name__ == "__main__":
