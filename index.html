@@ -22,6 +22,10 @@
     border-radius: 50%; border: 1px solid #666; vertical-align: -1px;
   }
   .panel .cnt { color: #666; margin-left: 4px; }
+  .panel .photo-box { margin-top: 6px; padding-top: 6px; border-top: 1px solid #ddd; }
+  .panel .sw.pin-empty { background: #fff; border: 2px solid #888; }
+  .popup .p-ask { margin-top: 6px; font-size: 11px; color: #a15c00; background: #fff6e5;
+    border-radius: 4px; padding: 4px 6px; }
   .panel .site-link { font-size: 12px; margin-top: 6px; }
   .popup { width: 230px; }
   .popup img { width: 100%; border-radius: 4px; display: block; margin-bottom: 6px; }
@@ -62,6 +66,7 @@ const cluster = L.markerClusterGroup({ maxClusterRadius: 40 });
 map.addLayer(cluster);
 
 let monuments = [];
+let wantedOnly = false;   // 「写真募集中だけ表示」
 const enabled = new Set();      // 表示中カテゴリ
 const counts = {};
 
@@ -71,10 +76,15 @@ function primaryCat(cats) {
   return "その他";
 }
 
-function pinIcon(color) {
+// 色=カテゴリー、形=写真の有無。写真がない場合は白抜き+📷(色に頼らず区別できるようにする)
+function pinIcon(color, hasPhoto) {
+  const body = `<path d="M13 0C5.8 0 0 5.8 0 13c0 9.8 13 23 13 23s13-13.2 13-23C26 5.8 20.2 0 13 0z"
+      fill="${hasPhoto ? color : "#fff"}" stroke="${hasPhoto ? "#333" : color}" stroke-width="${hasPhoto ? 1 : 2.5}"/>`;
+  const inner = hasPhoto
+    ? `<circle cx="13" cy="13" r="4.5" fill="#fff"/>`
+    : `<text x="13" y="17.5" text-anchor="middle" font-size="11">📷</text>`;
   return L.divIcon({
-    className: "",
-    html: `<svg width="26" height="36" viewBox="0 0 26 36"><path d="M13 0C5.8 0 0 5.8 0 13c0 9.8 13 23 13 23s13-13.2 13-23C26 5.8 20.2 0 13 0z" fill="${color}" stroke="#333" stroke-width="1"/><circle cx="13" cy="13" r="4.5" fill="#fff"/></svg>`,
+    className: "", html: `<svg width="26" height="36" viewBox="0 0 26 36">${body}${inner}</svg>`,
     iconSize: [26, 36], iconAnchor: [13, 36], popupAnchor: [0, -34],
   });
 }
@@ -86,6 +96,7 @@ function popupHtml(m) {
     <div class="p-cats">${m.categories.join(" / ")}</div>
     <div class="p-addr">${m.address}${m.access ? "<br>アクセス: " + m.access : ""}</div>
     <a class="p-link" href="${m.url}" target="_blank">記事を見る ≫</a>
+    ${m.image ? "" : `<div class="p-ask">📷 写真がまだありません。<a href="${m.url}" target="_blank">記事のフォーム</a>からお寄せいただけます</div>`}
   </div>`;
 }
 
@@ -94,7 +105,9 @@ function render() {
   for (const m of monuments) {
     const cat = primaryCat(m.categories);
     if (!enabled.has(cat)) continue;
-    const mk = L.marker([m.lat, m.lng], { icon: pinIcon(COLOR[cat]), title: m.name });
+    const hasPhoto = !!m.image;
+    if (wantedOnly && hasPhoto) continue;
+    const mk = L.marker([m.lat, m.lng], { icon: pinIcon(COLOR[cat], hasPhoto), title: m.name });
     mk.bindPopup(popupHtml(m), { maxWidth: 260 });
     cluster.addLayer(mk);
   }
@@ -111,24 +124,37 @@ legend.onAdd = () => {
     html += `<label><input type="checkbox" data-cat="${c.name}" checked>
       <span class="sw" style="background:${c.color}"></span>${c.name}<span class="cnt">(${counts[c.name]})</span></label>`;
   }
-  html += `<div class="site-link"><a href="https://www.memorial-object.jp/" target="_blank">モニュメントnet</a> 掲載 <b><span id="total"></span></b> 件</div>`;
+  html += `<div class="photo-box">
+      <label><input type="checkbox" id="wanted-only">
+        <span class="sw pin-empty"></span>📷 写真募集中だけ表示<span class="cnt">(<span id="wanted"></span>件)</span></label>
+      <div class="cnt">写真あり <span id="withphoto"></span>件 / 掲載 <b><span id="total"></span></b> 件</div>
+    </div>
+    <div class="site-link"><a href="https://www.memorial-object.jp/" target="_blank">モニュメントnet</a><br>
+      <span class="cnt">地図データ © OpenStreetMap contributors／掲載データは <a href="https://opendatacommons.org/licenses/odbl/1-0/" target="_blank">ODbL 1.0</a></span></div>`;
   div.innerHTML = html;
-  div.querySelectorAll("input").forEach(cb => cb.addEventListener("change", e => {
+  div.querySelectorAll("input[data-cat]").forEach(cb => cb.addEventListener("change", e => {
     e.target.checked ? enabled.add(e.target.dataset.cat) : enabled.delete(e.target.dataset.cat);
     render();
   }));
+  div.querySelector("#wanted-only").addEventListener("change", e => {
+    wantedOnly = e.target.checked;
+    render();
+  });
   return div;
 };
 
 fetch("monuments.json").then(r => r.json()).then(data => {
-  monuments = data;
+  monuments = Array.isArray(data) ? data : data.items;   // 旧形式(配列)にも対応
   for (const m of monuments) {
     const cat = primaryCat(m.categories);
     counts[cat] = (counts[cat] || 0) + 1;
     enabled.add(cat);
   }
   legend.addTo(map);
+  const withPhoto = monuments.filter(m => m.image).length;
   document.getElementById("total").textContent = monuments.length;
+  document.getElementById("withphoto").textContent = withPhoto;
+  document.getElementById("wanted").textContent = monuments.length - withPhoto;
   render();
 });
 </script>

@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """memorial-object.jp の全記事からモニュメント情報を収集し monuments.json を出力する"""
+import datetime
 import json
 import os
 import re
@@ -94,6 +95,18 @@ def parse_post(url):
     }
 
 
+def generated_date(items):
+    """中身が前回と同じなら日付も据え置く(毎日の無意味なコミットを避ける)"""
+    try:
+        with open(OUT, encoding="utf-8") as f:
+            prev = json.load(f)
+        if isinstance(prev, dict) and prev.get("items") == items and prev.get("generated"):
+            return prev["generated"]
+    except (OSError, ValueError):
+        pass
+    return datetime.date.today().isoformat()
+
+
 def main():
     urls = get_post_urls()
     print(f"{len(urls)} 記事を処理します")
@@ -131,8 +144,18 @@ def main():
         sys.exit(1)
 
     items.sort(key=lambda x: x["name"])
+    # ODbLの継承条項に配慮し、データセットとしてのライセンスを明記して配布する
+    payload = {
+        "license": "ODbL-1.0",
+        "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+        "attribution": "© OpenStreetMap contributors / モニュメントnet(memorial-object.jp)",
+        "note": "位置情報の一部は OpenStreetMap に由来します。この一覧は ODbL 1.0 で提供します。",
+        "generated": generated_date(items),
+        "count": len(items),
+        "items": items,
+    }
     with open(OUT, "w", encoding="utf-8") as f:
-        json.dump(items, f, ensure_ascii=False, indent=1)
+        json.dump(payload, f, ensure_ascii=False, indent=1)
     print(
         f"完了: {len(items)} 件を {OUT} に保存 "
         f"(座標なし {len(no_coord)} 件 / 取得失敗 {len(failed)} 件)"
