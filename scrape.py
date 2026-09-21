@@ -51,6 +51,32 @@ def get_post_urls():
     return [u for u in urls if not any(u.endswith(e) or e in u for e in EXCLUDE)]
 
 
+def featured_images():
+    """記事URL → アイキャッチ画像のURL。本文に画像がなくアイキャッチだけの記事も「写真あり」にするため。
+    取れなかったときは空の辞書(本文の画像だけで判定する従来の動作になる)"""
+    try:
+        posts, page = [], 1
+        while True:
+            r = get(f"{BASE}/wp-json/wp/v2/posts?per_page=100&page={page}&_fields=link,featured_media")
+            posts += r.json()
+            if page >= int(r.headers.get("X-WP-TotalPages", 1)):
+                break
+            page += 1
+        ids = sorted({p["featured_media"] for p in posts if p.get("featured_media")})
+        src = {}
+        for i in range(0, len(ids), 100):
+            chunk = ",".join(map(str, ids[i:i + 100]))
+            r = get(f"{BASE}/wp-json/wp/v2/media?include={chunk}&per_page=100&_fields=id,source_url,media_details")
+            for m in r.json():
+                sizes = (m.get("media_details") or {}).get("sizes") or {}
+                pick = sizes.get("medium_large") or sizes.get("large") or {}
+                src[m["id"]] = pick.get("source_url") or m.get("source_url", "")
+        return {p["link"]: src.get(p["featured_media"], "") for p in posts if p.get("featured_media")}
+    except (FetchError, ValueError, KeyError) as e:
+        print(f"  ⚠ アイキャッチ画像を取得できませんでした({e})。本文の画像だけで判定します", file=sys.stderr)
+        return {}
+
+
 def parse_post(url):
     r = get(url)
     soup = BeautifulSoup(r.text, "html.parser")
@@ -110,6 +136,8 @@ def generated_date(items):
 def main():
     urls = get_post_urls()
     print(f"{len(urls)} 記事を処理します")
+    featured = featured_images()
+    print(f"  アイキャッチあり {len(featured)} 記事")
     items, no_coord, failed = [], [], []
     for i, u in enumerate(urls, 1):
         try:
@@ -123,6 +151,8 @@ def main():
             failed.append(u)
             continue
         if item:
+            if not item["image"] and featured.get(u):
+                item["image"] = featured[u]      # 本文に画像がなくてもアイキャッチがあれば写真あり
             items.append(item)
         else:
             no_coord.append(u)
