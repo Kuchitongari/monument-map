@@ -16,6 +16,19 @@
     box-shadow: 0 1px 5px rgba(0,0,0,.4); font-size: 13px; line-height: 1.9;
   }
   .panel h1 { font-size: 15px; margin: 0 0 4px; }
+  /* 凡例の開閉(スマホでは最初たたんでおく。地図が隠れてしまうため) */
+  .panel .head { display: flex; align-items: center; gap: 8px; cursor: pointer; }
+  .panel .head h1 { flex: 1; }
+  .panel .toggle {
+    border: 1px solid #bbb; background: #fff; border-radius: 4px; font-size: 12px;
+    padding: 2px 8px; cursor: pointer; line-height: 1.6;
+  }
+  .panel.closed .body { display: none; }
+  .panel.closed { padding: 6px 10px; }
+  @media (max-width: 720px) {
+    .panel { font-size: 12px; line-height: 1.7; max-width: 76vw; max-height: 58vh; overflow-y: auto; }
+    .panel .site-link { font-size: 11px; }
+  }
   .panel label { display: block; cursor: pointer; white-space: nowrap; }
   .panel .sw {
     display: inline-block; width: 12px; height: 12px; margin-right: 6px;
@@ -126,7 +139,7 @@ const legend = L.control({ position: "topright" });
 legend.onAdd = () => {
   const div = L.DomUtil.create("div", "panel");
   L.DomEvent.disableClickPropagation(div);
-  let html = `<h1>モニュメントMAP</h1>`;
+  let html = `<div class="head"><h1>モニュメントMAP</h1><button class="toggle" type="button">凡例</button></div><div class="body">`;
   for (const c of CATEGORIES) {
     if (!counts[c.name]) continue;
     html += `<label><input type="checkbox" data-cat="${c.name}" checked>
@@ -139,12 +152,16 @@ legend.onAdd = () => {
       <div class="cnt" id="contrib" hidden></div>
     </div>
     <div class="site-link"><a href="https://www.memorial-object.jp/" target="_blank">モニュメントnet</a><br>
-      <span class="cnt">地図データ © OpenStreetMap contributors／掲載データは <a href="https://opendatacommons.org/licenses/odbl/1-0/" target="_blank">ODbL 1.0</a></span></div>`;
+      <span class="cnt">地図データ © OpenStreetMap contributors／掲載データは <a href="https://opendatacommons.org/licenses/odbl/1-0/" target="_blank">ODbL 1.0</a></span></div>
+    </div>`;
   div.innerHTML = html;
   div.querySelectorAll("input[data-cat]").forEach(cb => cb.addEventListener("change", e => {
     e.target.checked ? enabled.add(e.target.dataset.cat) : enabled.delete(e.target.dataset.cat);
     render();
   }));
+  // スマホでは最初たたんでおく(地図が隠れるため)。タイトルかボタンで開閉できる
+  if (window.innerWidth <= 720) div.classList.add("closed");
+  div.querySelector(".head").addEventListener("click", () => div.classList.toggle("closed"));
   div.querySelector("#wanted-only").addEventListener("change", e => {
     wantedOnly = e.target.checked;
     render();
