@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
-"""memorial-object.jp の全記事からモニュメント情報を収集し monuments.json を出力する"""
+"""memorial-object.jp の全記事からモニュメント情報を収集し monuments.json を出力する。
+
+記事の一覧は WordPress の公開REST API から取る(2026-09-23 変更)。
+以前はサイトマップを使っていたが、写真のないOSM記事をサイトマップから外す設定を入れたため、
+それらが地図に出なくなった。REST API なら公開中の記事をすべて取れる。"""
 import datetime
 import json
 import os
@@ -8,11 +12,10 @@ import sys
 import time
 import requests
 from bs4 import BeautifulSoup
+from html import unescape
 
 BASE = "https://www.memorial-object.jp"
-SITEMAP = BASE + "/post-sitemap.xml"
 OUT = "monuments.json"
-EXCLUDE = {"/blog-top/"}  # 記事以外のページ
 RETRY_WAITS = [3, 10, 30]  # 一時エラー時の待機秒 (最大4回試行)
 # 取得失敗がこの数を超えたら JSON を書かずに異常終了する (旧データを守る)
 MAX_FETCH_ERRORS = int(os.environ.get("MAX_FETCH_ERRORS", "5"))
@@ -45,56 +48,57 @@ def get(url):
     raise FetchError(last)
 
 
-def get_post_urls():
-    xml = get(SITEMAP).text
-    urls = re.findall(r"<loc><!\[CDATA\[(https://www\.memorial-object\.jp/[^\]]+)\]\]></loc>", xml)
-    return [u for u in urls if not any(u.endswith(e) or e in u for e in EXCLUDE)]
+def api(path, **params):
+    q = "&".join(f"{k}={v}" for k, v in params.items())
+    return get(f"{BASE}/wp-json/wp/v2/{path}?{q}")
 
 
-def featured_images():
-    """記事URL → アイキャッチ画像のURL。本文に画像がなくアイキャッチだけの記事も「写真あり」にするため。
-    取れなかったときは空の辞書(本文の画像だけで判定する従来の動作になる)"""
-    try:
-        posts, page = [], 1
-        while True:
-            r = get(f"{BASE}/wp-json/wp/v2/posts?per_page=100&page={page}&_fields=link,featured_media")
-            posts += r.json()
-            if page >= int(r.headers.get("X-WP-TotalPages", 1)):
-                break
-            page += 1
-        ids = sorted({p["featured_media"] for p in posts if p.get("featured_media")})
-        src = {}
-        for i in range(0, len(ids), 100):
-            chunk = ",".join(map(str, ids[i:i + 100]))
-            r = get(f"{BASE}/wp-json/wp/v2/media?include={chunk}&per_page=100&_fields=id,source_url,media_details")
-            for m in r.json():
-                sizes = (m.get("media_details") or {}).get("sizes") or {}
-                pick = sizes.get("medium_large") or sizes.get("large") or {}
-                src[m["id"]] = pick.get("source_url") or m.get("source_url", "")
-        return {p["link"]: src.get(p["featured_media"], "") for p in posts if p.get("featured_media")}
-    except (FetchError, ValueError, KeyError) as e:
-        print(f"  ⚠ アイキャッチ画像を取得できませんでした({e})。本文の画像だけで判定します", file=sys.stderr)
-        return {}
+def fetch_all(path, **params):
+    """公開REST APIの一覧を全ページ分取る"""
+    out, page = [], 1
+    while True:
+        r = api(path, page=page, per_page=100, **params)
+        out += r.json()
+        if page >= int(r.headers.get("X-WP-TotalPages", 1)):
+            return out
+        page += 1
 
 
-def parse_post(url):
-    r = get(url)
-    soup = BeautifulSoup(r.text, "html.parser")
+def category_names():
+    return {c["id"]: c["name"] for c in fetch_all("categories", _fields="id,name")}
 
-    m = re.search(r"google\.com/maps\?q=([\d.]+),([\d.]+)", r.text)
+
+def featured_images(posts):
+    """アイキャッチ画像の画像ID → URL。本文に画像がない記事の代表画像に使う"""
+    ids = sorted({p["featured_media"] for p in posts if p.get("featured_media")})
+    src = {}
+    for i in range(0, len(ids), 100):
+        chunk = ",".join(map(str, ids[i:i + 100]))
+        for m in api("media", include=chunk, per_page=100, _fields="id,source_url,media_details").json():
+            sizes = (m.get("media_details") or {}).get("sizes") or {}
+            pick = sizes.get("medium_large") or sizes.get("large") or {}
+            src[m["id"]] = pick.get("source_url") or m.get("source_url", "")
+    return src
+
+
+def parse_post(post, cats, featured):
+    """REST API の1記事 → 地図の1件。座標が取れなければ None"""
+    html_body = (post.get("content") or {}).get("rendered", "")
+    url = post["link"]
+
+    m = re.search(r"google\.com/maps\?q=([\d.]+),([\d.]+)", html_body)
     if m:
         lat, lng = float(m.group(1)), float(m.group(2))
     else:
         # 旧形式: /maps/embed?pb=...!2d<lng>!3d<lat>...
-        m = re.search(r"google\.com/maps/embed\?pb=[^\"']*?!2d([\d.-]+)!3d([\d.-]+)", r.text)
+        m = re.search(r"google\.com/maps/embed\?pb=[^\"']*?!2d([\d.-]+)!3d([\d.-]+)", html_body)
         if not m:
             return None
         lng, lat = float(m.group(1)), float(m.group(2))
 
-    h1 = soup.find("h1", class_="entry-title")
-    title = h1.get_text(strip=True) if h1 else ""
-    name = title.split("｜")[0] if title else url
-
+    title = re.sub(r"<[^>]+>", "", (post.get("title") or {}).get("rendered", "")).strip()
+    title = unescape(title)
+    soup = BeautifulSoup(html_body, "html.parser")
     text = soup.get_text("\n")
     address = access = ""
     am = re.search(r"設置場所\n+([^\n]+)", text)
@@ -104,18 +108,16 @@ def parse_post(url):
     if xm:
         access = xm.group(1).strip()
 
-    cats = sorted({a.get_text(strip=True) for a in soup.select('a[rel="category tag"]')})
-
     img = soup.select_one('img[src*="wp-content/uploads"]')
-    image = img["src"] if img else ""
+    image = img["src"] if img else featured.get(post.get("featured_media"), "")
 
     return {
-        "name": name,
+        "name": title.split("｜")[0] if title else url,
         "lat": lat,
         "lng": lng,
         "address": address,
         "access": access,
-        "categories": cats,
+        "categories": sorted({cats[c] for c in post.get("categories", []) if c in cats}),
         "image": image,
         "url": url,
     }
@@ -133,44 +135,49 @@ def generated_date(items):
     return datetime.date.today().isoformat()
 
 
+def previous_count():
+    try:
+        with open(OUT, encoding="utf-8") as f:
+            prev = json.load(f)
+        return len(prev["items"]) if isinstance(prev, dict) else len(prev)
+    except (OSError, ValueError, KeyError, TypeError):
+        return 0
+
+
 def main():
-    urls = get_post_urls()
-    print(f"{len(urls)} 記事を処理します")
-    featured = featured_images()
-    print(f"  アイキャッチあり {len(featured)} 記事")
+    try:
+        posts = fetch_all("posts", status="publish", _fields="id,link,title,content,categories,featured_media")
+        cats = category_names()
+        featured = featured_images(posts)
+    except (FetchError, ValueError, KeyError) as e:
+        print(f"中止: 記事一覧を取得できませんでした({e})。{OUT} は更新しません。", file=sys.stderr)
+        sys.exit(1)
+    print(f"{len(posts)} 記事を処理します(アイキャッチあり {len(featured)} 件)")
+
     items, no_coord, failed = [], [], []
-    for i, u in enumerate(urls, 1):
+    for p in posts:
         try:
-            item = parse_post(u)
-        except FetchError as e:
-            print(f"  ERROR {u}: {e}", file=sys.stderr)
-            failed.append(u)
+            item = parse_post(p, cats, featured)
+        except Exception as e:                      # 1記事の解析失敗で全体を止めない
+            print(f"  ERROR {p.get('link')}: {e}", file=sys.stderr)
+            failed.append(p.get("link", ""))
             continue
-        except Exception as e:
-            print(f"  ERROR {u}: {e}", file=sys.stderr)
-            failed.append(u)
-            continue
-        if item:
-            if not item["image"] and featured.get(u):
-                item["image"] = featured[u]      # 本文に画像がなくてもアイキャッチがあれば写真あり
-            items.append(item)
-        else:
-            no_coord.append(u)
-        if i % 20 == 0:
-            print(f"  {i}/{len(urls)}")
-        time.sleep(0.3)  # サーバーに優しく
+        (items if item else no_coord).append(item or p.get("link", ""))
 
     for u in no_coord:
         print(f"  座標なし: {u}")
 
     if len(failed) > MAX_FETCH_ERRORS:
-        print(
-            f"中止: {len(failed)} 記事を取得できませんでした "
-            f"(上限 {MAX_FETCH_ERRORS} 件)。{OUT} は更新しません。",
-            file=sys.stderr,
-        )
+        print(f"中止: {len(failed)} 記事を処理できませんでした(上限 {MAX_FETCH_ERRORS} 件)。{OUT} は更新しません。",
+              file=sys.stderr)
         for u in failed:
-            print(f"  取得失敗: {u}", file=sys.stderr)
+            print(f"  失敗: {u}", file=sys.stderr)
+        sys.exit(1)
+
+    before = previous_count()
+    if before and len(items) < before * 0.8:        # 取りこぼしで地図が激減するのを防ぐ
+        print(f"中止: 件数が前回({before}件)より大きく減りました({len(items)}件)。{OUT} は更新しません。",
+              file=sys.stderr)
         sys.exit(1)
 
     items.sort(key=lambda x: x["name"])
