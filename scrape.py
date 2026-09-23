@@ -128,11 +128,23 @@ def generated_date(items):
     try:
         with open(OUT, encoding="utf-8") as f:
             prev = json.load(f)
-        if isinstance(prev, dict) and prev.get("items") == items and prev.get("generated"):
+        if (isinstance(prev, dict) and prev.get("items") == items
+                and prev.get("contributions") == contributions() and prev.get("generated")):
             return prev["generated"]
     except (OSError, ValueError):
         pass
     return datetime.date.today().isoformat()
+
+
+def contributions():
+    """写真提供の実績(pipeline/update_contributions.py が作る site/contributions.json)。無ければ 0 人 0 枚"""
+    try:
+        with open("contributions.json", encoding="utf-8") as f:
+            d = json.load(f)
+        return {"people": int(d.get("people", 0)), "photos": int(d.get("photos", 0)),
+                "names": list(d.get("names", []))}
+    except (OSError, ValueError, TypeError):
+        return {"people": 0, "photos": 0, "names": []}
 
 
 def previous_count():
@@ -187,6 +199,7 @@ def main():
         "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
         "attribution": "© OpenStreetMap contributors / モニュメントnet(memorial-object.jp)",
         "note": "位置情報の一部は OpenStreetMap に由来します。この一覧は ODbL 1.0 で提供します。",
+        "contributions": contributions(),
         "generated": generated_date(items),
         "count": len(items),
         "items": items,

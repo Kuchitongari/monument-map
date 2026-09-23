@@ -136,6 +136,7 @@ legend.onAdd = () => {
       <label><input type="checkbox" id="wanted-only">
         <span class="sw pin-empty"></span>📷 写真募集中だけ表示<span class="cnt">(<span id="wanted"></span>件)</span></label>
       <div class="cnt">写真あり <span id="withphoto"></span>件 / 掲載 <b><span id="total"></span></b> 件</div>
+      <div class="cnt" id="contrib" hidden></div>
     </div>
     <div class="site-link"><a href="https://www.memorial-object.jp/" target="_blank">モニュメントnet</a><br>
       <span class="cnt">地図データ © OpenStreetMap contributors／掲載データは <a href="https://opendatacommons.org/licenses/odbl/1-0/" target="_blank">ODbL 1.0</a></span></div>`;
@@ -163,6 +164,14 @@ fetch("monuments.json").then(r => r.json()).then(data => {
   document.getElementById("total").textContent = monuments.length;
   document.getElementById("withphoto").textContent = withPhoto;
   document.getElementById("wanted").textContent = monuments.length - withPhoto;
+  // 写真提供の実績(pipeline/update_contributions.py が作る contributions.json より)
+  const c = data.contributions;
+  if (c && c.photos > 0) {
+    const box = document.getElementById("contrib");
+    box.hidden = false;
+    box.innerHTML = `📸 これまで <b>${c.people || 0}</b> 人が <b>${c.photos}</b> 枚の写真を提供してくださいました`
+      + (c.names && c.names.length ? `<br><span title="掲載を希望された方">${c.names.join("、")} さん</span>` : "");
+  }
   render();
 });
 </script>
