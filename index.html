@@ -43,16 +43,22 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 <script>
+// 設置場所ベースのカテゴリー(台帳と同じ並び)。旧カテゴリー名は alias でまとめる
 const CATEGORIES = [
   { name: "駅前",       color: "#E53935" },
-  { name: "公園",       color: "#43A047" },
-  { name: "広場・通り", color: "#FB8C00" },
-  { name: "商業施設",   color: "#8E24AA" },
-  { name: "住宅地",     color: "#3949AB" },
-  { name: "海浜",       color: "#00ACC1" },
-  { name: "公共施設",   color: "#6D4C41" },
+  { name: "寺社境内",   color: "#D81B60", alias: ["神社仏閣"] },
   { name: "学校",       color: "#C0CA33" },
-  { name: "神社仏閣",   color: "#D81B60" },
+  { name: "霊園・墓地", color: "#5D4037" },
+  { name: "公園",       color: "#43A047" },
+  { name: "公共施設",   color: "#6D4C41" },
+  { name: "広場・通り", color: "#FB8C00" },
+  { name: "海浜",       color: "#00ACC1" },
+  { name: "水辺",       color: "#039BE5" },
+  { name: "山林・山道", color: "#2E7D32" },
+  { name: "田園・農地", color: "#9E9D24" },
+  { name: "商業地",     color: "#8E24AA", alias: ["商業施設"] },
+  { name: "住宅地",     color: "#3949AB" },
+  { name: "道路沿い",   color: "#546E7A" },
   { name: "その他",     color: "#757575" },
 ];
 const COLOR = Object.fromEntries(CATEGORIES.map(c => [c.name, c.color]));
@@ -72,7 +78,9 @@ const counts = {};
 
 // 代表カテゴリ(色分け用): CATEGORIES の並び順で最初に一致したもの
 function primaryCat(cats) {
-  for (const c of CATEGORIES) if (cats.includes(c.name)) return c.name;
+  for (const c of CATEGORIES) {
+    if (cats.includes(c.name) || (c.alias || []).some(a => cats.includes(a))) return c.name;
+  }
   return "その他";
 }
 
