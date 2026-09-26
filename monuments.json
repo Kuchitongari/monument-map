@@ -8,8 +8,8 @@
   "photos": 0,
   "names": []
  },
- "generated": "2026-09-23",
- "count": 340,
+ "generated": "2026-09-26",
+ "count": 343,
  "items": [
   {
    "name": "Jose de Guimaraes『Happiness Tree』",
@@ -998,6 +998,18 @@
    "url": "https://www.memorial-object.jp/00175/"
   },
   {
+   "name": "『富水の井戸』",
+   "lat": 35.29608167862367,
+   "lng": 139.14521031009036,
+   "address": "神奈川県小田原市堀之内",
+   "access": "富水駅東口付近",
+   "categories": [
+    "駅前"
+   ],
+   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00237_1.jpg",
+   "url": "https://www.memorial-object.jp/00237/"
+  },
+  {
    "name": "『小作台開村 百年記念の碑』",
    "lat": 35.7766339,
    "lng": 139.3017698,
@@ -1795,6 +1807,18 @@
    "url": "https://www.memorial-object.jp/00206/"
   },
   {
+   "name": "『親水モニュメント』",
+   "lat": 35.29608167862367,
+   "lng": 139.14521031009036,
+   "address": "神奈川県足柄上郡開成町吉田島",
+   "access": "開成駅西口付近",
+   "categories": [
+    "駅前"
+   ],
+   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00236_1.jpg",
+   "url": "https://www.memorial-object.jp/00236/"
+  },
+  {
    "name": "『赤羽台トンネルの碑』",
    "lat": 35.77827158857958,
    "lng": 139.71570031581675,
@@ -1877,6 +1901,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2025/12/00027_sojakokeshi1.png",
    "url": "https://www.memorial-object.jp/00027_soja_kokeshi/"
+  },
+  {
+   "name": "『阿婆羅底童子』",
+   "lat": 35.6302684,
+   "lng": 139.2546853,
+   "address": "東京都八王子市高尾町２１７７",
+   "access": "高尾山駅から南西へ約160m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00396/"
   },
   {
    "name": "『阿婆羅底童子』",
