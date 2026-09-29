@@ -9,7 +9,7 @@
   "names": []
  },
  "generated": "2026-09-29",
- "count": 975,
+ "count": 1218,
  "items": [
   {
    "name": "Jose de Guimaraes『Happiness Tree』",
@@ -274,6 +274,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04375/"
+  },
+  {
+   "name": "『Tiny buddhist sanctuary』",
+   "lat": 35.632536,
+   "lng": 139.2655482,
+   "address": "東京都八王子市高尾町",
+   "access": "清滝駅から北西へ約200m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00727/"
   },
   {
    "name": "『Ushi-oni (牛鬼)』",
@@ -696,6 +708,18 @@
    "url": "https://www.memorial-object.jp/00012_hinahana_konosu/"
   },
   {
+   "name": "『ひまわり墓苑』",
+   "lat": 35.7499264,
+   "lng": 139.4332399,
+   "address": "東京都東大和市高木３丁目３０７",
+   "access": "武蔵大和駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00696/"
+  },
+  {
    "name": "『ふるさとの碑』",
    "lat": 35.156619998297586,
    "lng": 139.13209626959173,
@@ -1032,6 +1056,18 @@
    "url": "https://www.memorial-object.jp/00468/"
   },
   {
+   "name": "『ダイダラボッチ像』",
+   "lat": 35.766102,
+   "lng": 139.4166937,
+   "address": "東京都東大和市多摩湖３丁目",
+   "access": "西武球場前駅から南西へ約530m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00697/"
+  },
+  {
    "name": "『チーバくん』",
    "lat": 35.71698481977041,
    "lng": 140.14426853530304,
@@ -1055,6 +1091,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/03/00069_terracotta4.png",
    "url": "https://www.memorial-object.jp/00069_terracotta/"
+  },
+  {
+   "name": "『トマスブレークモア碑』",
+   "lat": 35.7425913,
+   "lng": 139.1895456,
+   "address": "東京都あきる野市養沢９４",
+   "access": "武蔵五日市駅から約3.7km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00713/"
   },
   {
    "name": "『ドッキーくん』",
@@ -1586,6 +1634,18 @@
    "url": "https://www.memorial-object.jp/04541/"
   },
   {
+   "name": "『不思議童子』",
+   "lat": 35.6318985,
+   "lng": 139.2569835,
+   "address": "東京都八王子市高尾町",
+   "access": "高尾山駅から北東へ約120m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00728/"
+  },
+  {
    "name": "『世界連邦平和像』",
    "lat": 35.7034174,
    "lng": 139.560568,
@@ -1680,6 +1740,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04503/"
+  },
+  {
+   "name": "『二十三夜』",
+   "lat": 35.74526,
+   "lng": 139.1893561,
+   "address": "東京都あきる野市養沢１８２",
+   "access": "武蔵五日市駅から約3.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00714/"
   },
   {
    "name": "『二十三夜塔・萬霊塔・御地蔵様』",
@@ -1886,6 +1958,18 @@
    "url": "https://www.memorial-object.jp/04384/"
   },
   {
+   "name": "『供養塔群』",
+   "lat": 35.7526308,
+   "lng": 139.181229,
+   "address": "東京都あきる野市養沢１１２４",
+   "access": "武蔵五日市駅から約4.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00715/"
+  },
+  {
    "name": "『侠客関東綱五郎住宅跡』",
    "lat": 35.6386361,
    "lng": 139.2712489,
@@ -2018,6 +2102,54 @@
    "url": "https://www.memorial-object.jp/00562/"
   },
   {
+   "name": "『八王子市戦没者慰霊塔 Hachioji City Memorial Tower for the War Dead』",
+   "lat": 35.6502843,
+   "lng": 139.3217108,
+   "address": "東京都八王子市台町２丁目",
+   "access": "山田駅から北へ約650m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00729/"
+  },
+  {
+   "name": "『八重ヶ丘の碑』",
+   "lat": 35.6187846,
+   "lng": 139.3805986,
+   "address": "東京都八王子市南大沢１丁目",
+   "access": "南大沢駅から北へ約520m",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00730/"
+  },
+  {
+   "name": "『八雲ヶ丘』",
+   "lat": 35.6188131,
+   "lng": 139.3804074,
+   "address": "東京都八王子市南大沢１丁目",
+   "access": "南大沢駅から北へ約520m",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00731/"
+  },
+  {
+   "name": "『八雲ヶ丘の碑』",
+   "lat": 35.6187742,
+   "lng": 139.3805928,
+   "address": "東京都八王子市南大沢１丁目",
+   "access": "南大沢駅から北へ約520m",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00732/"
+  },
+  {
    "name": "『公衆道徳心ナクシテハ 真の文明ハ築カレナイ』",
    "lat": 34.2879725,
    "lng": 133.80199,
@@ -2028,6 +2160,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04583/"
+  },
+  {
+   "name": "『六地蔵』",
+   "lat": 35.7658978,
+   "lng": 139.3808701,
+   "address": "東京都武蔵村山市本町５丁目４１",
+   "access": "箱根ヶ崎駅から約3.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00702/"
   },
   {
    "name": "『六地蔵』",
@@ -2088,6 +2232,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00420/"
+  },
+  {
+   "name": "『利車毘童子』",
+   "lat": 35.6300335,
+   "lng": 139.2534303,
+   "address": "東京都八王子市高尾町",
+   "access": "高尾山駅から南西へ約270m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00733/"
   },
   {
    "name": "『創造の塔』",
@@ -2330,6 +2486,18 @@
    "url": "https://www.memorial-object.jp/04489/"
   },
   {
+   "name": "『台田の杜』",
+   "lat": 35.7912907,
+   "lng": 139.5306384,
+   "address": "東京都清瀬市中里６丁目４５",
+   "access": "東所沢駅から約1.5km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00699/"
+  },
+  {
    "name": "『史跡 丸亀城跡』",
    "lat": 34.2878757,
    "lng": 133.7992575,
@@ -2352,6 +2520,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00565/"
+  },
+  {
+   "name": "『史蹟　武藏国分寺址』",
+   "lat": 35.6917622,
+   "lng": 139.4717413,
+   "address": "東京都国分寺市西元町３丁目２４",
+   "access": "西国分寺駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00689/"
   },
   {
    "name": "『史蹟一里塚跡』",
@@ -2606,6 +2786,30 @@
    "url": "https://www.memorial-object.jp/04490/"
   },
   {
+   "name": "『土地整理事業記念碑』",
+   "lat": 35.6235808,
+   "lng": 139.5820876,
+   "address": "東京都狛江市駒井町３丁目３",
+   "access": "和泉多摩川駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00692/"
+  },
+  {
+   "name": "『土木学会賞』",
+   "lat": 35.7657946,
+   "lng": 139.3290035,
+   "address": "東京都羽村市富士見平３丁目３",
+   "access": "羽村駅から約1.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00711/"
+  },
+  {
    "name": "『土肥實平公並夫人像』",
    "lat": 35.14582843876815,
    "lng": 139.1025679389798,
@@ -2772,6 +2976,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00141_1.png",
    "url": "https://www.memorial-object.jp/00141/"
+  },
+  {
+   "name": "『大多羅法師の井戸』",
+   "lat": 35.7606647,
+   "lng": 139.390583,
+   "address": "東京都武蔵村山市中央５丁目７",
+   "access": "西武球場前駅から約2.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00703/"
   },
   {
    "name": "『大師像』",
@@ -3158,6 +3374,18 @@
    "url": "https://www.memorial-object.jp/04397/"
   },
   {
+   "name": "『安産薬師の由来』",
+   "lat": 35.6852416,
+   "lng": 139.3835091,
+   "address": "東京都日野市栄町５丁目６",
+   "access": "日野駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00685/"
+  },
+  {
    "name": "『完成記念　土地区画整理事業』",
    "lat": 35.645064999556375,
    "lng": 139.35407907076657,
@@ -3192,6 +3420,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00237_1.jpg",
    "url": "https://www.memorial-object.jp/00237/"
+  },
+  {
+   "name": "『寒念佛 馬頭観音 百番供養塔』",
+   "lat": 35.7274218,
+   "lng": 139.2123753,
+   "address": "東京都あきる野市小中野２９３",
+   "access": "武蔵五日市駅から約1.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00716/"
   },
   {
    "name": "『寿老人』",
@@ -3806,6 +4046,18 @@
    "url": "https://www.memorial-object.jp/00554/"
   },
   {
+   "name": "『干支街道 へび』",
+   "lat": 35.7360258,
+   "lng": 139.2760329,
+   "address": "東京都西多摩郡日の出町大字平井２１４",
+   "access": "武蔵引田駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00724/"
+  },
+  {
    "name": "『平井君の碑』",
    "lat": 34.2329409,
    "lng": 133.8226071,
@@ -3816,6 +4068,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04463/"
+  },
+  {
+   "name": "『平和の塔』",
+   "lat": 35.7739412,
+   "lng": 139.5107716,
+   "address": "東京都清瀬市梅園１丁目１",
+   "access": "清瀬駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00700/"
   },
   {
    "name": "『平和の塔』",
@@ -3864,6 +4128,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00501/"
+  },
+  {
+   "name": "『平尾原経塚』",
+   "lat": 35.6108468,
+   "lng": 139.4944998,
+   "address": "東京都稲城市平尾１丁目５０",
+   "access": "五月台駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00709/"
   },
   {
    "name": "『平成御大禮記念　御社殿改修の碑』",
@@ -3987,6 +4263,18 @@
   },
   {
    "name": "『庚申塔』",
+   "lat": 35.7612487,
+   "lng": 139.3602695,
+   "address": "東京都西多摩郡瑞穂町大字殿ケ谷７６８",
+   "access": "箱根ヶ崎駅から約1.7km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00723/"
+  },
+  {
+   "name": "『庚申塔』",
    "lat": 35.6055849,
    "lng": 139.306135,
    "address": "東京都町田市相原町３１１８",
@@ -4056,6 +4344,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00502/"
+  },
+  {
+   "name": "『庚申塔・御地蔵様』",
+   "lat": 35.7259151,
+   "lng": 139.2381795,
+   "address": "東京都あきる野市高尾２２０",
+   "access": "武蔵五日市駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00717/"
   },
   {
    "name": "『庚申塔・御地蔵様群』",
@@ -4790,6 +5090,102 @@
    "url": "https://www.memorial-object.jp/04669/"
   },
   {
+   "name": "『志々島四国第55番』",
+   "lat": 34.2732821,
+   "lng": 133.6775462,
+   "address": "香川県三豊市詫間町志々島",
+   "access": "海岸寺駅から約5.2km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04670/"
+  },
+  {
+   "name": "『志々島四国第56番』",
+   "lat": 34.2735288,
+   "lng": 133.6780816,
+   "address": "香川県三豊市詫間町志々島",
+   "access": "海岸寺駅から約5.2km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04671/"
+  },
+  {
+   "name": "『志々島四国第57番』",
+   "lat": 34.273564,
+   "lng": 133.6784132,
+   "address": "香川県三豊市詫間町志々島",
+   "access": "海岸寺駅から約5.2km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04672/"
+  },
+  {
+   "name": "『志々島四国第65番』",
+   "lat": 34.2731412,
+   "lng": 133.680801,
+   "address": "香川県三豊市詫間町志々島",
+   "access": "海岸寺駅から約4.9km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04673/"
+  },
+  {
+   "name": "『志々島四国第68番』",
+   "lat": 34.2730042,
+   "lng": 133.6813316,
+   "address": "香川県三豊市詫間町志々島",
+   "access": "海岸寺駅から約4.9km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04674/"
+  },
+  {
+   "name": "『志々島四国第6番』",
+   "lat": 34.2702605,
+   "lng": 133.6819859,
+   "address": "香川県三豊市詫間町志々島",
+   "access": "海岸寺駅から約4.7km",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04675/"
+  },
+  {
+   "name": "『志々島四国第7,8番』",
+   "lat": 34.2701441,
+   "lng": 133.6816522,
+   "address": "香川県三豊市詫間町志々島",
+   "access": "海岸寺駅から約4.7km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04676/"
+  },
+  {
+   "name": "『志々島四国第79番』",
+   "lat": 34.2728437,
+   "lng": 133.6822696,
+   "address": "香川県三豊市詫間町志々島",
+   "access": "海岸寺駅から約4.8km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04677/"
+  },
+  {
    "name": "『志村けんの銅像』",
    "lat": 35.7611718,
    "lng": 139.4661318,
@@ -4827,6 +5223,18 @@
   },
   {
    "name": "『忠魂碑』",
+   "lat": 34.1479299,
+   "lng": 133.7547362,
+   "address": "香川県三豊市高瀬町羽方",
+   "access": "高瀬駅から約5.7km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04678/"
+  },
+  {
+   "name": "『忠魂碑』",
    "lat": 35.655896,
    "lng": 139.5454806,
    "address": "東京都調布市調布ケ丘１丁目２１",
@@ -4836,6 +5244,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00455/"
+  },
+  {
+   "name": "『念佛塔』",
+   "lat": 35.7308936,
+   "lng": 139.2181627,
+   "address": "東京都あきる野市五日市７４０",
+   "access": "武蔵五日市駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00718/"
   },
   {
    "name": "『恵比寿』",
@@ -4884,6 +5304,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04405/"
+  },
+  {
+   "name": "『慰霊塔』",
+   "lat": 35.6273471,
+   "lng": 139.5874275,
+   "address": "東京都狛江市駒井町１丁目６",
+   "access": "喜多見駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00693/"
   },
   {
    "name": "『戦後記念碑』",
@@ -4982,6 +5414,18 @@
    "url": "https://www.memorial-object.jp/00205/"
   },
   {
+   "name": "『新・四国石仏』",
+   "lat": 35.7714186,
+   "lng": 139.473935,
+   "address": "東京都東村山市久米川町５丁目２５",
+   "access": "東村山駅から約1.4km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00688/"
+  },
+  {
    "name": "『新堀川橋』",
    "lat": 35.6681813,
    "lng": 139.4703788,
@@ -5078,6 +5522,18 @@
    "url": "https://www.memorial-object.jp/00033_shiraokaeki/"
   },
   {
+   "name": "『日中韓三国平和友好観世音菩薩像』",
+   "lat": 35.7614692,
+   "lng": 139.3002972,
+   "address": "東京都羽村市羽加美４丁目１４",
+   "access": "羽村駅から約1.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00712/"
+  },
+  {
    "name": "『日本三体之一　村松山虚空蔵尊』",
    "lat": 36.4650241,
    "lng": 140.5663525,
@@ -5088,6 +5544,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00098_1.png",
    "url": "https://www.memorial-object.jp/00098/"
+  },
+  {
+   "name": "『日露戦役記念碑』",
+   "lat": 35.6985727,
+   "lng": 139.493954,
+   "address": "東京都小金井市貫井南町３丁目８",
+   "access": "武蔵小金井駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00680/"
   },
   {
    "name": "『日露戦役記念碑』",
@@ -5260,6 +5728,18 @@
    "url": "https://www.memorial-object.jp/00628/"
   },
   {
+   "name": "『月山大神』",
+   "lat": 35.6982869,
+   "lng": 139.4939346,
+   "address": "東京都小金井市貫井南町３丁目８",
+   "access": "武蔵小金井駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00681/"
+  },
+  {
    "name": "『望郷の碑』",
    "lat": 35.671792499999995,
    "lng": 138.74291,
@@ -5296,6 +5776,18 @@
    "url": "https://www.memorial-object.jp/00412/"
   },
   {
+   "name": "『東久留米市立第八小学校記念碑』",
+   "lat": 35.7502627,
+   "lng": 139.5231064,
+   "address": "東京都東久留米市中央町３丁目２１",
+   "access": "東久留米駅から約1.5km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00701/"
+  },
+  {
    "name": "『東京オリンピック競歩折返点』",
    "lat": 35.672622,
    "lng": 139.484491,
@@ -5318,6 +5810,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00125_1.png",
    "url": "https://www.memorial-object.jp/00125/"
+  },
+  {
+   "name": "『東光寺薬師堂復元記念碑』",
+   "lat": 35.6852895,
+   "lng": 139.3835144,
+   "address": "東京都日野市栄町５丁目６",
+   "access": "日野駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00686/"
   },
   {
    "name": "『東向地蔵』",
@@ -5524,6 +6028,30 @@
    "url": "https://www.memorial-object.jp/04408/"
   },
   {
+   "name": "『殉難の碑』",
+   "lat": 34.2628404,
+   "lng": 133.5705292,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約12.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04679/"
+  },
+  {
+   "name": "『残堀砕石場跡地』",
+   "lat": 35.7557282,
+   "lng": 139.3693057,
+   "address": "東京都武蔵村山市三ツ藤３丁目２２",
+   "access": "箱根ヶ崎駅から約2.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00704/"
+  },
+  {
    "name": "『母子像』",
    "lat": 35.573005,
    "lng": 139.4550479,
@@ -5643,6 +6171,30 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/03/00073_sakeshima4-7.png",
    "url": "https://www.memorial-object.jp/00073_sakeshima4/"
+  },
+  {
+   "name": "『注連柱』",
+   "lat": 34.1480134,
+   "lng": 133.7546125,
+   "address": "香川県三豊市高瀬町羽方",
+   "access": "高瀬駅から約5.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04681/"
+  },
+  {
+   "name": "『注連柱』",
+   "lat": 34.1478458,
+   "lng": 133.7555011,
+   "address": "香川県三豊市高瀬町羽方",
+   "access": "高瀬駅から約5.7km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04680/"
   },
   {
    "name": "『注連柱』",
@@ -5885,6 +6437,18 @@
    "url": "https://www.memorial-object.jp/00403/"
   },
   {
+   "name": "『狛江市戦没者慰霊塔』",
+   "lat": 35.6331845,
+   "lng": 139.5671664,
+   "address": "東京都狛江市元和泉２丁目３５",
+   "access": "和泉多摩川駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00694/"
+  },
+  {
    "name": "『狛江教育発祥之地』",
    "lat": 35.6331313,
    "lng": 139.5771921,
@@ -6027,6 +6591,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00478/"
+  },
+  {
+   "name": "『産土神』",
+   "lat": 34.1476764,
+   "lng": 133.7557339,
+   "address": "香川県三豊市高瀬町羽方",
+   "access": "高瀬駅から約5.7km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04682/"
   },
   {
    "name": "『甲州街道』",
@@ -6173,6 +6749,18 @@
    "url": "https://www.memorial-object.jp/00431/"
   },
   {
+   "name": "『番太池』",
+   "lat": 35.7604704,
+   "lng": 139.3938191,
+   "address": "東京都武蔵村山市中藤２丁目２７",
+   "access": "西武球場前駅から約2.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00705/"
+  },
+  {
    "name": "『登山五十回記念』",
    "lat": 35.6260869,
    "lng": 139.2507581,
@@ -6195,6 +6783,54 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00387/"
+  },
+  {
+   "name": "『登録有形文化財』",
+   "lat": 35.6953053,
+   "lng": 139.5128448,
+   "address": "東京都小金井市中町１丁目１１",
+   "access": "武蔵小金井駅から約0.8km",
+   "categories": [
+    "公共施設"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00682/"
+  },
+  {
+   "name": "『白丸ダム魚道施工記念』",
+   "lat": 35.8114464,
+   "lng": 139.1231454,
+   "address": "東京都西多摩郡奥多摩町白丸",
+   "access": "鳩ノ巣駅から南西へ約640m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00726/"
+  },
+  {
+   "name": "『百地ヶ丘』",
+   "lat": 35.635878,
+   "lng": 139.4590408,
+   "address": "東京都多摩市連光寺５丁目１６",
+   "access": "京王永山駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00707/"
+  },
+  {
+   "name": "『百度石』",
+   "lat": 34.1480737,
+   "lng": 133.7546224,
+   "address": "香川県三豊市高瀬町羽方",
+   "access": "高瀬駅から約5.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04683/"
   },
   {
    "name": "『百度石』",
@@ -6269,6 +6905,18 @@
    "url": "https://www.memorial-object.jp/04453/"
   },
   {
+   "name": "『矢川清流と青柳の府中』",
+   "lat": 35.6813918,
+   "lng": 139.4226944,
+   "address": "東京都国立市青柳２丁目６３８７",
+   "access": "矢川駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00691/"
+  },
+  {
    "name": "『石の詩 POEM OF THE STONE』",
    "lat": 35.6414513,
    "lng": 139.28402169999998,
@@ -6291,6 +6939,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04563/"
+  },
+  {
+   "name": "『石仏・観音像』",
+   "lat": 35.685246,
+   "lng": 139.3836191,
+   "address": "東京都日野市栄町５丁目６",
+   "access": "日野駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00687/"
   },
   {
    "name": "『石仏群』",
@@ -6379,6 +7039,18 @@
   },
   {
    "name": "『石橋供養塔』",
+   "lat": 35.6485047,
+   "lng": 139.5745919,
+   "address": "東京都狛江市西野川２丁目３４",
+   "access": "柴崎駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00695/"
+  },
+  {
+   "name": "『石橋供養塔』",
    "lat": 35.7512456,
    "lng": 139.4100509,
    "address": "東京都東大和市芋窪６丁目１３１８",
@@ -6400,6 +7072,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00406/"
+  },
+  {
+   "name": "『石阪供養塔』",
+   "lat": 35.6983317,
+   "lng": 139.4936667,
+   "address": "東京都小金井市貫井南町３丁目８",
+   "access": "国分寺駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00683/"
   },
   {
    "name": "『礎』",
@@ -6750,6 +7434,546 @@
    "url": "https://www.memorial-object.jp/00144/"
   },
   {
+   "name": "『第10番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1860609,
+   "lng": 133.6992666,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04684/"
+  },
+  {
+   "name": "『第11番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1861096,
+   "lng": 133.6992548,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04685/"
+  },
+  {
+   "name": "『第12番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1861541,
+   "lng": 133.6992481,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04686/"
+  },
+  {
+   "name": "『第13番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1862721,
+   "lng": 133.6992305,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04687/"
+  },
+  {
+   "name": "『第14番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1863884,
+   "lng": 133.699161,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04688/"
+  },
+  {
+   "name": "『第15番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1864444,
+   "lng": 133.6991071,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04689/"
+  },
+  {
+   "name": "『第16番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1864819,
+   "lng": 133.6990667,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04690/"
+  },
+  {
+   "name": "『第17番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1867729,
+   "lng": 133.6991597,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04691/"
+  },
+  {
+   "name": "『第18番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1868352,
+   "lng": 133.6991979,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04692/"
+  },
+  {
+   "name": "『第19番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1869135,
+   "lng": 133.6992537,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04693/"
+  },
+  {
+   "name": "『第20番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1870537,
+   "lng": 133.6993115,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04694/"
+  },
+  {
+   "name": "『第21番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1874909,
+   "lng": 133.6992632,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.2km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04695/"
+  },
+  {
+   "name": "『第22番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1875991,
+   "lng": 133.6993473,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.2km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04696/"
+  },
+  {
+   "name": "『第23番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1876213,
+   "lng": 133.6993665,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.2km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04697/"
+  },
+  {
+   "name": "『第24番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1876957,
+   "lng": 133.6994653,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04698/"
+  },
+  {
+   "name": "『第25番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1879019,
+   "lng": 133.6999336,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04699/"
+  },
+  {
+   "name": "『第26番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1879077,
+   "lng": 133.699965,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04700/"
+  },
+  {
+   "name": "『第27番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.187912,
+   "lng": 133.6999954,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04701/"
+  },
+  {
+   "name": "『第28番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1879947,
+   "lng": 133.7002414,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04702/"
+  },
+  {
+   "name": "『第29番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1880152,
+   "lng": 133.7002934,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04703/"
+  },
+  {
+   "name": "『第2番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1853464,
+   "lng": 133.7001384,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04704/"
+  },
+  {
+   "name": "『第30番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.188035,
+   "lng": 133.7003363,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04705/"
+  },
+  {
+   "name": "『第31番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.188064,
+   "lng": 133.7003922,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04706/"
+  },
+  {
+   "name": "『第32番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1880911,
+   "lng": 133.7004505,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04707/"
+  },
+  {
+   "name": "『第33番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1881251,
+   "lng": 133.7005018,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04708/"
+  },
+  {
+   "name": "『第34番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1881541,
+   "lng": 133.7005365,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04709/"
+  },
+  {
+   "name": "『第35番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.188254,
+   "lng": 133.7008365,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04710/"
+  },
+  {
+   "name": "『第36番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1882731,
+   "lng": 133.700855,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04711/"
+  },
+  {
+   "name": "『第37番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1884272,
+   "lng": 133.7010296,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04712/"
+  },
+  {
+   "name": "『第38番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1885,
+   "lng": 133.7011947,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04713/"
+  },
+  {
+   "name": "『第39番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1885307,
+   "lng": 133.7012984,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04714/"
+  },
+  {
+   "name": "『第3番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1854306,
+   "lng": 133.699946,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04715/"
+  },
+  {
+   "name": "『第40番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1885728,
+   "lng": 133.7014695,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04716/"
+  },
+  {
+   "name": "『第41番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.188625,
+   "lng": 133.7016157,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04717/"
+  },
+  {
+   "name": "『第42番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1886654,
+   "lng": 133.7017293,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04718/"
+  },
+  {
+   "name": "『第43番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1890706,
+   "lng": 133.7020744,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04719/"
+  },
+  {
+   "name": "『第44番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1890848,
+   "lng": 133.7020792,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04720/"
+  },
+  {
+   "name": "『第45番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1891088,
+   "lng": 133.7020886,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04721/"
+  },
+  {
+   "name": "『第46番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1890622,
+   "lng": 133.7037699,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04722/"
+  },
+  {
+   "name": "『第47番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1890182,
+   "lng": 133.7041982,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04723/"
+  },
+  {
+   "name": "『第48番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1888332,
+   "lng": 133.704387,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04724/"
+  },
+  {
+   "name": "『第49番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1887931,
+   "lng": 133.7043994,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04725/"
+  },
+  {
+   "name": "『第4番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1854578,
+   "lng": 133.6998507,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04726/"
+  },
+  {
+   "name": "『第50番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1887409,
+   "lng": 133.7044115,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04727/"
+  },
+  {
+   "name": "『第51番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1886245,
+   "lng": 133.7044549,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04728/"
+  },
+  {
    "name": "『第52番札所(爺神山ミニ四国八十八ヶ所)』",
    "lat": 34.188574,
    "lng": 133.7044979,
@@ -6844,6 +8068,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04514/"
+  },
+  {
+   "name": "『第5番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1855332,
+   "lng": 133.6997638,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04729/"
   },
   {
    "name": "『第60番札所(爺神山ミニ四国八十八ヶ所)』",
@@ -6966,6 +8202,18 @@
    "url": "https://www.memorial-object.jp/04524/"
   },
   {
+   "name": "『第6番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1857171,
+   "lng": 133.6996362,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04730/"
+  },
+  {
    "name": "『第70番札所(爺神山ミニ四国八十八ヶ所)』",
    "lat": 34.1852419,
    "lng": 133.7043352,
@@ -7074,6 +8322,162 @@
    "url": "https://www.memorial-object.jp/04533/"
   },
   {
+   "name": "『第79番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1848617,
+   "lng": 133.7017514,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04731/"
+  },
+  {
+   "name": "『第7番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1858834,
+   "lng": 133.6994963,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04732/"
+  },
+  {
+   "name": "『第80番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1848543,
+   "lng": 133.701508,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04733/"
+  },
+  {
+   "name": "『第81番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1848417,
+   "lng": 133.7014053,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04734/"
+  },
+  {
+   "name": "『第82番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1848037,
+   "lng": 133.7012265,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04735/"
+  },
+  {
+   "name": "『第83番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1848019,
+   "lng": 133.70119,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04736/"
+  },
+  {
+   "name": "『第84番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1847994,
+   "lng": 133.7011508,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04737/"
+  },
+  {
+   "name": "『第85番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.184797,
+   "lng": 133.7010775,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04738/"
+  },
+  {
+   "name": "『第86番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1848576,
+   "lng": 133.7007535,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04739/"
+  },
+  {
+   "name": "『第87番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1848933,
+   "lng": 133.7007003,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04740/"
+  },
+  {
+   "name": "『第88番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1851309,
+   "lng": 133.7003772,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04741/"
+  },
+  {
+   "name": "『第8番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1859213,
+   "lng": 133.6994263,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04742/"
+  },
+  {
+   "name": "『第9番札所(爺神山ミニ四国八十八ヶ所)』",
+   "lat": 34.1859795,
+   "lng": 133.6993478,
+   "address": "香川県三豊市高瀬町比地中",
+   "access": "高瀬駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04743/"
+  },
+  {
    "name": "『第七十二代横綱　稀勢の里』",
    "lat": 35.975522398240614,
    "lng": 140.1417631944595,
@@ -7097,6 +8501,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04415/"
+  },
+  {
+   "name": "『粟島　島四国88か所第38番』",
+   "lat": 34.2801488,
+   "lng": 133.6476453,
+   "address": "香川県三豊市詫間町粟島",
+   "access": "詫間駅から約7.8km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04744/"
+  },
+  {
+   "name": "『粟穂・稗穂』",
+   "lat": 35.7388396,
+   "lng": 139.4447023,
+   "address": "東京都東大和市向原４丁目７",
+   "access": "東大和市駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00698/"
   },
   {
    "name": "『糸より濱の大漁恵比寿像』",
@@ -7508,6 +8936,18 @@
   },
   {
    "name": "『記念碑』",
+   "lat": 35.7746903,
+   "lng": 139.2010909,
+   "address": "東京都西多摩郡日の出町大字大久野４２４１",
+   "access": "日向和田駅から約3.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00725/"
+  },
+  {
+   "name": "『記念碑』",
    "lat": 34.3118985,
    "lng": 134.0989208,
    "address": "香川県高松市東山崎町１０９８",
@@ -7531,6 +8971,54 @@
    "url": "https://www.memorial-object.jp/00598/"
   },
   {
+   "name": "『詫間88か所第10番』",
+   "lat": 34.2205509,
+   "lng": 133.6563,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04745/"
+  },
+  {
+   "name": "『詫間88か所第11番』",
+   "lat": 34.2196286,
+   "lng": 133.6564608,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04746/"
+  },
+  {
+   "name": "『詫間88か所第12番』",
+   "lat": 34.2211267,
+   "lng": 133.6540677,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04747/"
+  },
+  {
+   "name": "『詫間88か所第13,14番』",
+   "lat": 34.2224379,
+   "lng": 133.6565341,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04748/"
+  },
+  {
    "name": "『詫間88か所第15番』",
    "lat": 34.2229062,
    "lng": 133.656377,
@@ -7541,6 +9029,54 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04468/"
+  },
+  {
+   "name": "『詫間88か所第16番』",
+   "lat": 34.2222252,
+   "lng": 133.6548107,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04749/"
+  },
+  {
+   "name": "『詫間88か所第17番』",
+   "lat": 34.2221629,
+   "lng": 133.6544942,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04750/"
+  },
+  {
+   "name": "『詫間88か所第18番』",
+   "lat": 34.2217146,
+   "lng": 133.6536705,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04751/"
+  },
+  {
+   "name": "『詫間88か所第19番』",
+   "lat": 34.2215209,
+   "lng": 133.6531226,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04752/"
   },
   {
    "name": "『詫間88か所第1番』",
@@ -7565,6 +9101,42 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04470/"
+  },
+  {
+   "name": "『詫間88か所第20番』",
+   "lat": 34.2216099,
+   "lng": 133.6528173,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.7km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04753/"
+  },
+  {
+   "name": "『詫間88か所第21番』",
+   "lat": 34.2222144,
+   "lng": 133.6532715,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04754/"
+  },
+  {
+   "name": "『詫間88か所第22番』",
+   "lat": 34.2233378,
+   "lng": 133.6554144,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04755/"
   },
   {
    "name": "『詫間88か所第23番』",
@@ -7603,6 +9175,66 @@
    "url": "https://www.memorial-object.jp/04473/"
   },
   {
+   "name": "『詫間88か所第26番』",
+   "lat": 34.2256306,
+   "lng": 133.6543354,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04756/"
+  },
+  {
+   "name": "『詫間88か所第27番』",
+   "lat": 34.2257237,
+   "lng": 133.65423,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04757/"
+  },
+  {
+   "name": "『詫間88か所第27番』",
+   "lat": 34.2257237,
+   "lng": 133.65423,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04757/"
+  },
+  {
+   "name": "『詫間88か所第28番』",
+   "lat": 34.2265956,
+   "lng": 133.6550306,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04758/"
+  },
+  {
+   "name": "『詫間88か所第28番』",
+   "lat": 34.2265956,
+   "lng": 133.6550306,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04758/"
+  },
+  {
    "name": "『詫間88か所第29番』",
    "lat": 34.2272425,
    "lng": 133.6539738,
@@ -7627,6 +9259,90 @@
    "url": "https://www.memorial-object.jp/04475/"
   },
   {
+   "name": "『詫間88か所第31番』",
+   "lat": 34.2282105,
+   "lng": 133.6540412,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.7km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04759/"
+  },
+  {
+   "name": "『詫間88か所第32,40番』",
+   "lat": 34.2292728,
+   "lng": 133.6540752,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04760/"
+  },
+  {
+   "name": "『詫間88か所第33,34番』",
+   "lat": 34.2292489,
+   "lng": 133.6530498,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04761/"
+  },
+  {
+   "name": "『詫間88か所第35番』",
+   "lat": 34.2290503,
+   "lng": 133.6521738,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04762/"
+  },
+  {
+   "name": "『詫間88か所第36番』",
+   "lat": 34.229436,
+   "lng": 133.6508804,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04763/"
+  },
+  {
+   "name": "『詫間88か所第37番』",
+   "lat": 34.2296245,
+   "lng": 133.6509049,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04764/"
+  },
+  {
+   "name": "『詫間88か所第38番』",
+   "lat": 34.2304674,
+   "lng": 133.6503263,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04765/"
+  },
+  {
    "name": "『詫間88か所第4番』",
    "lat": 34.2256029,
    "lng": 133.6589671,
@@ -7637,6 +9353,42 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04476/"
+  },
+  {
+   "name": "『詫間88か所第51,52,53番』",
+   "lat": 34.2300562,
+   "lng": 133.6487852,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04766/"
+  },
+  {
+   "name": "『詫間88か所第54番』",
+   "lat": 34.2304034,
+   "lng": 133.6487138,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04767/"
+  },
+  {
+   "name": "『詫間88か所第55,56,57番』",
+   "lat": 34.2306199,
+   "lng": 133.6484933,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04768/"
   },
   {
    "name": "『詫間88か所第5番』",
@@ -7661,6 +9413,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04478/"
+  },
+  {
+   "name": "『詫間88か所第72番』",
+   "lat": 34.2327333,
+   "lng": 133.6472861,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.4km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04769/"
+  },
+  {
+   "name": "『詫間88か所第73番』",
+   "lat": 34.2327354,
+   "lng": 133.6473782,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.4km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04770/"
   },
   {
    "name": "『詫間88か所第74番』",
@@ -7699,6 +9475,18 @@
    "url": "https://www.memorial-object.jp/04481/"
   },
   {
+   "name": "『詫間88か所第79番』",
+   "lat": 34.2379116,
+   "lng": 133.6604218,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.5km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04771/"
+  },
+  {
    "name": "『詫間88か所第7番』",
    "lat": 34.2230348,
    "lng": 133.6587167,
@@ -7709,6 +9497,54 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04482/"
+  },
+  {
+   "name": "『詫間88か所第80番』",
+   "lat": 34.2393717,
+   "lng": 133.6636765,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.4km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04772/"
+  },
+  {
+   "name": "『詫間88か所第81番』",
+   "lat": 34.2394806,
+   "lng": 133.6643966,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.3km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04773/"
+  },
+  {
+   "name": "『詫間88か所第82番』",
+   "lat": 34.2397123,
+   "lng": 133.6652481,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.3km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04774/"
+  },
+  {
+   "name": "『詫間88か所第83番』",
+   "lat": 34.2404418,
+   "lng": 133.6672909,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.2km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04775/"
   },
   {
    "name": "『詫間88か所第84,86番』",
@@ -7759,6 +9595,978 @@
    "url": "https://www.memorial-object.jp/04486/"
   },
   {
+   "name": "『詫間88か所第8番』",
+   "lat": 34.2224379,
+   "lng": 133.658066,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04776/"
+  },
+  {
+   "name": "『詫間88か所第9番』",
+   "lat": 34.2214273,
+   "lng": 133.6572728,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約3.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04777/"
+  },
+  {
+   "name": "『詫間新88か所第39番』",
+   "lat": 34.2297679,
+   "lng": 133.6494972,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04778/"
+  },
+  {
+   "name": "『詫間新四国88か所第47番』",
+   "lat": 34.2289741,
+   "lng": 133.6486723,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04779/"
+  },
+  {
+   "name": "『詫間新四国88か所第49番』",
+   "lat": 34.2291389,
+   "lng": 133.6486645,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04780/"
+  },
+  {
+   "name": "『詫間新四国88か所第50番』",
+   "lat": 34.229627,
+   "lng": 133.6486801,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04781/"
+  },
+  {
+   "name": "『詫間新四国８８か所第58番』",
+   "lat": 34.231355,
+   "lng": 133.6478448,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04782/"
+  },
+  {
+   "name": "『詫間新四国８８か所第63番』",
+   "lat": 34.2314386,
+   "lng": 133.6466818,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.4km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04783/"
+  },
+  {
+   "name": "『詫間浦四国第12番』",
+   "lat": 34.2472227,
+   "lng": 133.6010798,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約8.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04784/"
+  },
+  {
+   "name": "『詫間浦四国第13番』",
+   "lat": 34.2474907,
+   "lng": 133.6031446,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約8.7km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04785/"
+  },
+  {
+   "name": "『詫間浦四国第14番』",
+   "lat": 34.2483977,
+   "lng": 133.6056549,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約8.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04786/"
+  },
+  {
+   "name": "『詫間浦四国第15番』",
+   "lat": 34.2488132,
+   "lng": 133.607744,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約8.4km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04787/"
+  },
+  {
+   "name": "『詫間浦四国第16番』",
+   "lat": 34.2483869,
+   "lng": 133.6088701,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約8.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04788/"
+  },
+  {
+   "name": "『詫間浦四国第17番』",
+   "lat": 34.2483915,
+   "lng": 133.609411,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約8.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04789/"
+  },
+  {
+   "name": "『詫間浦四国第18番』",
+   "lat": 34.2476125,
+   "lng": 133.6105597,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約8.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04790/"
+  },
+  {
+   "name": "『詫間浦四国第19番』",
+   "lat": 34.2461752,
+   "lng": 133.6111973,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約8.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04791/"
+  },
+  {
+   "name": "『詫間浦四国第1番』",
+   "lat": 34.2528384,
+   "lng": 133.5986306,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約9.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04792/"
+  },
+  {
+   "name": "『詫間浦四国第20番』",
+   "lat": 34.2459454,
+   "lng": 133.6115559,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約8.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04793/"
+  },
+  {
+   "name": "『詫間浦四国第21番』",
+   "lat": 34.2456066,
+   "lng": 133.6134171,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約7.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04794/"
+  },
+  {
+   "name": "『詫間浦四国第22番』",
+   "lat": 34.2451321,
+   "lng": 133.615707,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約7.6km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04795/"
+  },
+  {
+   "name": "『詫間浦四国第23番』",
+   "lat": 34.2444058,
+   "lng": 133.6163876,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約7.5km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04796/"
+  },
+  {
+   "name": "『詫間浦四国第24番』",
+   "lat": 34.2395824,
+   "lng": 133.615705,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約7.4km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04797/"
+  },
+  {
+   "name": "『詫間浦四国第25番』",
+   "lat": 34.2353197,
+   "lng": 133.6152465,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約7.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04798/"
+  },
+  {
+   "name": "『詫間浦四国第26番』",
+   "lat": 34.2336033,
+   "lng": 133.6101664,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約7.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04799/"
+  },
+  {
+   "name": "『詫間浦四国第27番』",
+   "lat": 34.2367978,
+   "lng": 133.6076094,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約8.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04800/"
+  },
+  {
+   "name": "『詫間浦四国第28番』",
+   "lat": 34.2343664,
+   "lng": 133.6075384,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約8.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04801/"
+  },
+  {
+   "name": "『詫間浦四国第29番』",
+   "lat": 34.2316456,
+   "lng": 133.6087058,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約7.8km",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04802/"
+  },
+  {
+   "name": "『詫間浦四国第2番』",
+   "lat": 34.2522566,
+   "lng": 133.5994651,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約9.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04803/"
+  },
+  {
+   "name": "『詫間浦四国第30番』",
+   "lat": 34.2337342,
+   "lng": 133.6066392,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約8.0km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04804/"
+  },
+  {
+   "name": "『詫間浦四国第31番』",
+   "lat": 34.2342055,
+   "lng": 133.6051935,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約8.2km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04805/"
+  },
+  {
+   "name": "『詫間浦四国第32番』",
+   "lat": 34.2353287,
+   "lng": 133.6003423,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約8.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04806/"
+  },
+  {
+   "name": "『詫間浦四国第33番』",
+   "lat": 34.2361062,
+   "lng": 133.5992722,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約8.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04807/"
+  },
+  {
+   "name": "『詫間浦四国第34番』",
+   "lat": 34.2380821,
+   "lng": 133.5950919,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約9.2km",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04808/"
+  },
+  {
+   "name": "『詫間浦四国第35番』",
+   "lat": 34.238378,
+   "lng": 133.5914625,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約9.5km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04809/"
+  },
+  {
+   "name": "『詫間浦四国第36番』",
+   "lat": 34.2410059,
+   "lng": 133.5887155,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約9.8km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04810/"
+  },
+  {
+   "name": "『詫間浦四国第37番』",
+   "lat": 34.2446199,
+   "lng": 133.5855177,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約10.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04811/"
+  },
+  {
+   "name": "『詫間浦四国第38番』",
+   "lat": 34.2442483,
+   "lng": 133.581994,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約10.5km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04812/"
+  },
+  {
+   "name": "『詫間浦四国第39番』",
+   "lat": 34.2461131,
+   "lng": 133.584938,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約10.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04813/"
+  },
+  {
+   "name": "『詫間浦四国第3番』",
+   "lat": 34.2522608,
+   "lng": 133.599789,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約9.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04814/"
+  },
+  {
+   "name": "『詫間浦四国第40番』",
+   "lat": 34.2463249,
+   "lng": 133.5829376,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約10.5km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04815/"
+  },
+  {
+   "name": "『詫間浦四国第41番』",
+   "lat": 34.2464747,
+   "lng": 133.5813936,
+   "address": "香川県三豊市詫間町大浜",
+   "access": "詫間駅から約10.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04816/"
+  },
+  {
+   "name": "『詫間浦四国第42番』",
+   "lat": 34.2451623,
+   "lng": 133.5792293,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約10.8km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04817/"
+  },
+  {
+   "name": "『詫間浦四国第43番』",
+   "lat": 34.2447569,
+   "lng": 133.5776666,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約10.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04818/"
+  },
+  {
+   "name": "『詫間浦四国第44番』",
+   "lat": 34.2442069,
+   "lng": 133.5734859,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約11.3km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04819/"
+  },
+  {
+   "name": "『詫間浦四国第45番』",
+   "lat": 34.2476836,
+   "lng": 133.5793594,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約10.8km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04820/"
+  },
+  {
+   "name": "『詫間浦四国第46番』",
+   "lat": 34.2489016,
+   "lng": 133.579949,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約10.8km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04821/"
+  },
+  {
+   "name": "『詫間浦四国第47番』",
+   "lat": 34.2512284,
+   "lng": 133.5802698,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約10.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04822/"
+  },
+  {
+   "name": "『詫間浦四国第48番』",
+   "lat": 34.2516185,
+   "lng": 133.5799045,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約10.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04823/"
+  },
+  {
+   "name": "『詫間浦四国第49番』",
+   "lat": 34.2526856,
+   "lng": 133.5807516,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約10.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04824/"
+  },
+  {
+   "name": "『詫間浦四国第4番』",
+   "lat": 34.2521243,
+   "lng": 133.6025399,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約9.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04825/"
+  },
+  {
+   "name": "『詫間浦四国第50番』",
+   "lat": 34.2531073,
+   "lng": 133.5800584,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約10.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04826/"
+  },
+  {
+   "name": "『詫間浦四国第51番』",
+   "lat": 34.2525598,
+   "lng": 133.579127,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約11.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04827/"
+  },
+  {
+   "name": "『詫間浦四国第52,53番』",
+   "lat": 34.253778,
+   "lng": 133.5792281,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約11.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04828/"
+  },
+  {
+   "name": "『詫間浦四国第54,55番』",
+   "lat": 34.2553245,
+   "lng": 133.5783059,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約11.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04829/"
+  },
+  {
+   "name": "『詫間浦四国第56,57番』",
+   "lat": 34.2553684,
+   "lng": 133.5768569,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約11.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04830/"
+  },
+  {
+   "name": "『詫間浦四国第58番』",
+   "lat": 34.2557114,
+   "lng": 133.5762933,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約11.4km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04831/"
+  },
+  {
+   "name": "『詫間浦四国第59,60番』",
+   "lat": 34.2559208,
+   "lng": 133.576217,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約11.4km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04832/"
+  },
+  {
+   "name": "『詫間浦四国第5番』",
+   "lat": 34.2512184,
+   "lng": 133.6028509,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約8.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04833/"
+  },
+  {
+   "name": "『詫間浦四国第61番』",
+   "lat": 34.2581257,
+   "lng": 133.5754115,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約11.5km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04834/"
+  },
+  {
+   "name": "『詫間浦四国第62番』",
+   "lat": 34.2589568,
+   "lng": 133.57363,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約11.7km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04835/"
+  },
+  {
+   "name": "『詫間浦四国第63番』",
+   "lat": 34.2597041,
+   "lng": 133.5717102,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約11.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04836/"
+  },
+  {
+   "name": "『詫間浦四国第64番』",
+   "lat": 34.2611992,
+   "lng": 133.5695466,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約12.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04837/"
+  },
+  {
+   "name": "『詫間浦四国第65番』",
+   "lat": 34.2611766,
+   "lng": 133.5681848,
+   "address": "香川県三豊市詫間町生里",
+   "access": "詫間駅から約12.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04838/"
+  },
+  {
+   "name": "『詫間浦四国第66番』",
+   "lat": 34.2616151,
+   "lng": 133.5710426,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約12.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04839/"
+  },
+  {
+   "name": "『詫間浦四国第69番』",
+   "lat": 34.2626296,
+   "lng": 133.5748719,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約11.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04840/"
+  },
+  {
+   "name": "『詫間浦四国第6番』",
+   "lat": 34.2507061,
+   "lng": 133.6027639,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約8.9km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04841/"
+  },
+  {
+   "name": "『詫間浦四国第70,71番』",
+   "lat": 34.2618074,
+   "lng": 133.5772541,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約11.5km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04842/"
+  },
+  {
+   "name": "『詫間浦四国第72番』",
+   "lat": 34.2612635,
+   "lng": 133.5793477,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約11.3km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04843/"
+  },
+  {
+   "name": "『詫間浦四国第73番』",
+   "lat": 34.2593846,
+   "lng": 133.5802437,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約11.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04844/"
+  },
+  {
+   "name": "『詫間浦四国第74番』",
+   "lat": 34.2595583,
+   "lng": 133.5812052,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約11.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04845/"
+  },
+  {
+   "name": "『詫間浦四国第75番』",
+   "lat": 34.2595963,
+   "lng": 133.5834421,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約10.9km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04846/"
+  },
+  {
+   "name": "『詫間浦四国第76番』",
+   "lat": 34.260219,
+   "lng": 133.5861855,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約10.7km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04847/"
+  },
+  {
+   "name": "『詫間浦四国第77番』",
+   "lat": 34.2605271,
+   "lng": 133.5865649,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約10.7km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04848/"
+  },
+  {
+   "name": "『詫間浦四国第78番』",
+   "lat": 34.260238,
+   "lng": 133.5881785,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約10.5km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04849/"
+  },
+  {
+   "name": "『詫間浦四国第79番』",
+   "lat": 34.2599226,
+   "lng": 133.5889579,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約10.5km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04850/"
+  },
+  {
+   "name": "『詫間浦四国第7～11番』",
+   "lat": 34.2502837,
+   "lng": 133.6023529,
+   "address": "香川県三豊市詫間町積",
+   "access": "詫間駅から約8.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04851/"
+  },
+  {
+   "name": "『詫間浦四国第80番』",
+   "lat": 34.2577679,
+   "lng": 133.5888224,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約10.4km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04852/"
+  },
+  {
+   "name": "『詫間浦四国第81番』",
+   "lat": 34.2563473,
+   "lng": 133.5884099,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約10.4km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04853/"
+  },
+  {
+   "name": "『詫間浦四国第82番』",
+   "lat": 34.2555107,
+   "lng": 133.5882809,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約10.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04854/"
+  },
+  {
+   "name": "『詫間浦四国第83番』",
+   "lat": 34.2556821,
+   "lng": 133.5884257,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約10.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04855/"
+  },
+  {
+   "name": "『詫間浦四国第84番』",
+   "lat": 34.2552467,
+   "lng": 133.5903894,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約10.1km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04856/"
+  },
+  {
    "name": "『調和』",
    "lat": 35.7761067,
    "lng": 139.3016151,
@@ -7807,6 +10615,30 @@
    "url": "https://www.memorial-object.jp/00504/"
   },
   {
+   "name": "『貫井プールの碑』",
+   "lat": 35.6982334,
+   "lng": 139.4939145,
+   "address": "東京都小金井市貫井南町３丁目８",
+   "access": "武蔵小金井駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00684/"
+  },
+  {
+   "name": "『赤坂池』",
+   "lat": 35.7607186,
+   "lng": 139.3968715,
+   "address": "東京都武蔵村山市中藤２丁目４２",
+   "access": "西武球場前駅から約2.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00706/"
+  },
+  {
    "name": "『赤羽台トンネルの碑』",
    "lat": 35.77827158857958,
    "lng": 139.71570031581675,
@@ -7829,6 +10661,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00183_1.jpg",
    "url": "https://www.memorial-object.jp/00183/"
+  },
+  {
+   "name": "『通水記念』",
+   "lat": 35.6307425,
+   "lng": 139.4649681,
+   "address": "東京都多摩市連光寺６丁目１９",
+   "access": "はるひ野駅から約1.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00708/"
   },
   {
    "name": "『道正塚』",
@@ -7865,6 +10709,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00599/"
+  },
+  {
+   "name": "『道路開鑿碑』",
+   "lat": 35.6085088,
+   "lng": 139.497943,
+   "address": "東京都稲城市平尾２丁目１４",
+   "access": "五月台駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00710/"
   },
   {
    "name": "『都道補助133号線開通記念碑』",
@@ -8155,6 +11011,42 @@
    "url": "https://www.memorial-object.jp/00228/"
   },
   {
+   "name": "『題目塔』",
+   "lat": 35.7535743,
+   "lng": 139.5611372,
+   "address": "東京都西東京市北町６丁目７",
+   "access": "保谷駅から約0.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00722/"
+  },
+  {
+   "name": "『題目塔』",
+   "lat": 35.7501241,
+   "lng": 139.5572762,
+   "address": "東京都西東京市下保谷２丁目１",
+   "access": "保谷駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00721/"
+  },
+  {
+   "name": "『題目塔』",
+   "lat": 35.7529468,
+   "lng": 139.5592355,
+   "address": "東京都西東京市北町１丁目６",
+   "access": "保谷駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00720/"
+  },
+  {
    "name": "『顕彰碑』",
    "lat": 34.3040127,
    "lng": 134.0657778,
@@ -8369,6 +11261,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00397/"
+  },
+  {
+   "name": "『馬頭観音 二十三夜塔』",
+   "lat": 35.7329328,
+   "lng": 139.2012114,
+   "address": "東京都あきる野市戸倉１０５０",
+   "access": "武蔵五日市駅から約2.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00719/"
   },
   {
    "name": "『馬頭観音』",
@@ -11406,6 +14310,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00363/"
+  },
+  {
+   "name": "金景民『月出』",
+   "lat": 35.690899,
+   "lng": 139.4471709,
+   "address": "東京都国立市東２丁目",
+   "access": "国立駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/00690/"
   },
   {
    "name": "鈴木尚和『富士見 夢の舟』",
