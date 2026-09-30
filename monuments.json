@@ -8,8 +8,8 @@
   "photos": 0,
   "names": []
  },
- "generated": "2026-09-29",
- "count": 1218,
+ "generated": "2026-09-30",
+ "count": 1243,
  "items": [
   {
    "name": "Jose de Guimaraes『Happiness Tree』",
@@ -108,6 +108,18 @@
    "url": "https://www.memorial-object.jp/04601/"
   },
   {
+   "name": "『Bito Jisyu honorary monument』",
+   "lat": 34.0131182,
+   "lng": 133.5663606,
+   "address": "愛媛県四国中央市川之江町",
+   "access": "川之江駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04883/"
+  },
+  {
    "name": "『C57蒸気機関車の動輪』",
    "lat": 36.3743272725551,
    "lng": 139.84152947341823,
@@ -156,6 +168,18 @@
    "url": "https://www.memorial-object.jp/00462/"
   },
   {
+   "name": "『Hoshi ga Mori』",
+   "lat": 33.8353068,
+   "lng": 133.10782,
+   "address": "愛媛県西条市小松町石鎚",
+   "access": "伊予小松駅から約7.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04876/"
+  },
+  {
    "name": "『JEF UNITED』",
    "lat": 35.58120499828872,
    "lng": 140.12969726959307,
@@ -202,6 +226,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00442/"
+  },
+  {
+   "name": "『Kotohira Shrine way top』",
+   "lat": 34.1879161,
+   "lng": 133.802457,
+   "address": "香川県仲多度郡琴平町",
+   "access": "琴電琴平駅から約1.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04864/"
   },
   {
    "name": "『Neko Musume  and Itta Momen  Statues』",
@@ -2870,6 +2906,18 @@
    "url": "https://www.memorial-object.jp/00155/"
   },
   {
+   "name": "『坂本龍馬像』",
+   "lat": 34.17881,
+   "lng": 133.8102581,
+   "address": "香川県仲多度郡琴平町",
+   "access": "琴電琴平駅から約1.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04865/"
+  },
+  {
    "name": "『堀部虎吉翁頌徳碑』",
    "lat": 35.7151034,
    "lng": 139.319076,
@@ -2880,6 +2928,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00567/"
+  },
+  {
+   "name": "『堤防決潰記念碑』",
+   "lat": 33.928128,
+   "lng": 133.138173,
+   "address": "愛媛県西条市禎瑞",
+   "access": "伊予氷見駅から約3.5km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04871/"
   },
   {
    "name": "『堰のことは』",
@@ -3314,6 +3374,18 @@
    "url": "https://www.memorial-object.jp/00295/"
   },
   {
+   "name": "『子どもの像』",
+   "lat": 33.960869,
+   "lng": 133.282083,
+   "address": "愛媛県新居浜市繁本町",
+   "access": "新居浜駅から約1.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04873/"
+  },
+  {
    "name": "『子育地蔵尊』",
    "lat": 35.6970613,
    "lng": 139.2735582,
@@ -3396,6 +3468,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00302_1.jpg",
    "url": "https://www.memorial-object.jp/00302/"
+  },
+  {
+   "name": "『客土記念碑』",
+   "lat": 33.913402,
+   "lng": 133.151389,
+   "address": "愛媛県西条市禎瑞６３９",
+   "access": "石鎚山駅から約2.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04868/"
   },
   {
    "name": "『家畜之霊碑』",
@@ -3506,6 +3590,18 @@
    "url": "https://www.memorial-object.jp/00179/"
   },
   {
+   "name": "『小野寅吉像』",
+   "lat": 33.9550314,
+   "lng": 133.3032752,
+   "address": "愛媛県新居浜市郷４丁目２２",
+   "access": "新居浜駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04869/"
+  },
+  {
    "name": "『屋島寺』",
    "lat": 34.356684,
    "lng": 134.1013198,
@@ -3530,6 +3626,18 @@
    "url": "https://www.memorial-object.jp/04549/"
   },
   {
+   "name": "『山の神』",
+   "lat": 33.8735283,
+   "lng": 133.2164685,
+   "address": "愛媛県西条市保野",
+   "access": "伊予西条駅から約5.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04877/"
+  },
+  {
    "name": "『山本周五郎 文学碑』",
    "lat": 35.594864600679124,
    "lng": 138.88367024201082,
@@ -3552,6 +3660,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00152_1.png",
    "url": "https://www.memorial-object.jp/00152/"
+  },
+  {
+   "name": "『岡林墓群』",
+   "lat": 33.8896658,
+   "lng": 133.1324129,
+   "address": "愛媛県西条市氷見丙",
+   "access": "伊予氷見駅から約0.8km",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04878/"
   },
   {
    "name": "『島四国88箇所第10番』",
@@ -3876,6 +3996,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00636/"
+  },
+  {
+   "name": "『市民像』",
+   "lat": 33.960836,
+   "lng": 133.282552,
+   "address": "愛媛県新居浜市繁本町",
+   "access": "新居浜駅から約1.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04874/"
   },
   {
    "name": "『布多天神社「狛犬」一対』",
@@ -4526,6 +4658,18 @@
    "url": "https://www.memorial-object.jp/04402/"
   },
   {
+   "name": "『弘法水』",
+   "lat": 33.9286452,
+   "lng": 133.1744998,
+   "address": "愛媛県西条市樋之口",
+   "access": "伊予西条駅から約2.2km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04879/"
+  },
+  {
    "name": "『征清戦死招魂碑』",
    "lat": 35.6340252,
    "lng": 139.5778565,
@@ -4632,6 +4776,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04404/"
+  },
+  {
+   "name": "『復興碑』",
+   "lat": 33.866992,
+   "lng": 133.196336,
+   "address": "愛媛県西条市千町一号",
+   "access": "石鎚山駅から約4.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04872/"
   },
   {
    "name": "『志々島四国第*番』",
@@ -5354,6 +5510,18 @@
    "url": "https://www.memorial-object.jp/00218/"
   },
   {
+   "name": "『掃海殉職者顕彰碑』",
+   "lat": 34.1846694,
+   "lng": 133.8146487,
+   "address": "香川県仲多度郡琴平町",
+   "access": "琴電琴平駅から約0.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04866/"
+  },
+  {
    "name": "『搦手門跡』",
    "lat": 34.2844585,
    "lng": 133.8008779,
@@ -5486,6 +5654,18 @@
    "url": "https://www.memorial-object.jp/00583/"
   },
   {
+   "name": "『新田塚』",
+   "lat": 33.8427059,
+   "lng": 133.0038655,
+   "address": "愛媛県西条市丹原町鞍瀬",
+   "access": "玉之江駅から約11.7km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04880/"
+  },
+  {
    "name": "『新田義貞像』",
    "lat": 35.6681052,
    "lng": 139.4695452,
@@ -5532,6 +5712,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00712/"
+  },
+  {
+   "name": "『日暮別邸記念館』",
+   "lat": 33.9524248,
+   "lng": 133.2659742,
+   "address": "愛媛県新居浜市王子町",
+   "access": "新居浜駅から約2.7km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04875/"
   },
   {
    "name": "『日本三体之一　村松山虚空蔵尊』",
@@ -6004,6 +6196,18 @@
    "url": "https://www.memorial-object.jp/00490/"
   },
   {
+   "name": "『歯神さん』",
+   "lat": 33.8660505,
+   "lng": 133.054155,
+   "address": "愛媛県西条市小松町安井",
+   "access": "玉之江駅から約6.6km",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04881/"
+  },
+  {
    "name": "『歴史と文化の散歩道』",
    "lat": 35.682864,
    "lng": 139.4873424,
@@ -6437,6 +6641,18 @@
    "url": "https://www.memorial-object.jp/00403/"
   },
   {
+   "name": "『犬人三神』",
+   "lat": 33.8101667,
+   "lng": 133.2337958,
+   "address": "愛媛県西条市藤之石",
+   "access": "石鎚山駅から約11.8km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04882/"
+  },
+  {
    "name": "『狛江市戦没者慰霊塔』",
    "lat": 35.6331845,
    "lng": 139.5671664,
@@ -6567,6 +6783,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04410/"
+  },
+  {
+   "name": "『琴陵宥常銅像』",
+   "lat": 34.184706,
+   "lng": 133.8148841,
+   "address": "香川県仲多度郡琴平町",
+   "access": "琴電琴平駅から約0.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04867/"
   },
   {
    "name": "『瑞光』",
@@ -9199,30 +9427,6 @@
    "url": "https://www.memorial-object.jp/04757/"
   },
   {
-   "name": "『詫間88か所第27番』",
-   "lat": 34.2257237,
-   "lng": 133.65423,
-   "address": "香川県三豊市詫間町詫間",
-   "access": "詫間駅から約3.6km",
-   "categories": [
-    "山林・山道"
-   ],
-   "image": "",
-   "url": "https://www.memorial-object.jp/04757/"
-  },
-  {
-   "name": "『詫間88か所第28番』",
-   "lat": 34.2265956,
-   "lng": 133.6550306,
-   "address": "香川県三豊市詫間町詫間",
-   "access": "詫間駅から約3.5km",
-   "categories": [
-    "道路沿い"
-   ],
-   "image": "",
-   "url": "https://www.memorial-object.jp/04758/"
-  },
-  {
    "name": "『詫間88か所第28番』",
    "lat": 34.2265956,
    "lng": 133.6550306,
@@ -10567,6 +10771,54 @@
    "url": "https://www.memorial-object.jp/04856/"
   },
   {
+   "name": "『詫間浦四国第85,86番』",
+   "lat": 34.2544454,
+   "lng": 133.5925759,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約9.9km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04857/"
+  },
+  {
+   "name": "『詫間浦四国第87番』",
+   "lat": 34.2543228,
+   "lng": 133.5952968,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約9.7km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04858/"
+  },
+  {
+   "name": "『詫間浦四国第88番』",
+   "lat": 34.2529423,
+   "lng": 133.5960812,
+   "address": "香川県三豊市詫間町箱",
+   "access": "詫間駅から約9.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04859/"
+  },
+  {
+   "name": "『詫間８８か所第45番』",
+   "lat": 34.2273839,
+   "lng": 133.6487733,
+   "address": "香川県三豊市詫間町詫間",
+   "access": "詫間駅から約4.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04860/"
+  },
+  {
    "name": "『調和』",
    "lat": 35.7761067,
    "lng": 139.3016151,
@@ -10867,6 +11119,18 @@
    "url": "https://www.memorial-object.jp/00027_soja_kokeshi/"
   },
   {
+   "name": "『関川改修記念碑』",
+   "lat": 33.969594,
+   "lng": 133.44278,
+   "address": "愛媛県四国中央市土居町藤原５",
+   "access": "赤星駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04870/"
+  },
+  {
    "name": "『関戸古戦場跡』",
    "lat": 35.6462713,
    "lng": 139.4515721,
@@ -10891,6 +11155,30 @@
    "url": "https://www.memorial-object.jp/00435/"
   },
   {
+   "name": "『阿』",
+   "lat": 34.1480194,
+   "lng": 133.7549325,
+   "address": "香川県三豊市高瀬町羽方",
+   "access": "高瀬駅から約5.7km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04862/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 34.147902,
+   "lng": 133.7554339,
+   "address": "香川県三豊市高瀬町羽方",
+   "access": "高瀬駅から約5.7km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04861/"
+  },
+  {
    "name": "『阿婆羅底童子』",
    "lat": 35.6302684,
    "lng": 139.2546853,
@@ -10901,6 +11189,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00396/"
+  },
+  {
+   "name": "『阿島山33観音　第27番』",
+   "lat": 34.2823455,
+   "lng": 133.6294989,
+   "address": "香川県三豊市詫間町粟島",
+   "access": "詫間駅から約8.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04863/"
   },
   {
    "name": "『阿形』",
