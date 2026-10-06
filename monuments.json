@@ -9,7 +9,7 @@
   "names": []
  },
  "generated": "2026-10-06",
- "count": 2265,
+ "count": 2441,
  "items": [
   {
    "name": "ASAO TOKOLO『TOWER OF CONNECT』",
@@ -504,6 +504,18 @@
    "url": "https://www.memorial-object.jp/01157/"
   },
   {
+   "name": "『3人の赤ちゃん像』",
+   "lat": 35.6944143,
+   "lng": 139.813051,
+   "address": "東京都墨田区江東橋２丁目６",
+   "access": "錦糸町駅から南へ約270m",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01864/"
+  },
+  {
    "name": "『69』",
    "lat": 34.2310881,
    "lng": 133.6460007,
@@ -720,6 +732,18 @@
    "url": "https://www.memorial-object.jp/00462/"
   },
   {
+   "name": "『Flamme d’Or』",
+   "lat": 35.7097301,
+   "lng": 139.8003286,
+   "address": "東京都墨田区吾妻橋１丁目１６",
+   "access": "浅草駅から南東へ約260m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01865/"
+  },
+  {
    "name": "『Giant Panda ジャイアントパンダ』",
    "lat": 35.713167,
    "lng": 139.776828,
@@ -838,6 +862,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01513/"
+  },
+  {
+   "name": "『Kirby Café』",
+   "lat": 35.7104713,
+   "lng": 139.8117513,
+   "address": "東京都墨田区押上１丁目１",
+   "access": "とうきょうスカイツリー駅から東へ約70m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01866/"
   },
   {
    "name": "『Kitaro statue on Tenjin Dori Shopping Street sign』",
@@ -1210,6 +1246,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01429/"
+  },
+  {
+   "name": "『「おいてけ堀」河童像』",
+   "lat": 35.694962,
+   "lng": 139.8165454,
+   "address": "東京都墨田区江東橋４丁目１７",
+   "access": "錦糸町駅から南東へ約200m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01867/"
   },
   {
    "name": "『「アポリネール記念碑」のための習作』",
@@ -1656,6 +1704,18 @@
    "url": "https://www.memorial-object.jp/01431/"
   },
   {
+   "name": "『きょうげん塚』",
+   "lat": 35.7243895,
+   "lng": 139.8160269,
+   "address": "東京都墨田区東向島３丁目１８",
+   "access": "東向島駅から西へ約300m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01868/"
+  },
+  {
    "name": "『くらぼね坂』",
    "lat": 35.6980208,
    "lng": 139.4912772,
@@ -1786,6 +1846,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00137_1.png",
    "url": "https://www.memorial-object.jp/00137/"
+  },
+  {
+   "name": "『しのぶ塚』",
+   "lat": 35.724443,
+   "lng": 139.8159965,
+   "address": "東京都墨田区東向島３丁目１８",
+   "access": "東向島駅から西へ約300m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01869/"
   },
   {
    "name": "『しのぶ川』",
@@ -1920,6 +1992,18 @@
    "url": "https://www.memorial-object.jp/00657/"
   },
   {
+   "name": "『なんでもできる未来』",
+   "lat": 35.7008739,
+   "lng": 139.8175548,
+   "address": "東京都墨田区太平４丁目２",
+   "access": "錦糸町駅から北東へ約550m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01870/"
+  },
+  {
    "name": "『ぬらりひょん縁台』",
    "lat": 35.6538652,
    "lng": 139.538126,
@@ -1956,6 +2040,30 @@
    "url": "https://www.memorial-object.jp/00448/"
   },
   {
+   "name": "『ねずみ小僧次郎吉の墓』",
+   "lat": 35.6934364,
+   "lng": 139.7923525,
+   "address": "東京都墨田区両国２丁目１０",
+   "access": "両国駅から南へ約270m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01871/"
+  },
+  {
+   "name": "『はさみ塚』",
+   "lat": 35.7019681,
+   "lng": 139.810159,
+   "address": "東京都墨田区太平１丁目２６",
+   "access": "錦糸町駅から北西へ約670m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01872/"
+  },
+  {
    "name": "『はな』",
    "lat": 35.7963785188768,
    "lng": 139.59895044021036,
@@ -1978,6 +2086,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00785/"
+  },
+  {
+   "name": "『は・は・は』",
+   "lat": 35.706219,
+   "lng": 139.8125676,
+   "address": "東京都墨田区業平２丁目３",
+   "access": "押上〈スカイツリー前〉駅から南へ約460m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01873/"
   },
   {
    "name": "『ひなた村改築記念さくら植樹』",
@@ -2352,6 +2472,18 @@
    "url": "https://www.memorial-object.jp/00086/"
   },
   {
+   "name": "『をぐら』",
+   "lat": 35.724184,
+   "lng": 139.8151165,
+   "address": "東京都墨田区東向島３丁目１８",
+   "access": "東向島駅から西へ約380m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01874/"
+  },
+  {
    "name": "『アキシマクジラの由来』",
    "lat": 35.7124864,
    "lng": 139.3655514,
@@ -2566,6 +2698,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00258_1.jpg",
    "url": "https://www.memorial-object.jp/00258/"
+  },
+  {
+   "name": "『コックカービィ』",
+   "lat": 35.7100412,
+   "lng": 139.8110004,
+   "address": "東京都墨田区押上１丁目１",
+   "access": "とうきょうスカイツリー駅から南へ約70m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01875/"
   },
   {
    "name": "『コレラ地蔵』",
@@ -3542,6 +3686,18 @@
    "url": "https://www.memorial-object.jp/01444/"
   },
   {
+   "name": "『七十二峰庵十湖句碑』",
+   "lat": 35.7238942,
+   "lng": 139.8160116,
+   "address": "東京都墨田区東向島３丁目２４",
+   "access": "東向島駅から西へ約300m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01876/"
+  },
+  {
    "name": "『七合目』",
    "lat": 35.6543366,
    "lng": 139.2557122,
@@ -4310,6 +4466,18 @@
    "url": "https://www.memorial-object.jp/01580/"
   },
   {
+   "name": "『二之橋跡』",
+   "lat": 35.6923313,
+   "lng": 139.7977234,
+   "address": "東京都墨田区両国４丁目２",
+   "access": "森下駅から北へ約480m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01877/"
+  },
+  {
    "name": "『二十一世紀後継之碑』",
    "lat": 35.6917215,
    "lng": 139.323165,
@@ -4394,6 +4562,30 @@
    "url": "https://www.memorial-object.jp/00545/"
   },
   {
+   "name": "『二峯先生之碑』",
+   "lat": 35.7118033,
+   "lng": 139.8044239,
+   "address": "東京都墨田区向島１丁目７",
+   "access": "本所吾妻橋駅から北へ約360m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01878/"
+  },
+  {
+   "name": "『二神石碑』",
+   "lat": 35.7241647,
+   "lng": 139.8161215,
+   "address": "東京都墨田区東向島３丁目１９",
+   "access": "東向島駅から西へ約290m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01879/"
+  },
+  {
    "name": "『五世川柳句碑』",
    "lat": 35.6680225,
    "lng": 139.7831794,
@@ -4452,6 +4644,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00111_4-199x300.png",
    "url": "https://www.memorial-object.jp/00110/"
+  },
+  {
+   "name": "『井上和紫句碑』",
+   "lat": 35.7242793,
+   "lng": 139.8161302,
+   "address": "東京都墨田区東向島３丁目１９",
+   "access": "東向島駅から西へ約290m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01880/"
   },
   {
    "name": "『井上通女』",
@@ -4778,6 +4982,18 @@
    "url": "https://www.memorial-object.jp/01524/"
   },
   {
+   "name": "『俵屋月彦句碑』",
+   "lat": 35.7238617,
+   "lng": 139.8156055,
+   "address": "東京都墨田区東向島３丁目１８",
+   "access": "東向島駅から西へ約340m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01881/"
+  },
+  {
    "name": "『倭迹迹日百襲姫命と吉備津彦命』",
    "lat": 34.2868068,
    "lng": 134.0277368,
@@ -4970,6 +5186,18 @@
    "url": "https://www.memorial-object.jp/04488/"
   },
   {
+   "name": "『八大龍王神』",
+   "lat": 35.7345524,
+   "lng": 139.8188964,
+   "address": "東京都墨田区墨田５丁目４２",
+   "access": "鐘ヶ淵駅から北西へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01882/"
+  },
+  {
    "name": "『八幡大神社御由緒』",
    "lat": 35.6941843,
    "lng": 139.5593798,
@@ -4980,6 +5208,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00613/"
+  },
+  {
+   "name": "『八広子育地蔵尊』",
+   "lat": 35.7222802,
+   "lng": 139.822977,
+   "address": "東京都墨田区八広１丁目８",
+   "access": "東向島駅から南東へ約400m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01883/"
   },
   {
    "name": "『八橋検校顕彰碑』",
@@ -5162,6 +5402,18 @@
    "url": "https://www.memorial-object.jp/01360/"
   },
   {
+   "name": "『其角堂永機句碑』",
+   "lat": 35.7241141,
+   "lng": 139.8156119,
+   "address": "東京都墨田区東向島３丁目１８",
+   "access": "東向島駅から西へ約330m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01884/"
+  },
+  {
    "name": "『内藤新宿開設三百年記念碑』",
    "lat": 35.6873655,
    "lng": 139.7140333,
@@ -5282,6 +5534,18 @@
    "url": "https://www.memorial-object.jp/01717/"
   },
   {
+   "name": "『初代歌川豊国筆塚』",
+   "lat": 35.7078074,
+   "lng": 139.8179718,
+   "address": "東京都墨田区業平５丁目７",
+   "access": "押上〈スカイツリー前〉駅から南東へ約500m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01885/"
+  },
+  {
    "name": "『初代花柳寿輔句碑』",
    "lat": 35.7148559,
    "lng": 139.7972567,
@@ -5340,6 +5604,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04431/"
+  },
+  {
+   "name": "『力相撲』",
+   "lat": 35.6960292,
+   "lng": 139.7923323,
+   "address": "東京都墨田区横網１丁目３",
+   "access": "両国駅から西へ約60m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01886/"
   },
   {
    "name": "『力石』",
@@ -5412,6 +5688,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01189/"
+  },
+  {
+   "name": "『勝海舟誕生之地』",
+   "lat": 35.693652,
+   "lng": 139.7961385,
+   "address": "東京都墨田区両国４丁目２５",
+   "access": "両国駅から南東へ約370m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01887/"
   },
   {
    "name": "『勝淵神社由来』",
@@ -5508,6 +5796,30 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2025/11/kitaageo_shunko2-1024x678.png",
    "url": "https://www.memorial-object.jp/00011_kitaageo-square-completed/"
+  },
+  {
+   "name": "『北元居士句碑』",
+   "lat": 35.7238826,
+   "lng": 139.8157276,
+   "address": "東京都墨田区東向島３丁目１８",
+   "access": "東向島駅から西へ約330m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01888/"
+  },
+  {
+   "name": "『北向地蔵尊』",
+   "lat": 35.7138878,
+   "lng": 139.815681,
+   "address": "東京都墨田区押上２丁目４２",
+   "access": "押上〈スカイツリー前〉駅から北東へ約440m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01889/"
   },
   {
    "name": "『北条氏照墓』",
@@ -6060,6 +6372,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00736/"
+  },
+  {
+   "name": "『吉良上野介義央公座像』",
+   "lat": 35.6933637,
+   "lng": 139.7943117,
+   "address": "東京都墨田区両国３丁目１３",
+   "access": "両国駅から南東へ約300m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01890/"
   },
   {
    "name": "『名勝 小金井櫻』",
@@ -6806,6 +7130,18 @@
    "url": "https://www.memorial-object.jp/01194/"
   },
   {
+   "name": "『地蔵菩薩立像』",
+   "lat": 35.7139195,
+   "lng": 139.8157465,
+   "address": "東京都墨田区押上２丁目４２",
+   "access": "押上〈スカイツリー前〉駅から北東へ約450m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01891/"
+  },
+  {
    "name": "『坂本九の歌碑』",
    "lat": 35.53048096060262,
    "lng": 139.6978924645614,
@@ -6996,6 +7332,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01733/"
+  },
+  {
+   "name": "『墨陀梅荘記碑』",
+   "lat": 35.7243277,
+   "lng": 139.8151208,
+   "address": "東京都墨田区東向島３丁目１８",
+   "access": "東向島駅から西へ約380m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01892/"
   },
   {
    "name": "『壱越』",
@@ -7262,6 +7610,18 @@
    "url": "https://www.memorial-object.jp/01590/"
   },
   {
+   "name": "『大東亜戦争戦災殉難者供養之碑』",
+   "lat": 35.7399746,
+   "lng": 139.8182295,
+   "address": "東京都墨田区墨田５丁目２６",
+   "access": "堀切駅から南へ約370m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01893/"
+  },
+  {
    "name": "『大橋改修記念碑』",
    "lat": 35.6484244,
    "lng": 139.5758614,
@@ -7380,6 +7740,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01168/"
+  },
+  {
+   "name": "『大高源五句碑』",
+   "lat": 35.694049,
+   "lng": 139.7898889,
+   "address": "東京都墨田区両国１丁目１１",
+   "access": "両国駅から南西へ約340m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01894/"
   },
   {
    "name": "『大鳥居建設記念碑』",
@@ -8424,6 +8796,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01184/"
+  },
+  {
+   "name": "『小林一茶居住の地』",
+   "lat": 35.692381,
+   "lng": 139.7980261,
+   "address": "東京都墨田区緑１丁目２",
+   "access": "森下駅から北へ約490m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01895/"
   },
   {
    "name": "『小林家震災死者慰霊祭之碑』",
@@ -9554,6 +9938,18 @@
    "url": "https://www.memorial-object.jp/00709/"
   },
   {
+   "name": "『平川橋落橋記念碑』",
+   "lat": 35.7067901,
+   "lng": 139.8081079,
+   "address": "東京都墨田区業平１丁目１",
+   "access": "本所吾妻橋駅から南東へ約390m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01896/"
+  },
+  {
    "name": "『平成御大禮記念　御社殿改修の碑』",
    "lat": 35.7060834,
    "lng": 139.5018008,
@@ -9720,6 +10116,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00573/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 35.7345057,
+   "lng": 139.8188645,
+   "address": "東京都墨田区墨田５丁目４２",
+   "access": "鐘ヶ淵駅から北西へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01897/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 35.7232553,
+   "lng": 139.7825325,
+   "address": "東京都台東区根岸３丁目１３",
+   "access": "入谷駅から北西へ約340m",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01756/"
   },
   {
    "name": "『庚申塔』",
@@ -10155,6 +10575,18 @@
   },
   {
    "name": "『延命地蔵尊』",
+   "lat": 35.7260109,
+   "lng": 139.8139446,
+   "address": "東京都墨田区東向島３丁目８",
+   "access": "東向島駅から西へ約520m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01898/"
+  },
+  {
+   "name": "『延命地蔵尊』",
    "lat": 35.7093911,
    "lng": 139.6942366,
    "address": "東京都新宿区百人町４丁目９",
@@ -10296,6 +10728,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01018/"
+  },
+  {
+   "name": "『弘法大師』",
+   "lat": 35.7080021,
+   "lng": 139.8004442,
+   "address": "東京都墨田区吾妻橋１丁目３",
+   "access": "本所吾妻橋駅から西へ約360m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01899/"
+  },
+  {
+   "name": "『弘法大師』",
+   "lat": 35.7105231,
+   "lng": 139.7826623,
+   "address": "東京都台東区東上野３丁目３２",
+   "access": "稲荷町駅から南へ約100m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01757/"
   },
   {
    "name": "『弘法大師』",
@@ -10740,6 +11196,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01372/"
+  },
+  {
+   "name": "『御行の松』",
+   "lat": 35.7254702,
+   "lng": 139.7820063,
+   "address": "東京都荒川区東日暮里４丁目２１",
+   "access": "鶯谷駅から北東へ約560m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01758/"
+  },
+  {
+   "name": "『御行松』",
+   "lat": 35.7254608,
+   "lng": 139.7819903,
+   "address": "東京都荒川区東日暮里４丁目２１",
+   "access": "鶯谷駅から北東へ約560m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01759/"
   },
   {
    "name": "『御製』",
@@ -11558,6 +12038,18 @@
    "url": "https://www.memorial-object.jp/04552/"
   },
   {
+   "name": "『恵比寿神、大國神』",
+   "lat": 35.7150019,
+   "lng": 139.8065554,
+   "address": "東京都墨田区向島２丁目５",
+   "access": "とうきょうスカイツリー駅から北西へ約620m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01900/"
+  },
+  {
    "name": "『恵比寿神』",
    "lat": 35.6978049,
    "lng": 139.7052085,
@@ -11580,6 +12072,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04405/"
+  },
+  {
+   "name": "『恵比須天』",
+   "lat": 35.714638,
+   "lng": 139.796169,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から東へ約360m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01760/"
   },
   {
    "name": "『愛宕山辨戝天』",
@@ -11726,6 +12230,42 @@
    "url": "https://www.memorial-object.jp/00402/"
   },
   {
+   "name": "『戦災供養地蔵尊』",
+   "lat": 35.7148915,
+   "lng": 139.7956626,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北東へ約320m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01761/"
+  },
+  {
+   "name": "『戦災慰霊碑』",
+   "lat": 35.7151375,
+   "lng": 139.8023519,
+   "address": "東京都台東区浅草７丁目１",
+   "access": "浅草駅から北東へ約500m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01762/"
+  },
+  {
+   "name": "『戦災死没者墓誌』",
+   "lat": 35.6996649,
+   "lng": 139.7960997,
+   "address": "東京都墨田区横網２丁目３",
+   "access": "両国駅から北へ約330m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01901/"
+  },
+  {
    "name": "『戦災殉難者慰霊碑』",
    "lat": 35.6977528,
    "lng": 139.7792189,
@@ -11750,6 +12290,54 @@
    "url": "https://www.memorial-object.jp/01376/"
   },
   {
+   "name": "『戸田茂睡逆修塔』",
+   "lat": 35.7145432,
+   "lng": 139.7954249,
+   "address": "東京都台東区浅草２丁目７",
+   "access": "浅草駅から東へ約290m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01763/"
+  },
+  {
+   "name": "『扇塚』",
+   "lat": 35.7148443,
+   "lng": 139.7972552,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北へ約340m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01766/"
+  },
+  {
+   "name": "『扇塚』",
+   "lat": 35.7134881,
+   "lng": 139.79737,
+   "address": "東京都台東区浅草２丁目２",
+   "access": "浅草駅から北西へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01765/"
+  },
+  {
+   "name": "『扇塚』",
+   "lat": 35.7120816,
+   "lng": 139.771469,
+   "address": "東京都台東区上野公園２",
+   "access": "京成上野駅から北西へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01764/"
+  },
+  {
    "name": "『拓殖大学第一高等学校誕生の地公園』",
    "lat": 35.7281693,
    "lng": 139.5142638,
@@ -11762,6 +12350,18 @@
    "url": "https://www.memorial-object.jp/00495/"
   },
   {
+   "name": "『招き猫』",
+   "lat": 35.7179215,
+   "lng": 139.8032215,
+   "address": "東京都台東区今戸１丁目６",
+   "access": "浅草駅から北東へ約790m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01767/"
+  },
+  {
    "name": "『招き猫像』",
    "lat": 35.6537092,
    "lng": 139.6470807,
@@ -11772,6 +12372,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00218_1.jpg",
    "url": "https://www.memorial-object.jp/00218/"
+  },
+  {
+   "name": "『持国天』",
+   "lat": 35.7144373,
+   "lng": 139.7975671,
+   "address": "東京都台東区浅草２丁目３４",
+   "access": "浅草駅から北へ約290m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01768/"
   },
   {
    "name": "『持堅姿童子』",
@@ -11822,6 +12434,18 @@
    "url": "https://www.memorial-object.jp/04587/"
   },
   {
+   "name": "『撫牛』",
+   "lat": 35.7127204,
+   "lng": 139.8048154,
+   "address": "東京都墨田区向島１丁目４",
+   "access": "本所吾妻橋駅から北へ約460m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01902/"
+  },
+  {
    "name": "『改修記念碑』",
    "lat": 34.3040902,
    "lng": 134.0659467,
@@ -11832,6 +12456,54 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04443/"
+  },
+  {
+   "name": "『故・服部良一 (作曲家)』",
+   "lat": 35.7113727,
+   "lng": 139.7733941,
+   "address": "東京都台東区上野公園１",
+   "access": "京成上野駅から北へ約50m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01769/"
+  },
+  {
+   "name": "『故・藤山一郎 (歌手)』",
+   "lat": 35.71139,
+   "lng": 139.7733914,
+   "address": "東京都台東区上野公園１",
+   "access": "京成上野駅から北へ約50m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01770/"
+  },
+  {
+   "name": "『故・長谷川町子 (漫画家)』",
+   "lat": 35.7113814,
+   "lng": 139.7733928,
+   "address": "東京都台東区上野公園１",
+   "access": "京成上野駅から北へ約50m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01771/"
+  },
+  {
+   "name": "『救世観世音』",
+   "lat": 35.7215719,
+   "lng": 139.7833895,
+   "address": "東京都台東区下谷２丁目１０",
+   "access": "入谷駅から北西へ約140m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01772/"
   },
   {
    "name": "『散る桜、残る桜も散る桜』",
@@ -11892,6 +12564,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01612/"
+  },
+  {
+   "name": "『文竹稲荷大明神』",
+   "lat": 35.7266258,
+   "lng": 139.7708657,
+   "address": "東京都台東区谷中７丁目１４",
+   "access": "日暮里駅から南へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01773/"
   },
   {
    "name": "『料理包丁道 研鑽報徳之碑』",
@@ -12012,6 +12696,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00360/"
+  },
+  {
+   "name": "『新山名橋』",
+   "lat": 35.6907677,
+   "lng": 139.8106322,
+   "address": "東京都墨田区江東橋５丁目６",
+   "access": "菊川駅から北東へ約480m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01903/"
   },
   {
    "name": "『新島襄先生生誕地記念の碑』",
@@ -12218,6 +12914,18 @@
    "url": "https://www.memorial-object.jp/04875/"
   },
   {
+   "name": "『日本の都市公園100選』",
+   "lat": 35.7108407,
+   "lng": 139.7735576,
+   "address": "東京都台東区上野公園１",
+   "access": "京成上野駅から南東へ約10m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01774/"
+  },
+  {
    "name": "『日本三体之一　村松山虚空蔵尊』",
    "lat": 36.4650241,
    "lng": 140.5663525,
@@ -12228,6 +12936,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00098_1.png",
    "url": "https://www.memorial-object.jp/00098/"
+  },
+  {
+   "name": "『日本三庚申 庚申塚』",
+   "lat": 35.7219599,
+   "lng": 139.7833625,
+   "address": "東京都台東区下谷２丁目１３",
+   "access": "入谷駅から北西へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01775/"
   },
   {
    "name": "『日本国憲法草案審議の地』",
@@ -12314,6 +13034,18 @@
    "url": "https://www.memorial-object.jp/01382/"
   },
   {
+   "name": "『日本橋石柱』",
+   "lat": 35.7241802,
+   "lng": 139.8160067,
+   "address": "東京都墨田区東向島３丁目１８",
+   "access": "東向島駅から西へ約300m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01904/"
+  },
+  {
    "name": "『日本橋魚河岸発祥の地』",
    "lat": 35.6843396,
    "lng": 139.7748521,
@@ -12374,6 +13106,18 @@
    "url": "https://www.memorial-object.jp/01301/"
   },
   {
+   "name": "『日蓮上人』",
+   "lat": 35.7085352,
+   "lng": 139.7746046,
+   "address": "東京都台東区上野４丁目６",
+   "access": "上野御徒町駅から北東へ約130m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01776/"
+  },
+  {
    "name": "『日蘭修好380周年記念　ヤン・ヨーステン記念碑』",
    "lat": 35.6794081,
    "lng": 139.7713856,
@@ -12396,6 +13140,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00757/"
+  },
+  {
+   "name": "『日限地蔵尊』",
+   "lat": 35.7150616,
+   "lng": 139.7958966,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北東へ約350m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01777/"
   },
   {
    "name": "『日露戦役記念碑』",
@@ -12468,6 +13224,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00646/"
+  },
+  {
+   "name": "『旧五重塔跡』",
+   "lat": 35.7139514,
+   "lng": 139.7971842,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北西へ約250m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01778/"
+  },
+  {
+   "name": "『旧今戸橋親柱』",
+   "lat": 35.7172939,
+   "lng": 139.8035308,
+   "address": "東京都台東区今戸１丁目６",
+   "access": "浅草駅から北東へ約750m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01779/"
   },
   {
    "name": "『旧噴水塔』",
@@ -12604,6 +13384,18 @@
    "url": "https://www.memorial-object.jp/01302/"
   },
   {
+   "name": "『明治天皇御製』",
+   "lat": 35.7117913,
+   "lng": 139.8038127,
+   "address": "東京都墨田区向島１丁目３",
+   "access": "本所吾妻橋駅から北へ約360m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01905/"
+  },
+  {
    "name": "『明治天皇行在所址碑』",
    "lat": 34.2899147,
    "lng": 133.7995827,
@@ -12614,6 +13406,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04506/"
+  },
+  {
+   "name": "『明治天皇行幸所 水戸徳川邸舊阯』",
+   "lat": 35.7117799,
+   "lng": 139.8037844,
+   "address": "東京都墨田区向島１丁目３",
+   "access": "本所吾妻橋駅から北へ約360m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01906/"
   },
   {
    "name": "『明治百年記念』",
@@ -12784,6 +13588,42 @@
    "url": "https://www.memorial-object.jp/00584/"
   },
   {
+   "name": "『暦塚』",
+   "lat": 35.7120017,
+   "lng": 139.7712122,
+   "address": "東京都台東区上野公園２",
+   "access": "京成上野駅から北西へ約240m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01780/"
+  },
+  {
+   "name": "『曳舟川の由来』",
+   "lat": 35.7107224,
+   "lng": 139.8085865,
+   "address": "東京都墨田区押上２丁目１",
+   "access": "とうきょうスカイツリー駅から西へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01907/"
+  },
+  {
+   "name": "『最中堂秋耳句碑』",
+   "lat": 35.7241385,
+   "lng": 139.8161197,
+   "address": "東京都墨田区東向島３丁目１９",
+   "access": "東向島駅から西へ約290m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01908/"
+  },
+  {
    "name": "『最初のアメリカ公使宿館跡』",
    "lat": 35.6534934,
    "lng": 139.7332403,
@@ -12820,6 +13660,18 @@
    "url": "https://www.memorial-object.jp/00628/"
   },
   {
+   "name": "『月の松』",
+   "lat": 35.7126008,
+   "lng": 139.7733694,
+   "address": "東京都台東区上野公園１",
+   "access": "京成上野駅から北へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01781/"
+  },
+  {
    "name": "『月山大神』",
    "lat": 35.6982869,
    "lng": 139.4939346,
@@ -12830,6 +13682,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00681/"
+  },
+  {
+   "name": "『月岡芳年翁之碑』",
+   "lat": 35.7241801,
+   "lng": 139.8160178,
+   "address": "東京都墨田区東向島３丁目１９",
+   "access": "東向島駅から西へ約300m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01909/"
   },
   {
    "name": "『有栖川たる仁しんおうの銅像』",
@@ -12880,6 +13744,18 @@
    "url": "https://www.memorial-object.jp/01478/"
   },
   {
+   "name": "『木の実ナナ』",
+   "lat": 35.7178727,
+   "lng": 139.808796,
+   "address": "東京都墨田区向島５丁目１",
+   "access": "曳舟駅から西へ約720m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01910/"
+  },
+  {
    "name": "『木曽一里塚』",
    "lat": 35.5664074,
    "lng": 139.4218661,
@@ -12890,6 +13766,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00664/"
+  },
+  {
+   "name": "『木遣音頭碑』",
+   "lat": 35.7151436,
+   "lng": 139.8063343,
+   "address": "東京都墨田区向島２丁目５",
+   "access": "とうきょうスカイツリー駅から北西へ約650m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01911/"
   },
   {
    "name": "『未来カプセル』",
@@ -12914,6 +13802,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00869/"
+  },
+  {
+   "name": "『杉谷雪撨芦雁画碑』",
+   "lat": 35.7239307,
+   "lng": 139.8160952,
+   "address": "東京都墨田区東向島３丁目１９",
+   "access": "東向島駅から西へ約290m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01912/"
   },
   {
    "name": "『村瀬春雄先生像』",
@@ -13000,6 +13900,18 @@
    "url": "https://www.memorial-object.jp/00773/"
   },
   {
+   "name": "『東京オリンピック』",
+   "lat": 35.6902985,
+   "lng": 139.8095568,
+   "address": "東京都墨田区江東橋５丁目９",
+   "access": "菊川駅から北東へ約370m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01913/"
+  },
+  {
    "name": "『東京オリンピック競歩折返点』",
    "lat": 35.672622,
    "lng": 139.484491,
@@ -13010,6 +13922,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00428/"
+  },
+  {
+   "name": "『東京七面山』",
+   "lat": 35.7230856,
+   "lng": 139.7684409,
+   "address": "東京都台東区谷中４丁目２",
+   "access": "千駄木駅から南東へ約540m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01782/"
   },
   {
    "name": "『東京住友ビルディング建設地』",
@@ -13048,6 +13972,18 @@
    "url": "https://www.memorial-object.jp/01617/"
   },
   {
+   "name": "『東京市碑』",
+   "lat": 35.7241589,
+   "lng": 139.815059,
+   "address": "東京都墨田区東向島３丁目１８",
+   "access": "東向島駅から西へ約380m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01914/"
+  },
+  {
    "name": "『東京市道路元標』",
    "lat": 35.6844522,
    "lng": 139.7743817,
@@ -13082,6 +14018,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01306/"
+  },
+  {
+   "name": "『東京百年記念植樹』",
+   "lat": 35.6996512,
+   "lng": 139.7830164,
+   "address": "東京都台東区浅草橋５丁目１",
+   "access": "浅草橋駅から北西へ約290m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01783/"
+  },
+  {
+   "name": "『東京空襲犠牲者を追悼し平和を記念する碑』",
+   "lat": 35.6994625,
+   "lng": 139.7964468,
+   "address": "東京都墨田区横網２丁目３",
+   "access": "両国駅から北へ約300m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01915/"
   },
   {
    "name": "『東京農業大学　開校の地』",
@@ -13180,6 +14140,18 @@
    "url": "https://www.memorial-object.jp/01186/"
   },
   {
+   "name": "『東北・上越新幹線上野駅開業記念』",
+   "lat": 35.7111378,
+   "lng": 139.7750925,
+   "address": "東京都台東区上野６丁目１２",
+   "access": "上野駅から南西へ約110m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01784/"
+  },
+  {
    "name": "『東南口』",
    "lat": 35.6896145,
    "lng": 139.7015889,
@@ -13228,6 +14200,18 @@
    "url": "https://www.memorial-object.jp/01547/"
   },
   {
+   "name": "『杵屋六三郎之碑』",
+   "lat": 35.7194664,
+   "lng": 139.7664061,
+   "address": "東京都台東区谷中１丁目３",
+   "access": "根津駅から北へ約240m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01785/"
+  },
+  {
    "name": "『松前重義先生像』",
    "lat": 35.6727728,
    "lng": 139.3568245,
@@ -13238,6 +14222,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00585/"
+  },
+  {
+   "name": "『松尾芭蕉の句碑』",
+   "lat": 35.7134836,
+   "lng": 139.7973448,
+   "address": "東京都台東区浅草２丁目２",
+   "access": "浅草駅から北西へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01786/"
   },
   {
    "name": "『松島小学校跡』",
@@ -13262,6 +14258,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04493/"
+  },
+  {
+   "name": "『松本翠影 句碑』",
+   "lat": 35.7125897,
+   "lng": 139.7737178,
+   "address": "東京都台東区上野公園１",
+   "access": "京成上野駅から北へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01787/"
   },
   {
    "name": "『松田甲斎墓』",
@@ -13324,6 +14332,18 @@
    "url": "https://www.memorial-object.jp/00476/"
   },
   {
+   "name": "『柳北小学校の碑』",
+   "lat": 35.6996701,
+   "lng": 139.7829446,
+   "address": "東京都台東区浅草橋５丁目１",
+   "access": "浅草橋駅から北西へ約300m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01788/"
+  },
+  {
    "name": "『柳橋』",
    "lat": 35.6949824,
    "lng": 139.7875949,
@@ -13360,6 +14380,18 @@
    "url": "https://www.memorial-object.jp/01309/"
   },
   {
+   "name": "『校歌の碑』",
+   "lat": 35.7014859,
+   "lng": 139.7780824,
+   "address": "東京都台東区台東１丁目２５",
+   "access": "秋葉原駅から北東へ約410m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01789/"
+  },
+  {
    "name": "『校舎改築記念』",
    "lat": 35.658743,
    "lng": 139.7571524,
@@ -13394,6 +14426,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01204/"
+  },
+  {
+   "name": "『根岸小学校発祥の地』",
+   "lat": 35.7239861,
+   "lng": 139.7818387,
+   "address": "東京都台東区根岸３丁目２２",
+   "access": "鶯谷駅から北東へ約430m",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01790/"
   },
   {
    "name": "『根川貝殻坂橋について』",
@@ -13600,6 +14644,30 @@
    "url": "https://www.memorial-object.jp/01096/"
   },
   {
+   "name": "『榧樹碑』",
+   "lat": 35.7148231,
+   "lng": 139.7972304,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北へ約330m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01791/"
+  },
+  {
+   "name": "『樋口一葉』",
+   "lat": 35.7269053,
+   "lng": 139.7902191,
+   "address": "東京都台東区竜泉２丁目１９",
+   "access": "三ノ輪駅から南へ約310m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01792/"
+  },
+  {
    "name": "『樋口一葉終焉の地』",
    "lat": 35.7135089,
    "lng": 139.7526032,
@@ -13634,6 +14702,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00870/"
+  },
+  {
+   "name": "『横綱千代の富士像』",
+   "lat": 35.7192985,
+   "lng": 139.7672168,
+   "address": "東京都台東区谷中１丁目２",
+   "access": "根津駅から北東へ約250m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01793/"
   },
   {
    "name": "『樹木石』",
@@ -13694,6 +14774,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00197_1.jpg",
    "url": "https://www.memorial-object.jp/00197/"
+  },
+  {
+   "name": "『正岡子規文学碑』",
+   "lat": 35.719955,
+   "lng": 139.7829173,
+   "address": "東京都台東区下谷１丁目１２",
+   "access": "入谷駅から南西へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01794/"
   },
   {
    "name": "『正雪地蔵尊』",
@@ -13816,6 +14908,18 @@
    "url": "https://www.memorial-object.jp/04408/"
   },
   {
+   "name": "『殉職碑』",
+   "lat": 35.7259416,
+   "lng": 139.7729249,
+   "address": "東京都台東区谷中７丁目１１",
+   "access": "日暮里駅から南東へ約320m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01795/"
+  },
+  {
    "name": "『殉難の碑』",
    "lat": 34.2628404,
    "lng": 133.5705292,
@@ -13850,6 +14954,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00665/"
+  },
+  {
+   "name": "『母子地蔵』",
+   "lat": 35.7136882,
+   "lng": 139.7968875,
+   "address": "東京都台東区浅草２丁目２",
+   "access": "浅草駅から北西へ約230m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01796/"
   },
   {
    "name": "『毘沙門天』",
@@ -13910,6 +15026,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04495/"
+  },
+  {
+   "name": "『水原の白鳥の像』",
+   "lat": 35.713793,
+   "lng": 139.7712047,
+   "address": "東京都台東区上野公園３",
+   "access": "京成上野駅から北西へ約380m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01797/"
   },
   {
    "name": "『水子供養地蔵尊』",
@@ -14068,6 +15196,30 @@
    "url": "https://www.memorial-object.jp/01312/"
   },
   {
+   "name": "『沙竭羅竜王像』",
+   "lat": 35.7143761,
+   "lng": 139.7967961,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北西へ約300m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01798/"
+  },
+  {
+   "name": "『河童』",
+   "lat": 35.7178651,
+   "lng": 139.8031411,
+   "address": "東京都台東区今戸１丁目６",
+   "access": "浅草駅から北東へ約780m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01799/"
+  },
+  {
    "name": "『河童の三平池』",
    "lat": 35.6538881,
    "lng": 139.5380207,
@@ -14078,6 +15230,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00456/"
+  },
+  {
+   "name": "『河竹黙阿弥顕彰碑』",
+   "lat": 35.714755,
+   "lng": 139.797252,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北へ約330m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01800/"
   },
   {
    "name": "『沼田の歌』",
@@ -14297,6 +15461,42 @@
    "url": "https://www.memorial-object.jp/01484/"
   },
   {
+   "name": "『浅草・鳥越きりしたん殉教記念碑』",
+   "lat": 35.7014476,
+   "lng": 139.7818929,
+   "address": "東京都台東区浅草橋５丁目１９",
+   "access": "浅草橋駅から北西へ約510m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01801/"
+  },
+  {
+   "name": "『浅草文庫跡』",
+   "lat": 35.700135,
+   "lng": 139.7889736,
+   "address": "東京都台東区蔵前１丁目４",
+   "access": "蔵前駅から南西へ約380m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01802/"
+  },
+  {
+   "name": "『浅草迷子しらせ石標』",
+   "lat": 35.7143147,
+   "lng": 139.7965224,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北西へ約310m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01803/"
+  },
+  {
    "name": "『浅野内匠頭邸跡』",
    "lat": 35.6674286,
    "lng": 139.7750524,
@@ -14393,6 +15593,30 @@
    "url": "https://www.memorial-object.jp/01023/"
   },
   {
+   "name": "『添田啞蟬坊碑』",
+   "lat": 35.7135354,
+   "lng": 139.7974495,
+   "address": "東京都台東区浅草２丁目２",
+   "access": "浅草駅から北西へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01804/"
+  },
+  {
+   "name": "『清平橋の由来』",
+   "lat": 35.6990767,
+   "lng": 139.8086251,
+   "address": "東京都墨田区錦糸１丁目１６",
+   "access": "錦糸町駅から北西へ約550m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01916/"
+  },
+  {
    "name": "『清水坂』",
    "lat": 35.7032486,
    "lng": 139.7668701,
@@ -14465,6 +15689,18 @@
    "url": "https://www.memorial-object.jp/00382/"
   },
   {
+   "name": "『渥美清』",
+   "lat": 35.711364,
+   "lng": 139.7733955,
+   "address": "東京都台東区上野公園１",
+   "access": "京成上野駅から北へ約50m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01805/"
+  },
+  {
    "name": "『港区立神明小学校』",
    "lat": 35.6587758,
    "lng": 139.7566514,
@@ -14499,6 +15735,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04554/"
+  },
+  {
+   "name": "『溶解した鉄柱』",
+   "lat": 35.6995304,
+   "lng": 139.7969891,
+   "address": "東京都墨田区横網２丁目３",
+   "access": "両国駅から北へ約300m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01917/"
   },
   {
    "name": "『溺死三十三霊之塔』",
@@ -14583,6 +15831,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01403/"
+  },
+  {
+   "name": "『潮入茶屋』",
+   "lat": 35.6986408,
+   "lng": 139.7933529,
+   "address": "東京都墨田区横網１丁目１２",
+   "access": "両国駅から北へ約310m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01918/"
   },
   {
    "name": "『濠北方面戦没者慰霊碑』",
@@ -14705,6 +15965,18 @@
    "url": "https://www.memorial-object.jp/00189/"
   },
   {
+   "name": "『燈籠奉納記念』",
+   "lat": 35.6979556,
+   "lng": 139.793998,
+   "address": "東京都墨田区横網１丁目１２",
+   "access": "両国駅から北へ約250m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01919/"
+  },
+  {
    "name": "『片岡駅90周年の歌碑』",
    "lat": 36.754454998266255,
    "lng": 139.94558926959667,
@@ -14729,6 +16001,18 @@
    "url": "https://www.memorial-object.jp/00429/"
   },
   {
+   "name": "『牛嶋神社旧趾』",
+   "lat": 35.7174826,
+   "lng": 139.8084119,
+   "address": "東京都墨田区向島５丁目１",
+   "access": "曳舟駅から西へ約760m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01920/"
+  },
+  {
    "name": "『牛浜橋』",
    "lat": 35.7326719,
    "lng": 139.3299289,
@@ -14751,6 +16035,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01551/"
+  },
+  {
+   "name": "『牡丹橋親柱モニュメント』",
+   "lat": 35.6928034,
+   "lng": 139.8131799,
+   "address": "東京都墨田区江東橋５丁目１５",
+   "access": "錦糸町駅から南西へ約420m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01921/"
   },
   {
    "name": "『特別名勝 栗林公園』",
@@ -15041,6 +16337,18 @@
    "url": "https://www.memorial-object.jp/00803/"
   },
   {
+   "name": "『玉川兄弟顕彰碑』",
+   "lat": 35.7125872,
+   "lng": 139.7866199,
+   "address": "東京都台東区松が谷２丁目３",
+   "access": "稲荷町駅から東へ約380m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01806/"
+  },
+  {
    "name": "『玉藻公園』",
    "lat": 34.351477,
    "lng": 134.0493339,
@@ -15063,6 +16371,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04410/"
+  },
+  {
+   "name": "『王仁博士の碑』",
+   "lat": 35.7127377,
+   "lng": 139.7738626,
+   "address": "東京都台東区上野公園１",
+   "access": "京成上野駅から北へ約200m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01807/"
+  },
+  {
+   "name": "『現龍院墓地 哀しみの東京大空襲』",
+   "lat": 35.7178618,
+   "lng": 139.7789017,
+   "address": "東京都台東区上野公園１６",
+   "access": "鶯谷駅から南へ約440m",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01808/"
   },
   {
    "name": "『琴古流尺八顕彰碑』",
@@ -15111,6 +16443,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01037/"
+  },
+  {
+   "name": "『瓜生岩子之像』",
+   "lat": 35.7145895,
+   "lng": 139.7955559,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から東へ約300m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01809/"
   },
   {
    "name": "『瓢孤肅々』",
@@ -15462,6 +16806,18 @@
   },
   {
    "name": "『百度石』",
+   "lat": 35.7145781,
+   "lng": 139.7973248,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北へ約310m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01810/"
+  },
+  {
+   "name": "『百度石』",
    "lat": 35.7199999,
    "lng": 139.7606008,
    "address": "東京都文京区根津１丁目２８",
@@ -15653,6 +17009,18 @@
    "url": "https://www.memorial-object.jp/00878/"
   },
   {
+   "name": "『益賀句碑』",
+   "lat": 35.7243019,
+   "lng": 139.8150734,
+   "address": "東京都墨田区東向島３丁目１８",
+   "access": "東向島駅から西へ約380m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01922/"
+  },
+  {
    "name": "『盤渉』",
    "lat": 34.2869498,
    "lng": 134.027618,
@@ -15701,6 +17069,18 @@
    "url": "https://www.memorial-object.jp/01409/"
   },
   {
+   "name": "『真友乃碑』",
+   "lat": 35.7120062,
+   "lng": 139.7713304,
+   "address": "東京都台東区上野公園２",
+   "access": "京成上野駅から北西へ約230m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01811/"
+  },
+  {
    "name": "『真言宗 屋嶋寺』",
    "lat": 34.3567564,
    "lng": 134.1012087,
@@ -15735,6 +17115,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00691/"
+  },
+  {
+   "name": "『矢田慧哉翁句碑』",
+   "lat": 35.7242827,
+   "lng": 139.8160219,
+   "address": "東京都墨田区東向島３丁目１８",
+   "access": "東向島駅から西へ約300m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01923/"
   },
   {
    "name": "『矢野二郎先生像』",
@@ -15905,6 +17297,18 @@
    "url": "https://www.memorial-object.jp/01191/"
   },
   {
+   "name": "『石原町町会』",
+   "lat": 35.6997253,
+   "lng": 139.7962087,
+   "address": "東京都墨田区横網２丁目３",
+   "access": "両国駅から北へ約340m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01924/"
+  },
+  {
    "name": "『石原裕次郎記念碑』",
    "lat": 35.27278302554984,
    "lng": 139.5691531157886,
@@ -15929,6 +17333,18 @@
    "url": "https://www.memorial-object.jp/00432/"
   },
   {
+   "name": "『石塚稲荷神社』",
+   "lat": 35.6967813,
+   "lng": 139.7886389,
+   "address": "東京都台東区柳橋１丁目１６",
+   "access": "浅草橋駅から東へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01812/"
+  },
+  {
    "name": "『石岡ステーションパークカラクリ時計』",
    "lat": 36.190399709865034,
    "lng": 140.27992082380726,
@@ -15940,6 +17356,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/04/00081_karakuri1.png",
    "url": "https://www.memorial-object.jp/00081_karakuri/"
+  },
+  {
+   "name": "『石川啄木』",
+   "lat": 35.7113551,
+   "lng": 139.7751749,
+   "address": "東京都台東区上野６丁目１４",
+   "access": "上野駅から南西へ約100m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01813/"
   },
   {
    "name": "『石川啄木の碑』",
@@ -16024,6 +17452,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00884/"
+  },
+  {
+   "name": "『石灯籠』",
+   "lat": 35.7148066,
+   "lng": 139.7955116,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北東へ約310m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01814/"
   },
   {
    "name": "『石神井谷原上練馬貫井郷境新設道路記念』",
@@ -16194,6 +17634,18 @@
    "url": "https://www.memorial-object.jp/00221/"
   },
   {
+   "name": "『祝日には国旗を戸毎に掲げませう』",
+   "lat": 35.7109418,
+   "lng": 139.7812548,
+   "address": "東京都台東区東上野３丁目２９",
+   "access": "稲荷町駅から西へ約140m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01815/"
+  },
+  {
    "name": "『神』",
    "lat": 35.6650184,
    "lng": 139.7408679,
@@ -16350,6 +17802,18 @@
    "url": "https://www.memorial-object.jp/00072_sakeshima3/"
   },
   {
+   "name": "『福助 お福』",
+   "lat": 35.7179698,
+   "lng": 139.8030948,
+   "address": "東京都台東区今戸１丁目６",
+   "access": "浅草駅から北東へ約790m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01816/"
+  },
+  {
    "name": "『福寿円満八大龍王』",
    "lat": 35.6258634,
    "lng": 139.2505038,
@@ -16372,6 +17836,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01493/"
+  },
+  {
+   "name": "『福禄寿』",
+   "lat": 35.7200451,
+   "lng": 139.7827685,
+   "address": "東京都台東区下谷１丁目１２",
+   "access": "入谷駅から南西へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01817/"
   },
   {
    "name": "『福禄寿』",
@@ -16420,6 +17896,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04414/"
+  },
+  {
+   "name": "『福禄寿尊』",
+   "lat": 35.7242697,
+   "lng": 139.8151053,
+   "address": "東京都墨田区東向島３丁目１８",
+   "access": "東向島駅から西へ約380m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01925/"
+  },
+  {
+   "name": "『秋色桜 句碑』",
+   "lat": 35.7124506,
+   "lng": 139.773648,
+   "address": "東京都台東区上野公園１",
+   "access": "京成上野駅から北へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01818/"
   },
   {
    "name": "『稚子橋の碑』",
@@ -16660,6 +18160,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00144_1.png",
    "url": "https://www.memorial-object.jp/00144/"
+  },
+  {
+   "name": "『笠森阿仙乃碑』",
+   "lat": 35.7245536,
+   "lng": 139.7657201,
+   "address": "東京都台東区谷中３丁目１",
+   "access": "千駄木駅から南東へ約250m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01819/"
   },
   {
    "name": "『第10番札所(爺神山ミニ四国八十八ヶ所)』",
@@ -17791,6 +19303,18 @@
    "url": "https://www.memorial-object.jp/04415/"
   },
   {
+   "name": "『算学塚』",
+   "lat": 35.7227456,
+   "lng": 139.8162858,
+   "address": "東京都墨田区東向島３丁目２３",
+   "access": "東向島駅から南西へ約320m",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01926/"
+  },
+  {
    "name": "『箱根山 陸軍戸山學校址』",
    "lat": 35.70376,
    "lng": 139.7138777,
@@ -17849,6 +19373,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00698/"
+  },
+  {
+   "name": "『粧太夫碑』",
+   "lat": 35.714518,
+   "lng": 139.7974716,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北へ約300m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01820/"
   },
   {
    "name": "『糸より濱の大漁恵比寿像』",
@@ -18031,6 +19567,18 @@
    "url": "https://www.memorial-object.jp/01648/"
   },
   {
+   "name": "『纏』",
+   "lat": 35.7329083,
+   "lng": 139.813577,
+   "address": "東京都墨田区堤通２丁目２",
+   "access": "鐘ヶ淵駅から西へ約630m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01927/"
+  },
+  {
    "name": "『義勇奉公』",
    "lat": 34.2868927,
    "lng": 134.0275725,
@@ -18055,6 +19603,18 @@
    "url": "https://www.memorial-object.jp/01008/"
   },
   {
+   "name": "『老挙の句碑』",
+   "lat": 35.7148709,
+   "lng": 139.796237,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から東へ約370m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01821/"
+  },
+  {
    "name": "『耕地整理記念碑』",
    "lat": 34.205393,
    "lng": 133.705338,
@@ -18077,6 +19637,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01494/"
+  },
+  {
+   "name": "『聖観世音菩薩尊蔵』",
+   "lat": 35.7236303,
+   "lng": 139.7876429,
+   "address": "東京都台東区竜泉１丁目１５",
+   "access": "入谷駅から北東へ約430m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01822/"
   },
   {
    "name": "『聚福之水』",
@@ -18115,6 +19687,18 @@
    "url": "https://www.memorial-object.jp/00781/"
   },
   {
+   "name": "『背面地蔵尊』",
+   "lat": 35.7289411,
+   "lng": 139.7902676,
+   "address": "東京都台東区根岸５丁目１８",
+   "access": "三ノ輪駅から南西へ約120m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01823/"
+  },
+  {
    "name": "『自転車ゆりーと像』",
    "lat": 35.7927282,
    "lng": 139.0479871,
@@ -18125,6 +19709,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01048/"
+  },
+  {
+   "name": "『至誠勤倹』",
+   "lat": 35.697907,
+   "lng": 139.7937318,
+   "address": "東京都墨田区横網１丁目１１",
+   "access": "両国駅から北へ約240m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01928/"
   },
   {
    "name": "『舞姫』",
@@ -18139,6 +19735,18 @@
    "url": "https://www.memorial-object.jp/01649/"
   },
   {
+   "name": "『良き友 良き仕事 良き縁を結ぶ 地蔵尊』",
+   "lat": 35.7085042,
+   "lng": 139.7745949,
+   "address": "東京都台東区上野４丁目６",
+   "access": "上野御徒町駅から北東へ約130m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01824/"
+  },
+  {
    "name": "『芝公園十時体地蔵尊』",
    "lat": 35.659315,
    "lng": 139.747124,
@@ -18149,6 +19757,54 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01495/"
+  },
+  {
+   "name": "『芝金顕彰碑』",
+   "lat": 35.7242491,
+   "lng": 139.8161304,
+   "address": "東京都墨田区東向島３丁目１９",
+   "access": "東向島駅から西へ約290m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01929/"
+  },
+  {
+   "name": "『芥川龍之介成育の地』",
+   "lat": 35.6944184,
+   "lng": 139.7938552,
+   "address": "東京都墨田区両国３丁目２２",
+   "access": "両国駅から南東へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01930/"
+  },
+  {
+   "name": "『芭蕉「こんにゃく」の句碑』",
+   "lat": 35.7245334,
+   "lng": 139.815576,
+   "address": "東京都墨田区東向島３丁目１８",
+   "access": "東向島駅から西へ約340m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01931/"
+  },
+  {
+   "name": "『芭蕉「春もやや」の句碑』",
+   "lat": 35.7243057,
+   "lng": 139.8150608,
+   "address": "東京都墨田区東向島３丁目１６",
+   "access": "東向島駅から西へ約380m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01932/"
   },
   {
    "name": "『芭蕉句碑』",
@@ -18175,6 +19831,18 @@
    "url": "https://www.memorial-object.jp/00594/"
   },
   {
+   "name": "『芭蕉翁』",
+   "lat": 35.7121321,
+   "lng": 139.7715618,
+   "address": "東京都台東区上野公園２",
+   "access": "京成上野駅から北西へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01825/"
+  },
+  {
    "name": "『花ことば』",
    "lat": 35.736396899999995,
    "lng": 140.26987789999998,
@@ -18185,6 +19853,30 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00264_1.jpg",
    "url": "https://www.memorial-object.jp/00264/"
+  },
+  {
+   "name": "『花吉原名残碑』",
+   "lat": 35.7218283,
+   "lng": 139.7932657,
+   "address": "東京都台東区千束３丁目２２",
+   "access": "入谷駅から東へ約790m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01826/"
+  },
+  {
+   "name": "『花塚』",
+   "lat": 35.7147484,
+   "lng": 139.7972234,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北へ約330m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01827/"
   },
   {
    "name": "『苗村又右衛門翁像』",
@@ -18355,6 +20047,18 @@
    "url": "https://www.memorial-object.jp/00252/"
   },
   {
+   "name": "『葛飾北斎翁』",
+   "lat": 35.7098494,
+   "lng": 139.785341,
+   "address": "東京都台東区元浅草４丁目６",
+   "access": "稲荷町駅から南東へ約290m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01828/"
+  },
+  {
    "name": "『葦毛塚』",
    "lat": 35.639171,
    "lng": 139.6865406,
@@ -18389,6 +20093,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04567/"
+  },
+  {
+   "name": "『蓬莱園跡』",
+   "lat": 35.6999564,
+   "lng": 139.7821838,
+   "address": "東京都台東区浅草橋５丁目７",
+   "access": "浅草橋駅から北西へ約360m",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01829/"
+  },
+  {
+   "name": "『蔵前水の館』",
+   "lat": 35.7016508,
+   "lng": 139.7913627,
+   "address": "東京都台東区蔵前２丁目１",
+   "access": "蔵前駅から南へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01830/"
   },
   {
    "name": "『蔵魄塔・関東大震災殃死者慰霊塔』",
@@ -18557,6 +20285,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01223/"
+  },
+  {
+   "name": "『西仏板碑』",
+   "lat": 35.7148682,
+   "lng": 139.7961862,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から東へ約370m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01832/"
   },
   {
    "name": "『西国霊場第一番』",
@@ -18967,6 +20707,18 @@
    "url": "https://www.memorial-object.jp/01653/"
   },
   {
+   "name": "『見守り地蔵』",
+   "lat": 35.7037788,
+   "lng": 139.7889019,
+   "address": "東京都台東区蔵前４丁目１５",
+   "access": "蔵前駅から西へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01833/"
+  },
+  {
    "name": "『見晴』",
    "lat": 35.6527851,
    "lng": 139.2531198,
@@ -18977,6 +20729,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00916/"
+  },
+  {
+   "name": "『見返り柳』",
+   "lat": 35.7244557,
+   "lng": 139.7972581,
+   "address": "東京都台東区東浅草２丁目１０−８",
+   "access": "三ノ輪駅から南東へ約780m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01834/"
   },
   {
    "name": "『親と子 未来へ』",
@@ -19051,6 +20815,18 @@
    "url": "https://www.memorial-object.jp/01654/"
   },
   {
+   "name": "『観音』",
+   "lat": 35.7136021,
+   "lng": 139.7970007,
+   "address": "東京都台東区浅草２丁目２",
+   "access": "浅草駅から北西へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01835/"
+  },
+  {
    "name": "『観音像』",
    "lat": 35.6070039,
    "lng": 139.4459638,
@@ -19061,6 +20837,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00670/"
+  },
+  {
+   "name": "『観音菩薩像』",
+   "lat": 35.7262469,
+   "lng": 139.7702172,
+   "address": "東京都台東区谷中７丁目１６",
+   "access": "日暮里駅から南へ約210m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01836/"
   },
   {
    "name": "『観音菩薩立像』",
@@ -20995,6 +22783,18 @@
    "url": "https://www.memorial-object.jp/00917/"
   },
   {
+   "name": "『身代り地蔵尊』",
+   "lat": 35.7238199,
+   "lng": 139.7828162,
+   "address": "東京都台東区根岸３丁目２０",
+   "access": "入谷駅から北西へ約380m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01837/"
+  },
+  {
    "name": "『身代わり地蔵尊』",
    "lat": 35.7259195,
    "lng": 139.7549757,
@@ -21089,6 +22889,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00458/"
+  },
+  {
+   "name": "『道灌稲荷跡』",
+   "lat": 35.7175704,
+   "lng": 139.8029102,
+   "address": "東京都台東区浅草７丁目４",
+   "access": "浅草駅から北東へ約750m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01838/"
   },
   {
    "name": "『道玄霊園』",
@@ -21271,6 +23083,18 @@
    "url": "https://www.memorial-object.jp/01179/"
   },
   {
+   "name": "『都々逸塚』",
+   "lat": 35.7135251,
+   "lng": 139.7974699,
+   "address": "東京都台東区浅草２丁目２",
+   "access": "浅草駅から北西へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01839/"
+  },
+  {
    "name": "『都旧跡 北町奉行所跡』",
    "lat": 35.6815676,
    "lng": 139.769531,
@@ -21329,6 +23153,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00964/"
+  },
+  {
+   "name": "『釈迦如来坐像』",
+   "lat": 35.7266769,
+   "lng": 139.7709396,
+   "address": "東京都台東区谷中７丁目１４",
+   "access": "日暮里駅から南へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01840/"
   },
   {
    "name": "『里程標』",
@@ -21401,6 +23237,42 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00926/"
+  },
+  {
+   "name": "『金翠翁の句碑』",
+   "lat": 35.7148222,
+   "lng": 139.796078,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から東へ約360m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01841/"
+  },
+  {
+   "name": "『金龍像』",
+   "lat": 35.71116,
+   "lng": 139.796325,
+   "address": "東京都台東区浅草１丁目１８",
+   "access": "浅草駅から西へ約140m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01842/"
+  },
+  {
+   "name": "『釘供養塔』",
+   "lat": 35.7156699,
+   "lng": 139.796342,
+   "address": "東京都台東区浅草２丁目３０",
+   "access": "浅草駅から北東へ約420m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01843/"
   },
   {
    "name": "『針供養塚』",
@@ -21523,6 +23395,42 @@
    "url": "https://www.memorial-object.jp/01418/"
   },
   {
+   "name": "『銅造宝篋印塔』",
+   "lat": 35.7147248,
+   "lng": 139.7962829,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北西へ約360m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01844/"
+  },
+  {
+   "name": "『銅造観音菩薩坐像』",
+   "lat": 35.7147635,
+   "lng": 139.7959917,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から東へ約350m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01845/"
+  },
+  {
+   "name": "『銅造阿弥陀如来坐像』",
+   "lat": 35.7146378,
+   "lng": 139.796271,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北西へ約350m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01846/"
+  },
+  {
    "name": "『銭形平次』",
    "lat": 35.7020795,
    "lng": 139.7681791,
@@ -21533,6 +23441,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01339/"
+  },
+  {
+   "name": "『錦絵開祖鈴木春信』",
+   "lat": 35.724471,
+   "lng": 139.7656929,
+   "address": "東京都台東区谷中３丁目１",
+   "access": "千駄木駅から南東へ約250m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01847/"
   },
   {
    "name": "『鎌倉古道』",
@@ -21811,6 +23731,18 @@
    "url": "https://www.memorial-object.jp/04863/"
   },
   {
+   "name": "『阿弥陀如来像』",
+   "lat": 35.7136567,
+   "lng": 139.7970631,
+   "address": "東京都台東区浅草２丁目２",
+   "access": "浅草駅から北西へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01848/"
+  },
+  {
    "name": "『阿形』",
    "lat": 35.7203793,
    "lng": 139.7267725,
@@ -21943,6 +23875,18 @@
    "url": "https://www.memorial-object.jp/00404/"
   },
   {
+   "name": "『雀より鶯多き根岸哉 子規』",
+   "lat": 35.7238638,
+   "lng": 139.7787094,
+   "address": "東京都台東区根岸３丁目９",
+   "access": "鶯谷駅から北へ約250m",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01849/"
+  },
+  {
    "name": "『雪おんな縁の地』",
    "lat": 35.7843401,
    "lng": 139.2649846,
@@ -21953,6 +23897,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00631/"
+  },
+  {
+   "name": "『雷神』",
+   "lat": 35.7111074,
+   "lng": 139.7964151,
+   "address": "東京都台東区浅草１丁目１８",
+   "access": "浅草駅から西へ約130m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01850/"
   },
   {
    "name": "『雷電稲荷神社』",
@@ -22061,6 +24017,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00228_1.jpg",
    "url": "https://www.memorial-object.jp/00228/"
+  },
+  {
+   "name": "『青蛙神像』",
+   "lat": 35.7145279,
+   "lng": 139.7954728,
+   "address": "東京都台東区浅草２丁目７",
+   "access": "浅草駅から東へ約290m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01851/"
   },
   {
    "name": "『青面金剛庚申像』",
@@ -22207,6 +24175,18 @@
    "url": "https://www.memorial-object.jp/04569/"
   },
   {
+   "name": "『風神』",
+   "lat": 35.7111127,
+   "lng": 139.7963209,
+   "address": "東京都台東区浅草１丁目１８",
+   "access": "浅草駅から西へ約140m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01852/"
+  },
+  {
    "name": "『飛燕』",
    "lat": 35.6765065,
    "lng": 139.5284734,
@@ -22241,6 +24221,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00210_1.jpg",
    "url": "https://www.memorial-object.jp/00210/"
+  },
+  {
+   "name": "『飯匙祖師』",
+   "lat": 35.7229687,
+   "lng": 139.7683744,
+   "address": "東京都台東区谷中４丁目２",
+   "access": "千駄木駅から南東へ約540m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01853/"
   },
   {
    "name": "『飯塚正兵衛翁』",
@@ -22879,6 +24871,18 @@
    "url": "https://www.memorial-object.jp/04502/"
   },
   {
+   "name": "『高橋尚子 (マラソン)』",
+   "lat": 35.7113381,
+   "lng": 139.7733995,
+   "address": "東京都台東区上野公園１",
+   "access": "京成上野駅から北へ約50m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01854/"
+  },
+  {
    "name": "『高橋是清翁像』",
    "lat": 35.673461,
    "lng": 139.7292548,
@@ -22961,6 +24965,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00460/"
+  },
+  {
+   "name": "『魂針供養之塔』",
+   "lat": 35.7149584,
+   "lng": 139.7955364,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北東へ約320m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01855/"
+  },
+  {
+   "name": "『魚塚』",
+   "lat": 35.7123834,
+   "lng": 139.7715614,
+   "address": "東京都台東区上野公園２",
+   "access": "京成上野駅から北西へ約240m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01856/"
   },
   {
    "name": "『魚籃坂』",
@@ -23047,6 +25075,18 @@
    "url": "https://www.memorial-object.jp/00061_birds/"
   },
   {
+   "name": "『鳥塚』",
+   "lat": 35.7120096,
+   "lng": 139.7709814,
+   "address": "東京都台東区上野公園２",
+   "access": "京成上野駅から北西へ約260m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01857/"
+  },
+  {
    "name": "『鳥獣供養塔』",
    "lat": 35.7387577,
    "lng": 139.2040863,
@@ -23057,6 +25097,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01029/"
+  },
+  {
+   "name": "『鳩ポッポの歌碑』",
+   "lat": 35.714322,
+   "lng": 139.7964771,
+   "address": "東京都台東区浅草２丁目３",
+   "access": "浅草駅から北西へ約310m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01858/"
+  },
+  {
+   "name": "『鳩塚』",
+   "lat": 35.7133187,
+   "lng": 139.7973713,
+   "address": "東京都台東区浅草２丁目２",
+   "access": "浅草駅から北西へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01859/"
   },
   {
    "name": "『鳩魂塔』",
@@ -23119,6 +25183,18 @@
    "url": "https://www.memorial-object.jp/04429/"
   },
   {
+   "name": "『黒澤明』",
+   "lat": 35.7113467,
+   "lng": 139.7733981,
+   "address": "東京都台東区上野公園１",
+   "access": "京成上野駅から北へ約50m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01860/"
+  },
+  {
    "name": "『黒磯巻狩鍋』",
    "lat": 36.93194224261972,
    "lng": 140.02008253896486,
@@ -23131,6 +25207,18 @@
    "url": "https://www.memorial-object.jp/00054_makigari/"
   },
   {
+   "name": "『黒門小学校校歌』",
+   "lat": 35.7072276,
+   "lng": 139.7709753,
+   "address": "東京都台東区上野１丁目１６",
+   "access": "湯島駅から東へ約90m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01861/"
+  },
+  {
    "name": "『龍社池の地蔵』",
    "lat": 34.2382952,
    "lng": 133.8323027,
@@ -23141,6 +25229,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04595/"
+  },
+  {
+   "name": "『龍郷定雄翁』",
+   "lat": 35.7136195,
+   "lng": 139.7968159,
+   "address": "東京都台東区浅草２丁目２",
+   "access": "浅草駅から北西へ約230m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01862/"
+  },
+  {
+   "name": "『龍門橋碑』",
+   "lat": 35.7099851,
+   "lng": 139.772626,
+   "address": "東京都台東区上野公園２",
+   "access": "京成上野駅から南西へ約130m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01863/"
   },
   {
    "name": "『（「しほの山」の歌と千鳥）』",
@@ -24799,6 +26911,18 @@
    "url": "https://www.memorial-object.jp/00297/"
   },
   {
+   "name": "小倉右一郎『蜜』",
+   "lat": 35.7195396,
+   "lng": 139.7740783,
+   "address": "東京都台東区上野公園",
+   "access": "鶯谷駅から南西へ約420m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01831/"
+  },
+  {
    "name": "小堤良一『響』",
    "lat": 35.7285606,
    "lng": 139.773932,
@@ -26022,18 +28146,6 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01127/"
-  },
-  {
-   "name": "池田政治『マダガスカルの夢』",
-   "lat": 35.7139305,
-   "lng": 139.7693461,
-   "address": "東京都台東区上野公園３",
-   "access": "京成上野駅から北西へ約500m",
-   "categories": [
-    "公園"
-   ],
-   "image": "",
-   "url": "https://www.memorial-object.jp/01074/"
   },
   {
    "name": "池田政治『マダガスカルの夢』",
