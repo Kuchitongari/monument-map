@@ -118,14 +118,24 @@ function pinIcon(color, hasPhoto) {
   });
 }
 
+// データの文字列は HTML として解釈させない(写真提供者の表示名など、外から入力された値が含まれるため)
+function esc(s) {
+  return String(s ?? "").replace(/[&<>"']/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[ch]);
+}
+// リンク先は http(s) だけ(javascript: などは捨てる)
+function safeUrl(u) {
+  return /^https?:\/\//i.test(String(u || "")) ? esc(u) : "#";
+}
+
 function popupHtml(m) {
+  const url = safeUrl(m.url);
   return `<div class="popup">
-    ${m.image ? `<a href="${m.url}" target="_blank"><img src="${m.image}" alt="" loading="lazy"></a>` : ""}
-    <div class="p-name">${m.name}</div>
-    <div class="p-cats">${m.categories.join(" / ")}</div>
-    <div class="p-addr">${m.address}${m.access ? "<br>アクセス: " + m.access : ""}</div>
-    <a class="p-link" href="${m.url}" target="_blank">記事を見る ≫</a>
-    ${m.image ? "" : `<div class="p-ask">📷 写真がまだありません。<a href="${m.url}" target="_blank">記事のフォーム</a>からお寄せいただけます</div>`}
+    ${m.image ? `<a href="${url}" target="_blank"><img src="${safeUrl(m.image)}" alt="" loading="lazy"></a>` : ""}
+    <div class="p-name">${esc(m.name)}</div>
+    <div class="p-cats">${m.categories.map(esc).join(" / ")}</div>
+    <div class="p-addr">${esc(m.address)}${m.access ? "<br>アクセス: " + esc(m.access) : ""}</div>
+    <a class="p-link" href="${url}" target="_blank">記事を見る ≫</a>
+    ${m.image ? "" : `<div class="p-ask">📷 写真がまだありません。<a href="${url}" target="_blank">記事のフォーム</a>からお寄せいただけます</div>`}
   </div>`;
 }
 
@@ -195,8 +205,8 @@ fetch("monuments.json").then(r => r.json()).then(data => {
   if (c && c.photos > 0) {
     const box = document.getElementById("contrib");
     box.hidden = false;
-    box.innerHTML = `📸 これまで <b>${c.people || 0}</b> 人が <b>${c.photos}</b> 枚の写真を提供してくださいました`
-      + (c.names && c.names.length ? `<br><span title="掲載を希望された方">${c.names.join("、")} さん</span>` : "");
+    box.innerHTML = `📸 これまで <b>${esc(c.people || 0)}</b> 人が <b>${esc(c.photos)}</b> 枚の写真を提供してくださいました`
+      + (c.names && c.names.length ? `<br><span title="掲載を希望された方">${c.names.map(esc).join("、")} さん</span>` : "");
   }
   render();
 });
