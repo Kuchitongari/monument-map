@@ -8,8 +8,8 @@
   "photos": 0,
   "names": []
  },
- "generated": "2026-10-10",
- "count": 3236,
+ "generated": "2026-10-11",
+ "count": 3442,
  "items": [
   {
    "name": "ASAO TOKOLO『TOWER OF CONNECT』",
@@ -588,6 +588,18 @@
    "url": "https://www.memorial-object.jp/01672/"
   },
   {
+   "name": "『Atom (Astro) Manhole Cover』",
+   "lat": 35.6973394,
+   "lng": 139.7618919,
+   "address": "東京都千代田区神田駿河台１丁目",
+   "access": "新御茶ノ水駅から西へ約340m",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02927/"
+  },
+  {
    "name": "『Atsukobarouh』",
    "lat": 35.6599093,
    "lng": 139.6950057,
@@ -838,6 +850,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02031/"
+  },
+  {
+   "name": "『JAIB美術館(Memory of EDEN)』",
+   "lat": 35.7005894,
+   "lng": 139.903106,
+   "address": "東京都江戸川区篠崎町６丁目１",
+   "access": "篠崎駅から南へ約610m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02733/"
   },
   {
    "name": "『JEF UNITED』",
@@ -1212,6 +1236,18 @@
    "url": "https://www.memorial-object.jp/01427/"
   },
   {
+   "name": "『Suicaのペンギン』",
+   "lat": 35.6880133,
+   "lng": 139.7013091,
+   "address": "東京都渋谷区千駄ヶ谷５丁目",
+   "access": "新線新宿駅から東へ約200m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02853/"
+  },
+  {
    "name": "『TMC』",
    "lat": 35.6365567,
    "lng": 139.6098874,
@@ -1234,6 +1270,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02356/"
+  },
+  {
+   "name": "『Taito City Health Declaration』",
+   "lat": 35.7188305,
+   "lng": 139.8024706,
+   "address": "東京都台東区今戸１丁目７",
+   "access": "浅草駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02771/"
   },
   {
    "name": "『Taro Misaki (captain tsubasa)』",
@@ -1282,6 +1330,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01239/"
+  },
+  {
+   "name": "『Ultraman gate』",
+   "lat": 35.6547017,
+   "lng": 139.6089899,
+   "address": "東京都世田谷区千歳台２丁目４６",
+   "access": "祖師ヶ谷大蔵駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02817/"
   },
   {
    "name": "『Ultraman』",
@@ -1740,6 +1800,30 @@
    "url": "https://www.memorial-object.jp/01685/"
   },
   {
+   "name": "『いにしへの東海道』",
+   "lat": 35.5816359,
+   "lng": 139.7205228,
+   "address": "東京都大田区中央１丁目１４",
+   "access": "大森駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02805/"
+  },
+  {
+   "name": "『いにしへの東海道』",
+   "lat": 35.5782168,
+   "lng": 139.7159832,
+   "address": "東京都大田区中央４丁目２８",
+   "access": "西馬込駅から約1.3km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02804/"
+  },
+  {
    "name": "『いのはな慰霊の碑』",
    "lat": 35.6397366,
    "lng": 139.2574158,
@@ -1788,6 +1872,18 @@
    "url": "https://www.memorial-object.jp/00555/"
   },
   {
+   "name": "『おもいはせの路』",
+   "lat": 35.6029527,
+   "lng": 139.6404191,
+   "address": "東京都世田谷区野毛２丁目１１",
+   "access": "等々力駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02818/"
+  },
+  {
    "name": "『おりつ地蔵尊』",
    "lat": 35.7568076,
    "lng": 139.8756778,
@@ -1828,7 +1924,7 @@
    "lat": 35.6741283,
    "lng": 139.2658205,
    "address": "東京都八王子市西寺方町３５２",
-   "access": "高尾駅から約3.8km",
+   "access": "高尾駅から直線で約3.8km（最寄りのバス停：小田野中央公園 約40m）",
    "categories": [
     "道路沿い"
    ],
@@ -1956,6 +2052,18 @@
    "url": "https://www.memorial-object.jp/01519/"
   },
   {
+   "name": "『かこい』",
+   "lat": 35.7054067,
+   "lng": 139.6658254,
+   "address": "東京都中野区中野",
+   "access": "中野駅北口付近",
+   "categories": [
+    "駅前"
+   ],
+   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00103_1-300x199.png",
+   "url": "https://www.memorial-object.jp/00103/"
+  },
+  {
    "name": "『かさとりどうし』",
    "lat": 35.7211438,
    "lng": 139.7648592,
@@ -1972,7 +2080,7 @@
    "lat": 35.6707716,
    "lng": 139.270665,
    "address": "東京都八王子市川町",
-   "access": "高尾駅から約3.3km",
+   "access": "高尾駅から直線で約3.3km（最寄りのバス停：タウン中央 約130m）",
    "categories": [
     "公園"
    ],
@@ -2173,6 +2281,18 @@
   },
   {
    "name": "『さざれ石』",
+   "lat": 35.6944903,
+   "lng": 139.7443619,
+   "address": "東京都千代田区九段北３丁目",
+   "access": "九段下駅から西へ約550m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02928/"
+  },
+  {
+   "name": "『さざれ石』",
    "lat": 35.7033134,
    "lng": 139.7715432,
    "address": "東京都千代田区外神田６丁目１４",
@@ -2182,6 +2302,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01259/"
+  },
+  {
+   "name": "『さし石』",
+   "lat": 35.6757886,
+   "lng": 139.8800949,
+   "address": "東京都江戸川区江戸川６丁目４４",
+   "access": "一之江駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02913/"
   },
   {
    "name": "『さぬき十五社 第六番 田村神社』",
@@ -2268,6 +2400,18 @@
    "url": "https://www.memorial-object.jp/01692/"
   },
   {
+   "name": "『しばられ地蔵音頭』",
+   "lat": 35.7794454,
+   "lng": 139.8713759,
+   "address": "東京都葛飾区東水元２丁目２７",
+   "access": "金町駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02897/"
+  },
+  {
    "name": "『しゃりんばい』",
    "lat": 35.6556462,
    "lng": 139.7581339,
@@ -2352,6 +2496,18 @@
    "url": "https://www.memorial-object.jp/02189/"
   },
   {
+   "name": "『そよ風』",
+   "lat": 35.6840503,
+   "lng": 139.7414333,
+   "address": "東京都千代田区麴町２丁目",
+   "access": "半蔵門駅から南へ約130m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02929/"
+  },
+  {
    "name": "『たけくらべ』",
    "lat": 35.587378,
    "lng": 139.6687981,
@@ -2410,6 +2566,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01261/"
+  },
+  {
+   "name": "『だるま石』",
+   "lat": 35.6554471,
+   "lng": 139.7585664,
+   "address": "東京都港区海岸１丁目３",
+   "access": "浜松町駅から東へ約140m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/01433/"
   },
   {
    "name": "『ちどりばしの記憶』",
@@ -2644,7 +2812,7 @@
    "lat": 35.5678703,
    "lng": 139.4458587,
    "address": "東京都町田市本町田",
-   "access": "玉川学園前駅から約1.7km",
+   "access": "玉川学園前駅から直線で約1.7km（最寄りのバス停：ひなた村 約210m）",
    "categories": [
     "公園"
    ],
@@ -2692,7 +2860,7 @@
    "lat": 35.7470693,
    "lng": 139.2551401,
    "address": "東京都西多摩郡日の出町大字平井",
-   "access": "武蔵増戸駅から約1.8km",
+   "access": "武蔵増戸駅から直線で約1.8km（最寄りのバス停：日の出折返場 約520m）",
    "categories": [
     "山林・山道"
    ],
@@ -3132,18 +3300,6 @@
    "url": "https://www.memorial-object.jp/00787/"
   },
   {
-   "name": "『よろこび』",
-   "lat": 35.6802117,
-   "lng": 139.403441,
-   "address": "東京都日野市日野本町７丁目",
-   "access": "甲州街道駅から西へ約560m",
-   "categories": [
-    "その他"
-   ],
-   "image": "",
-   "url": "https://www.memorial-object.jp/00787/"
-  },
-  {
    "name": "『りんりんちゃん』",
    "lat": 35.7463812,
    "lng": 139.7196659,
@@ -3178,6 +3334,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/05/00086_1.png",
    "url": "https://www.memorial-object.jp/00086/"
+  },
+  {
+   "name": "『わらじ石』",
+   "lat": 35.7352025,
+   "lng": 139.8887195,
+   "address": "東京都江戸川区東小岩６丁目１５",
+   "access": "小岩駅から東へ約660m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02734/"
   },
   {
    "name": "『ゑびす像』",
@@ -3288,6 +3456,18 @@
    "url": "https://www.memorial-object.jp/00267/"
   },
   {
+   "name": "『アーネストサトウ居宅跡』",
+   "lat": 35.6954394,
+   "lng": 139.7423023,
+   "address": "東京都千代田区富士見２丁目",
+   "access": "市ケ谷駅から北東へ約570m",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02758/"
+  },
+  {
    "name": "『イルカのオブジェ』",
    "lat": 35.5905045,
    "lng": 139.7362665,
@@ -3334,6 +3514,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02418/"
+  },
+  {
+   "name": "『エコへの創造』",
+   "lat": 35.746884,
+   "lng": 139.8880091,
+   "address": "東京都江戸川区北小岩８丁目１９",
+   "access": "京成小岩駅から北東へ約650m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02735/"
   },
   {
    "name": "『エコー』",
@@ -3577,6 +3769,18 @@
   },
   {
    "name": "『コックカービィ』",
+   "lat": 35.6823533,
+   "lng": 139.7686626,
+   "address": "東京都千代田区丸の内１丁目",
+   "access": "東京駅から北へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02930/"
+  },
+  {
+   "name": "『コックカービィ』",
    "lat": 35.7100412,
    "lng": 139.8110004,
    "address": "東京都墨田区押上１丁目１",
@@ -3736,7 +3940,7 @@
    "lat": 35.5841374,
    "lng": 139.4122521,
    "address": "東京都町田市図師町",
-   "access": "淵野辺駅から約2.3km",
+   "access": "淵野辺駅から直線で約2.3km（最寄りのバス停：尾根緑道入口 約240m）",
    "categories": [
     "道路沿い"
    ],
@@ -4073,7 +4277,7 @@
    "lat": 35.7425913,
    "lng": 139.1895456,
    "address": "東京都あきる野市養沢９４",
-   "access": "武蔵五日市駅から約3.7km",
+   "access": "武蔵五日市駅から直線で約3.7km（最寄りのバス停：本須 約200m）",
    "categories": [
     "水辺"
    ],
@@ -4225,6 +4429,18 @@
    "url": "https://www.memorial-object.jp/00528/"
   },
   {
+   "name": "『ハートにジャストミート(敷島旅館)　930507』",
+   "lat": 35.732741,
+   "lng": 139.8868021,
+   "address": "東京都江戸川区東小岩５丁目６",
+   "access": "小岩駅から東へ約450m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02736/"
+  },
+  {
    "name": "『パイプ状のモニュメント』",
    "lat": 35.374616998292986,
    "lng": 139.18412026959246,
@@ -4259,6 +4475,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01575/"
+  },
+  {
+   "name": "『ビール麦金子ゴールデン発祥の地』",
+   "lat": 35.7282671,
+   "lng": 139.6562451,
+   "address": "東京都練馬区豊玉南２丁目１５",
+   "access": "野方駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02869/"
+  },
+  {
+   "name": "『ピエール・ド・クーベルタン』",
+   "lat": 35.6752103,
+   "lng": 139.7150853,
+   "address": "東京都新宿区霞ヶ丘町",
+   "access": "国立競技場駅から南へ約550m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02764/"
   },
   {
    "name": "『ピカチュウ』",
@@ -4301,7 +4541,7 @@
    "lat": 35.8030359,
    "lng": 139.2898219,
    "address": "東京都青梅市谷野６４",
-   "access": "河辺駅から約2.1km",
+   "access": "河辺駅から直線で約2.1km（最寄りのバス停：谷野（すぐ近く））",
    "categories": [
     "寺社境内"
    ],
@@ -4572,6 +4812,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00539/"
+  },
+  {
+   "name": "『ヤン・ヨーステン記念像』",
+   "lat": 35.6799312,
+   "lng": 139.7685085,
+   "address": "東京都中央区八重洲２丁目",
+   "access": "東京駅から南へ約120m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02759/"
   },
   {
    "name": "『ユスティニアヌス』",
@@ -4974,7 +5226,7 @@
    "lat": 35.6543366,
    "lng": 139.2557122,
    "address": "東京都八王子市元八王子町３丁目",
-   "access": "高尾山駅から約2.6km",
+   "access": "高尾山駅から直線で約2.6km（最寄りのバス停：八王子城跡 約610m）",
    "categories": [
     "山林・山道"
    ],
@@ -5166,7 +5418,7 @@
    "lat": 35.6546757,
    "lng": 139.2584561,
    "address": "東京都八王子市元八王子町３丁目",
-   "access": "高尾駅から約2.5km",
+   "access": "高尾駅から直線で約2.5km（最寄りのバス停：八王子城跡 約370m）",
    "categories": [
     "山林・山道"
    ],
@@ -5390,6 +5642,18 @@
    "url": "https://www.memorial-object.jp/01521/"
   },
   {
+   "name": "『上小岩親水緑道』",
+   "lat": 35.7454715,
+   "lng": 139.888218,
+   "address": "東京都江戸川区北小岩６丁目５２",
+   "access": "京成小岩駅から北東へ約550m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02737/"
+  },
+  {
    "name": "『上小岩観音』",
    "lat": 35.7430196,
    "lng": 139.8869308,
@@ -5412,6 +5676,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02209/"
+  },
+  {
+   "name": "『上板橋村役場跡』",
+   "lat": 35.7540123,
+   "lng": 139.6802946,
+   "address": "東京都板橋区東新町２丁目３６",
+   "access": "ときわ台駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02864/"
   },
   {
    "name": "『上毛三山と太陽の時計塔』",
@@ -5472,6 +5748,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01202/"
+  },
+  {
+   "name": "『上祖師谷之沿革』",
+   "lat": 35.6567667,
+   "lng": 139.5973864,
+   "address": "東京都世田谷区上祖師谷４丁目１９",
+   "access": "仙川駅から約1.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02819/"
   },
   {
    "name": "『上野大仏』",
@@ -5550,7 +5838,7 @@
    "lat": 35.676044,
    "lng": 139.2628924,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾駅から約4.1km",
+   "access": "高尾駅から直線で約4.1km（最寄りのバス停：小田野中央公園 約340m）",
    "categories": [
     "道路沿い"
    ],
@@ -5562,7 +5850,7 @@
    "lat": 35.6778387,
    "lng": 139.2526708,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾駅から約4.8km",
+   "access": "高尾駅から直線で約4.8km（最寄りのバス停：恩方営業所 約420m）",
    "categories": [
     "道路沿い"
    ],
@@ -5580,6 +5868,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02212/"
+  },
+  {
+   "name": "『下山橋』",
+   "lat": 35.617958,
+   "lng": 139.6569139,
+   "address": "東京都世田谷区深沢３丁目２５",
+   "access": "尾山台駅から約1.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02820/"
   },
   {
    "name": "『下無』",
@@ -5646,7 +5946,7 @@
    "lat": 35.8047917,
    "lng": 139.2803921,
    "address": "東京都青梅市塩船",
-   "access": "東青梅駅から約1.8km",
+   "access": "東青梅駅から直線で約1.8km（最寄りのバス停：吹上中学校入口 約710m）",
    "categories": [
     "寺社境内"
    ],
@@ -5676,6 +5976,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02614/"
+  },
+  {
+   "name": "『不動橋』",
+   "lat": 35.7249816,
+   "lng": 139.6701292,
+   "address": "東京都中野区江古田１丁目２８",
+   "access": "沼袋駅から約0.8km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02857/"
   },
   {
    "name": "『不動橋』",
@@ -5822,6 +6134,18 @@
    "url": "https://www.memorial-object.jp/02702/"
   },
   {
+   "name": "『中の橋』",
+   "lat": 35.6175725,
+   "lng": 139.6581333,
+   "address": "東京都世田谷区深沢３丁目１８",
+   "access": "尾山台駅から約1.2km",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02821/"
+  },
+  {
    "name": "『中原橋』",
    "lat": 35.6378691,
    "lng": 139.6766001,
@@ -5906,6 +6230,18 @@
    "url": "https://www.memorial-object.jp/02703/"
   },
   {
+   "name": "『中川橋橋詰のタブの木』",
+   "lat": 35.7629709,
+   "lng": 139.8561281,
+   "address": "東京都葛飾区新宿２丁目９",
+   "access": "亀有駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02898/"
+  },
+  {
    "name": "『中村來内像』",
    "lat": 35.7917807,
    "lng": 139.261501,
@@ -5916,6 +6252,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00759/"
+  },
+  {
+   "name": "『中村橋』",
+   "lat": 35.6193783,
+   "lng": 139.6541734,
+   "address": "東京都世田谷区深沢４丁目３３",
+   "access": "等々力駅から約1.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02822/"
   },
   {
    "name": "『中村橋』",
@@ -5952,6 +6300,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02216/"
+  },
+  {
+   "name": "『中江兆民翁之碑』",
+   "lat": 35.7029105,
+   "lng": 139.8203051,
+   "address": "東京都江東区亀戸３丁目９",
+   "access": "亀戸駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02778/"
   },
   {
    "name": "『中河原渡し』",
@@ -6006,7 +6366,7 @@
    "lat": 35.6679144,
    "lng": 139.5505238,
    "address": "東京都調布市深大寺元町５丁目",
-   "access": "調布駅から約1.9km",
+   "access": "調布駅から直線で約1.9km（最寄りのバス停：深大寺 約180m）",
    "categories": [
     "寺社境内"
    ],
@@ -6162,7 +6522,7 @@
    "lat": 35.6542344,
    "lng": 139.2535236,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約2.6km",
+   "access": "高尾山駅から直線で約2.6km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -6278,6 +6638,18 @@
    "url": "https://www.memorial-object.jp/01580/"
   },
   {
+   "name": "『二・二六事件慰霊像』",
+   "lat": 35.6643227,
+   "lng": 139.6969585,
+   "address": "東京都渋谷区宇田川町",
+   "access": "渋谷駅から北へ約670m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02854/"
+  },
+  {
    "name": "『二三橋』",
    "lat": 35.6422029,
    "lng": 139.6956307,
@@ -6354,7 +6726,7 @@
    "lat": 35.6698338,
    "lng": 139.2568637,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾駅から約3.8km",
+   "access": "高尾駅から直線で約3.8km（最寄りのバス停：上川原宿 約40m）",
    "categories": [
     "道路沿い"
    ],
@@ -6366,7 +6738,7 @@
    "lat": 35.74526,
    "lng": 139.1893561,
    "address": "東京都あきる野市養沢１８２",
-   "access": "武蔵五日市駅から約3.8km",
+   "access": "武蔵五日市駅から直線で約3.8km（最寄りのバス停：怒田畑 約70m）",
    "categories": [
     "道路沿い"
    ],
@@ -6378,7 +6750,7 @@
    "lat": 35.6745619,
    "lng": 139.2198966,
    "address": "東京都八王子市上恩方町１５４９",
-   "access": "高尾山駅から約5.8km",
+   "access": "高尾山駅から直線で約5.8km（最寄りのバス停：力石 約90m）",
    "categories": [
     "山林・山道"
    ],
@@ -6458,6 +6830,18 @@
    "url": "https://www.memorial-object.jp/00545/"
   },
   {
+   "name": "『二宮金次郎像』",
+   "lat": 35.7500785,
+   "lng": 139.6142337,
+   "address": "東京都練馬区谷原２丁目８",
+   "access": "石神井公園駅から約1.0km",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02870/"
+  },
+  {
    "name": "『二峯先生之碑』",
    "lat": 35.7118033,
    "lng": 139.8044239,
@@ -6510,7 +6894,7 @@
    "lat": 35.6548273,
    "lng": 139.2566957,
    "address": "東京都八王子市元八王子町３丁目",
-   "access": "高尾山駅から約2.6km",
+   "access": "高尾山駅から直線で約2.6km（最寄りのバス停：八王子城跡 約510m）",
    "categories": [
     "山林・山道"
    ],
@@ -6542,6 +6926,18 @@
    "url": "https://www.memorial-object.jp/00804/"
   },
   {
+   "name": "『五日市街道』",
+   "lat": 35.6897597,
+   "lng": 139.6207199,
+   "address": "東京都杉並区高井戸東４丁目１３",
+   "access": "高井戸駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02858/"
+  },
+  {
    "name": "『五條橋』",
    "lat": 35.6704252,
    "lng": 139.6727206,
@@ -6552,6 +6948,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02371/"
+  },
+  {
+   "name": "『五歳の菅公』",
+   "lat": 35.7027755,
+   "lng": 139.8206457,
+   "address": "東京都江東区亀戸３丁目６",
+   "access": "亀戸駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02779/"
   },
   {
    "name": "『井の頭自然文化園で愛された ゾウのはな子』",
@@ -6624,6 +7032,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00196_1.jpg",
    "url": "https://www.memorial-object.jp/00196/"
+  },
+  {
+   "name": "『交通安全の誓い』",
+   "lat": 35.6919697,
+   "lng": 139.7067632,
+   "address": "東京都新宿区新宿２丁目",
+   "access": "新宿三丁目駅から北へ約160m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02765/"
   },
   {
    "name": "『交通安全宣言都市』",
@@ -6974,6 +7394,18 @@
    "url": "https://www.memorial-object.jp/00790/"
   },
   {
+   "name": "『体育会』",
+   "lat": 35.6382698,
+   "lng": 139.633472,
+   "address": "東京都世田谷区上用賀２丁目１",
+   "access": "用賀駅から約1.3km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02823/"
+  },
+  {
    "name": "『佛生山』",
    "lat": 34.2864384,
    "lng": 134.0268718,
@@ -6984,6 +7416,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04384/"
+  },
+  {
+   "name": "『供養塔』",
+   "lat": 35.7848854,
+   "lng": 139.7477272,
+   "address": "東京都足立区鹿浜５丁目７",
+   "access": "志茂駅から約1.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02878/"
   },
   {
    "name": "『供養塔』",
@@ -7014,7 +7458,7 @@
    "lat": 35.7526308,
    "lng": 139.181229,
    "address": "東京都あきる野市養沢１１２４",
-   "access": "武蔵五日市駅から約4.8km",
+   "access": "武蔵五日市駅から直線で約4.8km（最寄りのバス停：木和田平 約130m）",
    "categories": [
     "道路沿い"
    ],
@@ -7130,6 +7574,42 @@
    "url": "https://www.memorial-object.jp/02616/"
   },
   {
+   "name": "『元宿地蔵大菩薩』",
+   "lat": 35.7547923,
+   "lng": 139.7909615,
+   "address": "東京都足立区千住桜木２丁目５",
+   "access": "北千住駅から約1.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02879/"
+  },
+  {
+   "name": "『元宿神社縁起』",
+   "lat": 35.7561174,
+   "lng": 139.7919428,
+   "address": "東京都足立区千住元町３３",
+   "access": "北千住駅から約1.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02880/"
+  },
+  {
+   "name": "『元木囃子発祥の地』",
+   "lat": 35.7662446,
+   "lng": 139.7854812,
+   "address": "東京都足立区本木２丁目５",
+   "access": "西新井駅から約1.3km",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02881/"
+  },
+  {
    "name": "『先賢彰徳碑』",
    "lat": 35.6415006,
    "lng": 139.2660028,
@@ -7170,7 +7650,7 @@
    "lat": 35.6777163,
    "lng": 139.5700121,
    "address": "東京都三鷹市新川３丁目２０",
-   "access": "仙川駅から約2.2km",
+   "access": "仙川駅から直線で約2.2km（最寄りのバス停：丸池公園入口 約130m）",
    "categories": [
     "寺社境内"
    ],
@@ -7182,7 +7662,7 @@
    "lat": 35.6777054,
    "lng": 139.5700024,
    "address": "東京都三鷹市新川３丁目２０",
-   "access": "仙川駅から約2.2km",
+   "access": "仙川駅から直線で約2.2km（最寄りのバス停：丸池公園入口 約130m）",
    "categories": [
     "寺社境内"
    ],
@@ -7242,7 +7722,7 @@
    "lat": 35.723454,
    "lng": 139.0642534,
    "address": "東京都西多摩郡檜原村",
-   "access": "奥多摩駅から約10.0km",
+   "access": "奥多摩駅から直線で約10.0km（最寄りのバス停：数馬下 約410m）",
    "categories": [
     "山林・山道"
    ],
@@ -7290,7 +7770,7 @@
    "lat": 35.6541118,
    "lng": 139.2548206,
    "address": "東京都八王子市元八王子町３丁目",
-   "access": "高尾山駅から約2.6km",
+   "access": "高尾山駅から直線で約2.6km（最寄りのバス停：八王子城跡 約700m）",
    "categories": [
     "山林・山道"
    ],
@@ -7488,6 +7968,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00732/"
+  },
+  {
+   "name": "『八雲神社 神輿新調記念碑』",
+   "lat": 35.6683054,
+   "lng": 139.8807108,
+   "address": "東京都江戸川区東葛西２丁目３４",
+   "access": "葛西駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02914/"
   },
   {
    "name": "『八雲神社之碑』",
@@ -7694,6 +8186,18 @@
    "url": "https://www.memorial-object.jp/02111/"
   },
   {
+   "name": "『六郷用水の歴史』",
+   "lat": 35.6241173,
+   "lng": 139.6137656,
+   "address": "東京都世田谷区岡本３丁目３３",
+   "access": "二子玉川駅から直線で約1.8km（最寄りのバス停：岡本三丁目 約290m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02824/"
+  },
+  {
    "name": "『六郷用水の跡』",
    "lat": 35.581442,
    "lng": 139.6758868,
@@ -7740,6 +8244,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01884/"
+  },
+  {
+   "name": "『内田秀五郎像』",
+   "lat": 35.7151417,
+   "lng": 139.589553,
+   "address": "東京都杉並区善福寺３丁目１９",
+   "access": "上石神井駅から約1.3km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02859/"
   },
   {
    "name": "『内藤新宿開設三百年記念碑』",
@@ -7824,6 +8340,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01715/"
+  },
+  {
+   "name": "『出世観音』",
+   "lat": 35.7036006,
+   "lng": 139.9104608,
+   "address": "東京都江戸川区篠崎町３丁目５",
+   "access": "篠崎駅から南東へ約660m",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02738/"
   },
   {
    "name": "『出羽海一門友愛の碑』",
@@ -8130,7 +8658,7 @@
    "lat": 35.6774654,
    "lng": 139.5699095,
    "address": "東京都三鷹市新川３丁目２０",
-   "access": "仙川駅から約2.2km",
+   "access": "仙川駅から直線で約2.2km（最寄りのバス停：丸池公園入口 約130m）",
    "categories": [
     "寺社境内"
    ],
@@ -8154,7 +8682,7 @@
    "lat": 35.6920803,
    "lng": 139.2744405,
    "address": "東京都八王子市川口町６６３",
-   "access": "秋川駅から約4.1km",
+   "access": "秋川駅から直線で約4.1km（最寄りのバス停：川口橋 約480m）",
    "categories": [
     "山林・山道"
    ],
@@ -8208,6 +8736,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01362/"
+  },
+  {
+   "name": "『包丁塚の由来』",
+   "lat": 35.6185585,
+   "lng": 139.7402837,
+   "address": "東京都品川区北品川３丁目",
+   "access": "新馬場駅から北西へ約250m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02793/"
   },
   {
    "name": "『化粧延命地蔵尊』",
@@ -8274,7 +8814,7 @@
    "lat": 35.6575447,
    "lng": 139.2611879,
    "address": "東京都八王子市元八王子町３丁目",
-   "access": "高尾駅から約2.6km",
+   "access": "高尾駅から直線で約2.6km（最寄りのバス停：八王子城跡 約180m）",
    "categories": [
     "山林・山道"
    ],
@@ -8328,6 +8868,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02546/"
+  },
+  {
+   "name": "『区画管理完成記念之碑』",
+   "lat": 35.6628961,
+   "lng": 139.8580357,
+   "address": "東京都江戸川区西葛西６丁目１１",
+   "access": "西葛西駅から南西へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02739/"
   },
   {
    "name": "『區劃整理完成之碑』",
@@ -8406,7 +8958,7 @@
    "lat": 35.7952048,
    "lng": 139.3237967,
    "address": "東京都青梅市今井５丁目",
-   "access": "金子駅から約1.8km",
+   "access": "金子駅から直線で約1.8km（最寄りのバス停：物見塚 約330m）",
    "categories": [
     "道路沿い"
    ],
@@ -8460,6 +9012,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02658/"
+  },
+  {
+   "name": "『千住川田浅間神社富士塚』",
+   "lat": 35.7571031,
+   "lng": 139.7990684,
+   "address": "東京都足立区千住大川町１２",
+   "access": "北千住駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02882/"
   },
   {
    "name": "『千年石』",
@@ -8574,7 +9138,7 @@
    "lat": 35.7420538,
    "lng": 139.2099335,
    "address": "東京都あきる野市深沢",
-   "access": "武蔵五日市駅から約2.0km",
+   "access": "武蔵五日市駅から直線で約2.0km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "道路沿い"
    ],
@@ -8738,6 +9302,18 @@
    "url": "https://www.memorial-object.jp/02377/"
   },
   {
+   "name": "『原橋』",
+   "lat": 35.6176025,
+   "lng": 139.6591702,
+   "address": "東京都世田谷区深沢３丁目８",
+   "access": "尾山台駅から約1.3km",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02825/"
+  },
+  {
    "name": "『参万五千本』",
    "lat": 35.6300551,
    "lng": 139.2543881,
@@ -8814,7 +9390,7 @@
    "lat": 35.6711533,
    "lng": 139.2119265,
    "address": "東京都八王子市上恩方町",
-   "access": "高尾山駅から約6.0km",
+   "access": "高尾山駅から直線で約6.0km（最寄りのバス停：関場 約40m）",
    "categories": [
     "道路沿い"
    ],
@@ -8832,6 +9408,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02231/"
+  },
+  {
+   "name": "『古市公威像』",
+   "lat": 35.7132963,
+   "lng": 139.7595407,
+   "address": "東京都文京区本郷７丁目",
+   "access": "東大前駅から南へ約470m",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02767/"
   },
   {
    "name": "『古市場』",
@@ -8898,7 +9486,7 @@
    "lat": 35.6531129,
    "lng": 139.257121,
    "address": "東京都八王子市元八王子町３丁目",
-   "access": "高尾山駅から約2.4km",
+   "access": "高尾山駅から直線で約2.4km（最寄りのバス停：八王子城跡 約560m）",
    "categories": [
     "山林・山道"
    ],
@@ -8946,7 +9534,7 @@
    "lat": 35.6511499,
    "lng": 139.2479425,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約2.3km",
+   "access": "高尾山駅から直線で約2.3km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -8970,7 +9558,7 @@
    "lat": 35.6762359,
    "lng": 139.2888422,
    "address": "東京都八王子市諏訪町３９",
-   "access": "西八王子駅から約3.1km",
+   "access": "西八王子駅から直線で約3.1km（最寄りのバス停：諏訪神社（すぐ近く））",
    "categories": [
     "公共施設"
    ],
@@ -8990,11 +9578,23 @@
    "url": "https://www.memorial-object.jp/01363/"
   },
   {
+   "name": "『史蹟 中曽根城跡』",
+   "lat": 35.7662241,
+   "lng": 139.7855216,
+   "address": "東京都足立区本木２丁目５",
+   "access": "西新井駅から約1.3km",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02883/"
+  },
+  {
    "name": "『史蹟 八王子城跡』",
    "lat": 35.6547227,
    "lng": 139.2599177,
    "address": "東京都八王子市元八王子町３丁目",
-   "access": "高尾駅から約2.4km",
+   "access": "高尾駅から直線で約2.4km（最寄りのバス停：八王子城跡 約260m）",
    "categories": [
     "公園"
    ],
@@ -9078,7 +9678,7 @@
    "lat": 35.7018589,
    "lng": 139.2573334,
    "address": "東京都八王子市上川町３３５１",
-   "access": "武蔵増戸駅から約3.2km",
+   "access": "武蔵増戸駅から直線で約3.2km（最寄りのバス停：戸沢 約120m）",
    "categories": [
     "道路沿い"
    ],
@@ -9162,7 +9762,7 @@
    "lat": 35.8044644,
    "lng": 139.2883011,
    "address": "東京都青梅市谷野１２２",
-   "access": "東青梅駅から約2.2km",
+   "access": "東青梅駅から直線で約2.2km（最寄りのバス停：谷野 約200m）",
    "categories": [
     "寺社境内"
    ],
@@ -9266,6 +9866,18 @@
    "url": "https://www.memorial-object.jp/02379/"
   },
   {
+   "name": "『呑川橋』",
+   "lat": 35.6213041,
+   "lng": 139.6516278,
+   "address": "東京都世田谷区深沢６丁目２４",
+   "access": "桜新町駅から約1.3km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02826/"
+  },
+  {
    "name": "『和』",
    "lat": 35.7125262,
    "lng": 139.7798918,
@@ -9342,7 +9954,7 @@
    "lat": 35.6577092,
    "lng": 139.1683993,
    "address": "東京都八王子市上恩方町",
-   "access": "相模湖駅から約4.8km",
+   "access": "相模湖駅から直線で約4.8km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -9372,6 +9984,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01972/"
+  },
+  {
+   "name": "『和魂漢才』",
+   "lat": 35.7028699,
+   "lng": 139.8204205,
+   "address": "東京都江東区亀戸３丁目６",
+   "access": "亀戸駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02780/"
   },
   {
    "name": "『品川宿』",
@@ -9842,6 +10466,18 @@
    "url": "https://www.memorial-object.jp/04490/"
   },
   {
+   "name": "『土地改良事業完成記念碑』",
+   "lat": 35.6681965,
+   "lng": 139.8807973,
+   "address": "東京都江戸川区東葛西２丁目３４",
+   "access": "葛西駅から約0.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02915/"
+  },
+  {
    "name": "『土地改良記念碑』",
    "lat": 35.7403755,
    "lng": 139.2609955,
@@ -9990,7 +10626,7 @@
    "lat": 35.5833745,
    "lng": 139.4207306,
    "address": "東京都町田市図師町",
-   "access": "淵野辺駅から約2.8km",
+   "access": "淵野辺駅から直線で約2.8km（最寄りのバス停：図師大橋 約240m）",
    "categories": [
     "道路沿い"
    ],
@@ -10146,7 +10782,7 @@
    "lat": 35.5832001,
    "lng": 139.4256869,
    "address": "東京都町田市図師町",
-   "access": "古淵駅から約3.1km",
+   "access": "古淵駅から直線で約3.1km（最寄りのバス停：図師（すぐ近く））",
    "categories": [
     "道路沿い"
    ],
@@ -10182,7 +10818,7 @@
    "lat": 35.7590759,
    "lng": 139.1703151,
    "address": "東京都あきる野市養沢",
-   "access": "御岳山駅から約3.7km",
+   "access": "御岳山駅から直線で約3.7km（最寄りのバス停：大岳鍾乳洞入口（すぐ近く））",
    "categories": [
     "道路沿い"
    ],
@@ -10194,7 +10830,7 @@
    "lat": 35.743575,
    "lng": 139.1893454,
    "address": "東京都あきる野市養沢",
-   "access": "武蔵五日市駅から約3.7km",
+   "access": "武蔵五日市駅から直線で約3.7km（最寄りのバス停：怒田畑 約120m）",
    "categories": [
     "道路沿い"
    ],
@@ -10266,12 +10902,24 @@
    "lat": 35.816008,
    "lng": 139.274245,
    "address": "東京都青梅市小曾木３丁目１６７４",
-   "access": "東青梅駅から約2.9km",
+   "access": "東青梅駅から直線で約2.9km（最寄りのバス停：青梅第七小学校 約290m）",
    "categories": [
     "道路沿い"
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00620/"
+  },
+  {
+   "name": "『地蔵菩薩』",
+   "lat": 35.6671215,
+   "lng": 139.8796872,
+   "address": "東京都江戸川区東葛西２丁目３１",
+   "access": "葛西駅から北東へ約740m",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02740/"
   },
   {
    "name": "『地蔵菩薩』",
@@ -10422,7 +11070,7 @@
    "lat": 35.6549146,
    "lng": 139.2601686,
    "address": "東京都八王子市元八王子町３丁目",
-   "access": "高尾駅から約2.4km",
+   "access": "高尾駅から直線で約2.4km（最寄りのバス停：八王子城跡 約220m）",
    "categories": [
     "山林・山道"
    ],
@@ -10542,7 +11190,7 @@
    "lat": 35.8059523,
    "lng": 139.2797409,
    "address": "東京都青梅市塩船",
-   "access": "東青梅駅から約1.9km",
+   "access": "東青梅駅から直線で約1.9km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -10650,7 +11298,7 @@
    "lat": 35.6714977,
    "lng": 139.2151289,
    "address": "東京都八王子市上恩方町",
-   "access": "高尾山駅から約5.8km",
+   "access": "高尾山駅から直線で約5.8km（最寄りのバス停：宮の下 約140m）",
    "categories": [
     "山林・山道"
    ],
@@ -10686,7 +11334,7 @@
    "lat": 35.6091019,
    "lng": 139.4463408,
    "address": "東京都町田市小野路町",
-   "access": "はるひ野駅から約2.0km",
+   "access": "はるひ野駅から直線で約2.0km（最寄りのバス停：京王多摩車庫前 約340m）",
    "categories": [
     "学校"
    ],
@@ -10722,7 +11370,7 @@
    "lat": 35.6665554,
    "lng": 139.5514452,
    "address": "東京都調布市深大寺元町５丁目１７",
-   "access": "調布駅から約1.7km",
+   "access": "調布駅から直線で約1.7km（最寄りのバス停：深大寺小学校 約160m）",
    "categories": [
     "学校"
    ],
@@ -10842,7 +11490,7 @@
    "lat": 35.5864567,
    "lng": 139.420846,
    "address": "東京都町田市図師町",
-   "access": "淵野辺駅から約3.1km",
+   "access": "淵野辺駅から直線で約3.1km（最寄りのバス停：日影橋 約60m）",
    "categories": [
     "道路沿い"
    ],
@@ -10950,7 +11598,7 @@
    "lat": 35.7606647,
    "lng": 139.390583,
    "address": "東京都武蔵村山市中央５丁目７",
-   "access": "西武球場前駅から約2.8km",
+   "access": "西武球場前駅から直線で約2.8km（最寄りのバス停：武蔵村山市役所前 約650m）",
    "categories": [
     "山林・山道"
    ],
@@ -11199,6 +11847,18 @@
   },
   {
    "name": "『大橋』",
+   "lat": 35.6200081,
+   "lng": 139.6529192,
+   "address": "東京都世田谷区深沢５丁目４",
+   "access": "等々力駅から約1.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02827/"
+  },
+  {
+   "name": "『大橋』",
    "lat": 35.7255609,
    "lng": 139.6701589,
    "address": "東京都中野区江古田１丁目４２",
@@ -11259,6 +11919,18 @@
   },
   {
    "name": "『大石橋』",
+   "lat": 35.6377544,
+   "lng": 139.6816289,
+   "address": "東京都世田谷区下馬４丁目２９",
+   "access": "祐天寺駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02828/"
+  },
+  {
+   "name": "『大石橋』",
    "lat": 35.6537716,
    "lng": 139.6730378,
    "address": "東京都世田谷区池尻４丁目３９",
@@ -11316,6 +11988,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01591/"
+  },
+  {
+   "name": "『大脇月甫歌碑』",
+   "lat": 35.6381708,
+   "lng": 139.6799981,
+   "address": "東京都世田谷区下馬４丁目２７",
+   "access": "三軒茶屋駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02829/"
   },
   {
    "name": "『大関力士碑』",
@@ -11448,6 +12132,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00651/"
+  },
+  {
+   "name": "『大黒天』",
+   "lat": 35.6183609,
+   "lng": 139.7406606,
+   "address": "東京都品川区北品川３丁目",
+   "access": "新馬場駅から北へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02794/"
   },
   {
    "name": "『大黒天』",
@@ -11718,7 +12414,7 @@
    "lat": 35.671793,
    "lng": 139.5362826,
    "address": "東京都三鷹市大沢５丁目４",
-   "access": "西調布駅から約1.7km",
+   "access": "西調布駅から直線で約1.7km（最寄りのバス停：大沢コミュニティーセンター 約200m）",
    "categories": [
     "道路沿い"
    ],
@@ -11760,6 +12456,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01979/"
+  },
+  {
+   "name": "『天神様』",
+   "lat": 35.7919171,
+   "lng": 139.867542,
+   "address": "東京都葛飾区東水元５丁目４０",
+   "access": "金町駅から約2.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02899/"
   },
   {
    "name": "『天神橋』",
@@ -11894,6 +12602,18 @@
    "url": "https://www.memorial-object.jp/00677/"
   },
   {
+   "name": "『奉納 大銀杏』",
+   "lat": 35.7027912,
+   "lng": 139.8207872,
+   "address": "東京都江東区亀戸３丁目６",
+   "access": "亀戸駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02781/"
+  },
+  {
    "name": "『奉納 明月樓』",
    "lat": 35.7022848,
    "lng": 139.8208617,
@@ -11976,6 +12696,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00377/"
+  },
+  {
+   "name": "『奥沢城跡』",
+   "lat": 35.607653,
+   "lng": 139.6612469,
+   "address": "東京都世田谷区奥沢７丁目",
+   "access": "九品仏駅から北へ約250m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02830/"
   },
   {
    "name": "『女中念仏供養塔』",
@@ -12084,6 +12816,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04873/"
+  },
+  {
+   "name": "『子之神橋』",
+   "lat": 35.6379348,
+   "lng": 139.6791089,
+   "address": "東京都世田谷区下馬４丁目１９",
+   "access": "三軒茶屋駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02831/"
   },
   {
    "name": "『子供合埋碑』",
@@ -12282,7 +13026,7 @@
    "lat": 35.6970613,
    "lng": 139.2735582,
    "address": "東京都八王子市川口町３３０８",
-   "access": "秋川駅から約3.6km",
+   "access": "秋川駅から直線で約3.6km（最寄りのバス停：影沢（すぐ近く））",
    "categories": [
     "道路沿い"
    ],
@@ -12318,7 +13062,7 @@
    "lat": 35.64741744658393,
    "lng": 139.38029857513456,
    "address": "東京都日野市平山５丁目",
-   "access": "平山城址公園駅1付近",
+   "access": "平山城址公園駅付近",
    "categories": [
     "駅前"
    ],
@@ -12506,6 +13250,18 @@
    "url": "https://www.memorial-object.jp/00685/"
   },
   {
+   "name": "『安穏地蔵』",
+   "lat": 35.5783186,
+   "lng": 139.7115756,
+   "address": "東京都大田区中央６丁目６",
+   "access": "池上駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02806/"
+  },
+  {
    "name": "『完成記念　土地区画整理事業』",
    "lat": 35.645064999556375,
    "lng": 139.35407907076657,
@@ -12555,6 +13311,18 @@
   },
   {
    "name": "『宮下橋』",
+   "lat": 35.6377964,
+   "lng": 139.681531,
+   "address": "東京都世田谷区下馬４丁目２９",
+   "access": "祐天寺駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02832/"
+  },
+  {
+   "name": "『宮下橋』",
    "lat": 35.6628893,
    "lng": 139.702414,
    "address": "東京都渋谷区神宮前６丁目２０",
@@ -12564,6 +13332,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02388/"
+  },
+  {
+   "name": "『宮前橋』",
+   "lat": 35.620421,
+   "lng": 139.652202,
+   "address": "東京都世田谷区深沢５丁目６",
+   "access": "等々力駅から約1.4km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02833/"
   },
   {
    "name": "『宮前橋』",
@@ -12618,7 +13398,7 @@
    "lat": 35.804971,
    "lng": 139.289848,
    "address": "東京都青梅市谷野１９１",
-   "access": "東青梅駅から約2.3km",
+   "access": "東青梅駅から直線で約2.3km（最寄りのバス停：谷野 約190m）",
    "categories": [
     "山林・山道"
    ],
@@ -12722,6 +13502,18 @@
    "url": "https://www.memorial-object.jp/01533/"
   },
   {
+   "name": "『富士浅間大神』",
+   "lat": 35.792028,
+   "lng": 139.867468,
+   "address": "東京都葛飾区東水元５丁目４０",
+   "access": "金町駅から約2.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02900/"
+  },
+  {
    "name": "『富士登山道』",
    "lat": 35.6181413,
    "lng": 139.7403692,
@@ -12744,6 +13536,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01983/"
+  },
+  {
+   "name": "『富嶽三十六景「武州千住」』",
+   "lat": 35.7548103,
+   "lng": 139.7909413,
+   "address": "東京都足立区千住桜木２丁目５",
+   "access": "北千住駅から約1.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02884/"
   },
   {
    "name": "『富水の井戸』",
@@ -13034,6 +13838,18 @@
    "url": "https://www.memorial-object.jp/01184/"
   },
   {
+   "name": "『小林一茶像』",
+   "lat": 35.7872588,
+   "lng": 139.7913888,
+   "address": "東京都足立区六月３丁目１３",
+   "access": "竹ノ塚駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02885/"
+  },
+  {
    "name": "『小林一茶居住の地』",
    "lat": 35.692381,
    "lng": 139.7980261,
@@ -13080,6 +13896,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02502/"
+  },
+  {
+   "name": "『小泉八雲先生記念碑』",
+   "lat": 35.7195361,
+   "lng": 139.7740705,
+   "address": "東京都台東区上野公園",
+   "access": "鶯谷駅から南西へ約420m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02772/"
   },
   {
    "name": "『小泉橋』",
@@ -13194,7 +14022,7 @@
    "lat": 35.6698319,
    "lng": 139.2653636,
    "address": "東京都八王子市西寺方町",
-   "access": "高尾駅から約3.4km",
+   "access": "高尾駅から直線で約3.4km（最寄りのバス停：タウン入口 約130m）",
    "categories": [
     "公園"
    ],
@@ -13368,6 +14196,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00132_1.png",
    "url": "https://www.memorial-object.jp/00132/"
+  },
+  {
+   "name": "『山田顕義「風折烏帽子」・加藤ひな子の碑』",
+   "lat": 35.7261093,
+   "lng": 139.8407477,
+   "address": "東京都葛飾区東四つ木１丁目５",
+   "access": "四ツ木駅から約0.8km",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02901/"
   },
   {
    "name": "『山県大弐像とさすり石』",
@@ -13806,7 +14646,7 @@
    "lat": 35.7124936,
    "lng": 139.2265212,
    "address": "東京都八王子市上川町",
-   "access": "武蔵五日市駅から約2.2km",
+   "access": "武蔵五日市駅から直線で約2.2km（最寄りのバス停：今熊山登山口 約690m）",
    "categories": [
     "山林・山道"
    ],
@@ -13836,6 +14676,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02551/"
+  },
+  {
+   "name": "『市域編入記念』",
+   "lat": 35.59594,
+   "lng": 139.7297926,
+   "address": "東京都品川区大井６丁目１８",
+   "access": "大森駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02795/"
   },
   {
    "name": "『市村座跡』",
@@ -13902,7 +14754,7 @@
    "lat": 35.8006721,
    "lng": 139.2945282,
    "address": "東京都青梅市今寺１丁目５３０",
-   "access": "河辺駅から約2.0km",
+   "access": "河辺駅から直線で約2.0km（最寄りのバス停：今寺榎 約280m）",
    "categories": [
     "寺社境内"
    ],
@@ -13934,6 +14786,18 @@
    "url": "https://www.memorial-object.jp/04399/"
   },
   {
+   "name": "『布袋尊』",
+   "lat": 35.7571789,
+   "lng": 139.7994514,
+   "address": "東京都足立区千住大川町１２",
+   "access": "北千住駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02886/"
+  },
+  {
    "name": "『希望』",
    "lat": 35.15248399829767,
    "lng": 140.31215626959167,
@@ -13956,6 +14820,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2025/10/akabanedai_kibou6.png",
    "url": "https://www.memorial-object.jp/kibou_00007/"
+  },
+  {
+   "name": "『希望丘大橋』",
+   "lat": 35.6562175,
+   "lng": 139.6231185,
+   "address": "東京都世田谷区船橋６丁目２",
+   "access": "千歳船橋駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02834/"
   },
   {
    "name": "『帝釈天出現由来碑』",
@@ -14016,6 +14892,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02263/"
+  },
+  {
+   "name": "『常燈明』",
+   "lat": 35.7368654,
+   "lng": 139.8955858,
+   "address": "東京都江戸川区北小岩３丁目２３",
+   "access": "江戸川駅から南へ約100m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02741/"
   },
   {
    "name": "『常識門』",
@@ -14354,6 +15242,18 @@
    "url": "https://www.memorial-object.jp/01754/"
   },
   {
+   "name": "『平和大観音』",
+   "lat": 35.7358303,
+   "lng": 139.5965163,
+   "address": "東京都練馬区石神井台１丁目１４",
+   "access": "上石神井駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02871/"
+  },
+  {
    "name": "『平和観音』",
    "lat": 35.7737972,
    "lng": 139.4961222,
@@ -14514,7 +15414,7 @@
    "lat": 35.6998516,
    "lng": 139.2650902,
    "address": "東京都八王子市上川町１９４５",
-   "access": "武蔵引田駅から約3.4km",
+   "access": "武蔵引田駅から直線で約3.4km（最寄りのバス停：森下 約70m）",
    "categories": [
     "公共施設"
    ],
@@ -14607,6 +15507,30 @@
   },
   {
    "name": "『庚申』",
+   "lat": 35.7561696,
+   "lng": 139.7919341,
+   "address": "東京都足立区千住元町３３",
+   "access": "北千住駅から約1.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02887/"
+  },
+  {
+   "name": "『庚申』",
+   "lat": 35.6329197,
+   "lng": 139.6704533,
+   "address": "東京都世田谷区野沢２丁目３",
+   "access": "駒沢大学駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02835/"
+  },
+  {
+   "name": "『庚申』",
    "lat": 35.6604485,
    "lng": 139.6721083,
    "address": "東京都世田谷区代沢２丁目４４",
@@ -14622,7 +15546,7 @@
    "lat": 35.8029365,
    "lng": 139.2898795,
    "address": "東京都青梅市谷野６４",
-   "access": "河辺駅から約2.1km",
+   "access": "河辺駅から直線で約2.1km（最寄りのバス停：谷野（すぐ近く））",
    "categories": [
     "寺社境内"
    ],
@@ -14634,12 +15558,60 @@
    "lat": 35.6779461,
    "lng": 139.2542661,
    "address": "東京都八王子市下恩方町２１９",
-   "access": "高尾駅から約4.7km",
+   "access": "高尾駅から直線で約4.7km（最寄りのバス停：恩方営業所 約290m）",
    "categories": [
     "道路沿い"
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00573/"
+  },
+  {
+   "name": "『庚申堂』",
+   "lat": 35.5842886,
+   "lng": 139.6939126,
+   "address": "東京都大田区久が原２丁目６",
+   "access": "久が原駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02807/"
+  },
+  {
+   "name": "『庚申堂』",
+   "lat": 35.6246443,
+   "lng": 139.6726681,
+   "address": "東京都目黒区八雲４丁目３",
+   "access": "都立大学駅から約0.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02797/"
+  },
+  {
+   "name": "『庚申塔 安永三』",
+   "lat": 35.7796942,
+   "lng": 139.8714232,
+   "address": "東京都葛飾区東水元２丁目２８",
+   "access": "金町駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02902/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 35.6795493,
+   "lng": 139.7985257,
+   "address": "東京都江東区清澄３丁目",
+   "access": "清澄白河駅から南へ約280m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02782/"
   },
   {
    "name": "『庚申塔』",
@@ -14982,7 +15954,7 @@
    "lat": 35.7881657,
    "lng": 139.3672808,
    "address": "東京都西多摩郡瑞穂町大字駒形富士山",
-   "access": "箱根ヶ崎駅から約2.6km",
+   "access": "箱根ヶ崎駅から直線で約2.6km（最寄りのバス停：宮寺西 約650m）",
    "categories": [
     "道路沿い"
    ],
@@ -15030,7 +16002,7 @@
    "lat": 35.7612487,
    "lng": 139.3602695,
    "address": "東京都西多摩郡瑞穂町大字殿ケ谷７６８",
-   "access": "箱根ヶ崎駅から約1.7km",
+   "access": "箱根ヶ崎駅から直線で約1.7km（最寄りのバス停：無料送迎バス乗り場 約140m）",
    "categories": [
     "公園"
    ],
@@ -15042,7 +16014,7 @@
    "lat": 35.6055849,
    "lng": 139.306135,
    "address": "東京都町田市相原町３１１８",
-   "access": "相原駅から約2.3km",
+   "access": "相原駅から直線で約2.3km（最寄りのバス停：境橋 約80m）",
    "categories": [
     "道路沿い"
    ],
@@ -15066,7 +16038,7 @@
    "lat": 35.6806994,
    "lng": 139.2616241,
    "address": "東京都八王子市下恩方町８０５",
-   "access": "高尾駅から約4.7km",
+   "access": "高尾駅から直線で約4.7km（最寄りのバス停：上野原 約150m）",
    "categories": [
     "道路沿い"
    ],
@@ -15078,7 +16050,7 @@
    "lat": 35.6995558,
    "lng": 139.2370907,
    "address": "東京都八王子市美山町２４５",
-   "access": "武蔵五日市駅から約3.7km",
+   "access": "武蔵五日市駅から直線で約3.7km（最寄りのバス停：二本杉 約150m）",
    "categories": [
     "道路沿い"
    ],
@@ -15150,7 +16122,7 @@
    "lat": 35.6873699,
    "lng": 139.2526452,
    "address": "東京都八王子市美山町",
-   "access": "武蔵増戸駅から約4.9km",
+   "access": "武蔵増戸駅から直線で約4.9km（最寄りのバス停：御屋敷入口 約110m）",
    "categories": [
     "道路沿い"
    ],
@@ -15162,7 +16134,7 @@
    "lat": 35.7105934,
    "lng": 139.2160364,
    "address": "東京都八王子市上川町",
-   "access": "武蔵五日市駅から約2.7km",
+   "access": "武蔵五日市駅から直線で約2.7km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -15174,12 +16146,24 @@
    "lat": 35.724122,
    "lng": 139.1582175,
    "address": "東京都西多摩郡檜原村",
-   "access": "武蔵五日市駅から約6.4km",
+   "access": "武蔵五日市駅から直線で約6.4km（最寄りのバス停：和田向 約170m）",
    "categories": [
     "山林・山道"
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01052/"
+  },
+  {
+   "name": "『庚申塚』",
+   "lat": 35.7074992,
+   "lng": 139.8435495,
+   "address": "東京都江戸川区平井５丁目２４",
+   "access": "平井駅から北東へ約150m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02742/"
   },
   {
    "name": "『庚申塚』",
@@ -15210,7 +16194,7 @@
    "lat": 35.683603,
    "lng": 139.2547039,
    "address": "東京都八王子市美山町",
-   "access": "高尾駅から約5.2km",
+   "access": "高尾駅から直線で約5.2km（最寄りのバス停：萩園 約110m）",
    "categories": [
     "道路沿い"
    ],
@@ -15222,7 +16206,7 @@
    "lat": 35.6756714,
    "lng": 139.2835135,
    "address": "東京都八王子市弐分方町４２２",
-   "access": "西八王子駅から約3.4km",
+   "access": "西八王子駅から直線で約3.4km（最寄りのバス停：二分方入口 約290m）",
    "categories": [
     "寺社境内"
    ],
@@ -15234,7 +16218,7 @@
    "lat": 35.6783024,
    "lng": 139.2385207,
    "address": "東京都八王子市小津町３４８",
-   "access": "高尾山駅から約5.5km",
+   "access": "高尾山駅から直線で約5.5km（最寄りのバス停：中小津（すぐ近く））",
    "categories": [
     "道路沿い"
    ],
@@ -15302,6 +16286,18 @@
    "url": "https://www.memorial-object.jp/00771/"
   },
   {
+   "name": "『座猫』",
+   "lat": 35.7181765,
+   "lng": 139.8029221,
+   "address": "東京都台東区今戸１丁目６",
+   "access": "浅草駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02773/"
+  },
+  {
    "name": "『延命地蔵』",
    "lat": 35.6234331,
    "lng": 139.6317909,
@@ -15336,6 +16332,30 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00250_1.jpg",
    "url": "https://www.memorial-object.jp/00250/"
+  },
+  {
+   "name": "『延命地蔵尊』",
+   "lat": 35.6983984,
+   "lng": 139.9121266,
+   "address": "東京都江戸川区下篠崎町４",
+   "access": "篠崎駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02916/"
+  },
+  {
+   "name": "『延命地蔵尊』",
+   "lat": 35.8045386,
+   "lng": 139.7989682,
+   "address": "東京都足立区西保木間３丁目１９",
+   "access": "谷塚駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02888/"
   },
   {
    "name": "『延命地蔵尊』",
@@ -15414,7 +16434,7 @@
    "lat": 35.6759808,
    "lng": 139.2627771,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾駅から約4.1km",
+   "access": "高尾駅から直線で約4.1km（最寄りのバス停：小田野中央公園 約340m）",
    "categories": [
     "道路沿い"
    ],
@@ -15474,7 +16494,7 @@
    "lat": 35.8051235,
    "lng": 139.2884767,
    "address": "東京都青梅市谷野",
-   "access": "東青梅駅から約2.2km",
+   "access": "東青梅駅から直線で約2.2km（最寄りのバス停：谷野 約250m）",
    "categories": [
     "寺社境内"
    ],
@@ -15498,7 +16518,7 @@
    "lat": 35.8007694,
    "lng": 139.2947119,
    "address": "東京都青梅市今寺１丁目５３０",
-   "access": "河辺駅から約2.0km",
+   "access": "河辺駅から直線で約2.0km（最寄りのバス停：今寺榎 約270m）",
    "categories": [
     "寺社境内"
    ],
@@ -15606,7 +16626,7 @@
    "lat": 35.8051014,
    "lng": 139.28844,
    "address": "東京都青梅市谷野",
-   "access": "東青梅駅から約2.2km",
+   "access": "東青梅駅から直線で約2.2km（最寄りのバス停：谷野 約250m）",
    "categories": [
     "寺社境内"
    ],
@@ -15702,12 +16722,24 @@
    "lat": 35.7953265,
    "lng": 139.3237749,
    "address": "東京都青梅市今井５丁目",
-   "access": "金子駅から約1.8km",
+   "access": "金子駅から直線で約1.8km（最寄りのバス停：物見塚 約340m）",
    "categories": [
     "山林・山道"
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00951/"
+  },
+  {
+   "name": "『征清戦勝記念碑』",
+   "lat": 35.6175193,
+   "lng": 139.6864247,
+   "address": "東京都目黒区碑文谷３丁目７",
+   "access": "都立大学駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02798/"
   },
   {
    "name": "『征清戦死招魂碑』",
@@ -15750,7 +16782,7 @@
    "lat": 35.7000111,
    "lng": 139.2366321,
    "address": "東京都八王子市美山町２４５",
-   "access": "武蔵五日市駅から約3.7km",
+   "access": "武蔵五日市駅から直線で約3.7km（最寄りのバス停：二本杉 約90m）",
    "categories": [
     "寺社境内"
    ],
@@ -15762,7 +16794,7 @@
    "lat": 35.7146296,
    "lng": 139.2747751,
    "address": "東京都八王子市戸吹町",
-   "access": "武蔵引田駅から約1.7km",
+   "access": "武蔵引田駅から直線で約1.7km（最寄りのバス停：サマーランド 約430m）",
    "categories": [
     "山林・山道"
    ],
@@ -15774,7 +16806,7 @@
    "lat": 35.683616,
    "lng": 139.254787,
    "address": "東京都八王子市美山町",
-   "access": "高尾駅から約5.2km",
+   "access": "高尾駅から直線で約5.2km（最寄りのバス停：萩園 約110m）",
    "categories": [
     "山林・山道"
    ],
@@ -15810,7 +16842,7 @@
    "lat": 35.7018414,
    "lng": 139.2573334,
    "address": "東京都八王子市上川町３３５１",
-   "access": "武蔵増戸駅から約3.2km",
+   "access": "武蔵増戸駅から直線で約3.2km（最寄りのバス停：戸沢 約120m）",
    "categories": [
     "道路沿い"
    ],
@@ -15822,7 +16854,7 @@
    "lat": 35.6796108,
    "lng": 139.2670545,
    "address": "東京都八王子市下恩方町６７６",
-   "access": "高尾駅から約4.4km",
+   "access": "高尾駅から直線で約4.4km（最寄りのバス停：元木 約40m）",
    "categories": [
     "道路沿い"
    ],
@@ -15846,7 +16878,7 @@
    "lat": 35.6698352,
    "lng": 139.2606609,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾駅から約3.6km",
+   "access": "高尾駅から直線で約3.6km（最寄りのバス停：川原宿大橋 約220m）",
    "categories": [
     "道路沿い"
    ],
@@ -15870,7 +16902,7 @@
    "lat": 35.6784787,
    "lng": 139.2324721,
    "address": "東京都八王子市小津町",
-   "access": "高尾山駅から約5.7km",
+   "access": "高尾山駅から直線で約5.7km（最寄りのバス停：バスロータリー（すぐ近く））",
    "categories": [
     "道路沿い"
    ],
@@ -15918,7 +16950,7 @@
    "lat": 35.6736618,
    "lng": 139.2689492,
    "address": "東京都八王子市西寺方町２６７",
-   "access": "高尾駅から約3.7km",
+   "access": "高尾駅から直線で約3.7km（最寄りのバス停：中小田野 約250m）",
    "categories": [
     "山林・山道"
    ],
@@ -15962,6 +16994,18 @@
    "url": "https://www.memorial-object.jp/01462/"
   },
   {
+   "name": "『御大禮紀念』",
+   "lat": 35.638089,
+   "lng": 139.6800946,
+   "address": "東京都世田谷区下馬４丁目２７",
+   "access": "祐天寺駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02836/"
+  },
+  {
    "name": "『御宿稲荷神社縁起』",
    "lat": 35.6899861,
    "lng": 139.7665013,
@@ -15978,7 +17022,7 @@
    "lat": 35.8051156,
    "lng": 139.3077119,
    "address": "東京都青梅市今井２丁目",
-   "access": "金子駅から約2.0km",
+   "access": "金子駅から直線で約2.0km（最寄りのバス停：七日市場 約30m）",
    "categories": [
     "寺社境内"
    ],
@@ -15990,7 +17034,7 @@
    "lat": 35.8055409,
    "lng": 139.3075195,
    "address": "東京都青梅市今井２丁目１０１３",
-   "access": "金子駅から約2.0km",
+   "access": "金子駅から直線で約2.0km（最寄りのバス停：七日市場 約70m）",
    "categories": [
     "寺社境内"
    ],
@@ -16014,7 +17058,7 @@
    "lat": 35.7672485,
    "lng": 139.1716266,
    "address": "東京都あきる野市養沢",
-   "access": "御岳山駅から約3.0km",
+   "access": "御岳山駅から直線で約3.0km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -16092,6 +17136,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02504/"
+  },
+  {
+   "name": "『御神牛』",
+   "lat": 35.7028511,
+   "lng": 139.8205465,
+   "address": "東京都江東区亀戸３丁目６",
+   "access": "亀戸駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02783/"
   },
   {
    "name": "『御臨幸記念碑』",
@@ -16320,6 +17376,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02269/"
+  },
+  {
+   "name": "『心の絆・ライオンひろば（みらいおん）』",
+   "lat": 35.6920357,
+   "lng": 139.7012065,
+   "address": "東京都新宿区新宿３丁目",
+   "access": "新宿駅から東へ約60m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02766/"
   },
   {
    "name": "『志々島四国第*番』",
@@ -17070,7 +18138,7 @@
    "lat": 35.8008469,
    "lng": 139.2948605,
    "address": "東京都青梅市今寺１丁目５３０",
-   "access": "河辺駅から約2.0km",
+   "access": "河辺駅から直線で約2.0km（最寄りのバス停：今寺榎 約270m）",
    "categories": [
     "寺社境内"
    ],
@@ -17138,6 +18206,18 @@
    "url": "https://www.memorial-object.jp/01760/"
   },
   {
+   "name": "『恵澤潤治』",
+   "lat": 35.595946,
+   "lng": 139.7298449,
+   "address": "東京都品川区大井６丁目１８",
+   "access": "大森駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02796/"
+  },
+  {
    "name": "『愛宕山辨戝天』",
    "lat": 35.6647171,
    "lng": 139.7487582,
@@ -17154,7 +18234,7 @@
    "lat": 35.7018634,
    "lng": 139.3282847,
    "address": "東京都八王子市高月町",
-   "access": "拝島駅から約2.5km",
+   "access": "拝島駅から直線で約2.5km（最寄りのバス停：滝山城址下 約570m）",
    "categories": [
     "寺社境内"
    ],
@@ -17172,6 +18252,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01468/"
+  },
+  {
+   "name": "『愛染明王』",
+   "lat": 35.7689182,
+   "lng": 139.8388641,
+   "address": "東京都足立区東和１丁目３０",
+   "access": "亀有駅から約0.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02889/"
   },
   {
    "name": "『愛橋』",
@@ -17244,6 +18336,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00693/"
+  },
+  {
+   "name": "『慰霊碑』",
+   "lat": 35.6381708,
+   "lng": 139.6800953,
+   "address": "東京都世田谷区下馬４丁目２７",
+   "access": "祐天寺駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02837/"
   },
   {
    "name": "『慰霊碑』",
@@ -17354,6 +18458,18 @@
    "url": "https://www.memorial-object.jp/02450/"
   },
   {
+   "name": "『成田山』",
+   "lat": 35.7815689,
+   "lng": 139.8687885,
+   "address": "東京都葛飾区東水元２丁目３９",
+   "access": "金町駅から約1.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02903/"
+  },
+  {
    "name": "『成田山不動堂再建』",
    "lat": 35.6192818,
    "lng": 139.7430423,
@@ -17412,6 +18528,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00402/"
+  },
+  {
+   "name": "『戦捷紀念碑』",
+   "lat": 35.6284446,
+   "lng": 139.5945741,
+   "address": "東京都世田谷区喜多見４丁目１４",
+   "access": "喜多見駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02838/"
+  },
+  {
+   "name": "『戦歿者慰霊碑』",
+   "lat": 35.6284816,
+   "lng": 139.5946036,
+   "address": "東京都世田谷区喜多見４丁目１３",
+   "access": "喜多見駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02839/"
   },
   {
    "name": "『戦没記念』",
@@ -17583,6 +18723,18 @@
   },
   {
    "name": "『手づくり郷土賞』",
+   "lat": 35.7970603,
+   "lng": 139.8341507,
+   "address": "東京都足立区神明３丁目１３",
+   "access": "八潮駅から約1.5km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02890/"
+  },
+  {
+   "name": "『手づくり郷土賞』",
    "lat": 35.6540266,
    "lng": 139.6710134,
    "address": "東京都世田谷区代沢４丁目３６",
@@ -17718,7 +18870,7 @@
    "lat": 35.7409102,
    "lng": 139.0671359,
    "address": "東京都西多摩郡檜原村",
-   "access": "奥多摩駅から約8.0km",
+   "access": "奥多摩駅から直線で約8.0km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -17954,6 +19106,18 @@
    "url": "https://www.memorial-object.jp/01297/"
   },
   {
+   "name": "『文坂』",
+   "lat": 35.6969199,
+   "lng": 139.7616512,
+   "address": "東京都千代田区神田駿河台１丁目",
+   "access": "神保町駅から東へ約310m",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02760/"
+  },
+  {
    "name": "『文学の小路』",
    "lat": 35.6547024,
    "lng": 139.6630228,
@@ -18170,6 +19334,18 @@
    "url": "https://www.memorial-object.jp/01298/"
   },
   {
+   "name": "『新川西　火の見櫓』",
+   "lat": 35.6824725,
+   "lng": 139.8562928,
+   "address": "東京都江戸川区北葛西１丁目１６",
+   "access": "船堀駅から西へ約740m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02743/"
+  },
+  {
    "name": "『新幹線の発祥地・鴨宮』",
    "lat": 35.27537296919996,
    "lng": 139.17975091510002,
@@ -18186,12 +19362,24 @@
    "lat": 35.6755956,
    "lng": 139.2676075,
    "address": "東京都八王子市西寺方町３８２",
-   "access": "高尾駅から約3.9km",
+   "access": "高尾駅から直線で約3.9km（最寄りのバス停：中小田野 約40m）",
    "categories": [
     "道路沿い"
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00583/"
+  },
+  {
+   "name": "『新橋』",
+   "lat": 35.618511,
+   "lng": 139.6559158,
+   "address": "東京都世田谷区深沢４丁目２０",
+   "access": "尾山台駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02840/"
   },
   {
    "name": "『新橋跡の親柱』",
@@ -18290,6 +19478,18 @@
    "url": "https://www.memorial-object.jp/00033_shiraokaeki/"
   },
   {
+   "name": "『新道橋』",
+   "lat": 35.6377247,
+   "lng": 139.6771164,
+   "address": "東京都世田谷区下馬３丁目４０",
+   "access": "三軒茶屋駅から約0.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02841/"
+  },
+  {
    "name": "『新選組永倉新八墓』",
    "lat": 35.7455269,
    "lng": 139.7207751,
@@ -18312,6 +19512,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01543/"
+  },
+  {
+   "name": "『施餓鬼音楽法要碑』",
+   "lat": 35.752648,
+   "lng": 139.8578464,
+   "address": "東京都葛飾区青戸６丁目１９",
+   "access": "青砥駅から約0.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02904/"
+  },
+  {
+   "name": "『旅着高祖日蓮大菩薩』",
+   "lat": 35.5802408,
+   "lng": 139.7037235,
+   "address": "東京都大田区池上２丁目１０",
+   "access": "西馬込駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02808/"
   },
   {
    "name": "『旗ヶ岡子育て地蔵尊』",
@@ -18747,6 +19971,18 @@
   },
   {
    "name": "『日露戦役記念碑』",
+   "lat": 35.6175204,
+   "lng": 139.6864481,
+   "address": "東京都目黒区碑文谷３丁目７",
+   "access": "都立大学駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02799/"
+  },
+  {
+   "name": "『日露戦役記念碑』",
    "lat": 35.6934096,
    "lng": 139.5595944,
    "address": "東京都三鷹市下連雀４丁目",
@@ -18795,6 +20031,18 @@
   },
   {
    "name": "『日露戦没紀念碑』",
+   "lat": 35.638107,
+   "lng": 139.6800846,
+   "address": "東京都世田谷区下馬４丁目２７",
+   "access": "祐天寺駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02842/"
+  },
+  {
+   "name": "『日露戦没紀念碑』",
    "lat": 35.6790856,
    "lng": 139.6120504,
    "address": "東京都杉並区高井戸西１丁目７",
@@ -18828,6 +20076,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02636/"
+  },
+  {
+   "name": "『旧中川橋親柱』",
+   "lat": 35.7630217,
+   "lng": 139.8561098,
+   "address": "東京都葛飾区新宿２丁目９",
+   "access": "亀有駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02905/"
   },
   {
    "name": "『旧五日市鐵道 武蔵田中駅跡』",
@@ -18878,6 +20138,18 @@
    "url": "https://www.memorial-object.jp/01779/"
   },
   {
+   "name": "『旧千住新橋の標柱』",
+   "lat": 35.7570821,
+   "lng": 139.799761,
+   "address": "東京都足立区千住大川町１４",
+   "access": "北千住駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02891/"
+  },
+  {
    "name": "『旧噴水塔』",
    "lat": 35.6878856,
    "lng": 139.5089772,
@@ -18888,6 +20160,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00994/"
+  },
+  {
+   "name": "『旧新井宿出土橋跡』",
+   "lat": 35.5800455,
+   "lng": 139.7181635,
+   "address": "東京都大田区中央４丁目２１",
+   "access": "大森駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02809/"
   },
   {
    "name": "『旧日本帝国陸軍東京砲兵工廠跡の基礎用レンガ』",
@@ -19059,6 +20343,18 @@
    "url": "https://www.memorial-object.jp/01387/"
   },
   {
+   "name": "『明日の神話』",
+   "lat": 35.6587386,
+   "lng": 139.7002982,
+   "address": "東京都渋谷区道玄坂１丁目",
+   "access": "渋谷駅から東へ約110m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02855/"
+  },
+  {
    "name": "『明日への夢』",
    "lat": 35.6994353,
    "lng": 139.5704349,
@@ -19111,7 +20407,7 @@
    "lat": 35.6357117,
    "lng": 139.2167873,
    "address": "東京都八王子市裏高尾町",
-   "access": "相模湖駅から約3.3km",
+   "access": "相模湖駅から直線で約3.3km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -19191,6 +20487,18 @@
    "url": "https://www.memorial-object.jp/02279/"
   },
   {
+   "name": "『明治百年御遷宮記念碑』",
+   "lat": 35.7572451,
+   "lng": 139.799294,
+   "address": "東京都足立区千住大川町１２",
+   "access": "北千住駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02892/"
+  },
+  {
    "name": "『明治百年記念』",
    "lat": 36.27337799827515,
    "lng": 139.1050592695966,
@@ -19213,6 +20521,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01544/"
+  },
+  {
+   "name": "『明治維新百年記念植樹』",
+   "lat": 35.6382242,
+   "lng": 139.6801168,
+   "address": "東京都世田谷区下馬４丁目２７",
+   "access": "祐天寺駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02843/"
   },
   {
    "name": "『春の歌／健康宣言都市』",
@@ -19323,6 +20643,18 @@
    "url": "https://www.memorial-object.jp/01388/"
   },
   {
+   "name": "『昭憲皇太后大喪儀葬場殿趾碑』",
+   "lat": 35.6699504,
+   "lng": 139.6986313,
+   "address": "東京都渋谷区代々木神園町",
+   "access": "原宿駅から西へ約340m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02856/"
+  },
+  {
    "name": "『是政渡船場跡』",
    "lat": 35.6516037,
    "lng": 139.4885827,
@@ -19375,7 +20707,7 @@
    "lat": 35.8049147,
    "lng": 139.288415,
    "address": "東京都青梅市谷野",
-   "access": "東青梅駅から約2.2km",
+   "access": "東青梅駅から直線で約2.2km（最寄りのバス停：谷野 約230m）",
    "categories": [
     "道路沿い"
    ],
@@ -19483,7 +20815,7 @@
    "lat": 35.8003399,
    "lng": 139.2948416,
    "address": "東京都青梅市今寺１丁目５３０",
-   "access": "河辺駅から約2.0km",
+   "access": "河辺駅から直線で約2.0km（最寄りのバス停：今寺榎 約230m）",
    "categories": [
     "寺社境内"
    ],
@@ -19573,6 +20905,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01478/"
+  },
+  {
+   "name": "『朝をつげる』",
+   "lat": 35.6637536,
+   "lng": 139.8771337,
+   "address": "東京都江戸川区東葛西５丁目２７",
+   "access": "葛西駅から東へ約400m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02744/"
   },
   {
    "name": "『朝日地蔵尊』",
@@ -19723,7 +21067,7 @@
    "lat": 35.6912206,
    "lng": 139.3235414,
    "address": "東京都八王子市丹木町２丁目",
-   "access": "拝島駅から約3.8km",
+   "access": "拝島駅から直線で約3.8km（最寄りのバス停：創価大学栄光門 約160m）",
    "categories": [
     "学校"
    ],
@@ -19819,7 +21163,7 @@
    "lat": 35.8041214,
    "lng": 139.3003855,
    "address": "東京都青梅市藤橋２丁目１７２",
-   "access": "河辺駅から約2.6km",
+   "access": "河辺駅から直線で約2.6km（最寄りのバス停：藤橋 約300m）",
    "categories": [
     "公園"
    ],
@@ -19993,6 +21337,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01390/"
+  },
+  {
+   "name": "『東京市郡併合記念碑』",
+   "lat": 35.7919009,
+   "lng": 139.8672954,
+   "address": "東京都葛飾区東水元５丁目４０",
+   "access": "金町駅から直線で約2.5km（最寄りのバス停：水元そよかぜ園 約430m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02906/"
   },
   {
    "name": "『東京府立第五高等女學校発祥の地』",
@@ -20488,6 +21844,18 @@
   },
   {
    "name": "『柳橋』",
+   "lat": 35.6155611,
+   "lng": 139.6626729,
+   "address": "東京都世田谷区深沢１丁目３",
+   "access": "自由が丘駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02844/"
+  },
+  {
+   "name": "『柳橋』",
    "lat": 35.6949824,
    "lng": 139.7875949,
    "address": "東京都中央区東日本橋２丁目２８",
@@ -20668,6 +22036,18 @@
   },
   {
    "name": "『桜橋』",
+   "lat": 35.6170906,
+   "lng": 139.6609636,
+   "address": "東京都世田谷区深沢１丁目１３",
+   "access": "自由が丘駅から約1.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02845/"
+  },
+  {
+   "name": "『桜橋』",
    "lat": 35.6546456,
    "lng": 139.6642693,
    "address": "東京都世田谷区代田２丁目１",
@@ -20739,6 +22119,18 @@
    "url": "https://www.memorial-object.jp/01622/"
   },
   {
+   "name": "『梅松両社落成記念三翁句碑』",
+   "lat": 35.7027899,
+   "lng": 139.820398,
+   "address": "東京都江東区亀戸３丁目９",
+   "access": "亀戸駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02784/"
+  },
+  {
    "name": "『梅玉之碑』",
    "lat": 35.6781218,
    "lng": 139.8023751,
@@ -20755,7 +22147,7 @@
    "lat": 35.7887134,
    "lng": 139.190719,
    "address": "東京都西多摩郡日の出町大字大久野",
-   "access": "御嶽駅から約1.6km",
+   "access": "御嶽駅から直線で約1.6km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -20821,6 +22213,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/01/00049_moriyamakinji2.png",
    "url": "https://www.memorial-object.jp/00049_moriyamakinji/"
+  },
+  {
+   "name": "『森市福地蔵尊』",
+   "lat": 35.7330957,
+   "lng": 139.8559941,
+   "address": "東京都葛飾区奥戸２丁目１",
+   "access": "京成立石駅から約0.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02907/"
   },
   {
    "name": "『検査業務開始の地』",
@@ -20947,7 +22351,7 @@
    "lat": 35.6530193,
    "lng": 139.2527805,
    "address": "東京都八王子市元八王子町３丁目",
-   "access": "高尾山駅から約2.5km",
+   "access": "高尾山駅から直線で約2.5km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -21031,7 +22435,7 @@
    "lat": 35.7949437,
    "lng": 139.3238366,
    "address": "東京都青梅市今井５丁目",
-   "access": "金子駅から約1.8km",
+   "access": "金子駅から直線で約1.8km（最寄りのバス停：物見塚 約310m）",
    "categories": [
     "道路沿い"
    ],
@@ -21085,6 +22489,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00776/"
+  },
+  {
+   "name": "『歓』",
+   "lat": 35.6630746,
+   "lng": 139.8723648,
+   "address": "東京都江戸川区中葛西５丁目３４",
+   "access": "葛西駅から南西へ約70m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02745/"
   },
   {
    "name": "『歓び』",
@@ -21159,6 +22575,30 @@
    "url": "https://www.memorial-object.jp/01548/"
   },
   {
+   "name": "『正面左右石垣』",
+   "lat": 35.6757145,
+   "lng": 139.8801546,
+   "address": "東京都江戸川区江戸川６丁目４４",
+   "access": "一之江駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02917/"
+  },
+  {
+   "name": "『正面金剛躯』",
+   "lat": 35.7793232,
+   "lng": 139.8470299,
+   "address": "東京都足立区大谷田１丁目２２",
+   "access": "北綾瀬駅から約1.4km",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02893/"
+  },
+  {
    "name": "『武蔵一之宮 小野神社』",
    "lat": 35.6530557,
    "lng": 139.4412627,
@@ -21193,6 +22633,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00490/"
+  },
+  {
+   "name": "『武蔵川部屋　170213』",
+   "lat": 35.7128514,
+   "lng": 139.8643139,
+   "address": "東京都江戸川区中央４丁目１",
+   "access": "新小岩駅から南東へ約730m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02746/"
   },
   {
    "name": "『武蔵野の路』",
@@ -21267,11 +22719,23 @@
    "url": "https://www.memorial-object.jp/02061/"
   },
   {
+   "name": "『殉国』",
+   "lat": 35.5812692,
+   "lng": 139.7203036,
+   "address": "東京都大田区中央１丁目１４",
+   "access": "大森駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02810/"
+  },
+  {
    "name": "『殉国忠霊碑』",
    "lat": 35.6771373,
    "lng": 139.1925059,
    "address": "東京都八王子市上恩方町",
-   "access": "相模湖駅から約6.6km",
+   "access": "相模湖駅から直線で約6.6km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -21379,7 +22843,7 @@
    "lat": 35.8007838,
    "lng": 139.2947719,
    "address": "東京都青梅市今寺１丁目５３０",
-   "access": "河辺駅から約2.0km",
+   "access": "河辺駅から直線で約2.0km（最寄りのバス停：今寺榎 約270m）",
    "categories": [
     "寺社境内"
    ],
@@ -21487,7 +22951,7 @@
    "lat": 35.8040503,
    "lng": 139.281074,
    "address": "東京都青梅市塩船",
-   "access": "東青梅駅から約1.7km",
+   "access": "東青梅駅から直線で約1.7km（最寄りのバス停：吹上中学校入口 約610m）",
    "categories": [
     "寺社境内"
    ],
@@ -21517,6 +22981,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02587/"
+  },
+  {
+   "name": "『水子地蔵菩薩』",
+   "lat": 35.7795451,
+   "lng": 139.8714129,
+   "address": "東京都葛飾区東水元２丁目２７",
+   "access": "金町駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02908/"
   },
   {
    "name": "『水戸の納豆記念碑』",
@@ -21556,6 +23032,18 @@
   },
   {
    "name": "『水神』",
+   "lat": 35.7481712,
+   "lng": 139.8879391,
+   "address": "東京都江戸川区北小岩８丁目２９",
+   "access": "京成小岩駅から北東へ約760m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02747/"
+  },
+  {
+   "name": "『水神』",
    "lat": 35.7124791,
    "lng": 139.5083494,
    "address": "東京都小金井市桜町１丁目",
@@ -21589,6 +23077,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02155/"
+  },
+  {
+   "name": "『水辺』",
+   "lat": 35.7844999,
+   "lng": 139.6443048,
+   "address": "東京都板橋区赤塚５丁目３４",
+   "access": "西高島平駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02865/"
   },
   {
    "name": "『水道橋』",
@@ -21663,6 +23163,18 @@
    "url": "https://www.memorial-object.jp/02457/"
   },
   {
+   "name": "『氷川神社の神輿』",
+   "lat": 35.7286585,
+   "lng": 139.6564302,
+   "address": "東京都練馬区豊玉南２丁目１５",
+   "access": "練馬駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02872/"
+  },
+  {
    "name": "『氷川神社改修記念碑』",
    "lat": 35.7447389,
    "lng": 139.6167851,
@@ -21685,6 +23197,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00750/"
+  },
+  {
+   "name": "『汐見坂』",
+   "lat": 35.5818319,
+   "lng": 139.7124434,
+   "address": "東京都大田区中央５丁目１５",
+   "access": "西馬込駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02811/"
   },
   {
    "name": "『江下山橋』",
@@ -21747,6 +23271,30 @@
    "url": "https://www.memorial-object.jp/01549/"
   },
   {
+   "name": "『江戸名所 縛られ地蔵尊入口』",
+   "lat": 35.7778731,
+   "lng": 139.8699465,
+   "address": "東京都葛飾区東水元２丁目９",
+   "access": "金町駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02909/"
+  },
+  {
+   "name": "『江戸向き地蔵』",
+   "lat": 35.7179012,
+   "lng": 139.593744,
+   "address": "東京都杉並区善福寺４丁目１",
+   "access": "上石神井駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02860/"
+  },
+  {
    "name": "『江戸国学発祥の地』",
    "lat": 35.7015587,
    "lng": 139.7674183,
@@ -21783,6 +23331,18 @@
    "url": "https://www.memorial-object.jp/02721/"
   },
   {
+   "name": "『江戸川区緑道・仲よし小みち』",
+   "lat": 35.7385208,
+   "lng": 139.885579,
+   "address": "東京都江戸川区北小岩２丁目１９",
+   "access": "京成小岩駅から南東へ約480m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02748/"
+  },
+  {
    "name": "『江戸水道の石桝と木槌』",
    "lat": 35.6812629,
    "lng": 139.7360427,
@@ -21793,6 +23353,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01312/"
+  },
+  {
+   "name": "『江戸開城西郷南洲勝海舟会見之地』",
+   "lat": 35.6472685,
+   "lng": 139.7486891,
+   "address": "東京都港区芝５丁目",
+   "access": "三田駅から南東へ約50m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02763/"
   },
   {
    "name": "『沙竭羅竜王像』",
@@ -21817,6 +23389,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02297/"
+  },
+  {
+   "name": "『河童』",
+   "lat": 35.6793393,
+   "lng": 139.8202367,
+   "address": "東京都江東区千石３丁目４",
+   "access": "東陽町駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02785/"
   },
   {
    "name": "『河童』",
@@ -21891,6 +23475,18 @@
    "url": "https://www.memorial-object.jp/02010/"
   },
   {
+   "name": "『油面地蔵尊』",
+   "lat": 35.6316127,
+   "lng": 139.7002403,
+   "address": "東京都目黒区目黒４丁目２４",
+   "access": "祐天寺駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02800/"
+  },
+  {
    "name": "『沼栄橋新道開設記念碑』",
    "lat": 35.7171274,
    "lng": 139.6534119,
@@ -21938,6 +23534,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01630/"
+  },
+  {
+   "name": "『法印慶光供養塔（阿弥陀仏）』",
+   "lat": 35.6795521,
+   "lng": 139.7985306,
+   "address": "東京都江東区清澄３丁目",
+   "access": "清澄白河駅から南へ約280m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02786/"
   },
   {
    "name": "『法守護童子』",
@@ -22144,6 +23752,18 @@
    "url": "https://www.memorial-object.jp/01397/"
   },
   {
+   "name": "『浄土宗霊照山蓮華院専光寺略誌』",
+   "lat": 35.6798288,
+   "lng": 139.5949633,
+   "address": "東京都世田谷区北烏山４丁目２８",
+   "access": "久我山駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02846/"
+  },
+  {
    "name": "『浄瑠璃姫の碑』",
    "lat": 35.6079469,
    "lng": 139.3894184,
@@ -22232,7 +23852,7 @@
    "lat": 35.6526593,
    "lng": 139.2226061,
    "address": "東京都八王子市裏高尾町",
-   "access": "高尾山駅から約3.9km",
+   "access": "高尾山駅から直線で約3.9km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -22316,7 +23936,7 @@
    "lat": 35.6647983,
    "lng": 139.55105,
    "address": "東京都調布市深大寺元町２丁目２１",
-   "access": "調布駅から約1.6km",
+   "access": "調布駅から直線で約1.6km（最寄りのバス停：中央道深大寺バス停下 約210m）",
    "categories": [
     "公園"
    ],
@@ -22328,12 +23948,24 @@
    "lat": 35.7489911,
    "lng": 139.2068678,
    "address": "東京都あきる野市深沢",
-   "access": "武蔵五日市駅から約2.7km",
+   "access": "武蔵五日市駅から直線で約2.7km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "水辺"
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01023/"
+  },
+  {
+   "name": "『深沢橋』",
+   "lat": 35.6198201,
+   "lng": 139.6532954,
+   "address": "東京都世田谷区深沢５丁目４",
+   "access": "等々力駅から約1.4km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02847/"
   },
   {
    "name": "『添田啞蟬坊碑』",
@@ -22384,6 +24016,18 @@
    "url": "https://www.memorial-object.jp/01632/"
   },
   {
+   "name": "『清水庚申尊』",
+   "lat": 35.6260415,
+   "lng": 139.6947775,
+   "address": "東京都目黒区目黒本町１丁目１０",
+   "access": "学芸大学駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02801/"
+  },
+  {
    "name": "『清水窪延命水子地蔵尊』",
    "lat": 35.6113498,
    "lng": 139.6871012,
@@ -22394,6 +24038,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02161/"
+  },
+  {
+   "name": "『清水誠の頌』",
+   "lat": 35.7028489,
+   "lng": 139.8203101,
+   "address": "東京都江東区亀戸３丁目９",
+   "access": "亀戸駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02787/"
   },
   {
    "name": "『清水谷』",
@@ -22568,7 +24224,7 @@
    "lat": 35.6973812,
    "lng": 139.3252639,
    "address": "東京都八王子市丹木町３丁目７６",
-   "access": "拝島駅から約3.1km",
+   "access": "拝島駅から直線で約3.1km（最寄りのバス停：滝山城址下（すぐ近く））",
    "categories": [
     "道路沿い"
    ],
@@ -23156,7 +24812,7 @@
    "lat": 35.6536644,
    "lng": 139.2533318,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約2.5km",
+   "access": "高尾山駅から直線で約2.5km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -23216,7 +24872,7 @@
    "lat": 35.64034597841929,
    "lng": 139.2931620838888,
    "address": "東京都八王子市",
-   "access": "狭間駅1付近",
+   "access": "狭間駅付近",
    "categories": [
     "駅前"
    ],
@@ -23234,6 +24890,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02305/"
+  },
+  {
+   "name": "『猪牙舟』",
+   "lat": 35.71872,
+   "lng": 139.8025067,
+   "address": "東京都台東区今戸１丁目７",
+   "access": "浅草駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02774/"
   },
   {
    "name": "『猫又橋 親柱の袖石』",
@@ -23258,6 +24926,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01552/"
+  },
+  {
+   "name": "『献木　紀元二千六百年記念』",
+   "lat": 35.6380738,
+   "lng": 139.680102,
+   "address": "東京都世田谷区下馬４丁目２７",
+   "access": "祐天寺駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02848/"
   },
   {
    "name": "『献燈台奉献之碑』",
@@ -23356,6 +25036,18 @@
    "url": "https://www.memorial-object.jp/01405/"
   },
   {
+   "name": "『玉参拝講』",
+   "lat": 35.6687181,
+   "lng": 139.8788386,
+   "address": "東京都江戸川区東葛西１丁目２３",
+   "access": "葛西駅から北東へ約790m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02749/"
+  },
+  {
    "name": "『玉垣再建記念』",
    "lat": 35.6821238,
    "lng": 139.8149948,
@@ -23414,6 +25106,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02307/"
+  },
+  {
+   "name": "『玉紀念碑』",
+   "lat": 35.6686357,
+   "lng": 139.8806073,
+   "address": "東京都江戸川区東葛西２丁目３４",
+   "access": "葛西駅から約0.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02918/"
   },
   {
    "name": "『玉藻公園』",
@@ -23528,7 +25232,7 @@
    "lat": 35.7848975,
    "lng": 139.3539145,
    "address": "東京都西多摩郡瑞穂町大字駒形富士山",
-   "access": "箱根ヶ崎駅から約1.6km",
+   "access": "箱根ヶ崎駅から直線で約1.6km（最寄りのバス停：瑞穂バイパス南 約170m）",
    "categories": [
     "道路沿い"
    ],
@@ -23570,6 +25274,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00478/"
+  },
+  {
+   "name": "『甘藍の碑』",
+   "lat": 35.7356062,
+   "lng": 139.6002293,
+   "address": "東京都練馬区石神井町５丁目１１",
+   "access": "石神井公園駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02873/"
   },
   {
    "name": "『生姜塚』",
@@ -23872,6 +25588,18 @@
    "url": "https://www.memorial-object.jp/00705/"
   },
   {
+   "name": "『瘞鷂碑』",
+   "lat": 35.705142,
+   "lng": 139.7503476,
+   "address": "東京都文京区後楽１丁目",
+   "access": "後楽園駅から南へ約260m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02768/"
+  },
+  {
    "name": "『登山五十回記念』",
    "lat": 35.6260869,
    "lng": 139.2507581,
@@ -23978,6 +25706,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00707/"
+  },
+  {
+   "name": "『百度石』",
+   "lat": 35.6759514,
+   "lng": 139.8800882,
+   "address": "東京都江戸川区江戸川６丁目４４",
+   "access": "一之江駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02919/"
   },
   {
    "name": "『百度石』",
@@ -24236,7 +25976,7 @@
    "lat": 35.6462865,
    "lng": 139.1867888,
    "address": "東京都八王子市上恩方町",
-   "access": "相模湖駅から約3.2km",
+   "access": "相模湖駅から直線で約3.2km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -24302,6 +26042,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01641/"
+  },
+  {
+   "name": "『目黄不動明王』",
+   "lat": 35.7039791,
+   "lng": 139.8514279,
+   "address": "東京都江戸川区平井１丁目２５",
+   "access": "平井駅から約0.8km",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02920/"
   },
   {
    "name": "『相原學校跡八丹』",
@@ -24560,7 +26312,7 @@
    "lat": 35.66253,
    "lng": 139.1887201,
    "address": "東京都八王子市上恩方町３５７０",
-   "access": "相模湖駅から約5.0km",
+   "access": "相模湖駅から直線で約5.0km（最寄りのバス停：陣馬高原下 約120m）",
    "categories": [
     "山林・山道"
    ],
@@ -24650,6 +26402,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00432/"
+  },
+  {
+   "name": "『石垣建設碑』",
+   "lat": 35.668108,
+   "lng": 139.8807984,
+   "address": "東京都江戸川区東葛西２丁目３４",
+   "access": "葛西駅から約0.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02921/"
   },
   {
    "name": "『石塚稲荷神社』",
@@ -24777,7 +26541,7 @@
    "lat": 35.6530684,
    "lng": 139.2530411,
    "address": "東京都八王子市元八王子町３丁目",
-   "access": "高尾山駅から約2.5km",
+   "access": "高尾山駅から直線で約2.5km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -24807,6 +26571,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01814/"
+  },
+  {
+   "name": "『石神井城址』",
+   "lat": 35.737315,
+   "lng": 139.5968322,
+   "address": "東京都練馬区石神井台１丁目１８",
+   "access": "石神井公園駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02874/"
   },
   {
    "name": "『石神井火車站之碑』",
@@ -24857,6 +26633,18 @@
    "url": "https://www.memorial-object.jp/02016/"
   },
   {
+   "name": "『石造線刻地蔵菩薩立像碑』",
+   "lat": 35.6926061,
+   "lng": 139.9062746,
+   "address": "東京都江戸川区南篠崎町１丁目１",
+   "access": "瑞江駅から東へ約780m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02750/"
+  },
+  {
    "name": "『石阪供養塔』",
    "lat": 35.6983317,
    "lng": 139.4936667,
@@ -24873,7 +26661,7 @@
    "lat": 35.5838206,
    "lng": 139.4444188,
    "address": "東京都町田市野津田町",
-   "access": "玉川学園前駅から約2.8km",
+   "access": "玉川学園前駅から直線で約2.8km（最寄りのバス停：野津田車庫 約400m）",
    "categories": [
     "山林・山道"
    ],
@@ -24929,6 +26717,18 @@
    "url": "https://www.memorial-object.jp/02462/"
   },
   {
+   "name": "『碑小学校創立之地』",
+   "lat": 35.617522,
+   "lng": 139.6864703,
+   "address": "東京都目黒区碑文谷３丁目７",
+   "access": "都立大学駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02802/"
+  },
+  {
    "name": "『碑文』",
    "lat": 35.6603887,
    "lng": 139.7035162,
@@ -24939,6 +26739,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02405/"
+  },
+  {
+   "name": "『碑文石』",
+   "lat": 35.6174768,
+   "lng": 139.6856307,
+   "address": "東京都目黒区碑文谷３丁目７",
+   "access": "都立大学駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02803/"
   },
   {
    "name": "『碧翔 一色邦彦』",
@@ -24999,6 +26811,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04454/"
+  },
+  {
+   "name": "『社殿改築記念碑』",
+   "lat": 35.715433,
+   "lng": 139.5952316,
+   "address": "東京都杉並区善福寺１丁目２９",
+   "access": "上石神井駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02861/"
   },
   {
    "name": "『社殿造営記念』",
@@ -25157,16 +26981,52 @@
    "url": "https://www.memorial-object.jp/00957/"
   },
   {
+   "name": "『神明六木遊歩道』",
+   "lat": 35.8002514,
+   "lng": 139.8372382,
+   "address": "東京都足立区神明３丁目２９",
+   "access": "八潮駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02894/"
+  },
+  {
+   "name": "『神明橋』",
+   "lat": 35.6175926,
+   "lng": 139.6599952,
+   "address": "東京都世田谷区深沢３丁目５",
+   "access": "尾山台駅から約1.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02849/"
+  },
+  {
    "name": "『神木梶原杉』",
    "lat": 35.6556953,
    "lng": 139.2765932,
    "address": "東京都八王子市元八王子町３丁目２２５２",
-   "access": "高尾駅から約1.6km",
+   "access": "高尾駅から直線で約1.6km（最寄りのバス停：宮の前 約150m）",
    "categories": [
     "道路沿い"
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00593/"
+  },
+  {
+   "name": "『神楽殿改築記念碑』",
+   "lat": 35.7153693,
+   "lng": 139.5956795,
+   "address": "東京都杉並区善福寺１丁目２９",
+   "access": "上石神井駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02862/"
   },
   {
    "name": "『神武天皇遥拝所』",
@@ -25301,6 +27161,18 @@
    "url": "https://www.memorial-object.jp/02317/"
   },
   {
+   "name": "『福山碧翠翁記念』",
+   "lat": 35.7028683,
+   "lng": 139.8203192,
+   "address": "東京都江東区亀戸３丁目９",
+   "access": "亀戸駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02788/"
+  },
+  {
    "name": "『福徳子育地蔵尊』",
    "lat": 35.7447307,
    "lng": 139.7968628,
@@ -25433,6 +27305,18 @@
    "url": "https://www.memorial-object.jp/01925/"
   },
   {
+   "name": "『福興観世音』",
+   "lat": 35.5757861,
+   "lng": 139.7187487,
+   "address": "東京都大田区中央３丁目１５",
+   "access": "大森町駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02812/"
+  },
+  {
    "name": "『秋色桜 句碑』",
    "lat": 35.7124506,
    "lng": 139.773648,
@@ -25455,6 +27339,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02167/"
+  },
+  {
+   "name": "『稚児地蔵尊』",
+   "lat": 35.5758319,
+   "lng": 139.7187045,
+   "address": "東京都大田区中央３丁目１５",
+   "access": "大森町駅から約1.3km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02813/"
   },
   {
    "name": "『稚児大師尊像』",
@@ -25515,6 +27411,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02318/"
+  },
+  {
+   "name": "『稲荷大神』",
+   "lat": 35.7353602,
+   "lng": 139.8886192,
+   "address": "東京都江戸川区東小岩６丁目１５",
+   "access": "小岩駅から東へ約650m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02751/"
   },
   {
    "name": "『稲荷大神』",
@@ -25779,6 +27687,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00483/"
+  },
+  {
+   "name": "『笛吹く少年』",
+   "lat": 35.6671748,
+   "lng": 139.8736386,
+   "address": "東京都江戸川区東葛西５丁目５",
+   "access": "葛西駅から北へ約400m",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02752/"
   },
   {
    "name": "『笛吹市 日本一桃源郷』",
@@ -27042,6 +28962,18 @@
    "url": "https://www.memorial-object.jp/01328/"
   },
   {
+   "name": "『篠田堀親水緑道』",
+   "lat": 35.6995373,
+   "lng": 139.9141532,
+   "address": "東京都江戸川区下篠崎町１３",
+   "access": "篠崎駅から約1.2km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02922/"
+  },
+  {
    "name": "『籠工商祖神講』",
    "lat": 35.7023227,
    "lng": 139.7682159,
@@ -27112,6 +29044,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01820/"
+  },
+  {
+   "name": "『精子発見六十周年記念』",
+   "lat": 35.7202128,
+   "lng": 139.7451909,
+   "address": "東京都文京区白山３丁目",
+   "access": "白山駅から西へ約640m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02769/"
   },
   {
    "name": "『糀谷地蔵菩薩』",
@@ -27196,6 +29140,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01331/"
+  },
+  {
+   "name": "『紙すき碑』",
+   "lat": 35.7572811,
+   "lng": 139.7992946,
+   "address": "東京都足立区千住大川町１２",
+   "access": "北千住駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02895/"
   },
   {
    "name": "『素波倶羅大明神』",
@@ -27342,6 +29298,18 @@
    "url": "https://www.memorial-object.jp/02642/"
   },
   {
+   "name": "『練馬大根の碑』",
+   "lat": 35.7521016,
+   "lng": 139.6398698,
+   "address": "東京都練馬区春日町４丁目",
+   "access": "練馬春日町駅から北西へ約90m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02875/"
+  },
+  {
    "name": "『縁結び子育て地蔵尊』",
    "lat": 35.7303962,
    "lng": 139.7544443,
@@ -27352,6 +29320,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01648/"
+  },
+  {
+   "name": "『縛られ地蔵尊』",
+   "lat": 35.7796031,
+   "lng": 139.871242,
+   "address": "東京都葛飾区東水元２丁目２８",
+   "access": "金町駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02910/"
   },
   {
    "name": "『纏』",
@@ -27546,6 +29526,18 @@
    "url": "https://www.memorial-object.jp/02469/"
   },
   {
+   "name": "『聖橋の由来』",
+   "lat": 35.7002338,
+   "lng": 139.7654355,
+   "address": "東京都文京区湯島１丁目",
+   "access": "御茶ノ水駅から北東へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02770/"
+  },
+  {
    "name": "『聖観世音菩薩尊蔵』",
    "lat": 35.7236303,
    "lng": 139.7876429,
@@ -27622,7 +29614,7 @@
    "lat": 35.7927282,
    "lng": 139.0479871,
    "address": "東京都西多摩郡奥多摩町原",
-   "access": "奥多摩駅から約4.8km",
+   "access": "奥多摩駅から直線で約4.8km（最寄りのバス停：奥多摩湖 約40m）",
    "categories": [
     "公共施設"
    ],
@@ -27778,7 +29770,7 @@
    "lat": 35.6779351,
    "lng": 139.2542446,
    "address": "東京都八王子市下恩方町２１９",
-   "access": "高尾駅から約4.7km",
+   "access": "高尾駅から直線で約4.7km（最寄りのバス停：恩方営業所 約290m）",
    "categories": [
     "道路沿い"
    ],
@@ -28018,12 +30010,24 @@
    "lat": 35.7483376,
    "lng": 139.0748634,
    "address": "東京都西多摩郡檜原村",
-   "access": "奥多摩駅から約7.0km",
+   "access": "奥多摩駅から直線で約7.0km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01054/"
+  },
+  {
+   "name": "『菅公一千年奈』",
+   "lat": 35.7027997,
+   "lng": 139.8203178,
+   "address": "東京都江東区亀戸３丁目９",
+   "access": "亀戸駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02789/"
   },
   {
    "name": "『菅公一千年祭碑』",
@@ -28098,6 +30102,18 @@
    "url": "https://www.memorial-object.jp/04593/"
   },
   {
+   "name": "『萬霊供養塔』",
+   "lat": 35.5801192,
+   "lng": 139.7037777,
+   "address": "東京都大田区池上２丁目１０",
+   "access": "西馬込駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02814/"
+  },
+  {
    "name": "『落幡村村名保存碑』",
    "lat": 35.3812924,
    "lng": 139.2780666,
@@ -28134,6 +30150,18 @@
    "url": "https://www.memorial-object.jp/02725/"
   },
   {
+   "name": "『葛西沖開発土地区画整理事業完成記念碑』",
+   "lat": 35.6553218,
+   "lng": 139.8553885,
+   "address": "東京都江戸川区清新町２丁目５",
+   "access": "西葛西駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02923/"
+  },
+  {
    "name": "『葛西神社御祭神 由緒』",
    "lat": 35.7710842,
    "lng": 139.8783222,
@@ -28144,6 +30172,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02726/"
+  },
+  {
+   "name": "『葛西神社鍾馗石像』",
+   "lat": 35.7713379,
+   "lng": 139.8788149,
+   "address": "東京都葛飾区東金町６丁目１０",
+   "access": "金町駅から東へ約760m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02727/"
+  },
+  {
+   "name": "『葛西親水四季の道』",
+   "lat": 35.6674216,
+   "lng": 139.8742813,
+   "address": "東京都江戸川区東葛西５丁目６",
+   "access": "葛西駅から北へ約440m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02753/"
   },
   {
    "name": "『葛飾北斎翁』",
@@ -28228,6 +30280,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01829/"
+  },
+  {
+   "name": "『蓮の子』",
+   "lat": 35.6631207,
+   "lng": 139.8738619,
+   "address": "東京都江戸川区東葛西６丁目３",
+   "access": "葛西駅から南東へ約120m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02754/"
   },
   {
    "name": "『蔵前水の館』",
@@ -28558,7 +30622,7 @@
    "lat": 35.6677199,
    "lng": 139.246703,
    "address": "東京都八王子市下恩方町３２６１",
-   "access": "高尾山駅から約4.2km",
+   "access": "高尾山駅から直線で約4.2km（最寄りのバス停：大久保 約130m）",
    "categories": [
     "寺社境内"
    ],
@@ -28582,7 +30646,7 @@
    "lat": 35.6674143,
    "lng": 139.2473531,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約80m）",
    "categories": [
     "寺社境内"
    ],
@@ -28594,7 +30658,7 @@
    "lat": 35.6673276,
    "lng": 139.2473474,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約70m）",
    "categories": [
     "霊園・墓地"
    ],
@@ -28606,7 +30670,7 @@
    "lat": 35.6674011,
    "lng": 139.2473293,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約80m）",
    "categories": [
     "寺社境内"
    ],
@@ -28630,7 +30694,7 @@
    "lat": 35.66757,
    "lng": 139.2469236,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約110m）",
    "categories": [
     "山林・山道"
    ],
@@ -28642,7 +30706,7 @@
    "lat": 35.6674099,
    "lng": 139.2471831,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約80m）",
    "categories": [
     "山林・山道"
    ],
@@ -28654,7 +30718,7 @@
    "lat": 35.6673778,
    "lng": 139.2472632,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約80m）",
    "categories": [
     "霊園・墓地"
    ],
@@ -28666,7 +30730,7 @@
    "lat": 35.667381,
    "lng": 139.2471643,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約80m）",
    "categories": [
     "山林・山道"
    ],
@@ -28690,7 +30754,7 @@
    "lat": 35.6673985,
    "lng": 139.2471975,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約80m）",
    "categories": [
     "霊園・墓地"
    ],
@@ -28702,7 +30766,7 @@
    "lat": 35.6673489,
    "lng": 139.2471415,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約80m）",
    "categories": [
     "山林・山道"
    ],
@@ -28726,7 +30790,7 @@
    "lat": 35.6673653,
    "lng": 139.2472076,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約80m）",
    "categories": [
     "霊園・墓地"
    ],
@@ -28750,7 +30814,7 @@
    "lat": 35.6673892,
    "lng": 139.2471268,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約80m）",
    "categories": [
     "山林・山道"
    ],
@@ -28786,7 +30850,7 @@
    "lat": 35.6676223,
    "lng": 139.2469564,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約110m）",
    "categories": [
     "山林・山道"
    ],
@@ -28810,7 +30874,7 @@
    "lat": 35.6674573,
    "lng": 139.2468331,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約100m）",
    "categories": [
     "山林・山道"
    ],
@@ -28822,7 +30886,7 @@
    "lat": 35.6673538,
    "lng": 139.2469524,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約90m）",
    "categories": [
     "山林・山道"
    ],
@@ -28834,7 +30898,7 @@
    "lat": 35.667308,
    "lng": 139.2466252,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約100m）",
    "categories": [
     "山林・山道"
    ],
@@ -28870,7 +30934,7 @@
    "lat": 35.6672884,
    "lng": 139.2467425,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約100m）",
    "categories": [
     "山林・山道"
    ],
@@ -28882,7 +30946,7 @@
    "lat": 35.6673543,
    "lng": 139.246996,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約80m）",
    "categories": [
     "山林・山道"
    ],
@@ -28894,7 +30958,7 @@
    "lat": 35.6673505,
    "lng": 139.2469075,
    "address": "東京都八王子市下恩方町",
-   "access": "高尾山駅から約4.1km",
+   "access": "高尾山駅から直線で約4.1km（最寄りのバス停：大久保 約90m）",
    "categories": [
     "山林・山道"
    ],
@@ -28974,6 +31038,18 @@
    "url": "https://www.memorial-object.jp/02175/"
   },
   {
+   "name": "『西郷隆盛像』",
+   "lat": 35.7118569,
+   "lng": 139.7741721,
+   "address": "東京都台東区上野公園",
+   "access": "京成上野駅から北東へ約120m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02775/"
+  },
+  {
    "name": "『見守り地蔵』",
    "lat": 35.7037788,
    "lng": 139.7889019,
@@ -29020,6 +31096,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01834/"
+  },
+  {
+   "name": "『見送るさくら』",
+   "lat": 35.7569534,
+   "lng": 139.8757194,
+   "address": "東京都葛飾区柴又４丁目９",
+   "access": "柴又駅から北東へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02728/"
   },
   {
    "name": "『親と子 未来へ』",
@@ -29119,10 +31207,22 @@
   },
   {
    "name": "『観音像』",
+   "lat": 35.575807,
+   "lng": 139.7186752,
+   "address": "東京都大田区中央３丁目１６",
+   "access": "大森町駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02815/"
+  },
+  {
+   "name": "『観音像』",
    "lat": 35.6070039,
    "lng": 139.4459638,
    "address": "東京都町田市小野路町２８６４",
-   "access": "はるひ野駅から約2.1km",
+   "access": "はるひ野駅から直線で約2.1km（最寄りのバス停：中村 約220m）",
    "categories": [
     "その他"
    ],
@@ -29179,6 +31279,18 @@
   },
   {
    "name": "『記念碑』",
+   "lat": 35.7028032,
+   "lng": 139.8208389,
+   "address": "東京都江東区亀戸３丁目６",
+   "access": "亀戸駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02790/"
+  },
+  {
+   "name": "『記念碑』",
    "lat": 35.7518243,
    "lng": 139.7312336,
    "address": "東京都北区滝野川２丁目５９",
@@ -29230,7 +31342,7 @@
    "lat": 35.7746903,
    "lng": 139.2010909,
    "address": "東京都西多摩郡日の出町大字大久野４２４１",
-   "access": "日向和田駅から約3.0km",
+   "access": "日向和田駅から直線で約3.0km（最寄りのバス停：一の護王下 約160m）",
    "categories": [
     "山林・山道"
    ],
@@ -30990,6 +33102,18 @@
    "url": "https://www.memorial-object.jp/01231/"
   },
   {
+   "name": "『谷原延命地蔵』",
+   "lat": 35.7505359,
+   "lng": 139.6232979,
+   "address": "東京都練馬区谷原１丁目１７",
+   "access": "光が丘駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02876/"
+  },
+  {
    "name": "『谷津大観音』",
    "lat": 35.7505093,
    "lng": 139.7254699,
@@ -31134,6 +33258,18 @@
    "url": "https://www.memorial-object.jp/02609/"
   },
   {
+   "name": "『赤塚氷川神社富士塚』",
+   "lat": 35.7848455,
+   "lng": 139.6395849,
+   "address": "東京都板橋区赤塚４丁目２０",
+   "access": "西高島平駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02866/"
+  },
+  {
    "name": "『赤穂浪士遺蹟 吉良邸跡』",
    "lat": 35.6932786,
    "lng": 139.7943535,
@@ -31264,6 +33400,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00183_1.jpg",
    "url": "https://www.memorial-object.jp/00183/"
+  },
+  {
+   "name": "『踊り雀』",
+   "lat": 35.7181361,
+   "lng": 139.8030091,
+   "address": "東京都台東区今戸１丁目６",
+   "access": "浅草駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02776/"
   },
   {
    "name": "『躍動』",
@@ -31494,6 +33642,18 @@
    "url": "https://www.memorial-object.jp/01199/"
   },
   {
+   "name": "『逆井庚申塚』",
+   "lat": 35.6986291,
+   "lng": 139.8466603,
+   "address": "東京都江戸川区平井２丁目１",
+   "access": "東大島駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02755/"
+  },
+  {
    "name": "『通水記念』",
    "lat": 35.6307425,
    "lng": 139.4649681,
@@ -31606,12 +33766,24 @@
    "lat": 35.6935561,
    "lng": 139.3133446,
    "address": "東京都八王子市加住町２丁目",
-   "access": "東秋留駅から約3.6km",
+   "access": "東秋留駅から直線で約3.6km（最寄りのバス停：陶鎔小学校 約720m）",
    "categories": [
     "寺社境内"
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00920/"
+  },
+  {
+   "name": "『道祖神』",
+   "lat": 35.7710402,
+   "lng": 139.8783486,
+   "address": "東京都葛飾区東金町６丁目１０",
+   "access": "金町駅から東へ約710m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02729/"
   },
   {
    "name": "『道祖神』",
@@ -31630,7 +33802,7 @@
    "lat": 35.721918,
    "lng": 139.19645,
    "address": "東京都あきる野市戸倉",
-   "access": "武蔵五日市駅から約3.1km",
+   "access": "武蔵五日市駅から直線で約3.1km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -31654,7 +33826,7 @@
    "lat": 35.7053206,
    "lng": 139.3005895,
    "address": "東京都八王子市戸吹町",
-   "access": "東秋留駅から約2.5km",
+   "access": "東秋留駅から直線で約2.5km（最寄りのバス停：落合橋 約160m）",
    "categories": [
     "道路沿い"
    ],
@@ -31666,7 +33838,7 @@
    "lat": 35.703215,
    "lng": 139.2505748,
    "address": "東京都八王子市上川町",
-   "access": "武蔵増戸駅から約3.1km",
+   "access": "武蔵増戸駅から直線で約3.1km（最寄りのバス停：上川口小学校 約220m）",
    "categories": [
     "山林・山道"
    ],
@@ -31690,7 +33862,7 @@
    "lat": 35.6966464,
    "lng": 139.2690116,
    "address": "東京都八王子市川口町",
-   "access": "武蔵引田駅から約3.7km",
+   "access": "武蔵引田駅から直線で約3.7km（最寄りのバス停：圏央道上川橋 約210m）",
    "categories": [
     "道路沿い"
    ],
@@ -31726,7 +33898,7 @@
    "lat": 35.6976932,
    "lng": 139.324545,
    "address": "東京都八王子市丹木町３丁目７８",
-   "access": "拝島駅から約3.1km",
+   "access": "拝島駅から直線で約3.1km（最寄りのバス停：滝山城址下 約50m）",
    "categories": [
     "道路沿い"
    ],
@@ -31786,7 +33958,7 @@
    "lat": 35.6541232,
    "lng": 139.2540988,
    "address": "東京都八王子市元八王子町３丁目",
-   "access": "高尾山駅から約2.6km",
+   "access": "高尾山駅から直線で約2.6km（最寄りのバス停：八王子城跡 約760m）",
    "categories": [
     "山林・山道"
    ],
@@ -31890,6 +34062,18 @@
    "url": "https://www.memorial-object.jp/01503/"
   },
   {
+   "name": "『都旧跡　喜多川歌麿墓』",
+   "lat": 35.6795206,
+   "lng": 139.5947447,
+   "address": "東京都世田谷区北烏山４丁目２７",
+   "access": "久我山駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02850/"
+  },
+  {
    "name": "『都立多摩丘陵自然公園』",
    "lat": 35.6210321,
    "lng": 139.3387808,
@@ -31974,6 +34158,30 @@
    "url": "https://www.memorial-object.jp/01413/"
   },
   {
+   "name": "『野川と野川水道橋の由来』",
+   "lat": 35.619171,
+   "lng": 139.613646,
+   "address": "東京都世田谷区鎌田１丁目２０",
+   "access": "二子玉川駅から約1.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02851/"
+  },
+  {
+   "name": "『野川水道橋』",
+   "lat": 35.619476,
+   "lng": 139.61358,
+   "address": "東京都世田谷区鎌田３丁目１１",
+   "access": "二子玉川駅から約1.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02852/"
+  },
+  {
    "name": "『野方笑い地蔵尊』",
    "lat": 35.7191849,
    "lng": 139.6514462,
@@ -32038,7 +34246,7 @@
    "lat": 35.7022885,
    "lng": 139.328441,
    "address": "東京都八王子市高月町",
-   "access": "拝島駅から約2.5km",
+   "access": "拝島駅から直線で約2.5km（最寄りのバス停：滝山城址下 約620m）",
    "categories": [
     "寺社境内"
    ],
@@ -32128,6 +34336,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00434/"
+  },
+  {
+   "name": "『鉄砲狐』",
+   "lat": 35.7182443,
+   "lng": 139.8029016,
+   "address": "東京都台東区今戸１丁目７",
+   "access": "浅草駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02777/"
   },
   {
    "name": "『鉄道唱歌の碑』",
@@ -32290,7 +34510,7 @@
    "lat": 35.7019819,
    "lng": 139.2573416,
    "address": "東京都八王子市上川町３３５１",
-   "access": "武蔵増戸駅から約3.2km",
+   "access": "武蔵増戸駅から直線で約3.2km（最寄りのバス停：戸沢 約110m）",
    "categories": [
     "道路沿い"
    ],
@@ -32346,6 +34566,18 @@
    "url": "https://www.memorial-object.jp/04422/"
   },
   {
+   "name": "『鎮魂碑』",
+   "lat": 35.7802836,
+   "lng": 139.6472067,
+   "address": "東京都板橋区赤塚８丁目３",
+   "access": "下赤塚駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02867/"
+  },
+  {
    "name": "『鐘淵紡績株式会社発祥の地』",
    "lat": 35.7399266,
    "lng": 139.8183795,
@@ -32368,6 +34600,42 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02477/"
+  },
+  {
+   "name": "『長島之碑』",
+   "lat": 35.6682127,
+   "lng": 139.8807796,
+   "address": "東京都江戸川区東葛西２丁目３４",
+   "access": "葛西駅から約0.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02924/"
+  },
+  {
+   "name": "『長島土地改良区事業完成記念』",
+   "lat": 35.6681698,
+   "lng": 139.8807991,
+   "address": "東京都江戸川区東葛西２丁目３４",
+   "access": "葛西駅から約0.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02925/"
+  },
+  {
+   "name": "『長島橋』",
+   "lat": 35.6674249,
+   "lng": 139.8742629,
+   "address": "東京都江戸川区東葛西５丁目６",
+   "access": "葛西駅から北へ約440m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02756/"
   },
   {
    "name": "『長池の碑』",
@@ -32452,6 +34720,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04594/"
+  },
+  {
+   "name": "『開設碑』",
+   "lat": 35.7815415,
+   "lng": 139.8688025,
+   "address": "東京都葛飾区東水元２丁目３９",
+   "access": "金町駅から約1.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02911/"
   },
   {
    "name": "『開運ひっぱり蛸』",
@@ -32620,6 +34900,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02181/"
+  },
+  {
+   "name": "『防火守護地の碑』",
+   "lat": 35.6988191,
+   "lng": 139.7792148,
+   "address": "東京都千代田区神田和泉町",
+   "access": "秋葉原駅から東へ約340m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02761/"
   },
   {
    "name": "『阿』",
@@ -33034,7 +35326,7 @@
    "lat": 35.6671926,
    "lng": 139.5498506,
    "address": "東京都調布市深大寺元町５丁目１２",
-   "access": "調布駅から約1.8km",
+   "access": "調布駅から直線で約1.8km（最寄りのバス停：深大寺 約100m）",
    "categories": [
     "寺社境内"
    ],
@@ -33076,6 +35368,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00228_1.jpg",
    "url": "https://www.memorial-object.jp/00228/"
+  },
+  {
+   "name": "『青砥史蹟復興之碑』",
+   "lat": 35.7551058,
+   "lng": 139.854967,
+   "address": "東京都葛飾区青戸７丁目２１",
+   "access": "青砥駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02912/"
   },
   {
    "name": "『青葉橋』",
@@ -33256,6 +35560,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04424/"
+  },
+  {
+   "name": "『願掛け地蔵』",
+   "lat": 35.7687827,
+   "lng": 139.8388409,
+   "address": "東京都足立区東和１丁目２０",
+   "access": "亀有駅から約0.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02896/"
+  },
+  {
+   "name": "『風とともに』",
+   "lat": 35.6631296,
+   "lng": 139.8733679,
+   "address": "東京都江戸川区東葛西６丁目３",
+   "access": "葛西駅から南東へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02757/"
   },
   {
    "name": "『風のモニュメント』",
@@ -33462,6 +35790,18 @@
    "url": "https://www.memorial-object.jp/02070/"
   },
   {
+   "name": "『香取神社　八幡神社　合社記念碑』",
+   "lat": 35.6761693,
+   "lng": 139.8799182,
+   "address": "東京都江戸川区江戸川６丁目４４",
+   "access": "一之江駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02926/"
+  },
+  {
    "name": "『香川県 海外開拓者殉難之碑』",
    "lat": 34.2867245,
    "lng": 134.0278682,
@@ -33508,6 +35848,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00440/"
+  },
+  {
+   "name": "『馬頭観世音』",
+   "lat": 35.5863631,
+   "lng": 139.7154642,
+   "address": "東京都大田区南馬込３丁目１８",
+   "access": "西馬込駅から約0.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02816/"
   },
   {
    "name": "『馬頭観世音』",
@@ -33574,7 +35926,7 @@
    "lat": 35.7164396,
    "lng": 139.2301307,
    "address": "東京都あきる野市留原",
-   "access": "武蔵五日市駅から約1.8km",
+   "access": "武蔵五日市駅から直線で約1.8km（最寄りのバス停：小峰公園 約410m）",
    "categories": [
     "公園"
    ],
@@ -33598,7 +35950,7 @@
    "lat": 35.698558,
    "lng": 139.3258882,
    "address": "東京都八王子市丹木町３丁目",
-   "access": "拝島駅から約3.0km",
+   "access": "拝島駅から直線で約3.0km（最寄りのバス停：滝山城址下 約140m）",
    "categories": [
     "山林・山道"
    ],
@@ -33610,7 +35962,7 @@
    "lat": 35.677641,
    "lng": 139.2442242,
    "address": "東京都八王子市小津町",
-   "access": "高尾駅から約5.2km",
+   "access": "高尾駅から直線で約5.2km（最寄りのバス停：熊野宮前 約140m）",
    "categories": [
     "道路沿い"
    ],
@@ -33646,7 +35998,7 @@
    "lat": 35.6675412,
    "lng": 139.2916048,
    "address": "東京都八王子市元八王子町１丁目１",
-   "access": "西八王子駅から約2.2km",
+   "access": "西八王子駅から直線で約2.2km（最寄りのバス停：滝原新橋 約180m）",
    "categories": [
     "道路沿い"
    ],
@@ -33838,7 +36190,7 @@
    "lat": 35.7130053,
    "lng": 139.2561578,
    "address": "東京都あきる野市網代",
-   "access": "武蔵増戸駅から約2.0km",
+   "access": "武蔵増戸駅から直線で約2.0km（最寄りのバス停：上川霊園 約440m）",
    "categories": [
     "山林・山道"
    ],
@@ -33894,6 +36246,18 @@
    "url": "https://www.memorial-object.jp/00486/"
   },
   {
+   "name": "『馬頭観音供養塔』",
+   "lat": 35.6795473,
+   "lng": 139.7985303,
+   "address": "東京都江東区清澄３丁目",
+   "access": "清澄白河駅から南へ約280m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02791/"
+  },
+  {
    "name": "『馬頭観音像』",
    "lat": 35.6998755,
    "lng": 139.2642883,
@@ -33922,7 +36286,7 @@
    "lat": 35.6842128,
    "lng": 139.2736117,
    "address": "東京都八王子市西寺方町",
-   "access": "西八王子駅から約4.7km",
+   "access": "西八王子駅から直線で約4.7km（最寄りのバス停：陵北大橋 約320m）",
    "categories": [
     "道路沿い"
    ],
@@ -33934,7 +36298,7 @@
    "lat": 35.6847531,
    "lng": 139.2725495,
    "address": "東京都八王子市西寺方町９０３",
-   "access": "西八王子駅から約4.8km",
+   "access": "西八王子駅から直線で約4.8km（最寄りのバス停：陵北大橋 約270m）",
    "categories": [
     "道路沿い"
    ],
@@ -33952,6 +36316,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00673/"
+  },
+  {
+   "name": "『馬頭観音碑』",
+   "lat": 35.7560674,
+   "lng": 139.8690698,
+   "address": "東京都葛飾区柴又２丁目１",
+   "access": "柴又駅から西へ約550m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02730/"
   },
   {
    "name": "『駄倉橋跡』",
@@ -34042,7 +36418,7 @@
    "lat": 35.7129889,
    "lng": 139.2561994,
    "address": "東京都あきる野市網代",
-   "access": "武蔵増戸駅から約2.0km",
+   "access": "武蔵増戸駅から直線で約2.0km（最寄りのバス停：上川霊園 約440m）",
    "categories": [
     "山林・山道"
    ],
@@ -34138,7 +36514,7 @@
    "lat": 35.6355548,
    "lng": 139.2167282,
    "address": "東京都八王子市裏高尾町",
-   "access": "相模湖駅から約3.2km",
+   "access": "相模湖駅から直線で約3.2km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -34534,7 +36910,7 @@
    "lat": 35.7387577,
    "lng": 139.2040863,
    "address": "東京都あきる野市深沢",
-   "access": "武蔵五日市駅から約2.3km",
+   "access": "武蔵五日市駅から直線で約2.3km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -34638,6 +37014,18 @@
    "url": "https://www.memorial-object.jp/01948/"
   },
   {
+   "name": "『鷽』",
+   "lat": 35.7027986,
+   "lng": 139.8206464,
+   "address": "東京都江東区亀戸３丁目６",
+   "access": "亀戸駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02792/"
+  },
+  {
    "name": "『鸞鏡』",
    "lat": 34.2869863,
    "lng": 134.0276141,
@@ -34648,6 +37036,42 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04428/"
+  },
+  {
+   "name": "『鹿島安太郎翁顕彰碑』",
+   "lat": 35.7521497,
+   "lng": 139.6398654,
+   "address": "東京都練馬区春日町４丁目",
+   "access": "練馬春日町駅から北西へ約100m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02877/"
+  },
+  {
+   "name": "『麗子像』",
+   "lat": 35.7670427,
+   "lng": 139.8481103,
+   "address": "東京都葛飾区亀有５丁目３４",
+   "access": "亀有駅から北東へ約50m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02731/"
+  },
+  {
+   "name": "『麻里愛巡査 マンホール』",
+   "lat": 35.7674627,
+   "lng": 139.8454013,
+   "address": "東京都葛飾区亀有５丁目１３",
+   "access": "亀有駅から西へ約230m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02732/"
   },
   {
    "name": "『黄鐘』",
@@ -34930,7 +37354,7 @@
    "lat": 35.6899668,
    "lng": 139.3266153,
    "address": "東京都八王子市丹木町１丁目２３６",
-   "access": "拝島駅から約3.8km",
+   "access": "拝島駅から直線で約3.8km（最寄りのバス停：創価大学栄光門 約230m）",
    "categories": [
     "学校"
    ],
@@ -34942,7 +37366,7 @@
    "lat": 35.6898582,
    "lng": 139.3268589,
    "address": "東京都八王子市丹木町１丁目",
-   "access": "拝島駅から約3.8km",
+   "access": "拝島駅から直線で約3.8km（最寄りのバス停：創価大学栄光門 約250m）",
    "categories": [
     "学校"
    ],
@@ -35218,7 +37642,7 @@
    "lat": 35.5803601,
    "lng": 139.4487201,
    "address": "東京都町田市野津田町３２７２",
-   "access": "玉川学園前駅から約2.3km",
+   "access": "玉川学園前駅から直線で約2.3km（最寄りのバス停：薬師ヶ丘 約230m）",
    "categories": [
     "公園"
    ],
@@ -35524,6 +37948,30 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00145_1.png",
    "url": "https://www.memorial-object.jp/00145/"
+  },
+  {
+   "name": "伊原通夫『風媒銀乱』",
+   "lat": 35.6468032,
+   "lng": 139.7720768,
+   "address": "東京都中央区晴海５丁目",
+   "access": "日の出駅から約1.2km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02762/"
+  },
+  {
+   "name": "伊藤五百亀『うたかたの譜』",
+   "lat": 35.7489851,
+   "lng": 139.6212319,
+   "address": "東京都練馬区谷原１丁目",
+   "access": "練馬高野台駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02868/"
   },
   {
    "name": "伊藤萌木『つばさを持つ種子』",
@@ -35938,7 +38386,7 @@
    "lat": 35.6434213,
    "lng": 139.3071737,
    "address": "東京都八王子市めじろ台１丁目",
-   "access": "めじろ台駅1出てすぐ",
+   "access": "めじろ台駅出てすぐ",
    "categories": [
     "駅前"
    ],
@@ -36430,7 +38878,7 @@
    "lat": 35.6680912,
    "lng": 139.4695634,
    "address": "東京都府中市片町３丁目２６−２９−２",
-   "access": "分倍河原駅1出てすぐ",
+   "access": "分倍河原駅出てすぐ",
    "categories": [
     "駅前"
    ],
@@ -36478,7 +38926,7 @@
    "lat": 35.5681966,
    "lng": 139.4359841,
    "address": "東京都町田市山崎町",
-   "access": "古淵駅から約2.0km",
+   "access": "古淵駅から直線で約2.0km（最寄りのバス停：山崎団地センター 約70m）",
    "categories": [
     "広場・通り"
    ],
@@ -36550,7 +38998,7 @@
    "lat": 35.6910529,
    "lng": 139.3237602,
    "address": "東京都八王子市丹木町２丁目",
-   "access": "拝島駅から約3.8km",
+   "access": "拝島駅から直線で約3.8km（最寄りのバス停：創価大学栄光門 約130m）",
    "categories": [
     "学校"
    ],
@@ -37607,7 +40055,7 @@
    "lat": 35.643637999999996,
    "lng": 139.3069554,
    "address": "東京都八王子市めじろ台１丁目",
-   "access": "めじろ台駅1出てすぐ",
+   "access": "めじろ台駅出てすぐ",
    "categories": [
     "駅前"
    ],
@@ -38287,6 +40735,18 @@
    "url": "https://www.memorial-object.jp/01525/"
   },
   {
+   "name": "菅沼五郎『空へ』",
+   "lat": 36.590439,
+   "lng": 140.661847,
+   "address": "茨城県日立市",
+   "access": "日立駅西口付近",
+   "categories": [
+    "駅前"
+   ],
+   "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00101_1-300x230.png",
+   "url": "https://www.memorial-object.jp/00101/"
+  },
+  {
    "name": "菊池一雄『しあわせの像』",
    "lat": 35.6703239,
    "lng": 139.699596,
@@ -38645,6 +41105,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00194_1.jpg",
    "url": "https://www.memorial-object.jp/00194/"
+  },
+  {
+   "name": "青野正『月を射る』",
+   "lat": 35.787404,
+   "lng": 139.730948,
+   "address": "東京都北区志茂５丁目",
+   "access": "赤羽岩淵駅から約0.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/02863/"
   },
   {
    "name": "馬場美文『静と動』",
