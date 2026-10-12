@@ -85,6 +85,9 @@ const CATEGORIES = [
 const COLOR = Object.fromEntries(CATEGORIES.map(c => [c.name, c.color]));
 
 const map = L.map("map").setView([36.5, 138.5], 7);
+// 記事の地図から来たとき(#ズーム/緯度/経度)は、その場所を開く
+const hv = location.hash.match(/^#(\d{1,2})\/(-?\d+(?:\.\d+)?)\/(-?\d+(?:\.\d+)?)$/);
+if (hv) map.setView([+hv[2], +hv[3]], Math.min(Math.max(+hv[1], 5), 18));
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   maxZoom: 19, attribution: '&copy; OpenStreetMap contributors | <a href="https://www.memorial-object.jp/" target="_blank">モニュメントnet</a>'
 }).addTo(map);
@@ -135,7 +138,7 @@ function popupHtml(m) {
     <div class="p-cats">${m.categories.map(esc).join(" / ")}</div>
     <div class="p-addr">${esc(m.address)}${m.access ? "<br>アクセス: " + esc(m.access) : ""}</div>
     <a class="p-link" href="${url}" target="_blank">記事を見る ≫</a>
-    ${m.image ? "" : `<div class="p-ask">📷 写真がまだありません。<a href="${url}" target="_blank">記事のフォーム</a>からお寄せいただけます</div>`}
+    ${m.image ? "" : `<div class="p-ask">📷 写真がまだありません。<a href="${url === "#" ? "#" : url + "?photo=1#photo-form"}" target="_blank">記事のフォーム</a>からお寄せいただけます</div>`}
   </div>`;
 }
 
