@@ -53,10 +53,35 @@
   .popup .p-name { font-weight: bold; font-size: 14px; margin-bottom: 4px; }
   .popup .p-addr { color: #444; font-size: 12px; }
   .popup .p-cats { color: #777; font-size: 11px; margin: 2px 0 4px; }
+  /* 載っていないモニュメントを教える(情報提供フォームへ。表示中の地図の中心を持っていく) */
+  .teach-btn {
+    display: inline-block; padding: 8px 14px; border-radius: 999px; background: #333; color: #fff !important;
+    font-size: 13px; font-weight: bold; text-decoration: none; box-shadow: 0 1px 5px rgba(0,0,0,.4);
+  }
+  @media (max-width: 720px) { .teach-btn { font-size: 12px; padding: 7px 12px; } }
   .popup a.p-link {
     display: inline-block; margin-top: 4px; padding: 4px 10px; background: #2b6cb0;
     color: #fff; border-radius: 4px; text-decoration: none; font-size: 12px;
   }
+  /* タグでの絞り込み(?tag=鳥 / ?pref=東京都 / ?line=中央線 / ?cat=駅前) */
+  .panel .filter-box { margin: 2px 0 6px; padding-bottom: 6px; border-bottom: 1px solid #ddd; }
+  .panel .filter-box input[type=search] {
+    width: 100%; box-sizing: border-box; font-size: 13px; padding: 4px 6px; border: 1px solid #bbb; border-radius: 4px;
+  }
+  .filterbar {
+    background: rgba(255,255,255,.96); border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,.4);
+    padding: 6px 8px; font-size: 13px; line-height: 1.6; max-width: 70vw;
+  }
+  .filterbar .chip {
+    display: inline-block; margin: 2px 4px 2px 0; padding: 1px 4px 1px 10px; border-radius: 999px;
+    background: #fdeee4; border: 1px solid #D9682B; white-space: nowrap;
+  }
+  .filterbar .chip button {
+    border: 0; background: none; cursor: pointer; font-size: 14px; line-height: 1; padding: 0 4px; color: #8a3b10;
+  }
+  .filterbar .fcnt { color: #555; margin-left: 2px; }
+  .filterbar .clear { border: 0; background: none; color: #2b6cb0; text-decoration: underline; cursor: pointer; font-size: 12px; padding: 0; }
+  @media (max-width: 720px) { .filterbar { font-size: 12px; } }
 </style>
 </head>
 <body>
@@ -100,6 +125,35 @@ let wantedOnly = false;   // 「写真募集中だけ表示」
 const enabled = new Set();      // 表示中カテゴリ
 const counts = {};
 
+// タグでの絞り込み。URL の ?tag=鳥&tag=東京都(すべてを含むものだけ)。?pref= ?muni= ?line= も同じ扱い
+const params = new URLSearchParams(location.search);
+const filterTags = [];
+for (const key of ["tag", "pref", "muni", "line"]) {
+  for (const v of params.getAll(key)) {
+    for (const t of v.split(",")) if (t.trim() && !filterTags.includes(t.trim())) filterTags.push(t.trim());
+  }
+}
+let onlyCat = params.get("cat");            // ?cat=駅前 は設置場所のカテゴリーで絞る
+if (params.get("wanted") === "1") wantedOnly = true;
+const BASE_TITLE = document.title;
+
+function matchesFilter(m) {
+  if (!filterTags.length) return true;
+  const tags = m.tags || [];
+  return filterTags.every(t => tags.includes(t));
+}
+
+// 絞り込みを URL に残す(共有・再読込で同じ表示になるように)
+function syncUrl() {
+  const q = new URLSearchParams();
+  for (const t of filterTags) q.append("tag", t);
+  if (onlyCat) q.set("cat", onlyCat);
+  if (wantedOnly) q.set("wanted", "1");
+  const s = q.toString();
+  history.replaceState(null, "", location.pathname + (s ? "?" + s : "") + location.hash);
+  document.title = filterTags.length ? `${filterTags.join("・")}のモニュメント - ${BASE_TITLE}` : BASE_TITLE;
+}
+
 // 代表カテゴリ(色分け用): CATEGORIES の並び順で最初に一致したもの
 function primaryCat(cats) {
   for (const c of CATEGORIES) {
@@ -142,18 +196,71 @@ function popupHtml(m) {
   </div>`;
 }
 
-function render() {
+// 表示している点。fit=true なら、その点がすべて入るように地図を動かす
+function render(fit) {
   cluster.clearLayers();
+  const shown = [];
   for (const m of monuments) {
     const cat = primaryCat(m.categories);
     if (!enabled.has(cat)) continue;
     const hasPhoto = !!m.image;
     if (wantedOnly && hasPhoto) continue;
+    if (!matchesFilter(m)) continue;
     const mk = L.marker([m.lat, m.lng], { icon: pinIcon(COLOR[cat], hasPhoto), title: m.name });
     mk.bindPopup(popupHtml(m), { maxWidth: 260 });
     mk.on("popupopen", () => gtag("event", "map_popup", { monument_name: m.name, link_url: m.url, has_photo: hasPhoto }));
     cluster.addLayer(mk);
+    shown.push([m.lat, m.lng]);
   }
+  updateFilterBar(shown.length);
+  if (fit && shown.length) {
+    map.invalidateSize();     // 画面の大きさが読み込み中に変わっても、正しい縮尺で合わせる
+    // 右上の凡例に点が隠れないよう、開いている凡例の幅だけ右をあける
+    const panel = document.querySelector(".panel");
+    const right = panel && !panel.classList.contains("closed") ? panel.offsetWidth + 30 : 40;
+    map.fitBounds(shown, { paddingTopLeft: [40, 60], paddingBottomRight: [right, 40], maxZoom: 15 });
+  }
+}
+
+// 絞り込み中だけ左上に出す帯(スマホで凡例をたたんでいても、何で絞っているかが分かるように)
+const filterBar = L.control({ position: "topleft" });
+let filterBarDiv = null;
+filterBar.onAdd = () => {
+  filterBarDiv = L.DomUtil.create("div", "filterbar");
+  L.DomEvent.disableClickPropagation(filterBarDiv);
+  L.DomEvent.disableScrollPropagation(filterBarDiv);
+  return filterBarDiv;
+};
+function updateFilterBar(n) {
+  if (!filterBarDiv) return;
+  const parts = filterTags.map((t, i) =>
+    `<span class="chip">${esc(t)}<button type="button" data-i="${i}" aria-label="${esc(t)}の絞り込みを外す">×</button></span>`);
+  if (onlyCat) parts.push(`<span class="chip">${esc(onlyCat)}<button type="button" data-cat="1" aria-label="設置場所の絞り込みを外す">×</button></span>`);
+  filterBarDiv.hidden = !parts.length;
+  if (!parts.length) return;
+  filterBarDiv.innerHTML = parts.join("") + `<span class="fcnt">${n}件</span> `
+    + (parts.length > 1 ? `<button type="button" class="clear">すべて外す</button>` : "");
+  filterBarDiv.querySelectorAll("button[data-i]").forEach(b => b.addEventListener("click", () => {
+    filterTags.splice(+b.dataset.i, 1);
+    syncUrl(); render(false);
+  }));
+  const catBtn = filterBarDiv.querySelector("button[data-cat]");
+  if (catBtn) catBtn.addEventListener("click", () => {
+    onlyCat = null;
+    for (const c of Object.keys(counts)) enabled.add(c);
+    document.querySelectorAll("input[data-cat]").forEach(cb => cb.checked = true);
+    syncUrl(); render(false);
+  });
+  const clear = filterBarDiv.querySelector(".clear");
+  if (clear) clear.addEventListener("click", () => { filterTags.length = 0; syncUrl(); render(false); });
+}
+
+function addFilterTag(t) {
+  if (!t || filterTags.includes(t)) return;
+  filterTags.push(t);
+  gtag("event", "map_filter", { tag: t });
+  syncUrl();
+  render(true);
 }
 
 // 凡例 + カテゴリフィルタ
@@ -161,10 +268,12 @@ const legend = L.control({ position: "topright" });
 legend.onAdd = () => {
   const div = L.DomUtil.create("div", "panel");
   L.DomEvent.disableClickPropagation(div);
-  let html = `<div class="head"><h1>モニュメントMAP</h1><button class="toggle" type="button">凡例</button></div><div class="body">`;
+  let html = `<div class="head"><h1>モニュメントMAP</h1><button class="toggle" type="button">凡例</button></div><div class="body">
+    <div class="filter-box"><input type="search" id="tag-input" list="tag-list" placeholder="地名・路線・種類で絞り込む"
+      aria-label="タグで絞り込む" autocomplete="off"><datalist id="tag-list"></datalist></div>`;
   for (const c of CATEGORIES) {
     if (!counts[c.name]) continue;
-    html += `<label><input type="checkbox" data-cat="${c.name}" checked>
+    html += `<label><input type="checkbox" data-cat="${c.name}" ${enabled.has(c.name) ? "checked" : ""}>
       <span class="sw" style="background:${c.color}"></span>${c.name}<span class="cnt">(${counts[c.name]})</span></label>`;
   }
   html += `<div class="photo-box">
@@ -184,12 +293,49 @@ legend.onAdd = () => {
   // スマホでは最初たたんでおく(地図が隠れるため)。タイトルかボタンで開閉できる
   if (window.innerWidth <= 720) div.classList.add("closed");
   div.querySelector(".head").addEventListener("click", () => div.classList.toggle("closed"));
-  div.querySelector("#wanted-only").addEventListener("change", e => {
+  const wo = div.querySelector("#wanted-only");
+  wo.checked = wantedOnly;
+  wo.addEventListener("change", e => {
     wantedOnly = e.target.checked;
+    syncUrl();
     render();
   });
+  // 候補は件数の多い順(地図に載っているタグだけ)。候補から選ぶか、正確な名前を入れて Enter で絞り込む
+  const tagCount = {};
+  for (const m of monuments) for (const t of (m.tags || [])) tagCount[t] = (tagCount[t] || 0) + 1;
+  div.querySelector("#tag-list").innerHTML = Object.keys(tagCount)
+    .sort((a, b) => tagCount[b] - tagCount[a] || a.localeCompare(b, "ja"))
+    .map(t => `<option value="${esc(t)}" label="${tagCount[t]}件"></option>`).join("");
+  const input = div.querySelector("#tag-input");
+  const pick = () => {
+    const v = input.value.trim();
+    if (tagCount[v]) { addFilterTag(v); input.value = ""; }
+  };
+  input.addEventListener("change", pick);
+  input.addEventListener("keydown", e => { if (e.key === "Enter") pick(); });
   return div;
 };
+
+// 「＋ 載っていないモニュメントを教える」: 押した時点の地図の中心・縮尺を持って情報提供のページを開く
+// 固定ページ /teach/ を公開するまでは false(ボタンを出さない)
+const TEACH_READY = false;
+const TEACH_URL = "https://www.memorial-object.jp/teach/";
+const teach = L.control({ position: "bottomleft" });
+teach.onAdd = () => {
+  const a = L.DomUtil.create("a", "teach-btn");
+  a.href = TEACH_URL + "?src=map";
+  a.target = "_blank";
+  a.rel = "noopener";
+  a.textContent = "＋ 載っていないモニュメントを教える";
+  L.DomEvent.disableClickPropagation(a);
+  a.addEventListener("click", () => {
+    const c = map.getCenter();
+    a.href = `${TEACH_URL}?src=map&lat=${c.lat.toFixed(6)}&lng=${c.lng.toFixed(6)}&z=${map.getZoom()}`;
+    gtag("event", "teach_open", { entry: "map" });
+  });
+  return a;
+};
+if (TEACH_READY) teach.addTo(map);
 
 fetch("monuments.json").then(r => r.json()).then(data => {
   monuments = Array.isArray(data) ? data : data.items;   // 旧形式(配列)にも対応
@@ -198,7 +344,14 @@ fetch("monuments.json").then(r => r.json()).then(data => {
     counts[cat] = (counts[cat] || 0) + 1;
     enabled.add(cat);
   }
+  if (onlyCat && counts[onlyCat]) {
+    enabled.clear();
+    enabled.add(onlyCat);
+  } else {
+    onlyCat = null;
+  }
   legend.addTo(map);
+  filterBar.addTo(map);
   const withPhoto = monuments.filter(m => m.image).length;
   document.getElementById("total").textContent = monuments.length;
   document.getElementById("withphoto").textContent = withPhoto;
@@ -211,7 +364,10 @@ fetch("monuments.json").then(r => r.json()).then(data => {
     box.innerHTML = `📸 これまで <b>${esc(c.people || 0)}</b> 人が <b>${esc(c.photos)}</b> 枚の写真を提供してくださいました`
       + (c.names && c.names.length ? `<br><span title="掲載を希望された方">${c.names.map(esc).join("、")} さん</span>` : "");
   }
-  render();
+  // 絞り込んで開いたときは、該当する点が入るように地図を動かす(記事の地図から #ズーム/緯度/経度 で来たときは動かさない)
+  syncUrl();
+  render(!hv && (filterTags.length > 0 || !!onlyCat));
+  if (filterTags.length) gtag("event", "map_filter_open", { tag: filterTags.join(",") });
 });
 </script>
 </body>

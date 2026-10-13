@@ -68,6 +68,11 @@ def category_names():
     return {c["id"]: c["name"] for c in fetch_all("categories", _fields="id,name")}
 
 
+def tag_names():
+    """タグID → 名前。地図の絞り込み(?tag=鳥 など)に使う"""
+    return {t["id"]: unescape(t["name"]).strip() for t in fetch_all("tags", _fields="id,name")}
+
+
 def featured_images(posts):
     """アイキャッチ画像の画像ID → URL。本文に画像がない記事の代表画像に使う"""
     ids = sorted({p["featured_media"] for p in posts if p.get("featured_media")})
@@ -81,7 +86,7 @@ def featured_images(posts):
     return src
 
 
-def parse_post(post, cats, featured):
+def parse_post(post, cats, featured, tags=None):
     """REST API の1記事 → 地図の1件。座標が取れなければ None"""
     html_body = (post.get("content") or {}).get("rendered", "")
     url = post["link"]
@@ -118,6 +123,7 @@ def parse_post(post, cats, featured):
         "address": address,
         "access": access,
         "categories": sorted({cats[c] for c in post.get("categories", []) if c in cats}),
+        "tags": sorted({(tags or {})[t] for t in post.get("tags", []) if t in (tags or {})}),
         "image": image,
         "url": url,
     }
@@ -158,8 +164,9 @@ def previous_count():
 
 def main():
     try:
-        posts = fetch_all("posts", status="publish", _fields="id,link,title,content,categories,featured_media")
+        posts = fetch_all("posts", status="publish", _fields="id,link,title,content,categories,tags,featured_media")
         cats = category_names()
+        tags = tag_names()
         featured = featured_images(posts)
     except (FetchError, ValueError, KeyError) as e:
         print(f"中止: 記事一覧を取得できませんでした({e})。{OUT} は更新しません。", file=sys.stderr)
@@ -169,7 +176,7 @@ def main():
     items, no_coord, failed = [], [], []
     for p in posts:
         try:
-            item = parse_post(p, cats, featured)
+            item = parse_post(p, cats, featured, tags)
         except Exception as e:                      # 1記事の解析失敗で全体を止めない
             print(f"  ERROR {p.get('link')}: {e}", file=sys.stderr)
             failed.append(p.get("link", ""))
