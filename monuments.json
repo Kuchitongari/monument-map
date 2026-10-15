@@ -8,8 +8,8 @@
   "photos": 0,
   "names": []
  },
- "generated": "2026-10-14",
- "count": 4036,
+ "generated": "2026-10-15",
+ "count": 4233,
  "items": [
   {
    "name": "ASAO TOKOLO『TOWER OF CONNECT』",
@@ -36,6 +36,18 @@
    "url": "https://www.memorial-object.jp/01262/"
   },
   {
+   "name": "Auguste Rodin『La meditation』",
+   "lat": 35.443137,
+   "lng": 139.6359358,
+   "address": "神奈川県横浜市中区蓬莱町１丁目１",
+   "access": "関内駅から南へ約110m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03534/"
+  },
+  {
    "name": "Claes Oldenburg & Coosje van Bruggen『Saw, Sawing』",
    "lat": 35.6306199,
    "lng": 139.7929063,
@@ -48,6 +60,18 @@
    "url": "https://www.memorial-object.jp/01950/"
   },
   {
+   "name": "Clement Meadmore『飛躍』",
+   "lat": 35.4659894,
+   "lng": 139.6150034,
+   "address": "神奈川県横浜市西区北幸２丁目１０",
+   "access": "横浜駅から西へ約470m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03531/"
+  },
+  {
    "name": "Daniel Buren『From One Place to Another From One Material to Another Passages In and Out』",
    "lat": 35.6925842,
    "lng": 139.6926905,
@@ -58,6 +82,54 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01511/"
+  },
+  {
+   "name": "David Williams – Ellis『Flora』",
+   "lat": 35.4159913,
+   "lng": 139.4870859,
+   "address": "神奈川県横浜市泉区和泉中央南５丁目４",
+   "access": "いずみ中央駅から北へ約100m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03558/"
+  },
+  {
+   "name": "David Williams – Ellis『Fountain Girls』",
+   "lat": 35.4160012,
+   "lng": 139.487052,
+   "address": "神奈川県横浜市泉区和泉中央南５丁目３",
+   "access": "いずみ中央駅から北へ約100m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03559/"
+  },
+  {
+   "name": "David Williams – Ellis『Wood Nymph』",
+   "lat": 35.4159877,
+   "lng": 139.4870171,
+   "address": "神奈川県横浜市泉区和泉中央南５丁目３",
+   "access": "いずみ中央駅から北へ約100m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03560/"
+  },
+  {
+   "name": "Esther Albardane『家族』",
+   "lat": 35.456535,
+   "lng": 139.635126,
+   "address": "神奈川県横浜市西区みなとみらい２丁目",
+   "access": "みなとみらい駅から東へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03636/"
   },
   {
    "name": "Federico SILVA『ケツァルコアトゥル』",
@@ -204,6 +276,18 @@
    "url": "https://www.memorial-object.jp/01661/"
   },
   {
+   "name": "Henry Moore『Three part object』",
+   "lat": 35.441534,
+   "lng": 139.633513,
+   "address": "神奈川県横浜市中区蓬莱町３丁目",
+   "access": "伊勢佐木長者町駅から北東へ約90m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03663/"
+  },
+  {
    "name": "Hiroshi Sugimoto『SUNDIAL, 2018』",
    "lat": 35.6866341,
    "lng": 139.7664028,
@@ -312,6 +396,30 @@
    "url": "https://www.memorial-object.jp/01249/"
   },
   {
+   "name": "Lika Mutal『Eye on the City』",
+   "lat": 35.4555632,
+   "lng": 139.6332539,
+   "address": "神奈川県横浜市西区みなとみらい２丁目",
+   "access": "みなとみらい駅から南へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03616/"
+  },
+  {
+   "name": "Lika Mutal『Eye on the Sea』",
+   "lat": 35.455463,
+   "lng": 139.633131,
+   "address": "神奈川県横浜市西区みなとみらい２丁目",
+   "access": "みなとみらい駅から南へ約200m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03617/"
+  },
+  {
    "name": "Louise Bourgeois『ママン』",
    "lat": 35.6607758,
    "lng": 139.7298709,
@@ -358,6 +466,78 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01131/"
+  },
+  {
+   "name": "Marta Pan『PEACE II』",
+   "lat": 35.446955,
+   "lng": 139.6365329,
+   "address": "神奈川県横浜市中区住吉町４丁目４２",
+   "access": "関内駅から北へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03535/"
+  },
+  {
+   "name": "N Skreko Martin『STAR GATE』",
+   "lat": 35.457032,
+   "lng": 139.633492,
+   "address": "神奈川県横浜市西区みなとみらい２丁目",
+   "access": "みなとみらい駅から東へ約60m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03622/"
+  },
+  {
+   "name": "N Skreko Martin『STAR GATE』",
+   "lat": 35.457032,
+   "lng": 139.633492,
+   "address": "神奈川県横浜市西区みなとみらい２丁目",
+   "access": "みなとみらい駅から東へ約60m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03622/"
+  },
+  {
+   "name": "Navin RAWANCHAIKUL『HISTORY OF ‘I’ EXISTS IN YOU』",
+   "lat": 35.4077788,
+   "lng": 139.5962643,
+   "address": "神奈川県横浜市港南区上大岡西１丁目７",
+   "access": "上大岡駅から南へ約140m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03545/"
+  },
+  {
+   "name": "Ossip Zadkin『La belle servante』",
+   "lat": 35.440615,
+   "lng": 139.631985,
+   "address": "神奈川県横浜市中区山吹町１",
+   "access": "伊勢佐木長者町駅から南西へ約90m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03533/"
+  },
+  {
+   "name": "PHスタジオ『ルーフトップ・パッセージ』",
+   "lat": 35.4083298,
+   "lng": 139.5962078,
+   "address": "神奈川県横浜市港南区上大岡西１丁目６",
+   "access": "上大岡駅から南へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03552/"
   },
   {
    "name": "Raimo Utriainen『遊動』",
@@ -444,6 +624,18 @@
    "url": "https://www.memorial-object.jp/01120/"
   },
   {
+   "name": "Symrin Gill『Forest』",
+   "lat": 35.4081069,
+   "lng": 139.5961153,
+   "address": "神奈川県横浜市港南区上大岡西１丁目６",
+   "access": "上大岡駅から南へ約100m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03543/"
+  },
+  {
    "name": "TEAM 男気『タコツボル』",
    "lat": 34.4217214,
    "lng": 134.0542898,
@@ -454,6 +646,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04436/"
+  },
+  {
+   "name": "Takashi Nakano『RONDO』",
+   "lat": 35.3706854,
+   "lng": 139.6212575,
+   "address": "神奈川県横浜市金沢区富岡西１丁目６３",
+   "access": "京急富岡駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03570/"
   },
   {
    "name": "Taller Sebastian『MIGRACION』",
@@ -1692,6 +1896,30 @@
    "url": "https://www.memorial-object.jp/02537/"
   },
   {
+   "name": "『tvk 記念碑』",
+   "lat": 35.4424371,
+   "lng": 139.6510334,
+   "address": "神奈川県横浜市中区山下町３７",
+   "access": "元町・中華街駅から北へ約40m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03664/"
+  },
+  {
+   "name": "『”日本で最初のフットボール（ラグビー）発祥地　横浜”記念碑』",
+   "lat": 35.4423751,
+   "lng": 139.6471045,
+   "address": "神奈川県横浜市中区山下町１２３",
+   "access": "元町・中華街駅から西へ約350m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03662/"
+  },
+  {
    "name": "『♡♡の塔』",
    "lat": 35.6289881,
    "lng": 139.7420087,
@@ -1966,6 +2194,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02074/"
+  },
+  {
+   "name": "『「鶴見橋」界わいの情景』",
+   "lat": 35.5149918,
+   "lng": 139.6819333,
+   "address": "神奈川県横浜市鶴見区市場下町５",
+   "access": "鶴見市場駅から南西へ約530m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03576/"
   },
   {
    "name": "『あきちゃんたまちゃん』",
@@ -2254,6 +2494,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01518/"
+  },
+  {
+   "name": "『お授けいなり』",
+   "lat": 35.4269383,
+   "lng": 139.6082644,
+   "address": "神奈川県横浜市南区蒔田町１０２",
+   "access": "蒔田駅から南西へ約360m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03709/"
   },
   {
    "name": "『お月様急行』",
@@ -2905,6 +3157,18 @@
   },
   {
    "name": "『すし塚』",
+   "lat": 35.4368617,
+   "lng": 139.6286513,
+   "address": "神奈川県横浜市南区真金町１丁目３",
+   "access": "阪東橋駅から東へ約330m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03710/"
+  },
+  {
+   "name": "『すし塚』",
    "lat": 35.6636218,
    "lng": 139.7716012,
    "address": "東京都中央区築地６丁目２０",
@@ -3276,6 +3540,18 @@
    "url": "https://www.memorial-object.jp/00785/"
   },
   {
+   "name": "『はま子』",
+   "lat": 35.4469079,
+   "lng": 139.6225729,
+   "address": "神奈川県横浜市西区老松町６３",
+   "access": "日ノ出町駅から西へ約400m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03623/"
+  },
+  {
    "name": "『は・は・は』",
    "lat": 35.706219,
    "lng": 139.8125676,
@@ -3538,6 +3814,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03135/"
+  },
+  {
+   "name": "『ぼてふり地蔵尊』",
+   "lat": 35.5144108,
+   "lng": 139.6730894,
+   "address": "神奈川県横浜市鶴見区佃野町２５",
+   "access": "鶴見駅から北へ約730m",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03577/"
   },
   {
    "name": "『まいまいずいど』",
@@ -4092,6 +4380,18 @@
    "url": "https://www.memorial-object.jp/02758/"
   },
   {
+   "name": "『イギリス領事館跡』",
+   "lat": 35.4735711,
+   "lng": 139.631034,
+   "address": "神奈川県横浜市神奈川区幸ケ谷１２",
+   "access": "神奈川駅から北東へ約390m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03589/"
+  },
+  {
    "name": "『イルカのオブジェ』",
    "lat": 35.5905045,
    "lng": 139.7362665,
@@ -4176,6 +4476,18 @@
    "url": "https://www.memorial-object.jp/00190/"
   },
   {
+   "name": "『オランダ領事館跡』",
+   "lat": 35.4816459,
+   "lng": 139.6408167,
+   "address": "神奈川県横浜市神奈川区新町１５",
+   "access": "神奈川新町駅から東へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03590/"
+  },
+  {
    "name": "『オリンピックシンボル』",
    "lat": 35.6408267,
    "lng": 139.7889061,
@@ -4198,6 +4510,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01520/"
+  },
+  {
+   "name": "『オリンピック記念碑』",
+   "lat": 35.4451904,
+   "lng": 139.6231343,
+   "address": "神奈川県横浜市西区老松町２０",
+   "access": "日ノ出町駅から西へ約330m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03624/"
   },
   {
    "name": "『カタリストBA』",
@@ -4330,6 +4654,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02483/"
+  },
+  {
+   "name": "『ガーデン橋』",
+   "lat": 35.4777942,
+   "lng": 139.6191461,
+   "address": "神奈川県横浜市神奈川区三ツ沢下町１５",
+   "access": "三ツ沢下町駅から北東へ約310m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03591/"
   },
   {
    "name": "『キャプテン翼 大空翼像(ツインシュート)』",
@@ -4956,6 +5292,18 @@
    "url": "https://www.memorial-object.jp/00257/"
   },
   {
+   "name": "『ツガルさん』",
+   "lat": 35.4468902,
+   "lng": 139.6225842,
+   "address": "神奈川県横浜市西区老松町６３",
+   "access": "日ノ出町駅から西へ約400m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03625/"
+  },
+  {
    "name": "『テミス像』",
    "lat": 35.6683688,
    "lng": 139.7528054,
@@ -5437,6 +5785,18 @@
    "url": "https://www.memorial-object.jp/03505/"
   },
   {
+   "name": "『ファニーの像』",
+   "lat": 35.4403263,
+   "lng": 139.6490226,
+   "address": "神奈川県横浜市中区元町２丁目９６",
+   "access": "元町・中華街駅から南西へ約260m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03665/"
+  },
+  {
    "name": "『フクロウ』",
    "lat": 35.6700302,
    "lng": 139.7570991,
@@ -5461,6 +5821,18 @@
    "url": "https://www.memorial-object.jp/00407/"
   },
   {
+   "name": "『フランス領事館跡』",
+   "lat": 35.4748576,
+   "lng": 139.6310206,
+   "address": "神奈川県横浜市神奈川区神奈川本町１７",
+   "access": "東神奈川駅から南西へ約400m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03592/"
+  },
+  {
    "name": "『フーテンの寅』",
    "lat": 35.7569182,
    "lng": 139.875661,
@@ -5483,6 +5855,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00797/"
+  },
+  {
+   "name": "『ブラフ溝』",
+   "lat": 35.438538,
+   "lng": 139.6505848,
+   "address": "神奈川県横浜市中区元町１丁目７７",
+   "access": "元町・中華街駅から南へ約400m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03666/"
+  },
+  {
+   "name": "『ブリキのおもちゃ博物館』",
+   "lat": 35.4377148,
+   "lng": 139.6530124,
+   "address": "神奈川県横浜市中区山手町８９",
+   "access": "元町・中華街駅から南へ約520m",
+   "categories": [
+    "公共施設"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03667/"
   },
   {
    "name": "『プラブータ・ラトナ(多宝)』",
@@ -5519,6 +5915,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01215/"
+  },
+  {
+   "name": "『ヘボン博士施療所』",
+   "lat": 35.472348,
+   "lng": 139.6314102,
+   "address": "神奈川県横浜市神奈川区幸ケ谷１０",
+   "access": "神奈川駅から東へ約360m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03593/"
+  },
+  {
+   "name": "『ヘボン博士邸跡』",
+   "lat": 35.442657,
+   "lng": 139.6517219,
+   "address": "神奈川県横浜市中区山下町３６",
+   "access": "元町・中華街駅から北東へ約90m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03668/"
   },
   {
    "name": "『ヘルメス』",
@@ -5916,6 +6336,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01266/"
+  },
+  {
+   "name": "『ラジオ塔』",
+   "lat": 35.4475254,
+   "lng": 139.6251941,
+   "address": "神奈川県横浜市西区老松町６３",
+   "access": "日ノ出町駅から北西へ約260m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03628/"
   },
   {
    "name": "『リニアモーターカー』",
@@ -6398,6 +6830,18 @@
    "url": "https://www.memorial-object.jp/00516/"
   },
   {
+   "name": "『万葉歌碑』",
+   "lat": 35.4501551,
+   "lng": 139.6265736,
+   "address": "神奈川県横浜市西区宮崎町５６",
+   "access": "桜木町駅から西へ約390m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03629/"
+  },
+  {
    "name": "『万葉歌碑入口』",
    "lat": 35.6519823,
    "lng": 139.3013553,
@@ -6768,6 +7212,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02426/"
+  },
+  {
+   "name": "『三笠山大神』",
+   "lat": 35.4269622,
+   "lng": 139.6081915,
+   "address": "神奈川県横浜市南区蒔田町１０２",
+   "access": "蒔田駅から南西へ約360m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03711/"
   },
   {
    "name": "『三菱製紙株式会社中川工場跡』",
@@ -7490,6 +7946,18 @@
    "url": "https://www.memorial-object.jp/00795/"
   },
   {
+   "name": "『中島敦「山月記」文学碑』",
+   "lat": 35.4390915,
+   "lng": 139.6479353,
+   "address": "神奈川県横浜市中区元町３丁目１３２",
+   "access": "元町・中華街駅から南西へ約430m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03669/"
+  },
+  {
    "name": "『中川像』",
    "lat": 35.7660071,
    "lng": 139.8484934,
@@ -7572,6 +8040,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03240/"
+  },
+  {
+   "name": "『中村汀女碑』",
+   "lat": 35.4474685,
+   "lng": 139.6254207,
+   "address": "神奈川県横浜市西区老松町６３",
+   "access": "日ノ出町駅から北西へ約240m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03630/"
   },
   {
    "name": "『中村草田男先生句碑』",
@@ -8450,6 +8930,18 @@
    "url": "https://www.memorial-object.jp/04504/"
   },
   {
+   "name": "『井伊直弼銅像』",
+   "lat": 35.4528769,
+   "lng": 139.6254512,
+   "address": "神奈川県横浜市西区紅葉ケ丘２７",
+   "access": "桜木町駅から北西へ約550m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03631/"
+  },
+  {
    "name": "『井口家の屋敷林』",
    "lat": 35.718827,
    "lng": 139.5752464,
@@ -8462,6 +8954,18 @@
    "url": "https://www.memorial-object.jp/03354/"
   },
   {
+   "name": "『井土ヶ谷事件の跡』",
+   "lat": 35.432137,
+   "lng": 139.606604,
+   "address": "神奈川県横浜市南区井土ケ谷下町４",
+   "access": "蒔田駅から北西へ約390m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03712/"
+  },
+  {
    "name": "『井政』",
    "lat": 35.7020769,
    "lng": 139.7672115,
@@ -8472,6 +8976,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01270/"
+  },
+  {
+   "name": "『交通事故横死者霊供養塔』",
+   "lat": 35.459629,
+   "lng": 139.6231827,
+   "address": "神奈川県横浜市西区高島２丁目１",
+   "access": "高島町駅から北西へ約140m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03632/"
   },
   {
    "name": "『交通安全』",
@@ -8628,6 +9144,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02615/"
+  },
+  {
+   "name": "『今下橋跡』",
+   "lat": 35.4756138,
+   "lng": 139.6108417,
+   "address": "神奈川県横浜市神奈川区三ツ沢中町２",
+   "access": "三ツ沢上町駅から東へ約480m",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03595/"
   },
   {
    "name": "『今井神社改修記念』",
@@ -9206,6 +9734,18 @@
    "url": "https://www.memorial-object.jp/02881/"
   },
   {
+   "name": "『元禄地蔵尊』",
+   "lat": 35.43692,
+   "lng": 139.6368665,
+   "address": "神奈川県横浜市中区石川町５丁目２０９",
+   "access": "伊勢佐木長者町駅から南東へ約580m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03670/"
+  },
+  {
    "name": "『先天泉』",
    "lat": 35.7214867,
    "lng": 139.6748444,
@@ -9530,6 +10070,18 @@
    "url": "https://www.memorial-object.jp/01712/"
   },
   {
+   "name": "『八海山大神』",
+   "lat": 35.4269946,
+   "lng": 139.6082091,
+   "address": "神奈川県横浜市南区蒔田町１０２",
+   "access": "蒔田駅から南西へ約360m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03713/"
+  },
+  {
    "name": "『八王子商工会議所　百周年の碑』",
    "lat": 35.6642219,
    "lng": 139.3295091,
@@ -9624,6 +10176,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00730/"
+  },
+  {
+   "name": "『八重地蔵』",
+   "lat": 35.4842366,
+   "lng": 139.6487024,
+   "address": "神奈川県横浜市神奈川区子安通１丁目１７２",
+   "access": "子安駅から東へ約330m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03596/"
   },
   {
    "name": "『八雲ヶ丘』",
@@ -9780,6 +10344,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02578/"
+  },
+  {
+   "name": "『六地蔵尊』",
+   "lat": 35.4240687,
+   "lng": 139.5978513,
+   "address": "神奈川県横浜市南区弘明寺町２６６",
+   "access": "弘明寺駅から東へ約100m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03714/"
   },
   {
    "name": "『六地蔵尊』",
@@ -10706,6 +11282,18 @@
    "url": "https://www.memorial-object.jp/02707/"
   },
   {
+   "name": "『北向地蔵』",
+   "lat": 35.441117,
+   "lng": 139.59919,
+   "address": "神奈川県横浜市保土ケ谷区岩井町４０６",
+   "access": "保土ヶ谷駅から南へ約620m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03566/"
+  },
+  {
    "name": "『北向地蔵尊』",
    "lat": 35.7138878,
    "lng": 139.815681,
@@ -11355,6 +11943,18 @@
   },
   {
    "name": "『友情』",
+   "lat": 35.4513397,
+   "lng": 139.6258154,
+   "address": "神奈川県横浜市西区紅葉ケ丘４３",
+   "access": "桜木町駅から西へ約470m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03633/"
+  },
+  {
+   "name": "『友情』",
    "lat": 35.7094587,
    "lng": 139.7799134,
    "address": "東京都台東区東上野２丁目２３",
@@ -11556,6 +12156,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02547/"
+  },
+  {
+   "name": "『史跡フランス公使館跡』",
+   "lat": 35.4709149,
+   "lng": 139.6278751,
+   "address": "神奈川県横浜市神奈川区青木町２",
+   "access": "神奈川駅から南東へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03597/"
   },
   {
    "name": "『史跡中野長者遺跡』",
@@ -12530,6 +13142,30 @@
    "url": "https://www.memorial-object.jp/00946/"
   },
   {
+   "name": "『国指定名勝 山手公園』",
+   "lat": 35.4344633,
+   "lng": 139.6485175,
+   "address": "神奈川県横浜市中区山手町２３０",
+   "access": "石川町駅から南東へ約740m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03671/"
+  },
+  {
+   "name": "『国旗制定百年記念』",
+   "lat": 35.5107598,
+   "lng": 139.6774909,
+   "address": "神奈川県横浜市鶴見区鶴見中央１丁目１４",
+   "access": "鶴見駅から北東へ約300m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03578/"
+  },
+  {
    "name": "『国木田独歩文学碑』",
    "lat": 35.7094712,
    "lng": 139.5436071,
@@ -12600,6 +13236,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00634/"
+  },
+  {
+   "name": "『国鉄鶴見事故遭難者供養之塔』",
+   "lat": 35.4919808,
+   "lng": 139.6622217,
+   "address": "神奈川県横浜市鶴見区岸谷１丁目２",
+   "access": "生麦駅から南西へ約620m",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03579/"
+  },
+  {
+   "name": "『国際親善総合病院 メダリオン』",
+   "lat": 35.4470187,
+   "lng": 139.6377162,
+   "address": "神奈川県横浜市中区相生町３丁目５３",
+   "access": "関内駅から北東へ約210m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03672/"
   },
   {
    "name": "『國學院大学 開校の地』",
@@ -13154,6 +13814,30 @@
    "url": "https://www.memorial-object.jp/00620/"
   },
   {
+   "name": "『地蔵祠』",
+   "lat": 35.4243168,
+   "lng": 139.5976361,
+   "address": "神奈川県横浜市南区弘明寺町２６６",
+   "access": "弘明寺駅から東へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03715/"
+  },
+  {
+   "name": "『地蔵菩薩』",
+   "lat": 35.4270143,
+   "lng": 139.608229,
+   "address": "神奈川県横浜市南区蒔田町１０２",
+   "access": "蒔田駅から南西へ約360m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03716/"
+  },
+  {
    "name": "『地蔵菩薩』",
    "lat": 35.5717514,
    "lng": 139.4822514,
@@ -13610,6 +14294,18 @@
    "url": "https://www.memorial-object.jp/00841/"
   },
   {
+   "name": "『外国宣教師宿舎跡』",
+   "lat": 35.4744633,
+   "lng": 139.6321079,
+   "address": "神奈川県横浜市神奈川区神奈川本町９",
+   "access": "京急東神奈川駅から南西へ約380m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03598/"
+  },
+  {
    "name": "『外房線複線記念』",
    "lat": 35.1527418,
    "lng": 140.3125518,
@@ -13838,6 +14534,18 @@
    "url": "https://www.memorial-object.jp/03179/"
   },
   {
+   "name": "『大丸谷震災地蔵尊』",
+   "lat": 35.4376308,
+   "lng": 139.6442095,
+   "address": "神奈川県横浜市中区石川町１丁目１８",
+   "access": "石川町駅から南東へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03673/"
+  },
+  {
    "name": "『大久保主水墓』",
    "lat": 35.7225388,
    "lng": 139.7679891,
@@ -13910,6 +14618,18 @@
    "url": "https://www.memorial-object.jp/02618/"
   },
   {
+   "name": "『大原稲荷大神』",
+   "lat": 35.4268968,
+   "lng": 139.6084488,
+   "address": "神奈川県横浜市南区蒔田町１０２",
+   "access": "蒔田駅から南へ約360m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03717/"
+  },
+  {
    "name": "『大原部長 マンホール』",
    "lat": 35.7641083,
    "lng": 139.8487852,
@@ -13920,6 +14640,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02709/"
+  },
+  {
+   "name": "『大原隧道』",
+   "lat": 35.4372783,
+   "lng": 139.6070246,
+   "address": "神奈川県横浜市南区南太田２丁目１１",
+   "access": "南太田駅から西へ約560m",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03718/"
   },
   {
    "name": "『大和橋』",
@@ -14472,6 +15204,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01591/"
+  },
+  {
+   "name": "『大聖歓喜天』",
+   "lat": 35.4238841,
+   "lng": 139.5972181,
+   "address": "神奈川県横浜市南区弘明寺町２６６",
+   "access": "弘明寺駅から南東へ約60m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03719/"
   },
   {
    "name": "『大脇月甫歌碑』",
@@ -15446,6 +16190,18 @@
    "url": "https://www.memorial-object.jp/01530/"
   },
   {
+   "name": "『子安観音』",
+   "lat": 35.4240639,
+   "lng": 139.5978666,
+   "address": "神奈川県横浜市南区弘明寺町２６６",
+   "access": "弘明寺駅から東へ約100m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03720/"
+  },
+  {
    "name": "『子産石』",
    "lat": 35.5873465,
    "lng": 139.6688121,
@@ -15878,6 +16634,18 @@
    "url": "https://www.memorial-object.jp/04462/"
   },
   {
+   "name": "『安産・子育て河童』",
+   "lat": 35.4587301,
+   "lng": 139.615959,
+   "address": "神奈川県横浜市西区平沼２丁目８",
+   "access": "平沼橋駅から南へ約110m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03635/"
+  },
+  {
    "name": "『安産子宝犬』",
    "lat": 34.2864766,
    "lng": 134.0276875,
@@ -16214,6 +16982,18 @@
    "url": "https://www.memorial-object.jp/02900/"
   },
   {
+   "name": "『富士登山記念碑』",
+   "lat": 35.4648011,
+   "lng": 139.610496,
+   "address": "神奈川県横浜市西区浅間町１丁目１８",
+   "access": "平沼橋駅から北西へ約780m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03637/"
+  },
+  {
    "name": "『富士登山道』",
    "lat": 35.6181413,
    "lng": 139.7403692,
@@ -16370,6 +17150,18 @@
    "url": "https://www.memorial-object.jp/03375/"
   },
   {
+   "name": "『寺尾稲荷道』",
+   "lat": 35.511089,
+   "lng": 139.6774724,
+   "address": "神奈川県横浜市鶴見区鶴見中央１丁目１４",
+   "access": "鶴見駅から北東へ約340m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03580/"
+  },
+  {
    "name": "『寿福橋』",
    "lat": 35.6422454,
    "lng": 139.6889433,
@@ -16380,6 +17172,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02082/"
+  },
+  {
+   "name": "『寿老人』",
+   "lat": 35.5111203,
+   "lng": 139.6774641,
+   "address": "神奈川県横浜市鶴見区鶴見中央１丁目１４",
+   "access": "鶴見駅から北東へ約340m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03581/"
   },
   {
    "name": "『寿老人』",
@@ -16560,6 +17364,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02258/"
+  },
+  {
+   "name": "『小御嶽神社』",
+   "lat": 35.4788825,
+   "lng": 139.5690344,
+   "address": "神奈川県横浜市保土ケ谷区西谷１丁目１７",
+   "access": "西谷駅から東へ約320m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03568/"
   },
   {
    "name": "『小松宮彰仁親王銅像』",
@@ -16958,6 +17774,18 @@
    "url": "https://www.memorial-object.jp/00983/"
   },
   {
+   "name": "『山手イタリア山』",
+   "lat": 35.4368116,
+   "lng": 139.6435364,
+   "address": "神奈川県横浜市中区山手町１６",
+   "access": "石川町駅から南へ約280m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03674/"
+  },
+  {
    "name": "『山本周五郎 文学碑』",
    "lat": 35.594864600679124,
    "lng": 138.88367024201082,
@@ -16992,6 +17820,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00152_1.png",
    "url": "https://www.memorial-object.jp/00152/"
+  },
+  {
+   "name": "『岡倉天心生誕之地』",
+   "lat": 35.4472031,
+   "lng": 139.6412578,
+   "address": "神奈川県横浜市中区本町１丁目６",
+   "access": "日本大通り駅から西へ約140m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03675/"
   },
   {
    "name": "『岡林墓群』",
@@ -17366,6 +18206,18 @@
    "url": "https://www.memorial-object.jp/03068/"
   },
   {
+   "name": "『島田貞吉之碑』",
+   "lat": 35.4240193,
+   "lng": 139.5973862,
+   "address": "神奈川県横浜市南区弘明寺町２６６",
+   "access": "弘明寺駅から南東へ約60m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03721/"
+  },
+  {
    "name": "『川口松太郎句碑』",
    "lat": 35.7145302,
    "lng": 139.7975149,
@@ -17582,6 +18434,30 @@
    "url": "https://www.memorial-object.jp/02795/"
   },
   {
+   "name": "『市場一里塚三百七十年顕彰之碑』",
+   "lat": 35.5174891,
+   "lng": 139.6842755,
+   "address": "神奈川県横浜市鶴見区市場西中町４",
+   "access": "鶴見市場駅から西へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03582/"
+  },
+  {
+   "name": "『市場村一里塚』",
+   "lat": 35.5175443,
+   "lng": 139.6842418,
+   "address": "神奈川県横浜市鶴見区市場西中町４",
+   "access": "鶴見市場駅から西へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03583/"
+  },
+  {
    "name": "『市村座跡』",
    "lat": 35.7004972,
    "lng": 139.7776046,
@@ -17604,6 +18480,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04874/"
+  },
+  {
+   "name": "『市電車庫跡地』",
+   "lat": 35.4342877,
+   "lng": 139.6462571,
+   "address": "神奈川県横浜市中区麦田町１丁目４",
+   "access": "石川町駅から南東へ約630m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03676/"
   },
   {
    "name": "『布多天神社「狛犬」一対』",
@@ -17688,6 +18576,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02886/"
+  },
+  {
+   "name": "『希望』",
+   "lat": 35.4513768,
+   "lng": 139.6258959,
+   "address": "神奈川県横浜市西区紅葉ケ丘４３",
+   "access": "桜木町駅から西へ約470m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03638/"
   },
   {
    "name": "『希望』",
@@ -18048,6 +18948,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04463/"
+  },
+  {
+   "name": "『平和I』",
+   "lat": 35.4473331,
+   "lng": 139.6358596,
+   "address": "神奈川県横浜市中区住吉町４丁目４２",
+   "access": "関内駅から北へ約240m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03677/"
   },
   {
    "name": "『平和の塔』",
@@ -19656,6 +20568,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02392/"
+  },
+  {
+   "name": "『弁玉歌碑』",
+   "lat": 35.4718117,
+   "lng": 139.6239586,
+   "address": "神奈川県横浜市神奈川区高島台５",
+   "access": "神奈川駅から西へ約320m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03599/"
   },
   {
    "name": "『弁財天』",
@@ -21662,6 +22586,18 @@
    "url": "https://www.memorial-object.jp/01468/"
   },
   {
+   "name": "『愛染地蔵尊』",
+   "lat": 35.4778565,
+   "lng": 139.6191934,
+   "address": "神奈川県横浜市神奈川区三ツ沢下町１５",
+   "access": "三ツ沢下町駅から北東へ約320m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03600/"
+  },
+  {
    "name": "『愛染明王』",
    "lat": 35.7689182,
    "lng": 139.8388641,
@@ -21938,6 +22874,18 @@
    "url": "https://www.memorial-object.jp/02053/"
   },
   {
+   "name": "『我国塗装発祥之地記念碑』",
+   "lat": 35.4392175,
+   "lng": 139.6508707,
+   "address": "神奈川県横浜市中区元町１丁目７７",
+   "access": "元町・中華街駅から南へ約320m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03678/"
+  },
+  {
    "name": "『戒光彗童子』",
    "lat": 35.6284683,
    "lng": 139.2517918,
@@ -22094,6 +23042,18 @@
    "url": "https://www.memorial-object.jp/01995/"
   },
   {
+   "name": "『戦災殉難者慰霊之碑』",
+   "lat": 35.4716866,
+   "lng": 139.6330862,
+   "address": "神奈川県横浜市神奈川区神奈川１丁目５",
+   "access": "神奈川駅から東へ約500m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03601/"
+  },
+  {
    "name": "『戦災殉難者慰霊碑』",
    "lat": 35.6738592,
    "lng": 139.7955959,
@@ -22224,6 +23184,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03435/"
+  },
+  {
+   "name": "『手づくり郷土賞』",
+   "lat": 35.4763919,
+   "lng": 139.6038606,
+   "address": "神奈川県横浜市神奈川区三ツ沢上町２",
+   "access": "三ツ沢上町駅から西へ約160m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03602/"
   },
   {
    "name": "『手づくり郷土賞』",
@@ -22502,6 +23474,30 @@
    "url": "https://www.memorial-object.jp/03311/"
   },
   {
+   "name": "『支承』",
+   "lat": 35.4416316,
+   "lng": 139.6564633,
+   "address": "神奈川県横浜市中区新山下１丁目１５",
+   "access": "元町・中華街駅から東へ約500m",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03679/"
+  },
+  {
+   "name": "『支那事変 大東亜戦争 戦没者慰霊碑』",
+   "lat": 35.4755845,
+   "lng": 139.6342248,
+   "address": "神奈川県横浜市神奈川区東神奈川１丁目１",
+   "access": "京急東神奈川駅から南へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03603/"
+  },
+  {
    "name": "『改修記念碑』",
    "lat": 34.3040902,
    "lng": 134.0659467,
@@ -22740,6 +23736,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01297/"
+  },
+  {
+   "name": "『文化遺跡 日本最初の麦酒工場』",
+   "lat": 35.435403,
+   "lng": 139.6530974,
+   "address": "神奈川県横浜市中区千代崎町１丁目２５",
+   "access": "元町・中華街駅から南へ約770m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03680/"
   },
   {
    "name": "『文坂』",
@@ -23174,6 +24182,18 @@
    "url": "https://www.memorial-object.jp/00985/"
   },
   {
+   "name": "『新聞少年の像』",
+   "lat": 35.4460763,
+   "lng": 139.6424493,
+   "address": "神奈川県横浜市中区日本大通１１",
+   "access": "日本大通り駅から南へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03681/"
+  },
+  {
    "name": "『新脩六義園碑』",
    "lat": 35.732688,
    "lng": 139.7475391,
@@ -23450,6 +24470,18 @@
    "url": "https://www.memorial-object.jp/02146/"
   },
   {
+   "name": "『日本における新聞誕生の地』",
+   "lat": 35.4421308,
+   "lng": 139.6448353,
+   "address": "神奈川県横浜市中区山下町１６６",
+   "access": "石川町駅から北東へ約370m",
+   "categories": [
+    "商業地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03682/"
+  },
+  {
    "name": "『日本の下水処理発祥の地』",
    "lat": 35.7373278,
    "lng": 139.7853166,
@@ -23534,6 +24566,18 @@
    "url": "https://www.memorial-object.jp/01775/"
   },
   {
+   "name": "『日本写真の開祖 写真し師・下岡蓮杖顕彰碑』",
+   "lat": 35.4484915,
+   "lng": 139.6364375,
+   "address": "神奈川県横浜市中区弁天通４丁目５３",
+   "access": "馬車道駅から南へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03683/"
+  },
+  {
    "name": "『日本国憲法草案審議の地』",
    "lat": 35.6634402,
    "lng": 139.7394951,
@@ -23580,6 +24624,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01299/"
+  },
+  {
+   "name": "『日本庭球発祥之地』",
+   "lat": 35.4352798,
+   "lng": 139.6481328,
+   "address": "神奈川県横浜市中区山手町２３０",
+   "access": "石川町駅から南東へ約660m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03684/"
   },
   {
    "name": "『日本廻國供養之石塔』",
@@ -23774,6 +24830,18 @@
    "url": "https://www.memorial-object.jp/02084/"
   },
   {
+   "name": "『日米和親条約締結の地』",
+   "lat": 35.4474971,
+   "lng": 139.6443829,
+   "address": "神奈川県横浜市中区日本大通３",
+   "access": "日本大通り駅から北東へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03685/"
+  },
+  {
    "name": "『日航機遭難者慰霊碑』",
    "lat": 35.5452759,
    "lng": 139.7601076,
@@ -23846,6 +24914,18 @@
    "url": "https://www.memorial-object.jp/01777/"
   },
   {
+   "name": "『日露戦争慰霊碑』",
+   "lat": 35.4801135,
+   "lng": 139.6380095,
+   "address": "神奈川県横浜市神奈川区東神奈川２丁目９",
+   "access": "神奈川新町駅から南西へ約230m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03604/"
+  },
+  {
    "name": "『日露戦争終戦碑』",
    "lat": 35.6572342,
    "lng": 139.6596283,
@@ -23856,6 +24936,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02277/"
+  },
+  {
+   "name": "『日露戦役 紀念碑』",
+   "lat": 35.4871714,
+   "lng": 139.6503783,
+   "address": "神奈川県横浜市神奈川区入江１丁目２０",
+   "access": "新子安駅から西へ約340m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03605/"
   },
   {
    "name": "『日露戦役紀念碑』",
@@ -24096,6 +25188,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00994/"
+  },
+  {
+   "name": "『旧大和橋跡』",
+   "lat": 35.4321833,
+   "lng": 139.6493109,
+   "address": "神奈川県横浜市中区麦田町４丁目９９",
+   "access": "山手駅から北東へ約610m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03686/"
   },
   {
    "name": "『旧富岡橋親柱』",
@@ -24471,6 +25575,18 @@
    "url": "https://www.memorial-object.jp/01905/"
   },
   {
+   "name": "『明治天皇行在所之蹟』",
+   "lat": 35.473802,
+   "lng": 139.6321775,
+   "address": "神奈川県横浜市神奈川区神奈川本町３",
+   "access": "京急東神奈川駅から南西へ約440m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03606/"
+  },
+  {
    "name": "『明治天皇行在所址碑』",
    "lat": 34.2899147,
    "lng": 133.7995827,
@@ -24589,6 +25705,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02843/"
+  },
+  {
+   "name": "『明治遷都内待所奉安之跡』",
+   "lat": 35.4712304,
+   "lng": 139.6292058,
+   "address": "神奈川県横浜市神奈川区青木町３",
+   "access": "神奈川駅から東へ約160m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03607/"
   },
   {
    "name": "『明照大師』",
@@ -25023,6 +26151,18 @@
    "url": "https://www.memorial-object.jp/01304/"
   },
   {
+   "name": "『望欣台の碑』",
+   "lat": 35.4715278,
+   "lng": 139.6247594,
+   "address": "神奈川県横浜市神奈川区高島台５",
+   "access": "神奈川駅から西へ約250m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03608/"
+  },
+  {
    "name": "『望遠橋』",
    "lat": 35.7217654,
    "lng": 139.6731883,
@@ -25153,6 +26293,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00664/"
+  },
+  {
+   "name": "『木村担呼先生終焉地の碑』",
+   "lat": 35.4589374,
+   "lng": 139.6083362,
+   "address": "神奈川県横浜市西区浅間町４丁目３３５",
+   "access": "西横浜駅から北へ約630m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03641/"
   },
   {
    "name": "『木村新左衛門紀念碑』",
@@ -25309,6 +26461,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02455/"
+  },
+  {
+   "name": "『杉山神社由緒』",
+   "lat": 35.4544622,
+   "lng": 139.6169739,
+   "address": "神奈川県横浜市西区中央１丁目１３",
+   "access": "戸部駅から南西へ約340m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03642/"
   },
   {
    "name": "『杉谷雪撨芦雁画碑』",
@@ -26151,6 +27315,18 @@
    "url": "https://www.memorial-object.jp/02606/"
   },
   {
+   "name": "『板碑』",
+   "lat": 35.4799622,
+   "lng": 139.6378708,
+   "address": "神奈川県横浜市神奈川区東神奈川２丁目９",
+   "access": "神奈川新町駅から南西へ約250m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03609/"
+  },
+  {
    "name": "『板紙発祥の地』",
    "lat": 35.738603,
    "lng": 139.7917195,
@@ -26847,6 +28023,66 @@
    "url": "https://www.memorial-object.jp/02677/"
   },
   {
+   "name": "『横浜の下水道の始まり』",
+   "lat": 35.4411556,
+   "lng": 139.6444578,
+   "address": "神奈川県横浜市中区山下町２４６",
+   "access": "石川町駅から北東へ約260m",
+   "categories": [
+    "商業地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03687/"
+  },
+  {
+   "name": "『横浜ベイスターズ優勝記念モニュメント「煌」』",
+   "lat": 35.4453061,
+   "lng": 139.6384573,
+   "address": "神奈川県横浜市中区常盤町１丁目１",
+   "access": "関内駅から東へ約160m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03688/"
+  },
+  {
+   "name": "『横浜商工会議所発祥の地』",
+   "lat": 35.447125,
+   "lng": 139.6411852,
+   "address": "神奈川県横浜市中区南仲通１丁目３",
+   "access": "日本大通り駅から西へ約140m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03689/"
+  },
+  {
+   "name": "『横浜天主堂跡』",
+   "lat": 35.4436959,
+   "lng": 139.6483938,
+   "address": "神奈川県横浜市中区山下町８０",
+   "access": "元町・中華街駅から北西へ約290m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03690/"
+  },
+  {
+   "name": "『横濱町會所跡』",
+   "lat": 35.4472622,
+   "lng": 139.641294,
+   "address": "神奈川県横浜市中区本町１丁目６",
+   "access": "日本大通り駅から北西へ約140m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03691/"
+  },
+  {
    "name": "『横綱・千代の富士 (大相撲)』",
    "lat": 35.7113987,
    "lng": 139.7733901,
@@ -27531,6 +28767,18 @@
    "url": "https://www.memorial-object.jp/01797/"
   },
   {
+   "name": "『水天さま』",
+   "lat": 35.4587391,
+   "lng": 139.616222,
+   "address": "神奈川県横浜市西区平沼２丁目８",
+   "access": "平沼橋駅から南へ約100m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03644/"
+  },
+  {
    "name": "『水子供養地蔵尊』",
    "lat": 35.7184008,
    "lng": 139.7508809,
@@ -27721,6 +28969,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02293/"
+  },
+  {
+   "name": "『水道道案内板 24 帷子』",
+   "lat": 35.4544125,
+   "lng": 139.6058764,
+   "address": "神奈川県横浜市西区南浅間町７９",
+   "access": "西横浜駅から北西へ約270m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03645/"
+  },
+  {
+   "name": "『水道道案内板 25 芝生』",
+   "lat": 35.4508411,
+   "lng": 139.6128954,
+   "address": "神奈川県横浜市西区藤棚町１丁目５１",
+   "access": "西横浜駅から南東へ約480m",
+   "categories": [
+    "公共施設"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03646/"
   },
   {
    "name": "『水際の散歩道』",
@@ -28468,6 +29740,18 @@
    "url": "https://www.memorial-object.jp/00199/"
   },
   {
+   "name": "『洲干島遺跡』",
+   "lat": 35.4512518,
+   "lng": 139.6337718,
+   "address": "神奈川県横浜市中区本町６丁目６４",
+   "access": "桜木町駅から東へ約250m",
+   "categories": [
+    "公共施設"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03692/"
+  },
+  {
    "name": "『活魚塚』",
    "lat": 35.6635943,
    "lng": 139.7716334,
@@ -28766,6 +30050,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02160/"
+  },
+  {
+   "name": "『消防救急発祥之地』",
+   "lat": 35.4457133,
+   "lng": 139.6432274,
+   "address": "神奈川県横浜市中区日本大通１１",
+   "access": "日本大通り駅から南東へ約120m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03693/"
   },
   {
    "name": "『消防紀念碑』",
@@ -29284,6 +30580,18 @@
    "url": "https://www.memorial-object.jp/01918/"
   },
   {
+   "name": "『潮田の渡し場跡』",
+   "lat": 35.5041566,
+   "lng": 139.6804373,
+   "address": "神奈川県横浜市鶴見区潮田町１丁目３",
+   "access": "京急鶴見駅から南東へ約410m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03585/"
+  },
+  {
    "name": "『濠北方面戦没者慰霊碑』",
    "lat": 35.6957497,
    "lng": 139.7485694,
@@ -29294,6 +30602,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01315/"
+  },
+  {
+   "name": "『濡れ地蔵』",
+   "lat": 35.437898,
+   "lng": 139.6417172,
+   "address": "神奈川県横浜市中区石川町３丁目１０４",
+   "access": "石川町駅から南西へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03694/"
   },
   {
    "name": "『濱尾 新』",
@@ -29546,6 +30866,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00589/"
+  },
+  {
+   "name": "『照四海』",
+   "lat": 35.4502968,
+   "lng": 139.6263421,
+   "address": "神奈川県横浜市西区宮崎町５６",
+   "access": "桜木町駅から西へ約410m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03649/"
   },
   {
    "name": "『熊野権現社』",
@@ -30026,6 +31358,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02848/"
+  },
+  {
+   "name": "『献木』",
+   "lat": 35.4713393,
+   "lng": 139.6294827,
+   "address": "神奈川県横浜市神奈川区青木町８",
+   "access": "神奈川駅から東へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03610/"
   },
   {
    "name": "『献燈台奉献之碑』",
@@ -30748,6 +32092,18 @@
    "url": "https://www.memorial-object.jp/02561/"
   },
   {
+   "name": "『畠山地蔵尊縁起碑』",
+   "lat": 35.4579084,
+   "lng": 139.5314533,
+   "address": "神奈川県横浜市旭区万騎が原１０４",
+   "access": "二俣川駅から南へ約620m",
+   "categories": [
+    "住宅地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03574/"
+  },
+  {
    "name": "『畠山重忠 像』",
    "lat": 35.7829412,
    "lng": 139.1501715,
@@ -30892,6 +32248,18 @@
    "url": "https://www.memorial-object.jp/00758/"
   },
   {
+   "name": "『白頭やま竜神』",
+   "lat": 35.4828233,
+   "lng": 139.6441499,
+   "address": "神奈川県横浜市神奈川区浦島町３６７",
+   "access": "子安駅から南西へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03611/"
+  },
+  {
    "name": "『百人番所』",
    "lat": 35.685431,
    "lng": 139.7579961,
@@ -30926,6 +32294,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00707/"
+  },
+  {
+   "name": "『百度石』",
+   "lat": 35.4221844,
+   "lng": 139.6675117,
+   "address": "神奈川県横浜市中区本牧原２９",
+   "access": "横浜本牧駅から西へ約370m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03695/"
   },
   {
    "name": "『百度石』",
@@ -32225,6 +33605,18 @@
    "url": "https://www.memorial-object.jp/00215/"
   },
   {
+   "name": "『社号標』",
+   "lat": 35.4498673,
+   "lng": 139.6268725,
+   "address": "神奈川県横浜市西区宮崎町２５",
+   "access": "桜木町駅から西へ約350m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03651/"
+  },
+  {
    "name": "『社壁改築記念碑』",
    "lat": 35.7419542,
    "lng": 139.6072941,
@@ -32427,6 +33819,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01555/"
+  },
+  {
+   "name": "『神奈川台場跡』",
+   "lat": 35.4706388,
+   "lng": 139.6350132,
+   "address": "神奈川県横浜市神奈川区神奈川１丁目４",
+   "access": "神奈川駅から東へ約680m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03562/"
+  },
+  {
+   "name": "『神奈川県電気発祥の地』",
+   "lat": 35.4451721,
+   "lng": 139.6383534,
+   "address": "神奈川県横浜市中区常盤町１丁目１",
+   "access": "関内駅から東へ約150m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03696/"
   },
   {
    "name": "『神山霊土歌碑』",
@@ -32847,6 +34263,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02167/"
+  },
+  {
+   "name": "『税理士データ通信発祥之地』",
+   "lat": 35.4663248,
+   "lng": 139.6190921,
+   "address": "神奈川県横浜市西区北幸１丁目８",
+   "access": "横浜駅から北西へ約140m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03652/"
   },
   {
    "name": "『稚児地蔵尊』",
@@ -34974,6 +36402,18 @@
    "url": "https://www.memorial-object.jp/00231/"
   },
   {
+   "name": "『継往開來』",
+   "lat": 35.4436953,
+   "lng": 139.6474501,
+   "address": "神奈川県横浜市中区山下町１６５",
+   "access": "元町・中華街駅から北西へ約360m",
+   "categories": [
+    "商業地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03698/"
+  },
+  {
    "name": "『綱の手引坂』",
    "lat": 35.651991,
    "lng": 139.7439842,
@@ -35094,6 +36534,18 @@
    "url": "https://www.memorial-object.jp/03198/"
   },
   {
+   "name": "『美しき広場』",
+   "lat": 35.4559745,
+   "lng": 139.6304247,
+   "address": "神奈川県横浜市西区みなとみらい３丁目３",
+   "access": "みなとみらい駅から南西へ約260m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03654/"
+  },
+  {
    "name": "『美寿々橋』",
    "lat": 35.6756388,
    "lng": 139.6764187,
@@ -35116,6 +36568,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03165/"
+  },
+  {
+   "name": "『美空ひばり像』",
+   "lat": 35.4467118,
+   "lng": 139.6281468,
+   "address": "神奈川県横浜市中区宮川町２丁目５５",
+   "access": "日ノ出町駅から北東へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03699/"
   },
   {
    "name": "『義勇奉公』",
@@ -35502,6 +36966,18 @@
    "url": "https://www.memorial-object.jp/02021/"
   },
   {
+   "name": "『航路標識管理所 倉庫基礎』",
+   "lat": 35.4512324,
+   "lng": 139.6336764,
+   "address": "神奈川県横浜市中区本町６丁目６４",
+   "access": "桜木町駅から東へ約240m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03700/"
+  },
+  {
    "name": "『般若寺式石灯籠』",
    "lat": 35.7124189,
    "lng": 139.7245505,
@@ -35860,6 +37336,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04419/"
+  },
+  {
+   "name": "『英一番館跡』",
+   "lat": 35.4477081,
+   "lng": 139.6450682,
+   "address": "神奈川県横浜市中区山下町１",
+   "access": "日本大通り駅から北東へ約240m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03701/"
   },
   {
    "name": "『茨城百景 高濱の釣場』",
@@ -36691,6 +38179,18 @@
   },
   {
    "name": "『表忠碑』",
+   "lat": 35.449881,
+   "lng": 139.6265792,
+   "address": "神奈川県横浜市西区宮崎町２５",
+   "access": "桜木町駅から西へ約380m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03656/"
+  },
+  {
+   "name": "『表忠碑』",
    "lat": 35.6836373,
    "lng": 139.6390092,
    "address": "東京都杉並区大宮２丁目２４",
@@ -37156,6 +38656,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01174/"
+  },
+  {
+   "name": "『西洋理髪発祥の地』",
+   "lat": 35.443371,
+   "lng": 139.6458733,
+   "address": "神奈川県横浜市中区山下町１４９",
+   "access": "日本大通り駅から南東へ約470m",
+   "categories": [
+    "商業地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03702/"
   },
   {
    "name": "『西行堂跡』",
@@ -38202,18 +39714,6 @@
    "url": "https://www.memorial-object.jp/04776/"
   },
   {
-   "name": "『詫間88か所第8番』",
-   "lat": 34.2224379,
-   "lng": 133.658066,
-   "address": "香川県三豊市詫間町詫間",
-   "access": "詫間駅から直線で約3.2km（徒歩では遠く、車などでの移動が必要です）",
-   "categories": [
-    "道路沿い"
-   ],
-   "image": "",
-   "url": "https://www.memorial-object.jp/04776/"
-  },
-  {
    "name": "『詫間88か所第9番』",
    "lat": 34.2214273,
    "lng": 133.6572728,
@@ -39234,6 +40734,18 @@
    "url": "https://www.memorial-object.jp/03294/"
   },
   {
+   "name": "『誠愛剣法発祥地』",
+   "lat": 35.4652839,
+   "lng": 139.6108313,
+   "address": "神奈川県横浜市西区浅間町１丁目１９",
+   "access": "平沼橋駅から北西へ約800m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03657/"
+  },
+  {
    "name": "『調和』",
    "lat": 35.7761067,
    "lng": 139.3016151,
@@ -39811,6 +41323,18 @@
   },
   {
    "name": "『身代わり地蔵尊』",
+   "lat": 35.4911634,
+   "lng": 139.628887,
+   "address": "神奈川県横浜市港北区篠原台町４",
+   "access": "白楽駅から北東へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03612/"
+  },
+  {
+   "name": "『身代わり地蔵尊』",
    "lat": 35.5311768,
    "lng": 139.733257,
    "address": "神奈川県川崎市川崎区台町１６",
@@ -39966,6 +41490,18 @@
    "url": "https://www.memorial-object.jp/03122/"
   },
   {
+   "name": "『近代水道発祥の地』",
+   "lat": 35.4454036,
+   "lng": 139.6228814,
+   "address": "神奈川県横浜市西区老松町２０",
+   "access": "日ノ出町駅から西へ約350m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03658/"
+  },
+  {
    "name": "『近松門左衛門碑』",
    "lat": 35.7077838,
    "lng": 139.8179025,
@@ -40012,6 +41548,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02572/"
+  },
+  {
+   "name": "『追分』",
+   "lat": 35.4595034,
+   "lng": 139.6064473,
+   "address": "神奈川県横浜市西区浅間町４丁目３４８",
+   "access": "天王町駅から北東へ約700m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03659/"
   },
   {
    "name": "『追悼 小唄作詞家 小唄作曲家』",
@@ -40132,6 +41680,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01214/"
+  },
+  {
+   "name": "『道念稲荷神社　蛇も蚊も発祥の地』",
+   "lat": 35.4960001,
+   "lng": 139.673706,
+   "address": "神奈川県横浜市鶴見区生麦４丁目２７",
+   "access": "花月総持寺駅から南へ約500m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03586/"
   },
   {
    "name": "『道標』",
@@ -40734,6 +42294,30 @@
    "url": "https://www.memorial-object.jp/02476/"
   },
   {
+   "name": "『野毛山住宅亀甲積擁壁』",
+   "lat": 35.4482104,
+   "lng": 139.6268129,
+   "address": "神奈川県横浜市中区野毛町４丁目１６１",
+   "access": "日ノ出町駅から北へ約300m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03704/"
+  },
+  {
+   "name": "『野毛山配水池』",
+   "lat": 35.4458252,
+   "lng": 139.6229508,
+   "address": "神奈川県横浜市西区老松町２０",
+   "access": "日ノ出町駅から西へ約340m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03660/"
+  },
+  {
    "name": "『野生の威厳』",
    "lat": 35.6858204,
    "lng": 139.7739471,
@@ -41320,6 +42904,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00958/"
+  },
+  {
+   "name": "『門前橋広場』",
+   "lat": 35.4760447,
+   "lng": 139.6055675,
+   "address": "神奈川県横浜市神奈川区三ツ沢上町２",
+   "access": "三ツ沢上町駅から南へ約40m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03613/"
   },
   {
    "name": "『開かれた宇宙』",
@@ -42007,6 +43603,18 @@
   },
   {
    "name": "『電話交換創始之地』",
+   "lat": 35.4464818,
+   "lng": 139.6438971,
+   "address": "神奈川県横浜市中区日本大通７",
+   "access": "日本大通り駅から東へ約110m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03705/"
+  },
+  {
+   "name": "『電話交換創始之地』",
    "lat": 35.6834599,
    "lng": 139.765055,
    "address": "東京都千代田区丸の内１丁目",
@@ -42100,6 +43708,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02519/"
+  },
+  {
+   "name": "『青い目の人形』",
+   "lat": 35.4433746,
+   "lng": 139.6521173,
+   "address": "神奈川県横浜市中区山下町１６",
+   "access": "元町・中華街駅から北東へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03706/"
   },
   {
    "name": "『青年像』",
@@ -42220,6 +43840,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00928/"
+  },
+  {
+   "name": "『頌徳碑』",
+   "lat": 35.4890998,
+   "lng": 139.6588388,
+   "address": "神奈川県横浜市神奈川区子安通３丁目３２１",
+   "access": "京急新子安駅から北東へ約380m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03614/"
   },
   {
    "name": "『頌徳碑』",
@@ -42664,6 +44296,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02339/"
+  },
+  {
+   "name": "『馬の飲み水』",
+   "lat": 35.4490349,
+   "lng": 139.6368348,
+   "address": "神奈川県横浜市中区南仲通４丁目４３",
+   "access": "馬車道駅から南へ約130m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03707/"
   },
   {
    "name": "『馬等尊』",
@@ -43986,6 +45630,30 @@
    "url": "https://www.memorial-object.jp/03413/"
   },
   {
+   "name": "『鶴見川橋』",
+   "lat": 35.5149839,
+   "lng": 139.6819434,
+   "address": "神奈川県横浜市鶴見区市場下町５",
+   "access": "鶴見市場駅から南西へ約530m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03587/"
+  },
+  {
+   "name": "『鶴見橋関門旧跡』",
+   "lat": 35.5135673,
+   "lng": 139.6806302,
+   "address": "神奈川県横浜市鶴見区鶴見中央２丁目１９",
+   "access": "鶴見駅から北東へ約720m",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03588/"
+  },
+  {
    "name": "『鷽』",
    "lat": 35.7027986,
    "lng": 139.8206464,
@@ -44020,6 +45688,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02877/"
+  },
+  {
+   "name": "『麒麟麦酒開源記念碑』",
+   "lat": 35.4352248,
+   "lng": 139.6532779,
+   "address": "神奈川県横浜市中区千代崎町１丁目２５",
+   "access": "元町・中華街駅から南へ約790m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03708/"
   },
   {
    "name": "『麗子像』",
@@ -44538,6 +46218,18 @@
    "url": "https://www.memorial-object.jp/00326/"
   },
   {
+   "name": "ラム・カツィール『Grow』",
+   "lat": 35.4631762,
+   "lng": 139.6244161,
+   "address": "神奈川県横浜市西区高島１丁目",
+   "access": "新高島駅から北西へ約240m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03619/"
+  },
+  {
    "name": "レジーナ・シルベイラ『青空を夢見て』",
    "lat": 34.4196513,
    "lng": 134.0564668,
@@ -44646,6 +46338,18 @@
    "url": "https://www.memorial-object.jp/00364/"
   },
   {
+   "name": "三沢憲司『出舟』",
+   "lat": 35.4104349,
+   "lng": 139.5958979,
+   "address": "神奈川県横浜市港南区上大岡西１丁目１０",
+   "access": "上大岡駅から北へ約160m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03554/"
+  },
+  {
    "name": "三澤憲司『聖衣』",
    "lat": 35.7386598,
    "lng": 139.5997699,
@@ -44658,6 +46362,18 @@
    "url": "https://www.memorial-object.jp/02643/"
   },
   {
+   "name": "上星川上町内『歳神』",
+   "lat": 35.4788667,
+   "lng": 139.569011,
+   "address": "神奈川県横浜市保土ケ谷区西谷１丁目１７",
+   "access": "西谷駅から東へ約310m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03540/"
+  },
+  {
    "name": "上條喬久『SURFACE INTERFACE　石と空間のINTERFASE』",
    "lat": 36.29524599827473,
    "lng": 140.27630626959524,
@@ -44668,6 +46384,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/04/00082_surface-interface1-1024x676.png",
    "url": "https://www.memorial-object.jp/00082_surface-interface/"
+  },
+  {
+   "name": "上菅田九金講社　權大先達　松山養行『小御嶽大神』",
+   "lat": 35.4882025,
+   "lng": 139.5737566,
+   "address": "神奈川県横浜市保土ケ谷区上菅田町５７３",
+   "access": "西谷駅から約1.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03567/"
   },
   {
    "name": "下川昭宣『夏引』",
@@ -44766,6 +46494,18 @@
    "url": "https://www.memorial-object.jp/00512/"
   },
   {
+   "name": "中川村名瀬『山路開鑿　紀念碑』",
+   "lat": 35.4255875,
+   "lng": 139.5419709,
+   "address": "神奈川県横浜市戸塚区名瀬町４１７",
+   "access": "東戸塚駅から約1.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03541/"
+  },
+  {
    "name": "中村 喜平『蛇がまいたの像』",
    "lat": 36.25801672569218,
    "lng": 139.76074173545945,
@@ -44836,6 +46576,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00259_1.jpg",
    "url": "https://www.memorial-object.jp/00259/"
+  },
+  {
+   "name": "二口　金一『旅立ち』",
+   "lat": 35.5121309,
+   "lng": 139.6793034,
+   "address": "神奈川県横浜市鶴見区鶴見中央２丁目",
+   "access": "鶴見駅から北東へ約520m",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03584/"
   },
   {
    "name": "二藤規朗・渡辺一宏『環の塔』",
@@ -45042,6 +46794,18 @@
    "url": "https://www.memorial-object.jp/00124/"
   },
   {
+   "name": "住谷正巳『波の華』",
+   "lat": 35.4386951,
+   "lng": 139.6245784,
+   "address": "神奈川県横浜市中区伊勢佐木町６丁目１４７",
+   "access": "阪東橋駅から北西へ約130m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03537/"
+  },
+  {
    "name": "佐藤健次郎『愛』",
    "lat": 35.6705391,
    "lng": 139.7546124,
@@ -45174,6 +46938,18 @@
    "url": "https://www.memorial-object.jp/00361/"
   },
   {
+   "name": "倉重光則『不確定性正方形-正方形のある交番』",
+   "lat": 35.4096319,
+   "lng": 139.5961428,
+   "address": "神奈川県横浜市港南区上大岡西１丁目９",
+   "access": "上大岡駅から北へ約70m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03553/"
+  },
+  {
    "name": "光島貴之『木の耳』",
    "lat": 35.6783995,
    "lng": 139.4920507,
@@ -45184,6 +46960,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00638/"
+  },
+  {
+   "name": "内田吉五郎、内田留次郎、内田春雄、内田長治、内田忠夫『二十六夜塔記念碑』",
+   "lat": 35.4642405,
+   "lng": 139.5603719,
+   "address": "神奈川県横浜市旭区市沢町７００",
+   "access": "鶴ケ峰駅から直線で約1.6km（最寄りのバス停：市沢町 約90m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03557/"
   },
   {
    "name": "内田晴之『ROUND STRUCTURE-1995』",
@@ -45426,6 +47214,18 @@
    "url": "https://www.memorial-object.jp/00304/"
   },
   {
+   "name": "吉水　浩『Good Luck』",
+   "lat": 35.4090794,
+   "lng": 139.5961341,
+   "address": "神奈川県横浜市港南区上大岡西１丁目９",
+   "access": "上大岡駅から東へ約20m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03544/"
+  },
+  {
    "name": "吉野毅『遊』",
    "lat": 35.7536462,
    "lng": 139.5726461,
@@ -45448,6 +47248,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01951/"
+  },
+  {
+   "name": "名知富太郎『無限(飛翔)』",
+   "lat": 35.455172,
+   "lng": 139.630124,
+   "address": "神奈川県横浜市西区みなとみらい２丁目",
+   "access": "みなとみらい駅から南西へ約340m",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03648/"
   },
   {
    "name": "向井勝實『絆』",
@@ -45508,6 +47320,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00136_1.png",
    "url": "https://www.memorial-object.jp/00136/"
+  },
+  {
+   "name": "団塚栄喜『Between sky and sea』",
+   "lat": 35.458758,
+   "lng": 139.632029,
+   "address": "神奈川県横浜市西区みなとみらい３丁目",
+   "access": "みなとみらい駅から北西へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03615/"
   },
   {
    "name": "国木田独歩『獨歩詩碑』",
@@ -45616,6 +47440,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01138/"
+  },
+  {
+   "name": "城田孝一郎『魁の舞』",
+   "lat": 35.46667,
+   "lng": 139.619595,
+   "address": "神奈川県横浜市西区北幸１丁目６",
+   "access": "横浜駅から北へ約150m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03532/"
+  },
+  {
+   "name": "堀内正和『動きだす球』",
+   "lat": 35.4659553,
+   "lng": 139.614642,
+   "address": "神奈川県横浜市西区北幸２丁目１０",
+   "access": "横浜駅から西へ約500m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03527/"
   },
   {
    "name": "堀口泰造『カルメン』",
@@ -45738,6 +47586,18 @@
    "url": "https://www.memorial-object.jp/00232/"
   },
   {
+   "name": "奈良美智『World is Yours』",
+   "lat": 35.4082446,
+   "lng": 139.5961421,
+   "address": "神奈川県横浜市港南区上大岡西１丁目６",
+   "access": "上大岡駅から南へ約90m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03549/"
+  },
+  {
    "name": "奥田政仁『水を測る』",
    "lat": 35.6900361,
    "lng": 139.7656776,
@@ -45762,6 +47622,18 @@
    "url": "https://www.memorial-object.jp/00261/"
   },
   {
+   "name": "安田侃『天泉』",
+   "lat": 35.4534066,
+   "lng": 139.6303846,
+   "address": "神奈川県横浜市中区桜木町１丁目",
+   "access": "桜木町駅から北へ約270m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03564/"
+  },
+  {
    "name": "安田侃『翔生』",
    "lat": 35.6849865,
    "lng": 139.7873864,
@@ -45772,6 +47644,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01101/"
+  },
+  {
+   "name": "安田周三郎『絹と女』",
+   "lat": 35.4476902,
+   "lng": 139.6450777,
+   "address": "神奈川県横浜市中区山下町１",
+   "access": "日本大通り駅から北東へ約240m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03538/"
   },
   {
    "name": "安藤泉『オベリスク・ジラフ』",
@@ -46086,6 +47970,18 @@
    "url": "https://www.memorial-object.jp/04444/"
   },
   {
+   "name": "山本一弥『Ground Pillar』",
+   "lat": 35.4588921,
+   "lng": 139.6271733,
+   "address": "神奈川県横浜市西区みなとみらい４丁目",
+   "access": "高島町駅から東へ約300m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03618/"
+  },
+  {
    "name": "山本一弥『スパイラル・ポイント』",
    "lat": 35.671342,
    "lng": 139.7527631,
@@ -46120,6 +48016,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00336/"
+  },
+  {
+   "name": "山本正道『赤い靴はいてた女の子』",
+   "lat": 35.4471064,
+   "lng": 139.6481339,
+   "address": "神奈川県横浜市中区山下町",
+   "access": "日本大通り駅から東へ約500m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03703/"
   },
   {
    "name": "山本眞輔『憧れ』",
@@ -46170,6 +48078,18 @@
    "url": "https://www.memorial-object.jp/02480/"
   },
   {
+   "name": "岡崎　乾二郎『谺の原ッぱ』",
+   "lat": 35.4080238,
+   "lng": 139.5963406,
+   "address": "神奈川県横浜市港南区上大岡西１丁目６",
+   "access": "上大岡駅から南へ約120m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03555/"
+  },
+  {
    "name": "岡本勝利『稜線』",
    "lat": 35.5162622,
    "lng": 139.6204567,
@@ -46192,6 +48112,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03458/"
+  },
+  {
+   "name": "岡本敦生『暖かい手で』",
+   "lat": 35.4454286,
+   "lng": 139.6454648,
+   "address": "神奈川県横浜市中区山下町４５",
+   "access": "日本大通り駅から南東へ約290m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03536/"
   },
   {
    "name": "岡本敦生『集いの空間』",
@@ -46218,6 +48150,18 @@
    "url": "https://www.memorial-object.jp/00509/"
   },
   {
+   "name": "岩野勇三『笹と少年』",
+   "lat": 35.44116,
+   "lng": 139.633115,
+   "address": "神奈川県横浜市中区長者町４丁目",
+   "access": "伊勢佐木長者町駅から北東へ約30m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03697/"
+  },
+  {
    "name": "峯田義郎『星たちの明日』",
    "lat": 35.3285317,
    "lng": 139.35064359999998,
@@ -46230,6 +48174,18 @@
    "url": "https://www.memorial-object.jp/00171/"
   },
   {
+   "name": "峯田義郎『海鳥達の風 The wind for sea birds』",
+   "lat": 35.45426,
+   "lng": 139.632892,
+   "address": "神奈川県横浜市西区みなとみらい２丁目",
+   "access": "みなとみらい駅から南へ約330m",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03647/"
+  },
+  {
    "name": "峯田義郎『髪結い』",
    "lat": 35.6892207,
    "lng": 139.7458383,
@@ -46240,6 +48196,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01344/"
+  },
+  {
+   "name": "崔　正化『Imaginary Garden』",
+   "lat": 35.4077088,
+   "lng": 139.5964024,
+   "address": "神奈川県横浜市港南区上大岡西１丁目７",
+   "access": "上大岡駅から南へ約150m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03546/"
   },
   {
    "name": "崔正化『ロボロボロボ』",
@@ -46314,6 +48282,18 @@
    "url": "https://www.memorial-object.jp/00161/"
   },
   {
+   "name": "工藤健『愛の変容』",
+   "lat": 35.455382,
+   "lng": 139.630355,
+   "address": "神奈川県横浜市西区みなとみらい２丁目",
+   "access": "みなとみらい駅から南西へ約300m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03639/"
+  },
+  {
    "name": "市村緑郎『のぞみ』",
    "lat": 35.7779236,
    "lng": 139.7237614,
@@ -46336,6 +48316,42 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/02/00062_nagomi1.png",
    "url": "https://www.memorial-object.jp/00062_nagomi/"
+  },
+  {
+   "name": "平山郁夫『星座’94横浜』",
+   "lat": 35.458452,
+   "lng": 139.636952,
+   "address": "神奈川県横浜市西区みなとみらい１丁目",
+   "access": "みなとみらい駅から東へ約400m",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03640/"
+  },
+  {
+   "name": "平川典俊『パッシング・モーメンツ』",
+   "lat": 35.4085593,
+   "lng": 139.5961958,
+   "address": "神奈川県横浜市港南区上大岡西１丁目８",
+   "access": "上大岡駅から南へ約60m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03551/"
+  },
+  {
+   "name": "平林　薫『音のカタチは光のカタチ』",
+   "lat": 35.4081198,
+   "lng": 139.5964133,
+   "address": "神奈川県横浜市港南区上大岡西１丁目６",
+   "access": "上大岡駅から南へ約110m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03556/"
   },
   {
    "name": "平田壽一『みんなのタロー』",
@@ -46530,6 +48546,18 @@
    "url": "https://www.memorial-object.jp/00100/"
   },
   {
+   "name": "新宮晋『白い花』",
+   "lat": 35.454506,
+   "lng": 139.633087,
+   "address": "神奈川県横浜市西区みなとみらい２丁目１",
+   "access": "みなとみらい駅から南へ約300m",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03530/"
+  },
+  {
    "name": "新宮晋『訪問者』",
    "lat": 35.7015366,
    "lng": 139.4128766,
@@ -46540,6 +48568,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00328/"
+  },
+  {
+   "name": "新宮晋『風の音符』",
+   "lat": 35.45658,
+   "lng": 139.631011,
+   "address": "神奈川県横浜市西区みなとみらい３丁目",
+   "access": "みなとみらい駅から南西へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03661/"
   },
   {
    "name": "日原公大『与一公祈願像「いのり」』",
@@ -46612,6 +48652,30 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00097_1.png",
    "url": "https://www.memorial-object.jp/00097/"
+  },
+  {
+   "name": "最上壽之『モクモク ワクワク ヨコハマ ヨーヨー』",
+   "lat": 35.455807,
+   "lng": 139.632476,
+   "address": "神奈川県横浜市西区みなとみらい２丁目",
+   "access": "みなとみらい駅から南へ約160m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03627/"
+  },
+  {
+   "name": "望月菊麿『知恵の箱』",
+   "lat": 35.447951,
+   "lng": 139.626385,
+   "address": "神奈川県横浜市西区老松町",
+   "access": "日ノ出町駅から北へ約270m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03650/"
   },
   {
    "name": "朝倉文夫『大隈重信銅像』",
@@ -46722,6 +48786,18 @@
    "url": "https://www.memorial-object.jp/00099/"
   },
   {
+   "name": "木原均博士記念碑建立準備会（施工：（株）濱田園）『木原均博士研究の地』",
+   "lat": 35.4328835,
+   "lng": 139.5782874,
+   "address": "神奈川県横浜市南区六ツ川３丁目３０",
+   "access": "弘明寺駅から直線で約1.9km（最寄りのバス停：児童遊園地前 約100m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03539/"
+  },
+  {
    "name": "木村博昌『平和』",
    "lat": 35.97396453532514,
    "lng": 139.58930092271208,
@@ -46793,6 +48869,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00130_1.png",
    "url": "https://www.memorial-object.jp/00130/"
+  },
+  {
+   "name": "村上　隆『DOB君、こんにちわ』",
+   "lat": 35.407639,
+   "lng": 139.5960831,
+   "address": "神奈川県横浜市港南区上大岡西１丁目７",
+   "access": "上大岡駅から南へ約150m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03542/"
   },
   {
    "name": "村中保彦『雲のある風景』",
@@ -47071,6 +49159,18 @@
    "url": "https://www.memorial-object.jp/00247/"
   },
   {
+   "name": "横山徹『折りたたまれたかたち』",
+   "lat": 35.519151,
+   "lng": 139.6204162,
+   "address": "神奈川県横浜市港北区大倉山７丁目",
+   "access": "北新横浜駅から東へ約690m",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03572/"
+  },
+  {
    "name": "横山徹『風景の器』",
    "lat": 35.37454290148381,
    "lng": 139.18479499736364,
@@ -47165,6 +49265,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03513/"
+  },
+  {
+   "name": "武蔵野ルネ『音楽・情熱』",
+   "lat": 35.4640955,
+   "lng": 139.6303242,
+   "address": "神奈川県横浜市西区みなとみらい６丁目",
+   "access": "新高島駅から北東へ約410m",
+   "categories": [
+    "商業地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03563/"
   },
   {
    "name": "永井一正『花咲くつぼみ』",
@@ -47455,6 +49567,18 @@
    "url": "https://www.memorial-object.jp/01095/"
   },
   {
+   "name": "牛島智子『結婚式』",
+   "lat": 35.456619,
+   "lng": 139.634923,
+   "address": "神奈川県横浜市西区みなとみらい２丁目",
+   "access": "みなとみらい駅から東へ約200m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03653/"
+  },
+  {
    "name": "玉野勢三『おもう』",
    "lat": 35.6575175,
    "lng": 138.6341897,
@@ -47513,6 +49637,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03516/"
+  },
+  {
+   "name": "田中薫『リング64・II』",
+   "lat": 35.4666741,
+   "lng": 139.619838,
+   "address": "神奈川県横浜市西区北幸１丁目６",
+   "access": "横浜駅から北へ約150m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03525/"
+  },
+  {
+   "name": "田村能里子『季の風奏』",
+   "lat": 35.457377,
+   "lng": 139.635078,
+   "address": "神奈川県横浜市西区みなとみらい２丁目",
+   "access": "みなとみらい駅から東へ約200m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03634/"
   },
   {
    "name": "甲府城石垣遺構の復元物",
@@ -47611,6 +49759,18 @@
    "url": "https://www.memorial-object.jp/01146/"
   },
   {
+   "name": "神奈川県『笹山団地』",
+   "lat": 35.4880016,
+   "lng": 139.5662201,
+   "address": "神奈川県横浜市保土ケ谷区上菅田町１５００",
+   "access": "西谷駅から約1.1km",
+   "categories": [
+    "住宅地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03569/"
+  },
+  {
    "name": "福沢一郎『だるまの詩』",
    "lat": 36.32287335246342,
    "lng": 139.0117974078984,
@@ -47621,6 +49781,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2025/12/00025_darumapoem5.png",
    "url": "https://www.memorial-object.jp/00025_darumapoem/"
+  },
+  {
+   "name": "福田美蘭『Jigsaw puzzle (Yokohama)』",
+   "lat": 35.4079274,
+   "lng": 139.5964535,
+   "address": "神奈川県横浜市港南区上大岡西１丁目６",
+   "access": "上大岡駅から南へ約130m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03547/"
   },
   {
    "name": "秋山孝『阿吽』",
@@ -47657,6 +49829,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00316/"
+  },
+  {
+   "name": "立木泉『セダクション』",
+   "lat": 35.456594,
+   "lng": 139.633442,
+   "address": "神奈川県横浜市西区みなとみらい２丁目３",
+   "access": "みなとみらい駅から南東へ約90m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03524/"
   },
   {
    "name": "竹田光幸『永遠　～愛～　天空に語らう』",
@@ -47863,6 +50047,18 @@
    "url": "https://www.memorial-object.jp/01210/"
   },
   {
+   "name": "蓮性寺『ごはん塚』",
+   "lat": 35.4975374,
+   "lng": 139.55724,
+   "address": "神奈川県横浜市緑区鴨居７丁目３１",
+   "access": "鴨居駅から直線で約1.7km（最寄りのバス停：鴨居7丁目 約60m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03575/"
+  },
+  {
    "name": "蔡國強『高山流水-立体山水画』",
    "lat": 35.6595699,
    "lng": 139.7281042,
@@ -47947,6 +50143,18 @@
    "url": "https://www.memorial-object.jp/00242/"
   },
   {
+   "name": "西田明未『船出』",
+   "lat": 35.457316,
+   "lng": 139.6345,
+   "address": "神奈川県横浜市西区みなとみらい２丁目",
+   "access": "みなとみらい駅から東へ約150m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03655/"
+  },
+  {
    "name": "赤川政由『南の風が吹く頃 Bon Voyage!』",
    "lat": 35.69726926583451,
    "lng": 139.4135599358103,
@@ -47995,6 +50203,18 @@
    "url": "https://www.memorial-object.jp/04372/"
   },
   {
+   "name": "速水史朗『出会い』",
+   "lat": 35.5150691,
+   "lng": 139.6206421,
+   "address": "神奈川県横浜市港北区大豆戸町",
+   "access": "新横浜駅から北東へ約750m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03571/"
+  },
+  {
    "name": "速水史朗『魂・蔵・祖』",
    "lat": 35.6563791,
    "lng": 139.4727582,
@@ -48019,6 +50239,54 @@
    "url": "https://www.memorial-object.jp/01081/"
   },
   {
+   "name": "都筑郡二俣川村小高三反田『出羽三山供養塔』",
+   "lat": 35.4673841,
+   "lng": 139.5544774,
+   "address": "神奈川県横浜市旭区三反田町２１７",
+   "access": "鶴ケ峰駅から約1.0km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03573/"
+  },
+  {
+   "name": "野口真里『横濱三塔物語』",
+   "lat": 35.465238,
+   "lng": 139.623266,
+   "address": "神奈川県横浜市西区高島２丁目",
+   "access": "横浜駅から南へ約110m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03643/"
+  },
+  {
+   "name": "金子健二『PROPOSE 2004』",
+   "lat": 35.4593821,
+   "lng": 139.6293888,
+   "address": "神奈川県横浜市西区みなとみらい４丁目",
+   "access": "新高島駅から南東へ約380m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03621/"
+  },
+  {
+   "name": "金子健二『PROPOSE』",
+   "lat": 35.4593179,
+   "lng": 139.6296071,
+   "address": "神奈川県横浜市西区みなとみらい４丁目",
+   "access": "みなとみらい駅から北西へ約370m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03620/"
+  },
+  {
    "name": "金景民『月出』",
    "lat": 35.690899,
    "lng": 139.4471709,
@@ -48029,6 +50297,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00690/"
+  },
+  {
+   "name": "金田雄作『流衣』",
+   "lat": 35.4662135,
+   "lng": 139.6158099,
+   "address": "神奈川県横浜市西区北幸２丁目９",
+   "access": "横浜駅から西へ約400m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03529/"
   },
   {
    "name": "鈴木尚和『富士見 夢の舟』",
@@ -48115,6 +50395,18 @@
    "url": "https://www.memorial-object.jp/01116/"
   },
   {
+   "name": "長澤伸穂『あなたはどこへいくのか　あなたはどこからきたのか』",
+   "lat": 35.4083649,
+   "lng": 139.596126,
+   "address": "神奈川県横浜市港南区上大岡西１丁目８",
+   "access": "上大岡駅から南へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03550/"
+  },
+  {
    "name": "長澤英俊『Tre Cubi Fontana Di Danae』",
    "lat": 35.6935437,
    "lng": 139.7603956,
@@ -48125,6 +50417,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01059/"
+  },
+  {
+   "name": "長谷川仁『プランクトン』",
+   "lat": 35.4584688,
+   "lng": 139.6301425,
+   "address": "神奈川県横浜市西区みなとみらい４丁目",
+   "access": "みなとみらい駅から北西へ約280m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03626/"
   },
   {
    "name": "長谷川昴『遠心』",
@@ -48223,6 +50527,18 @@
    "url": "https://www.memorial-object.jp/00352/"
   },
   {
+   "name": "零駒無蔵『集う人達』",
+   "lat": 35.5627235,
+   "lng": 139.570135,
+   "address": "神奈川県横浜市都筑区中川１丁目７",
+   "access": "中川駅から南東へ約30m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03561/"
+  },
+  {
    "name": "青木三四郎『にらめっこ』",
    "lat": 35.7022997982863,
    "lng": 139.9850879695934,
@@ -48259,6 +50575,18 @@
    "url": "https://www.memorial-object.jp/00348/"
   },
   {
+   "name": "高柳恵里『Traveler』",
+   "lat": 35.4085375,
+   "lng": 139.5963674,
+   "address": "神奈川県横浜市港南区上大岡西１丁目８",
+   "access": "上大岡駅から南東へ約70m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03548/"
+  },
+  {
    "name": "高橋剛『そよ風(緑の風)』",
    "lat": 35.6596076,
    "lng": 139.4732497,
@@ -48281,6 +50609,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00308/"
+  },
+  {
+   "name": "高橋秀『上昇』",
+   "lat": 35.4671603,
+   "lng": 139.6179579,
+   "address": "神奈川県横浜市西区北幸１丁目１０",
+   "access": "横浜駅から北西へ約280m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03526/"
   },
   {
    "name": "高濱英俊『遠隔操作Ⅶ』",
@@ -48353,6 +50693,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00283_1.jpg",
    "url": "https://www.memorial-object.jp/00283/"
+  },
+  {
+   "name": "高田洋一『水面の鳥』",
+   "lat": 35.454504,
+   "lng": 139.629881,
+   "address": "神奈川県横浜市西区みなとみらい３丁目１",
+   "access": "桜木町駅から北へ約400m",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03528/"
   },
   {
    "name": "高須賀昌志『家族の肖像』",
@@ -48449,6 +50801,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/01/00036_kuki-kaze1.png",
    "url": "https://www.memorial-object.jp/00036_kuki-kaze/"
+  },
+  {
+   "name": "齋藤粂治郎『北口登山　富士浅間大神社』",
+   "lat": 35.4881908,
+   "lng": 139.5737727,
+   "address": "神奈川県横浜市保土ケ谷区上菅田町５７３",
+   "access": "西谷駅から約1.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/03565/"
   }
  ]
 }
