@@ -8,8 +8,8 @@
   "photos": 0,
   "names": []
  },
- "generated": "2026-10-18",
- "count": 4822,
+ "generated": "2026-10-19",
+ "count": 5018,
  "items": [
   {
    "name": "ASAO TOKOLO『TOWER OF CONNECT』",
@@ -840,6 +840,18 @@
    "url": "https://www.memorial-object.jp/01671/"
   },
   {
+   "name": "『Amikakeishidaishi』",
+   "lat": 33.7329321,
+   "lng": 132.8409045,
+   "address": "愛媛県松山市久谷町",
+   "access": "てっぺんとりで駅から直線で約5.0km（最寄りのバス停：丹波 約640m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04995/"
+  },
+  {
    "name": "『Anchor and Chain Art』",
    "lat": 35.6282035,
    "lng": 139.771627,
@@ -886,6 +898,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02350/"
+  },
+  {
+   "name": "『C12型蒸気機関車概要』",
+   "lat": 33.2279007,
+   "lng": 132.5656305,
+   "address": "愛媛県宇和島市和霊公園１０２",
+   "access": "宇和島駅から北西へ約270m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04895/"
   },
   {
    "name": "『C57 57』",
@@ -1488,6 +1512,18 @@
    "url": "https://www.memorial-object.jp/00445/"
   },
   {
+   "name": "『OUS』",
+   "lat": 34.070257,
+   "lng": 132.978515,
+   "address": "愛媛県今治市いこいの丘",
+   "access": "今治駅から約1.5km",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04999/"
+  },
+  {
    "name": "『Q太郎とO次郎』",
    "lat": 35.609963,
    "lng": 139.5736366,
@@ -1978,6 +2014,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03664/"
+  },
+  {
+   "name": "『u』",
+   "lat": 35.2293349,
+   "lng": 139.7227031,
+   "address": "神奈川県横須賀市長瀬３丁目",
+   "access": "京急久里浜駅から直線で約1.9km（最寄りのバス停：長瀬三丁目 約30m）",
+   "categories": [
+    "公共施設"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04314/"
   },
   {
    "name": "『”日本で最初のフットボール（ラグビー）発祥地　横浜”記念碑』",
@@ -2544,6 +2592,18 @@
    "url": "https://www.memorial-object.jp/01572/"
   },
   {
+   "name": "『お伊勢様』",
+   "lat": 33.3119714,
+   "lng": 132.6008042,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から直線で約2.6km（最寄りのバス停：運動公園 約520m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05019/"
+  },
+  {
    "name": "『お化け灯籠』",
    "lat": 35.7149123,
    "lng": 139.7728874,
@@ -2590,6 +2650,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00556/"
+  },
+  {
+   "name": "『お大師さんのおる島』",
+   "lat": 34.1694443,
+   "lng": 133.0873543,
+   "address": "愛媛県今治市宮窪町宮窪",
+   "access": "波止浜駅から直線で約13.5km（大島にあり、島内に鉄道はありません。船などでの移動が必要です）",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05000/"
   },
   {
    "name": "『お岩 水かけ観音』",
@@ -2878,6 +2950,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04196/"
+  },
+  {
+   "name": "『かながわの景勝50選　剱崎』",
+   "lat": 35.1413676,
+   "lng": 139.6779079,
+   "address": "神奈川県三浦市南下浦町松輪",
+   "access": "三浦海岸駅から直線で約5.7km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04353/"
   },
   {
    "name": "『かながわの橋100選』",
@@ -4548,6 +4632,18 @@
    "url": "https://www.memorial-object.jp/02734/"
   },
   {
+   "name": "『わらマンモスとわらぐろ群』",
+   "lat": 33.3916576,
+   "lng": 132.4711543,
+   "address": "愛媛県西予市宇和町岩木３３５",
+   "access": "伊予石城駅から西へ約200m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04911/"
+  },
+  {
    "name": "『ゑびす像』",
    "lat": 35.6472952,
    "lng": 139.7094722,
@@ -4606,6 +4702,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04194/"
+  },
+  {
+   "name": "『アテネ陶芸教室』",
+   "lat": 33.8310057,
+   "lng": 132.7534086,
+   "address": "愛媛県松山市竹原２丁目１",
+   "access": "土橋駅から南西へ約320m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04885/"
   },
   {
    "name": "『アブラハム』",
@@ -5256,6 +5364,18 @@
    "url": "https://www.memorial-object.jp/02196/"
   },
   {
+   "name": "『ゴジラの滑り台』",
+   "lat": 35.2191438,
+   "lng": 139.7024262,
+   "address": "神奈川県横須賀市神明町",
+   "access": "京急久里浜駅から約1.4km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04315/"
+  },
+  {
    "name": "『ゴジラヘッド』",
    "lat": 35.6950725,
    "lng": 139.7018792,
@@ -5278,6 +5398,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01206/"
+  },
+  {
+   "name": "『サイクリストの聖地記念碑』",
+   "lat": 34.2553901,
+   "lng": 133.0546821,
+   "address": "愛媛県今治市上浦町井口",
+   "access": "波止浜駅から直線で約19.2km（大三島にあり、島内に鉄道はありません。井ノ口港・宮浦港・宗方港務所への船などでの移動が必要です）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05001/"
   },
   {
    "name": "『サウディアラビア王国代表チームキャンプ地・調布』",
@@ -5662,6 +5794,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02201/"
+  },
+  {
+   "name": "『タオル美術館ICHIHIRO』",
+   "lat": 33.9694736,
+   "lng": 133.0332825,
+   "address": "愛媛県今治市朝倉上",
+   "access": "伊予三芳駅から直線で約3.3km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05002/"
   },
   {
    "name": "『タヌキ』",
@@ -6565,6 +6709,18 @@
    "url": "https://www.memorial-object.jp/01181/"
   },
   {
+   "name": "『マイルストーン「まぐろと大根」』",
+   "lat": 35.1430228,
+   "lng": 139.6408794,
+   "address": "神奈川県三浦市三崎町六合",
+   "access": "三崎口駅から直線で約3.9km（最寄りのバス停：宮川町 約540m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04354/"
+  },
+  {
    "name": "『マイルストーン「タカアシガニ」』",
    "lat": 35.1951601,
    "lng": 139.6003975,
@@ -6587,6 +6743,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04287/"
+  },
+  {
+   "name": "『マイルストーン「黒船像」』",
+   "lat": 35.2517525,
+   "lng": 139.7419118,
+   "address": "神奈川県横須賀市鴨居４丁目",
+   "access": "浦賀駅から直線で約2.4km（最寄りのバス停：観音崎自然博物館（すぐ近く））",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04316/"
   },
   {
    "name": "『マドロス少年』",
@@ -7778,6 +7946,18 @@
    "url": "https://www.memorial-object.jp/04022/"
   },
   {
+   "name": "『三島神社修復工事寄附者芳名碑』",
+   "lat": 33.1433248,
+   "lng": 132.4984837,
+   "address": "愛媛県宇和島市津島町北灘",
+   "access": "宇和島駅から直線で約11.2km（最寄りのバス停：鵜の浜 約560m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05020/"
+  },
+  {
    "name": "『三折坂』",
    "lat": 35.6277214,
    "lng": 139.7075035,
@@ -7838,6 +8018,18 @@
    "url": "https://www.memorial-object.jp/03781/"
   },
   {
+   "name": "『三瓶町名由来の地』",
+   "lat": 33.3801875,
+   "lng": 132.4224307,
+   "address": "愛媛県西予市三瓶町朝立７",
+   "access": "伊予石城駅から直線で約4.9km（最寄りのバス停：日吉崎 約60m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04950/"
+  },
+  {
    "name": "『三町橋』",
    "lat": 35.6539841,
    "lng": 139.6753545,
@@ -7884,6 +8076,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02612/"
+  },
+  {
+   "name": "『三百五十年祭記念』",
+   "lat": 33.3063999,
+   "lng": 132.5992027,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から直線で約2.0km（最寄りのバス停：運動公園 約310m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05021/"
   },
   {
    "name": "『三社大口真大神』",
@@ -8498,6 +8702,18 @@
    "url": "https://www.memorial-object.jp/04541/"
   },
   {
+   "name": "『不在の存在』",
+   "lat": 34.391411,
+   "lng": 134.052187,
+   "address": "香川県高松市女木町",
+   "access": "高松築港駅から直線で約4.5km（女木島にあり、島内に鉄道はありません。女木港への船などでの移動が必要です）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04541/"
+  },
+  {
    "name": "『不忍池』",
    "lat": 35.7123024,
    "lng": 139.7718226,
@@ -8712,6 +8928,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02106/"
+  },
+  {
+   "name": "『中山池　改修記念碑』",
+   "lat": 33.306407,
+   "lng": 132.5991607,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から直線で約2.0km（最寄りのバス停：運動公園 約300m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05022/"
   },
   {
    "name": "『中山道戸田の渡』",
@@ -9050,6 +9278,18 @@
    "url": "https://www.memorial-object.jp/03094/"
   },
   {
+   "name": "『丸山墓地』",
+   "lat": 33.8379378,
+   "lng": 132.7385985,
+   "address": "愛媛県松山市北斎院町１９",
+   "access": "松山駅から約1.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04924/"
+  },
+  {
    "name": "『丸山橋』",
    "lat": 35.6414662,
    "lng": 139.6663453,
@@ -9338,6 +9578,18 @@
    "url": "https://www.memorial-object.jp/01580/"
   },
   {
+   "name": "『事業の内容』",
+   "lat": 33.3064055,
+   "lng": 132.5991732,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から直線で約2.0km（最寄りのバス停：運動公園 約300m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05023/"
+  },
+  {
    "name": "『二ヶ領用水』",
    "lat": 35.5551953,
    "lng": 139.6734756,
@@ -9590,6 +9842,18 @@
    "url": "https://www.memorial-object.jp/00178/"
   },
   {
+   "name": "『二宮忠八翁誕生池』",
+   "lat": 33.4577014,
+   "lng": 132.4267477,
+   "address": "愛媛県八幡浜市矢野町５丁目１１７３",
+   "access": "八幡浜駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04941/"
+  },
+  {
    "name": "『二宮神社改修工事記念碑』",
    "lat": 35.727032,
    "lng": 139.3140046,
@@ -9782,6 +10046,18 @@
    "url": "https://www.memorial-object.jp/03903/"
   },
   {
+   "name": "『五輪様』",
+   "lat": 33.3140867,
+   "lng": 132.6040758,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から直線で約2.8km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05024/"
+  },
+  {
    "name": "『五重塔建設資金の碑』",
    "lat": 35.5341924,
    "lng": 139.7300166,
@@ -9842,6 +10118,18 @@
    "url": "https://www.memorial-object.jp/03631/"
   },
   {
+   "name": "『井原輝一翁像』",
+   "lat": 34.0360012,
+   "lng": 133.0078731,
+   "address": "愛媛県今治市上徳６７３",
+   "access": "伊予富田駅から南西へ約120m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04890/"
+  },
+  {
    "name": "『井口家の屋敷林』",
    "lat": 35.718827,
    "lng": 139.5752464,
@@ -9888,6 +10176,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01270/"
+  },
+  {
+   "name": "『井関邦三郎之像』",
+   "lat": 33.2905479,
+   "lng": 132.6077757,
+   "address": "愛媛県宇和島市三間町宮野下８３５",
+   "access": "伊予宮野下駅から北東へ約260m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04896/"
   },
   {
    "name": "『交通事故横死者霊供養塔』",
@@ -10106,6 +10406,30 @@
    "url": "https://www.memorial-object.jp/03416/"
   },
   {
+   "name": "『今松治郎之像』",
+   "lat": 33.290592,
+   "lng": 132.6077787,
+   "address": "愛媛県宇和島市三間町宮野下８３５",
+   "access": "伊予宮野下駅から北東へ約270m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04897/"
+  },
+  {
+   "name": "『今治綿業の父　矢野七三郎について』",
+   "lat": 34.0636396,
+   "lng": 133.0076347,
+   "address": "愛媛県今治市通町３丁目１",
+   "access": "今治駅から約1.3km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04928/"
+  },
+  {
    "name": "『仏像』",
    "lat": 35.6148488,
    "lng": 139.4694683,
@@ -10128,6 +10452,198 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04542/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場10番』",
+   "lat": 33.310865,
+   "lng": 132.582177,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約110m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05025/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場11番』",
+   "lat": 33.3108846,
+   "lng": 132.5820241,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約110m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05026/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場12番』",
+   "lat": 33.3110213,
+   "lng": 132.581839,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約120m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05027/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場13番』",
+   "lat": 33.3110818,
+   "lng": 132.5818464,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約120m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05028/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場14番』",
+   "lat": 33.3113441,
+   "lng": 132.5817841,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約150m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05029/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場15番』",
+   "lat": 33.3114623,
+   "lng": 132.5818022,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.4km（最寄りのバス停：仏木寺 約170m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05030/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場16番』",
+   "lat": 33.3114999,
+   "lng": 132.5818799,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約170m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05031/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場17番』",
+   "lat": 33.3115397,
+   "lng": 132.5819832,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約180m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05032/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場18番』",
+   "lat": 33.3115105,
+   "lng": 132.5819671,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約170m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05033/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場19番』",
+   "lat": 33.3114875,
+   "lng": 132.5820315,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約170m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05034/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場1番』",
+   "lat": 33.3110039,
+   "lng": 132.5812872,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約120m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05035/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場20番』",
+   "lat": 33.3114343,
+   "lng": 132.5820187,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約170m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05036/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場21番』",
+   "lat": 33.3113654,
+   "lng": 132.5820395,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約160m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05037/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場22番』",
+   "lat": 33.3113458,
+   "lng": 132.5820442,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約160m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05038/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場23番』",
+   "lat": 33.3112684,
+   "lng": 132.5820516,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約150m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05039/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場24番』",
+   "lat": 33.3112146,
+   "lng": 132.5820717,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約140m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05040/"
   },
   {
    "name": "『仏頂尊勝陀羅尼碑』",
@@ -10322,6 +10838,18 @@
    "url": "https://www.memorial-object.jp/02039/"
   },
   {
+   "name": "『伊藤大輔　生誕地』",
+   "lat": 33.2117865,
+   "lng": 132.5616761,
+   "address": "愛媛県宇和島市元結掛１丁目２",
+   "access": "宇和島駅から直線で約1.7km（最寄りのバス停：長堀橋 約260m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04934/"
+  },
+  {
    "name": "『伊藤左千夫牧舎兼住居跡』",
    "lat": 35.6959612,
    "lng": 139.8144203,
@@ -10332,6 +10860,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00191_1.jpg",
    "url": "https://www.memorial-object.jp/00191/"
+  },
+  {
+   "name": "『伊豫国分寺塔跡』",
+   "lat": 34.0258951,
+   "lng": 133.0268912,
+   "address": "愛媛県今治市国分４丁目１",
+   "access": "伊予桜井駅から直線で約1.8km（最寄りのバス停：国分 約190m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04929/"
   },
   {
    "name": "『伊達時彰徳碑』",
@@ -10476,6 +11016,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03476/"
+  },
+  {
+   "name": "『供養塔』",
+   "lat": 35.1401943,
+   "lng": 139.632525,
+   "address": "神奈川県三浦市宮川町",
+   "access": "三崎口駅から直線で約4.2km（最寄りのバス停：台向ヶ崎 約390m）",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04355/"
   },
   {
    "name": "『供養塔』",
@@ -10718,6 +11270,18 @@
    "url": "https://www.memorial-object.jp/02616/"
   },
   {
+   "name": "『元一登山三十三度大願成就』",
+   "lat": 35.2156927,
+   "lng": 139.6686228,
+   "address": "神奈川県横須賀市長沢５丁目",
+   "access": "京急長沢駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04317/"
+  },
+  {
    "name": "『元宿地蔵大菩薩』",
    "lat": 35.7547923,
    "lng": 139.7909615,
@@ -10836,6 +11400,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00418/"
+  },
+  {
+   "name": "『児島惟謙先生』",
+   "lat": 33.2181083,
+   "lng": 132.5642795,
+   "address": "愛媛県宇和島市丸之内２丁目３",
+   "access": "宇和島駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04935/"
   },
   {
    "name": "『児玉源太郎の墓』",
@@ -11750,6 +12326,18 @@
    "url": "https://www.memorial-object.jp/04004/"
   },
   {
+   "name": "『円徳寺御開山日範上人』",
+   "lat": 35.1862615,
+   "lng": 139.6183839,
+   "address": "神奈川県三浦市初声町和田",
+   "access": "三崎口駅から直線で約1.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04356/"
+  },
+  {
    "name": "『円盤状のモニュメント』",
    "lat": 35.72277577710688,
    "lng": 140.15602380076672,
@@ -12180,6 +12768,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04544/"
+  },
+  {
+   "name": "『加藤嘉明公騎馬像』",
+   "lat": 33.8449336,
+   "lng": 132.7723073,
+   "address": "愛媛県松山市丸之内７３",
+   "access": "道後温泉駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04925/"
   },
   {
    "name": "『加賀前田家下屋敷跡』",
@@ -12662,6 +13262,18 @@
    "url": "https://www.memorial-object.jp/00181/"
   },
   {
+   "name": "『北温海岸防波堤竣工記念』",
+   "lat": 33.974229,
+   "lng": 132.770074,
+   "address": "愛媛県松山市北条辻１５５７",
+   "access": "伊予北条駅から西へ約510m",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04884/"
+  },
+  {
    "name": "『北町聖観音座像』",
    "lat": 35.7679919,
    "lng": 139.6620286,
@@ -12878,6 +13490,18 @@
    "url": "https://www.memorial-object.jp/03145/"
   },
   {
+   "name": "『千代岬瘞骨志碑』",
+   "lat": 35.2325746,
+   "lng": 139.7284448,
+   "address": "神奈川県横須賀市西浦賀６丁目",
+   "access": "京急久里浜駅から直線で約2.4km（最寄りのバス停：燈明堂入口 約620m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04318/"
+  },
+  {
    "name": "『千住同行登山記念碑』",
    "lat": 35.747428,
    "lng": 139.7967216,
@@ -12924,6 +13548,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02882/"
+  },
+  {
+   "name": "『千体仏』",
+   "lat": 34.0131297,
+   "lng": 132.9773987,
+   "address": "愛媛県今治市玉川町別所",
+   "access": "伊予富田駅から直線で約3.9km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05003/"
   },
   {
    "name": "『千年石』",
@@ -13358,6 +13994,18 @@
    "url": "https://www.memorial-object.jp/02825/"
   },
   {
+   "name": "『原爆死没者慰霊碑』",
+   "lat": 34.0638614,
+   "lng": 133.0085206,
+   "address": "愛媛県今治市通町３丁目",
+   "access": "今治駅から約1.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05004/"
+  },
+  {
    "name": "『参万五千本』",
    "lat": 35.6300551,
    "lng": 139.2543881,
@@ -13706,6 +14354,18 @@
    "url": "https://www.memorial-object.jp/02437/"
   },
   {
+   "name": "『史跡今治城跡』",
+   "lat": 34.0638599,
+   "lng": 133.0061674,
+   "address": "愛媛県今治市通町３丁目",
+   "access": "今治駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05005/"
+  },
+  {
    "name": "『史跡八王子城天守閣跡』",
    "lat": 35.6511499,
    "lng": 139.2479425,
@@ -13740,6 +14400,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00565/"
+  },
+  {
+   "name": "『史跡能島城跡』",
+   "lat": 34.1827912,
+   "lng": 133.0803792,
+   "address": "愛媛県今治市宮窪町宮窪",
+   "access": "波止浜駅から直線で約13.9km（最寄りのバス停：江口 約670m）",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05006/"
   },
   {
    "name": "『史蹟 三浦按針屋敷跡』",
@@ -14054,6 +14726,18 @@
    "url": "https://www.memorial-object.jp/03242/"
   },
   {
+   "name": "『吟魂碑』",
+   "lat": 33.2284253,
+   "lng": 132.5652863,
+   "address": "愛媛県宇和島市和霊公園１",
+   "access": "宇和島駅から北西へ約330m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04898/"
+  },
+  {
    "name": "『吹上の松』",
    "lat": 35.7329847,
    "lng": 139.7456041,
@@ -14064,6 +14748,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03098/"
+  },
+  {
+   "name": "『吽』",
+   "lat": 33.3972737,
+   "lng": 132.471882,
+   "address": "愛媛県西予市宇和町岩木２５８４",
+   "access": "伊予石城駅から北へ約660m",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04912/"
   },
   {
    "name": "『吽』",
@@ -14088,6 +14784,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04603/"
+  },
+  {
+   "name": "『吽形』",
+   "lat": 33.2918392,
+   "lng": 132.608214,
+   "address": "愛媛県宇和島市三間町宮野下",
+   "access": "伊予宮野下駅から北東へ約400m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04966/"
+  },
+  {
+   "name": "『吽形』",
+   "lat": 33.2909437,
+   "lng": 132.6082732,
+   "address": "愛媛県宇和島市三間町宮野下８３５",
+   "access": "伊予宮野下駅から北東へ約330m",
+   "categories": [
+    "公共施設"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04899/"
   },
   {
    "name": "『吽形』",
@@ -14618,6 +15338,30 @@
    "url": "https://www.memorial-object.jp/02233/"
   },
   {
+   "name": "『四国のみち 石碑』",
+   "lat": 33.2106252,
+   "lng": 132.5603103,
+   "address": "愛媛県宇和島市元結掛２丁目４",
+   "access": "宇和島駅から直線で約1.8km（最寄りのバス停：元結掛口 約180m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04937/"
+  },
+  {
+   "name": "『四国のみち 石碑』",
+   "lat": 33.2109326,
+   "lng": 132.559878,
+   "address": "愛媛県宇和島市元結掛２丁目６",
+   "access": "宇和島駅から直線で約1.8km（最寄りのバス停：長堀橋 約130m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04936/"
+  },
+  {
    "name": "『四國霊場八十三番札所』",
    "lat": 34.2864705,
    "lng": 134.0268818,
@@ -14724,6 +15468,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02525/"
+  },
+  {
+   "name": "『団体営喜田村道路改修工事記念碑』",
+   "lat": 34.0429365,
+   "lng": 133.0178436,
+   "address": "愛媛県今治市上徳１丁目７",
+   "access": "伊予富田駅から約1.1km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04930/"
   },
   {
    "name": "『図形状のモニュメント』",
@@ -14918,6 +15674,18 @@
    "url": "https://www.memorial-object.jp/03672/"
   },
   {
+   "name": "『圃場整備記念碑』",
+   "lat": 33.2564511,
+   "lng": 132.6843846,
+   "address": "愛媛県北宇和郡鬼北町大字近永７８７",
+   "access": "近永駅から東へ約730m",
+   "categories": [
+    "公共施設"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04922/"
+  },
+  {
    "name": "『國學院大学 開校の地』",
    "lat": 35.7009096,
    "lng": 139.7475032,
@@ -15012,6 +15780,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00692/"
+  },
+  {
+   "name": "『土居通夫　生誕の地』",
+   "lat": 33.2120828,
+   "lng": 132.561449,
+   "address": "愛媛県宇和島市元結掛１丁目４",
+   "access": "宇和島駅から直線で約1.6km（最寄りのバス停：長堀橋 約250m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04938/"
   },
   {
    "name": "『土方歳三像』",
@@ -15842,6 +16622,18 @@
    "url": "https://www.memorial-object.jp/04159/"
   },
   {
+   "name": "『城ヶ島灯台　点灯百二十周年記念碑』",
+   "lat": 35.1350331,
+   "lng": 139.6110402,
+   "address": "神奈川県三浦市三崎町城ヶ島",
+   "access": "三崎口駅から直線で約5.2km（城ヶ島にあり、島内に鉄道はありません。船などでの移動が必要です）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04357/"
+  },
+  {
    "name": "『城下橋』",
    "lat": 35.6455247,
    "lng": 139.6488442,
@@ -16224,6 +17016,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02943/"
+  },
+  {
+   "name": "『夏島貝塚跡』",
+   "lat": 35.3236056,
+   "lng": 139.6480105,
+   "address": "神奈川県横須賀市夏島町",
+   "access": "野島公園駅から直線で約1.7km（最寄りのバス停：夏島 約300m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04319/"
   },
   {
    "name": "『夏目漱石錦華に学ぶ碑』",
@@ -16646,6 +17450,18 @@
    "url": "https://www.memorial-object.jp/03718/"
   },
   {
+   "name": "『大可賀溺死者招魂碑』",
+   "lat": 33.852558,
+   "lng": 132.714501,
+   "address": "愛媛県松山市大可賀２丁目６",
+   "access": "山西駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04886/"
+  },
+  {
    "name": "『大和橋』",
    "lat": 35.641894,
    "lng": 139.6647102,
@@ -16910,6 +17726,18 @@
    "url": "https://www.memorial-object.jp/01735/"
   },
   {
+   "name": "『大手通碑』",
+   "lat": 34.0648444,
+   "lng": 133.0068241,
+   "address": "愛媛県今治市通町３丁目",
+   "access": "今治駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05007/"
+  },
+  {
    "name": "『大手門渡櫓』",
    "lat": 35.6860618,
    "lng": 139.7600865,
@@ -16932,6 +17760,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02664/"
+  },
+  {
+   "name": "『大日本總鎮守大山祇神社』",
+   "lat": 34.2487164,
+   "lng": 133.0035705,
+   "address": "愛媛県今治市大三島町宮浦",
+   "access": "波止浜駅から直線で約17.0km（大三島にあり、島内に鉄道はありません。井ノ口港・宮浦港・宗方港務所への船などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05008/"
   },
   {
    "name": "『大木遣り』",
@@ -16980,6 +17820,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01893/"
+  },
+  {
+   "name": "『大東亜戦争碑』",
+   "lat": 34.0362173,
+   "lng": 133.0086717,
+   "address": "愛媛県今治市上徳９９",
+   "access": "伊予富田駅から南西へ約50m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04891/"
   },
   {
    "name": "『大東京市拡張記念碑』",
@@ -17366,6 +18218,18 @@
    "url": "https://www.memorial-object.jp/04209/"
   },
   {
+   "name": "『大願成就』",
+   "lat": 35.2157173,
+   "lng": 139.6685712,
+   "address": "神奈川県横須賀市長沢５丁目",
+   "access": "京急長沢駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04320/"
+  },
+  {
    "name": "『大高源五句碑』",
    "lat": 35.694049,
    "lng": 139.7898889,
@@ -17580,6 +18444,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/03/00067_tenchijin4.png",
    "url": "https://www.memorial-object.jp/00067_tenchijin/"
+  },
+  {
+   "name": "『天地荘厳 仏者千人衆』",
+   "lat": 35.2133883,
+   "lng": 139.6564094,
+   "address": "神奈川県横須賀市須軽谷",
+   "access": "京急長沢駅から直線で約1.8km（最寄りのバス停：宮ノ里 約790m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04321/"
   },
   {
    "name": "『天大圀主之命』",
@@ -17810,6 +18686,18 @@
    "url": "https://www.memorial-object.jp/01592/"
   },
   {
+   "name": "『天王公郷両陛下御光臨』",
+   "lat": 35.2495225,
+   "lng": 139.6250906,
+   "address": "神奈川県横須賀市芦名３丁目",
+   "access": "衣笠駅から直線で約3.4km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04322/"
+  },
+  {
    "name": "『天皇陛下御製』",
    "lat": 35.6712912,
    "lng": 139.7994336,
@@ -17832,6 +18720,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01979/"
+  },
+  {
+   "name": "『天皇陛下皇后陛下行幸啓記念』",
+   "lat": 35.2545669,
+   "lng": 139.7409479,
+   "address": "神奈川県横須賀市鴨居４丁目",
+   "access": "浦賀駅から直線で約2.4km（最寄りのバス停：観音崎自然博物館 約310m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04323/"
   },
   {
    "name": "『天神様』",
@@ -17928,6 +18828,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03958/"
+  },
+  {
+   "name": "『太平洋戦争戦没者之碑』",
+   "lat": 33.396854,
+   "lng": 132.4718758,
+   "address": "愛媛県西予市宇和町岩木１５５０",
+   "access": "伊予石城駅から北へ約620m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04913/"
   },
   {
    "name": "『太田姫稲荷神社縁起』",
@@ -18156,6 +19068,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02830/"
+  },
+  {
+   "name": "『女』",
+   "lat": 34.0537956,
+   "lng": 133.0092211,
+   "address": "愛媛県今治市南鳥生町２丁目",
+   "access": "今治駅から直線で約1.8km（最寄りのバス停：鳥生 約40m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05009/"
   },
   {
    "name": "『女中念仏供養塔』",
@@ -18746,6 +19670,54 @@
    "url": "https://www.memorial-object.jp/03799/"
   },
   {
+   "name": "『宇和島城』",
+   "lat": 33.2197307,
+   "lng": 132.5646624,
+   "address": "愛媛県宇和島市丸之内１丁目３",
+   "access": "宇和島駅から南へ約750m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04900/"
+  },
+  {
+   "name": "『宇和島空襲死没者氏名碑』",
+   "lat": 33.2284499,
+   "lng": 132.565308,
+   "address": "愛媛県宇和島市和霊公園１",
+   "access": "宇和島駅から北西へ約340m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04901/"
+  },
+  {
+   "name": "『宇和島空襲死没者追悼平和祈念碑』",
+   "lat": 33.2284526,
+   "lng": 132.5653148,
+   "address": "愛媛県宇和島市和霊公園１",
+   "access": "宇和島駅から北西へ約340m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04902/"
+  },
+  {
+   "name": "『宇和島闘牛』",
+   "lat": 33.2253417,
+   "lng": 132.567396,
+   "address": "愛媛県宇和島市錦町９",
+   "access": "宇和島駅から南へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04903/"
+  },
+  {
    "name": "『宇賀神』",
    "lat": 35.7121734,
    "lng": 139.7713862,
@@ -18950,6 +19922,30 @@
    "url": "https://www.memorial-object.jp/00302/"
   },
   {
+   "name": "『宗方小学校創立百周年記念』",
+   "lat": 34.194776,
+   "lng": 132.954241,
+   "address": "愛媛県今治市大三島町宗方",
+   "access": "波止浜駅から直線で約10.8km（大三島にあり、島内に鉄道はありません。井ノ口港・宮浦港・宗方港務所への船などでの移動が必要です）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05010/"
+  },
+  {
+   "name": "『宗方小学校跡』",
+   "lat": 34.1948221,
+   "lng": 132.9536931,
+   "address": "愛媛県今治市大三島町宗方",
+   "access": "波止浜駅から直線で約10.8km（大三島にあり、島内に鉄道はありません。井ノ口港・宮浦港・宗方港務所への船などでの移動が必要です）",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05011/"
+  },
+  {
    "name": "『宗祖法然上人御降誕850年慶讃 タイムカプセル 記念埋設の標』",
    "lat": 35.6574322,
    "lng": 139.7498613,
@@ -18960,6 +19956,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03023/"
+  },
+  {
+   "name": "『官修墳墓』",
+   "lat": 35.314015,
+   "lng": 139.6367079,
+   "address": "神奈川県横須賀市浦郷町３丁目",
+   "access": "追浜駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04324/"
   },
   {
    "name": "『宝地蔵尊』",
@@ -19838,6 +20846,18 @@
    "url": "https://www.memorial-object.jp/04223/"
   },
   {
+   "name": "『小桜観音』",
+   "lat": 35.1354026,
+   "lng": 139.6114538,
+   "address": "神奈川県三浦市三崎町城ヶ島",
+   "access": "三崎口駅から直線で約5.1km（城ヶ島にあり、島内に鉄道はありません。船などでの移動が必要です）",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04358/"
+  },
+  {
    "name": "『小池厚之助先生像』",
    "lat": 35.6830208,
    "lng": 139.6384079,
@@ -20054,6 +21074,18 @@
    "url": "https://www.memorial-object.jp/01288/"
   },
   {
+   "name": "『尻こすり坂開鑿記念碑』",
+   "lat": 35.2208379,
+   "lng": 139.6952874,
+   "address": "神奈川県横須賀市野比４丁目",
+   "access": "京急久里浜駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04325/"
+  },
+  {
    "name": "『尾台榕堂之碑』",
    "lat": 35.6795805,
    "lng": 139.7702997,
@@ -20112,6 +21144,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04877/"
+  },
+  {
+   "name": "『山下亀三郎翁像』",
+   "lat": 33.2777975,
+   "lng": 132.540999,
+   "address": "愛媛県宇和島市吉田町東小路１３３",
+   "access": "伊予吉田駅から北西へ約590m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04904/"
   },
   {
    "name": "『山下小学校発祥の碑』",
@@ -21278,6 +22322,18 @@
    "url": "https://www.memorial-object.jp/00379/"
   },
   {
+   "name": "『帯解地蔵尊』",
+   "lat": 35.2332776,
+   "lng": 139.60422,
+   "address": "神奈川県横須賀市芦名１丁目",
+   "access": "衣笠駅から直線で約5.8km（最寄りのバス停：前田橋 約430m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04326/"
+  },
+  {
    "name": "『帰納場』",
    "lat": 35.721654,
    "lng": 139.6749612,
@@ -21624,6 +22680,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01537/"
+  },
+  {
+   "name": "『平和の石』",
+   "lat": 33.2562217,
+   "lng": 132.6841665,
+   "address": "愛媛県北宇和郡鬼北町大字近永７３１",
+   "access": "近永駅から東へ約710m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04923/"
   },
   {
    "name": "『平和の碑 探照灯基地跡』",
@@ -22131,6 +23199,18 @@
   },
   {
    "name": "『庚申』",
+   "lat": 35.1477951,
+   "lng": 139.6777278,
+   "address": "神奈川県三浦市南下浦町松輪",
+   "access": "三浦海岸駅から直線で約5.0km（最寄りのバス停：剱崎 約740m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04359/"
+  },
+  {
+   "name": "『庚申』",
    "lat": 35.149934,
    "lng": 139.6731347,
    "address": "神奈川県三浦市南下浦町松輪７４０",
@@ -22203,6 +23283,18 @@
   },
   {
    "name": "『庚申供養塔』",
+   "lat": 35.1411039,
+   "lng": 139.628272,
+   "address": "神奈川県三浦市晴海町",
+   "access": "三崎口駅から直線で約4.1km（最寄りのバス停：台向ヶ崎（すぐ近く））",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04360/"
+  },
+  {
+   "name": "『庚申供養塔』",
    "lat": 35.5779467,
    "lng": 139.6524183,
    "address": "神奈川県川崎市中原区今井上町７",
@@ -22272,6 +23364,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02902/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 35.141129,
+   "lng": 139.628292,
+   "address": "神奈川県三浦市晴海町",
+   "access": "三崎口駅から直線で約4.1km（最寄りのバス停：台向ヶ崎（すぐ近く））",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04361/"
   },
   {
    "name": "『庚申塔』",
@@ -23355,6 +24459,18 @@
   },
   {
    "name": "『延命地蔵尊』",
+   "lat": 34.0387427,
+   "lng": 133.0292423,
+   "address": "愛媛県今治市東村４丁目１",
+   "access": "伊予富田駅から直線で約1.9km（最寄りのバス停：拝志 約140m）",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04931/"
+  },
+  {
+   "name": "『延命地蔵尊』",
    "lat": 35.3359198,
    "lng": 139.6000411,
    "address": "神奈川県横浜市金沢区釜利谷南２丁目４４",
@@ -23532,6 +24648,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00531/"
+  },
+  {
+   "name": "『延喜式内社 伊豫国一宮 大山祇神社』",
+   "lat": 34.2485955,
+   "lng": 133.0038635,
+   "address": "愛媛県今治市大三島町宮浦",
+   "access": "波止浜駅から直線で約17.0km（大三島にあり、島内に鉄道はありません。井ノ口港・宮浦港・宗方港務所への船などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05012/"
   },
   {
    "name": "『建築記念碑』",
@@ -23712,6 +24840,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03378/"
+  },
+  {
+   "name": "『弘法大師像』",
+   "lat": 33.8495314,
+   "lng": 132.7982446,
+   "address": "愛媛県松山市常光寺町",
+   "access": "道後温泉駅から約1.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04996/"
   },
   {
    "name": "『弘法大師像』",
@@ -25431,6 +26571,42 @@
   },
   {
    "name": "『忠魂碑』",
+   "lat": 34.1919528,
+   "lng": 133.0587335,
+   "address": "愛媛県今治市宮窪町余所国",
+   "access": "波止浜駅から直線で約13.3km（大島にあり、島内に鉄道はありません。船などでの移動が必要です）",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05013/"
+  },
+  {
+   "name": "『忠魂碑』",
+   "lat": 33.5099141,
+   "lng": 132.5411536,
+   "address": "愛媛県大洲市大洲８９８",
+   "access": "伊予大洲駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04942/"
+  },
+  {
+   "name": "『忠魂碑』",
+   "lat": 33.3968418,
+   "lng": 132.4718631,
+   "address": "愛媛県西予市宇和町岩木１５５０",
+   "access": "伊予石城駅から北へ約610m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04914/"
+  },
+  {
+   "name": "『忠魂碑』",
    "lat": 35.2990332,
    "lng": 139.6290329,
    "address": "神奈川県横須賀市船越町１丁目",
@@ -25790,6 +26966,30 @@
    "url": "https://www.memorial-object.jp/04083/"
   },
   {
+   "name": "『愛媛大学医学部 実験動物慰霊碑』",
+   "lat": 33.8031429,
+   "lng": 132.8772067,
+   "address": "愛媛県東温市志津川",
+   "access": "愛大医学部南口駅から北へ約560m",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04994/"
+  },
+  {
+   "name": "『愛媛大学医学部 慰霊の碑』",
+   "lat": 33.8019204,
+   "lng": 132.8773353,
+   "address": "愛媛県東温市志津川",
+   "access": "愛大医学部南口駅から北西へ約430m",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04920/"
+  },
+  {
    "name": "『愛宕山辨戝天』",
    "lat": 35.6647171,
    "lng": 139.7487582,
@@ -25920,6 +27120,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03852/"
+  },
+  {
+   "name": "『慰霊塔』",
+   "lat": 33.3869082,
+   "lng": 132.4296445,
+   "address": "愛媛県西予市三瓶町朝立６",
+   "access": "伊予石城駅から直線で約4.1km（最寄りのバス停：東公民館前 約100m）",
+   "categories": [
+    "公共施設"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04951/"
   },
   {
    "name": "『慰霊塔』",
@@ -26186,6 +27398,18 @@
    "url": "https://www.memorial-object.jp/02053/"
   },
   {
+   "name": "『我が想い この鈴に込めて』",
+   "lat": 34.2478911,
+   "lng": 133.0045196,
+   "address": "愛媛県今治市大三島町宮浦",
+   "access": "波止浜駅から直線で約17.0km（大三島にあり、島内に鉄道はありません。井ノ口港・宮浦港・宗方港務所への船などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05014/"
+  },
+  {
    "name": "『我国塗装発祥之地記念碑』",
    "lat": 35.4392175,
    "lng": 139.6508707,
@@ -26220,6 +27444,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01295/"
+  },
+  {
+   "name": "『戦役凱旋之碑』",
+   "lat": 35.2157168,
+   "lng": 139.6685417,
+   "address": "神奈川県横須賀市長沢５丁目",
+   "access": "京急長沢駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04327/"
   },
   {
    "name": "『戦役記念』",
@@ -26304,6 +27540,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03815/"
+  },
+  {
+   "name": "『戦没船員の碑』",
+   "lat": 35.254637,
+   "lng": 139.7406596,
+   "address": "神奈川県横須賀市鴨居４丁目",
+   "access": "浦賀駅から直線で約2.3km（最寄りのバス停：堀田 約300m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04328/"
   },
   {
    "name": "『戦没記念』",
@@ -26808,6 +28056,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00745/"
+  },
+  {
+   "name": "『指定史跡今治城跡』",
+   "lat": 34.0644632,
+   "lng": 133.0082398,
+   "address": "愛媛県今治市通町３丁目",
+   "access": "今治駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05015/"
   },
   {
    "name": "『掃海殉職者顕彰碑』",
@@ -27386,6 +28646,18 @@
    "url": "https://www.memorial-object.jp/00688/"
   },
   {
+   "name": "『新井城碑』",
+   "lat": 35.162265,
+   "lng": 139.6136766,
+   "address": "神奈川県三浦市三崎町小網代",
+   "access": "三崎口駅から直線で約2.5km（最寄りのバス停：油壺 約350m）",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04362/"
+  },
+  {
    "name": "『新井復興土地区画整理組合竣工記念碑』",
    "lat": 35.7149561,
    "lng": 139.666712,
@@ -27914,6 +29186,30 @@
    "url": "https://www.memorial-object.jp/01377/"
   },
   {
+   "name": "『日切地蔵尊』",
+   "lat": 33.8364217,
+   "lng": 132.7628627,
+   "address": "愛媛県松山市湊町５丁目４",
+   "access": "松山市駅から北東へ約150m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04887/"
+  },
+  {
+   "name": "『日切地蔵菩薩』",
+   "lat": 33.4762645,
+   "lng": 132.501656,
+   "address": "愛媛県大洲市平野町野田６８７",
+   "access": "伊予平野駅から直線で約2.6km（最寄りのバス停：夜昼パークタウン前 約450m）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04943/"
+  },
+  {
    "name": "『日吉の鐘』",
    "lat": 35.69103,
    "lng": 139.7775531,
@@ -27972,6 +29268,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03346/"
+  },
+  {
+   "name": "『日晷儀台』",
+   "lat": 35.2560842,
+   "lng": 139.7453067,
+   "address": "神奈川県横須賀市鴨居４丁目",
+   "access": "浦賀駅から直線で約2.8km（最寄りのバス停：観音崎 約420m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04329/"
   },
   {
    "name": "『日暮別邸記念館』",
@@ -28536,6 +29844,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02674/"
+  },
+  {
+   "name": "『日露戦役記念』",
+   "lat": 33.5094083,
+   "lng": 132.5419506,
+   "address": "愛媛県大洲市大洲８９８",
+   "access": "伊予大洲駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04944/"
   },
   {
    "name": "『日露戦役記念碑』",
@@ -29163,6 +30483,18 @@
    "url": "https://www.memorial-object.jp/00941/"
   },
   {
+   "name": "『明治10年西南役征討役宇和郡殉難者の碑』",
+   "lat": 33.2298689,
+   "lng": 132.5656948,
+   "address": "愛媛県宇和島市和霊町",
+   "access": "宇和島駅から北へ約460m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04976/"
+  },
+  {
    "name": "『明治三十七八年戦役紀年碑』",
    "lat": 35.750694,
    "lng": 139.738656,
@@ -29377,6 +30709,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03801/"
+  },
+  {
+   "name": "『明治憲法起草遺跡記念碑』",
+   "lat": 35.3235356,
+   "lng": 139.6477638,
+   "address": "神奈川県横須賀市夏島町",
+   "access": "野島公園駅から直線で約1.7km（最寄りのバス停：夏島 約270m）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04330/"
   },
   {
    "name": "『明治橋』",
@@ -29701,6 +31045,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02454/"
+  },
+  {
+   "name": "『時観堂跡』",
+   "lat": 33.2778721,
+   "lng": 132.5406672,
+   "address": "愛媛県宇和島市吉田町東小路１３７",
+   "access": "伊予吉田駅から北西へ約610m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04905/"
   },
   {
    "name": "『時雨桜の碑』",
@@ -31875,6 +33231,30 @@
    "url": "https://www.memorial-object.jp/04138/"
   },
   {
+   "name": "『植樹の碑』",
+   "lat": 35.2491458,
+   "lng": 139.6244287,
+   "address": "神奈川県横須賀市芦名３丁目",
+   "access": "衣笠駅から直線で約3.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04331/"
+  },
+  {
+   "name": "『植樹記念碑』",
+   "lat": 33.2262391,
+   "lng": 132.5590831,
+   "address": "愛媛県宇和島市朝日町４丁目３",
+   "access": "宇和島駅から西へ約780m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04906/"
+  },
+  {
    "name": "『検査業務開始の地』",
    "lat": 35.6649604,
    "lng": 139.7635687,
@@ -32271,6 +33651,18 @@
    "url": "https://www.memorial-object.jp/04260/"
   },
   {
+   "name": "『横須賀風物百選　御所ケ崎』",
+   "lat": 35.264889,
+   "lng": 139.7309205,
+   "address": "神奈川県横須賀市走水２丁目",
+   "access": "浦賀駅から直線で約2.1km（最寄りのバス停：走水上町 約140m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04332/"
+  },
+  {
    "name": "『樹木石』",
    "lat": 35.6682449,
    "lng": 139.7362945,
@@ -32341,6 +33733,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01229/"
+  },
+  {
+   "name": "『檜垣俊幸翁』",
+   "lat": 34.0643736,
+   "lng": 133.00808,
+   "address": "愛媛県今治市通町３丁目",
+   "access": "今治駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05016/"
   },
   {
    "name": "『櫻井の訣別』",
@@ -32449,6 +33853,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02154/"
+  },
+  {
+   "name": "『正岡子規 句碑』",
+   "lat": 33.8450673,
+   "lng": 132.7726139,
+   "address": "愛媛県松山市大街道３丁目",
+   "access": "道後温泉駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04997/"
+  },
+  {
+   "name": "『正岡子規像』",
+   "lat": 33.8506795,
+   "lng": 132.7857455,
+   "address": "愛媛県松山市道後湯之町４",
+   "access": "道後温泉駅から北東へ約70m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04888/"
   },
   {
    "name": "『正岡子規句碑』",
@@ -32811,6 +34239,18 @@
    "url": "https://www.memorial-object.jp/01795/"
   },
   {
+   "name": "『殉職船員追悼式の記』",
+   "lat": 35.2544229,
+   "lng": 139.7407729,
+   "address": "神奈川県横須賀市鴨居４丁目",
+   "access": "浦賀駅から直線で約2.4km（最寄りのバス停：観音崎自然博物館 約300m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04333/"
+  },
+  {
    "name": "『殉難の碑』",
    "lat": 34.2628404,
    "lng": 133.5705292,
@@ -33088,6 +34528,18 @@
   },
   {
    "name": "『水子地蔵』",
+   "lat": 33.4763289,
+   "lng": 132.5018361,
+   "address": "愛媛県大洲市平野町野田６８７",
+   "access": "伊予平野駅から直線で約2.6km（最寄りのバス停：夜昼パークタウン前 約430m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04945/"
+  },
+  {
+   "name": "『水子地蔵』",
    "lat": 35.7521301,
    "lng": 139.7302674,
    "address": "東京都北区滝野川３丁目８８",
@@ -33157,6 +34609,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02908/"
+  },
+  {
+   "name": "『水害復興記念碑』",
+   "lat": 33.800714,
+   "lng": 132.753922,
+   "address": "愛媛県伊予郡松前町大字中川原４９９",
+   "access": "市坪駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04921/"
   },
   {
    "name": "『水戸の納豆記念碑』",
@@ -33711,6 +35175,18 @@
    "url": "https://www.memorial-object.jp/02763/"
   },
   {
+   "name": "『汽笛吹けば　霧笛答ふる　別れかな』",
+   "lat": 35.2562263,
+   "lng": 139.7452784,
+   "address": "神奈川県横須賀市鴨居４丁目",
+   "access": "浦賀駅から直線で約2.8km（最寄りのバス停：観音崎 約410m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04334/"
+  },
+  {
    "name": "『沖ノ鳥島サンゴ礁岩塊』",
    "lat": 35.7089338,
    "lng": 139.7609559,
@@ -33829,6 +35305,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02010/"
+  },
+  {
+   "name": "『油壺湾』",
+   "lat": 35.1595355,
+   "lng": 139.6131138,
+   "address": "神奈川県三浦市三崎町小網代",
+   "access": "三崎口駅から直線で約2.7km（最寄りのバス停：油壺 約370m）",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04363/"
   },
   {
    "name": "『油面地蔵尊』",
@@ -33998,6 +35486,54 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01196/"
+  },
+  {
+   "name": "『注連柱』",
+   "lat": 33.2917639,
+   "lng": 132.6082716,
+   "address": "愛媛県宇和島市三間町宮野下",
+   "access": "伊予宮野下駅から北東へ約400m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04979/"
+  },
+  {
+   "name": "『注連柱』",
+   "lat": 33.2295617,
+   "lng": 132.5653937,
+   "address": "愛媛県宇和島市和霊町",
+   "access": "宇和島駅から北西へ約440m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04978/"
+  },
+  {
+   "name": "『注連柱』",
+   "lat": 33.2295575,
+   "lng": 132.5659649,
+   "address": "愛媛県宇和島市和霊町",
+   "access": "宇和島駅から北へ約410m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04977/"
+  },
+  {
+   "name": "『注連柱』",
+   "lat": 33.3972915,
+   "lng": 132.4719079,
+   "address": "愛媛県西予市宇和町岩木２５８４",
+   "access": "伊予石城駅から北へ約660m",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04915/"
   },
   {
    "name": "『注連柱』",
@@ -34301,6 +35837,18 @@
   },
   {
    "name": "『浅間大神』",
+   "lat": 35.2683862,
+   "lng": 139.6609753,
+   "address": "神奈川県横須賀市不入斗町３丁目",
+   "access": "衣笠駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04335/"
+  },
+  {
+   "name": "『浅間大神』",
    "lat": 35.5242711,
    "lng": 139.6355906,
    "address": "神奈川県横浜市港北区師岡町",
@@ -34360,6 +35908,30 @@
    "url": "https://www.memorial-object.jp/03003/"
   },
   {
+   "name": "『浦島千代之碑』",
+   "lat": 35.1988948,
+   "lng": 139.6046682,
+   "address": "神奈川県横須賀市長井６丁目",
+   "access": "三崎口駅から直線で約3.5km（最寄りのバス停：荒崎 約150m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04336/"
+  },
+  {
+   "name": "『浦賀港引揚記念の碑』",
+   "lat": 35.2387011,
+   "lng": 139.7215247,
+   "address": "神奈川県横須賀市西浦賀４丁目",
+   "access": "浦賀駅から約1.5km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04337/"
+  },
+  {
    "name": "『浩宮御誕生記念つつじ植栽』",
    "lat": 35.7130716,
    "lng": 139.7731791,
@@ -34382,6 +35954,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00873/"
+  },
+  {
+   "name": "『海への祈り』",
+   "lat": 35.1352774,
+   "lng": 139.6115611,
+   "address": "神奈川県三浦市三崎町城ヶ島",
+   "access": "三崎口駅から直線で約5.1km（城ヶ島にあり、島内に鉄道はありません。船などでの移動が必要です）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04364/"
   },
   {
    "name": "『海底震度計模型』",
@@ -34936,6 +36520,18 @@
    "url": "https://www.memorial-object.jp/03110/"
   },
   {
+   "name": "『湯神社』",
+   "lat": 33.8506864,
+   "lng": 132.7868561,
+   "address": "愛媛県松山市道後湯之町１",
+   "access": "道後温泉駅から東へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04889/"
+  },
+  {
    "name": "『満願地蔵尊』",
    "lat": 35.4666269,
    "lng": 139.5892274,
@@ -34994,6 +36590,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03857/"
+  },
+  {
+   "name": "『溜池改修記念碑』",
+   "lat": 33.3966212,
+   "lng": 132.4719697,
+   "address": "愛媛県西予市宇和町岩木１５５０",
+   "access": "伊予石城駅から北へ約590m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04916/"
   },
   {
    "name": "『溶解した鉄柱』",
@@ -35116,6 +36724,18 @@
    "url": "https://www.memorial-object.jp/01402/"
   },
   {
+   "name": "『漱石 坊ちゃん之碑』",
+   "lat": 33.8519859,
+   "lng": 132.7867873,
+   "address": "愛媛県松山市道後湯月町",
+   "access": "道後温泉駅から北東へ約230m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04926/"
+  },
+  {
    "name": "『漱石名作の舞台』",
    "lat": 35.6826458,
    "lng": 139.7749477,
@@ -35236,6 +36856,18 @@
    "url": "https://www.memorial-object.jp/04432/"
   },
   {
+   "name": "『瀬戸内のジャンヌ・ダルク 鶴姫』",
+   "lat": 34.2480898,
+   "lng": 133.0035074,
+   "address": "愛媛県今治市大三島町宮浦",
+   "access": "波止浜駅から直線で約17.0km（大三島にあり、島内に鉄道はありません。井ノ口港・宮浦港・宗方港務所への船などでの移動が必要です）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05017/"
+  },
+  {
    "name": "『瀬戸原上橋』",
    "lat": 35.7214576,
    "lng": 139.604689,
@@ -35296,6 +36928,18 @@
    "url": "https://www.memorial-object.jp/02300/"
   },
   {
+   "name": "『火の神様』",
+   "lat": 33.2872177,
+   "lng": 132.6313893,
+   "address": "愛媛県宇和島市三間町土居垣内",
+   "access": "二名駅から南東へ約520m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04980/"
+  },
+  {
    "name": "『火の見やぐら跡』",
    "lat": 35.6275026,
    "lng": 139.6342883,
@@ -35318,6 +36962,42 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03076/"
+  },
+  {
+   "name": "『灯ろう』",
+   "lat": 35.2560862,
+   "lng": 139.7452836,
+   "address": "神奈川県横須賀市鴨居４丁目",
+   "access": "浦賀駅から直線で約2.8km（最寄りのバス停：観音崎 約410m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04338/"
+  },
+  {
+   "name": "『災害復旧碑』",
+   "lat": 33.641258,
+   "lng": 132.590122,
+   "address": "愛媛県伊予市双海町串",
+   "access": "下灘駅から直線で約1.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04993/"
+  },
+  {
+   "name": "『災害復旧碑』",
+   "lat": 33.650452,
+   "lng": 132.605835,
+   "address": "愛媛県伊予市双海町大久保",
+   "access": "下灘駅から直線で約1.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04992/"
   },
   {
    "name": "『災除地蔵尊』",
@@ -35366,6 +37046,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02303/"
+  },
+  {
+   "name": "『烏帽子巖之跡碑』",
+   "lat": 35.3178652,
+   "lng": 139.6439556,
+   "address": "神奈川県横須賀市夏島町",
+   "access": "追浜駅から直線で約1.7km（最寄りのバス停：物流センター 約70m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04339/"
   },
   {
    "name": "『烏森の地蔵』",
@@ -35500,6 +37192,30 @@
    "url": "https://www.memorial-object.jp/00189/"
   },
   {
+   "name": "『燈台へ行く道』",
+   "lat": 35.2568776,
+   "lng": 139.7449498,
+   "address": "神奈川県横須賀市鴨居４丁目",
+   "access": "浦賀駅から直線で約2.8km（最寄りのバス停：観音崎 約350m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04340/"
+  },
+  {
+   "name": "『燈台創設八十年　記念碑』",
+   "lat": 35.1350602,
+   "lng": 139.6110934,
+   "address": "神奈川県三浦市三崎町城ヶ島",
+   "access": "三崎口駅から直線で約5.1km（城ヶ島にあり、島内に鉄道はありません。船などでの移動が必要です）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04365/"
+  },
+  {
    "name": "『燈籠台石』",
    "lat": 35.5717156,
    "lng": 139.726226,
@@ -35618,6 +37334,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03943/"
+  },
+  {
+   "name": "『牛頭観音』",
+   "lat": 35.141157,
+   "lng": 139.6280678,
+   "address": "神奈川県三浦市晴海町",
+   "access": "三崎口駅から直線で約4.1km（最寄りのバス停：台向ヶ崎（すぐ近く））",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04366/"
   },
   {
    "name": "『牡丹橋親柱モニュメント』",
@@ -36065,6 +37793,30 @@
   },
   {
    "name": "『猿田彦大神』",
+   "lat": 35.1502823,
+   "lng": 139.6715177,
+   "address": "神奈川県三浦市南下浦町松輪",
+   "access": "三浦海岸駅から直線で約4.5km（最寄りのバス停：松輪 約310m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04368/"
+  },
+  {
+   "name": "『猿田彦大神』",
+   "lat": 35.1493135,
+   "lng": 139.6761349,
+   "address": "神奈川県三浦市南下浦町松輪",
+   "access": "三浦海岸駅から直線で約4.8km（最寄りのバス停：剱崎 約630m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04367/"
+  },
+  {
+   "name": "『猿田彦大神』",
    "lat": 35.4642695,
    "lng": 139.5603847,
    "address": "神奈川県横浜市旭区市沢町１１６",
@@ -36134,6 +37886,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02063/"
+  },
+  {
+   "name": "『猿飛佐助像』",
+   "lat": 34.0643967,
+   "lng": 132.9946213,
+   "address": "愛媛県今治市北宝来町１丁目１",
+   "access": "今治駅から東へ約90m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04892/"
   },
   {
    "name": "『獅子山』",
@@ -36940,6 +38704,18 @@
    "url": "https://www.memorial-object.jp/00705/"
   },
   {
+   "name": "『當社石鳥居寄附人名表』",
+   "lat": 33.2295402,
+   "lng": 132.5659506,
+   "address": "愛媛県宇和島市和霊町",
+   "access": "宇和島駅から北へ約410m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04981/"
+  },
+  {
    "name": "『病理解剖記念碑「学びの台」』",
    "lat": 35.3432883,
    "lng": 139.6518236,
@@ -36988,6 +38764,18 @@
    "url": "https://www.memorial-object.jp/02511/"
   },
   {
+   "name": "『登山四拾度』",
+   "lat": 35.2157179,
+   "lng": 139.66859,
+   "address": "神奈川県横須賀市長沢５丁目",
+   "access": "京急長沢駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04341/"
+  },
+  {
    "name": "『登戸の渡し』",
    "lat": 35.6218363,
    "lng": 139.5711873,
@@ -37010,6 +38798,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00387/"
+  },
+  {
+   "name": "『登録有形文化財　走水水源地』",
+   "lat": 35.2623601,
+   "lng": 139.7226895,
+   "address": "神奈川県横須賀市走水１丁目",
+   "access": "浦賀駅から約1.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04342/"
   },
   {
    "name": "『登録有形文化財』",
@@ -37070,6 +38870,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00758/"
+  },
+  {
+   "name": "『白秋碑』",
+   "lat": 35.1366736,
+   "lng": 139.6217916,
+   "address": "神奈川県三浦市三崎町城ヶ島",
+   "access": "三崎口駅から直線で約4.7km（城ヶ島にあり、島内に鉄道はありません。船などでの移動が必要です）",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04369/"
   },
   {
    "name": "『白頭やま竜神』",
@@ -37372,6 +39184,18 @@
    "url": "https://www.memorial-object.jp/01323/"
   },
   {
+   "name": "『皇后陛下行啓御坐所跡』",
+   "lat": 35.2562019,
+   "lng": 139.7453374,
+   "address": "神奈川県横須賀市鴨居４丁目",
+   "access": "浦賀駅から直線で約2.8km（最寄りのバス停：観音崎 約410m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04343/"
+  },
+  {
    "name": "『皇后陛下行啓記念碑』",
    "lat": 35.7085505,
    "lng": 139.7419075,
@@ -37660,6 +39484,18 @@
    "url": "https://www.memorial-object.jp/01409/"
   },
   {
+   "name": "『県営圃場整備事業記念碑』",
+   "lat": 33.2906384,
+   "lng": 132.6077797,
+   "address": "愛媛県宇和島市三間町宮野下８３５",
+   "access": "伊予宮野下駅から北東へ約270m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04907/"
+  },
+  {
    "name": "『真友乃碑』",
    "lat": 35.7120062,
    "lng": 139.7713304,
@@ -37826,6 +39662,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00131_1.png",
    "url": "https://www.memorial-object.jp/00131/"
+  },
+  {
+   "name": "『石丸壇改修記念碑』",
+   "lat": 34.0429581,
+   "lng": 133.0178141,
+   "address": "愛媛県今治市上徳１丁目７",
+   "access": "伊予富田駅から約1.1km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04932/"
   },
   {
    "name": "『石井戸橋』",
@@ -38465,6 +40313,18 @@
    "url": "https://www.memorial-object.jp/02315/"
   },
   {
+   "name": "『砂原鶴松氏顕彰碑』",
+   "lat": 34.0360295,
+   "lng": 133.0078336,
+   "address": "愛媛県今治市上徳６７３",
+   "access": "伊予富田駅から西へ約130m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04893/"
+  },
+  {
    "name": "『砂村波除地蔵由来碑』",
    "lat": 35.673913,
    "lng": 139.825392,
@@ -38559,6 +40419,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02166/"
+  },
+  {
+   "name": "『磨崖仏』",
+   "lat": 35.3068105,
+   "lng": 139.6157023,
+   "address": "神奈川県横須賀市湘南鷹取３丁目",
+   "access": "京急田浦駅から約1.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04344/"
   },
   {
    "name": "『礎』",
@@ -39089,6 +40961,18 @@
    "url": "https://www.memorial-object.jp/02018/"
   },
   {
+   "name": "『神馬像』",
+   "lat": 33.2295394,
+   "lng": 132.5652053,
+   "address": "愛媛県宇和島市和霊町",
+   "access": "宇和島駅から北西へ約440m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04982/"
+  },
+  {
    "name": "『福助 お福』",
    "lat": 35.7179698,
    "lng": 139.8030948,
@@ -39353,6 +41237,18 @@
    "url": "https://www.memorial-object.jp/02167/"
   },
   {
+   "name": "『秋谷の立石』",
+   "lat": 35.2404057,
+   "lng": 139.5981704,
+   "address": "神奈川県横須賀市秋谷３丁目",
+   "access": "衣笠駅から直線で約6.0km（最寄りのバス停：立石 約120m）",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04345/"
+  },
+  {
    "name": "『程ヶ谷宿江戸方見附跡』",
    "lat": 35.4564357,
    "lng": 139.6047541,
@@ -39605,6 +41501,18 @@
    "url": "https://www.memorial-object.jp/02320/"
   },
   {
+   "name": "『窮無烈光』",
+   "lat": 33.5094066,
+   "lng": 132.541731,
+   "address": "愛媛県大洲市大洲８９８",
+   "access": "伊予大洲駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04946/"
+  },
+  {
    "name": "『立ち上がる波』",
    "lat": 35.6539548,
    "lng": 139.7967401,
@@ -39627,6 +41535,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03115/"
+  },
+  {
+   "name": "『立岩川洪水碑』",
+   "lat": 33.973626,
+   "lng": 132.815299,
+   "address": "愛媛県松山市才之原",
+   "access": "伊予北条駅から直線で約3.7km（最寄りのバス停：記念碑前 約140m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04957/"
   },
   {
    "name": "『立川基地中神引込モニュメント』",
@@ -41226,6 +43146,18 @@
    "url": "https://www.memorial-object.jp/01329/"
   },
   {
+   "name": "『米田双葉子句碑』",
+   "lat": 33.2293904,
+   "lng": 132.5652821,
+   "address": "愛媛県宇和島市和霊町",
+   "access": "宇和島駅から北西へ約420m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04983/"
+  },
+  {
    "name": "『粕屋延命地蔵尊』",
    "lat": 35.6627154,
    "lng": 139.6070678,
@@ -41358,6 +43290,18 @@
    "url": "https://www.memorial-object.jp/01330/"
   },
   {
+   "name": "『紀元二千六百年記念』",
+   "lat": 33.5095109,
+   "lng": 132.5418331,
+   "address": "愛媛県大洲市大洲８９８",
+   "access": "伊予大洲駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04947/"
+  },
+  {
    "name": "『紀元二千六百年記念植樹之碑』",
    "lat": 35.7151354,
    "lng": 139.6662909,
@@ -41452,6 +43396,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03462/"
+  },
+  {
+   "name": "『細川一博士生誕地の碑』",
+   "lat": 33.3756732,
+   "lng": 132.427209,
+   "address": "愛媛県西予市三瓶町津布理２０３",
+   "access": "伊予石城駅から直線で約4.6km（最寄りのバス停：公会堂前 約140m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04952/"
   },
   {
    "name": "『細川和俊君の足跡』",
@@ -42220,6 +44176,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01048/"
+  },
+  {
+   "name": "『至誠の碑』",
+   "lat": 33.3973456,
+   "lng": 132.471986,
+   "address": "愛媛県西予市宇和町岩木２５８４",
+   "access": "伊予石城駅から北へ約670m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04917/"
   },
   {
    "name": "『至誠勤倹』",
@@ -43302,6 +45270,18 @@
    "url": "https://www.memorial-object.jp/04420/"
   },
   {
+   "name": "『薬師如来石像』",
+   "lat": 34.0683028,
+   "lng": 132.9956134,
+   "address": "愛媛県今治市別宮町３丁目１",
+   "access": "今治駅から北へ約490m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04894/"
+  },
+  {
    "name": "『薬王菩薩安置』",
    "lat": 35.7214053,
    "lng": 139.7176094,
@@ -43312,6 +45292,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02531/"
+  },
+  {
+   "name": "『藤堂高虎像』",
+   "lat": 34.0639154,
+   "lng": 133.0070761,
+   "address": "愛媛県今治市通町３丁目１",
+   "access": "今治駅から約1.2km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04933/"
   },
   {
    "name": "『藤子・F・不二雄とそのキャラクターたち』",
@@ -43552,6 +45544,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01935/"
+  },
+  {
+   "name": "『行幸啓お成りの碑』",
+   "lat": 35.2545187,
+   "lng": 139.7409298,
+   "address": "神奈川県横須賀市鴨居４丁目",
+   "access": "浦賀駅から直線で約2.4km（最寄りのバス停：観音崎自然博物館 約310m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04346/"
   },
   {
    "name": "『行幸啓記念碑』",
@@ -44428,6 +46432,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00670/"
+  },
+  {
+   "name": "『観音崎燈台所轄地』",
+   "lat": 35.2568146,
+   "lng": 139.7447889,
+   "address": "神奈川県横須賀市鴨居４丁目",
+   "access": "浦賀駅から直線で約2.8km（最寄りのバス停：観音崎 約340m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04347/"
   },
   {
    "name": "『観音橋』",
@@ -46626,6 +48642,18 @@
    "url": "https://www.memorial-object.jp/02329/"
   },
   {
+   "name": "『豫州溺死者招魂碑』",
+   "lat": 33.859125,
+   "lng": 132.718774,
+   "address": "愛媛県松山市元町",
+   "access": "三津駅から南へ約530m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04927/"
+  },
+  {
    "name": "『貝塚発掘125周年記念』",
    "lat": 35.5910309,
    "lng": 139.7286071,
@@ -47202,6 +49230,18 @@
    "url": "https://www.memorial-object.jp/02413/"
   },
   {
+   "name": "『軍馬犬鳩家畜慰霊塔』",
+   "lat": 33.8386039,
+   "lng": 132.73919,
+   "address": "愛媛県松山市北斎院町",
+   "access": "松山駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04998/"
+  },
+  {
    "name": "『軍馬盛敬號之碑』",
    "lat": 35.6821026,
    "lng": 139.8149935,
@@ -47464,6 +49504,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03408/"
+  },
+  {
+   "name": "『道中安全見守大師』",
+   "lat": 33.3510424,
+   "lng": 132.5339039,
+   "address": "愛媛県西予市宇和町皆田１",
+   "access": "下宇和駅から北東へ約300m",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04918/"
   },
   {
    "name": "『道供養塔』",
@@ -48258,6 +50310,18 @@
    "url": "https://www.memorial-object.jp/01413/"
   },
   {
+   "name": "『重要文化財　大洲城苧綿櫓』",
+   "lat": 33.5085593,
+   "lng": 132.5425263,
+   "address": "愛媛県大洲市大洲９",
+   "access": "伊予大洲駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04948/"
+  },
+  {
    "name": "『野口英世銅像』",
    "lat": 35.7162775,
    "lng": 139.7755558,
@@ -48388,6 +50452,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00366/"
+  },
+  {
+   "name": "『金子十郎家忠陣屋跡』",
+   "lat": 35.2376918,
+   "lng": 139.6596555,
+   "address": "神奈川県横須賀市衣笠町",
+   "access": "衣笠駅から直線で約2.2km（最寄りのバス停：金子 約50m）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04348/"
   },
   {
    "name": "『金川志ん馬之碑』",
@@ -49110,6 +51186,18 @@
    "url": "https://www.memorial-object.jp/00958/"
   },
   {
+   "name": "『長門丸跡』",
+   "lat": 33.2207587,
+   "lng": 132.5634948,
+   "address": "愛媛県宇和島市丸之内１丁目",
+   "access": "宇和島駅から南西へ約700m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04984/"
+  },
+  {
    "name": "『門前橋広場』",
    "lat": 35.4760447,
    "lng": 139.6055675,
@@ -49120,6 +51208,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03613/"
+  },
+  {
+   "name": "『閉校記念碑 西伯方中学校』",
+   "lat": 34.2292567,
+   "lng": 133.0903054,
+   "address": "愛媛県今治市伯方町北浦",
+   "access": "波止浜駅から直線で約18.4km（伯方島にあり、島内に鉄道はありません。尾浦港・木浦港への船などでの移動が必要です）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05018/"
   },
   {
    "name": "『開かれた宇宙』",
@@ -49218,6 +51318,18 @@
    "url": "https://www.memorial-object.jp/02028/"
   },
   {
+   "name": "『関係Ⅲ-ふたつの宇宙』",
+   "lat": 33.2857366,
+   "lng": 132.5958187,
+   "address": "愛媛県宇和島市三間町務田１８０",
+   "access": "務田駅から北西へ約520m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04908/"
+  },
+  {
    "name": "『関口専司翁之碑』",
    "lat": 36.415909849894824,
    "lng": 139.03253913778548,
@@ -49264,6 +51376,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00435/"
+  },
+  {
+   "name": "『関東の富士見百景』",
+   "lat": 35.1960538,
+   "lng": 139.6118029,
+   "address": "神奈川県横須賀市長井４丁目",
+   "access": "三崎口駅から直線で約2.8km（最寄りのバス停：ソレイユの丘 約40m）",
+   "categories": [
+    "田園・農地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04349/"
   },
   {
    "name": "『関東大震災の時、韓国朝鮮人虐殺追悼碑』",
@@ -49399,6 +51523,78 @@
   },
   {
    "name": "『阿』",
+   "lat": 33.2284707,
+   "lng": 132.5663374,
+   "address": "愛媛県宇和島市和霊公園",
+   "access": "宇和島駅から北へ約290m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04988/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 33.2289403,
+   "lng": 132.5659832,
+   "address": "愛媛県宇和島市和霊公園",
+   "access": "宇和島駅から北西へ約350m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04987/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 33.2295515,
+   "lng": 132.5658652,
+   "address": "愛媛県宇和島市和霊町",
+   "access": "宇和島駅から北へ約420m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04986/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 33.2297394,
+   "lng": 132.5653432,
+   "address": "愛媛県宇和島市和霊町",
+   "access": "宇和島駅から北西へ約460m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04985/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 33.3972894,
+   "lng": 132.4719191,
+   "address": "愛媛県西予市宇和町岩木２５８４",
+   "access": "伊予石城駅から北へ約660m",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04919/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 33.2961563,
+   "lng": 132.5383817,
+   "address": "愛媛県宇和島市吉田町立間２",
+   "access": "立間駅から南西へ約120m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04909/"
+  },
+  {
+   "name": "『阿』",
    "lat": 34.1480194,
    "lng": 133.7549325,
    "address": "香川県三豊市高瀬町羽方",
@@ -49480,6 +51676,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02478/"
+  },
+  {
+   "name": "『阿形』",
+   "lat": 33.2918416,
+   "lng": 132.6083036,
+   "address": "愛媛県宇和島市三間町宮野下",
+   "access": "伊予宮野下駅から北東へ約410m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04989/"
+  },
+  {
+   "name": "『阿形』",
+   "lat": 33.2909436,
+   "lng": 132.6083116,
+   "address": "愛媛県宇和島市三間町宮野下８３５",
+   "access": "伊予宮野下駅から北東へ約330m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04910/"
   },
   {
    "name": "『阿形』",
@@ -49590,6 +51810,18 @@
    "url": "https://www.memorial-object.jp/01055/"
   },
   {
+   "name": "『除一切悪趣菩薩』",
+   "lat": 33.4762587,
+   "lng": 132.5016806,
+   "address": "愛媛県大洲市平野町野田６８７",
+   "access": "伊予平野駅から直線で約2.6km（最寄りのバス停：夜昼パークタウン前 約450m）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04949/"
+  },
+  {
    "name": "『陰陽道先師留魂碑』",
    "lat": 35.721482,
    "lng": 139.726337,
@@ -49612,6 +51844,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01419/"
+  },
+  {
+   "name": "『陸奥守道寸義同公之墓』",
+   "lat": 35.1628405,
+   "lng": 139.6132138,
+   "address": "神奈川県三浦市三崎町小網代",
+   "access": "三崎口駅から直線で約2.5km（最寄りのバス停：油壺 約420m）",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04370/"
   },
   {
    "name": "『陸奥州光宅跡』",
@@ -49962,6 +52206,30 @@
    "url": "https://www.memorial-object.jp/02989/"
   },
   {
+   "name": "『霧いかに深くとも嵐強くとも』",
+   "lat": 35.2562268,
+   "lng": 139.7453079,
+   "address": "神奈川県横須賀市鴨居４丁目",
+   "access": "浦賀駅から直線で約2.8km（最寄りのバス停：観音崎 約410m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04350/"
+  },
+  {
+   "name": "『霧信号吹鳴器』",
+   "lat": 35.2560831,
+   "lng": 139.7452542,
+   "address": "神奈川県横須賀市鴨居４丁目",
+   "access": "浦賀駅から直線で約2.8km（最寄りのバス停：観音崎 約410m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04351/"
+  },
+  {
    "name": "『露国機械水雷』",
    "lat": 35.2615546,
    "lng": 139.7308629,
@@ -50095,6 +52363,18 @@
   },
   {
    "name": "『青面金剛』",
+   "lat": 35.141137,
+   "lng": 139.6282891,
+   "address": "神奈川県三浦市向ヶ崎町",
+   "access": "三崎口駅から直線で約4.1km（最寄りのバス停：台向ヶ崎（すぐ近く））",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04371/"
+  },
+  {
+   "name": "『青面金剛』",
    "lat": 35.4851749,
    "lng": 139.5571493,
    "address": "神奈川県横浜市保土ケ谷区新井町４５",
@@ -50212,6 +52492,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00928/"
+  },
+  {
+   "name": "『須沢追悼碑』",
+   "lat": 33.587006,
+   "lng": 132.462094,
+   "address": "愛媛県大洲市長浜町須沢",
+   "access": "伊予出石駅から直線で約3.6km（最寄りのバス停：須沢 約530m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04991/"
   },
   {
    "name": "『頌徳碑』",
@@ -52374,6 +54666,30 @@
    "url": "https://www.memorial-object.jp/02692/"
   },
   {
+   "name": "『鳥獣慰霊塔』",
+   "lat": 33.2285,
+   "lng": 132.5663446,
+   "address": "愛媛県宇和島市和霊公園",
+   "access": "宇和島駅から北へ約290m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04990/"
+  },
+  {
+   "name": "『鳩よよみがえれ』",
+   "lat": 35.2074556,
+   "lng": 139.6711394,
+   "address": "神奈川県横須賀市長沢１丁目",
+   "access": "京急長沢駅から北西へ約360m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04313/"
+  },
+  {
    "name": "『鳩ポッポの歌碑』",
    "lat": 35.714322,
    "lng": 139.7964771,
@@ -52672,6 +54988,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02349/"
+  },
+  {
+   "name": "『點燈明治己巳年正月元旦』",
+   "lat": 35.2562175,
+   "lng": 139.7452566,
+   "address": "神奈川県横須賀市鴨居４丁目",
+   "access": "浦賀駅から直線で約2.8km（最寄りのバス停：観音崎 約400m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04352/"
   },
   {
    "name": "『鼻欠地蔵』",
@@ -53632,6 +55960,30 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00145_1.png",
    "url": "https://www.memorial-object.jp/00145/"
+  },
+  {
+   "name": "今城武夫『連歌　任興千句』",
+   "lat": 33.3002078,
+   "lng": 132.5975112,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から約1.5km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04939/"
+  },
+  {
+   "name": "今城武夫『金山城主今城兵庫頭能信公　頌徳碑』",
+   "lat": 33.3002147,
+   "lng": 132.5975041,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から約1.5km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/04940/"
   },
   {
    "name": "伊原通夫『風媒銀乱』",
