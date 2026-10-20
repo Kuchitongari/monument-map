@@ -8,8 +8,8 @@
   "photos": 0,
   "names": []
  },
- "generated": "2026-10-19",
- "count": 5018,
+ "generated": "2026-10-20",
+ "count": 5212,
  "items": [
   {
    "name": "ASAO TOKOLO『TOWER OF CONNECT』",
@@ -1702,6 +1702,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01427/"
+  },
+  {
+   "name": "『Sta』",
+   "lat": 33.4088678,
+   "lng": 132.6744083,
+   "address": "愛媛県西予市野村町中通川",
+   "access": "二名駅から約13.7km",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05224/"
   },
   {
    "name": "『Suicaのペンギン』",
@@ -4248,6 +4260,18 @@
    "url": "https://www.memorial-object.jp/03365/"
   },
   {
+   "name": "『まろと様』",
+   "lat": 33.4378932,
+   "lng": 132.7921471,
+   "address": "愛媛県西予市城川町野井川",
+   "access": "五十崎駅から直線で約18.2km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05225/"
+  },
+  {
    "name": "『みいけはし』",
    "lat": 35.6513344,
    "lng": 139.6780344,
@@ -5856,6 +5880,18 @@
    "url": "https://www.memorial-object.jp/01439/"
   },
   {
+   "name": "『ダンパ』",
+   "lat": 33.4582777,
+   "lng": 132.4170814,
+   "address": "愛媛県八幡浜市沖新田",
+   "access": "八幡浜駅から直線で約1.8km（最寄りのバス停：八幡浜港 約110m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05179/"
+  },
+  {
    "name": "『チャールズ・ウェスト像』",
    "lat": 35.7138551,
    "lng": 139.7605775,
@@ -6515,6 +6551,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03667/"
+  },
+  {
+   "name": "『ブンゴノ権現様』",
+   "lat": 33.4377114,
+   "lng": 132.8078464,
+   "address": "愛媛県西予市城川町野井川",
+   "access": "五十崎駅から直線で約19.4km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05226/"
   },
   {
    "name": "『プラブータ・ラトナ(多宝)』",
@@ -7766,6 +7814,18 @@
    "url": "https://www.memorial-object.jp/02205/"
   },
   {
+   "name": "『三倍谷橋改修寄附芳名』",
+   "lat": 33.5228924,
+   "lng": 132.766142,
+   "address": "愛媛県大洲市河辺町川上",
+   "access": "内子駅から直線で約11.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05180/"
+  },
+  {
    "name": "『三匝堂(栄螺堂)』",
    "lat": 35.7796357,
    "lng": 139.7797216,
@@ -8042,6 +8102,30 @@
    "url": "https://www.memorial-object.jp/02208/"
   },
   {
+   "name": "『三界萬霊』",
+   "lat": 33.3797662,
+   "lng": 132.81717,
+   "address": "愛媛県西予市城川町川津南",
+   "access": "十川駅から直線で約16.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05228/"
+  },
+  {
+   "name": "『三界萬霊』",
+   "lat": 33.3794588,
+   "lng": 132.8171873,
+   "address": "愛媛県西予市城川町川津南",
+   "access": "十川駅から直線で約16.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05227/"
+  },
+  {
    "name": "『三界萬霊供養塔』",
    "lat": 35.571755,
    "lng": 139.4822517,
@@ -8076,6 +8160,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02612/"
+  },
+  {
+   "name": "『三界萬霊等』",
+   "lat": 33.3701894,
+   "lng": 132.7075812,
+   "address": "愛媛県西予市城川町魚成",
+   "access": "大内駅から直線で約11.0km（最寄りのバス停：改善センター魚成前 約720m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05229/"
   },
   {
    "name": "『三百五十年祭記念』",
@@ -8702,18 +8798,6 @@
    "url": "https://www.memorial-object.jp/04541/"
   },
   {
-   "name": "『不在の存在』",
-   "lat": 34.391411,
-   "lng": 134.052187,
-   "address": "香川県高松市女木町",
-   "access": "高松築港駅から直線で約4.5km（女木島にあり、島内に鉄道はありません。女木港への船などでの移動が必要です）",
-   "categories": [
-    "道路沿い"
-   ],
-   "image": "",
-   "url": "https://www.memorial-object.jp/04541/"
-  },
-  {
    "name": "『不忍池』",
    "lat": 35.7123024,
    "lng": 139.7718226,
@@ -8952,6 +9036,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02597/"
+  },
+  {
+   "name": "『中峰団地基盤整備記念碑』",
+   "lat": 33.3672694,
+   "lng": 132.7029455,
+   "address": "愛媛県西予市城川町魚成",
+   "access": "大内駅から直線で約10.5km（最寄りのバス停：神田橋 約200m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05230/"
   },
   {
    "name": "『中島先生頌徳碑』",
@@ -10646,6 +10742,198 @@
    "url": "https://www.memorial-object.jp/05040/"
   },
   {
+   "name": "『仏木寺三十三観音霊場26番』",
+   "lat": 33.3113822,
+   "lng": 132.5821626,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約160m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05041/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場27番』",
+   "lat": 33.3113833,
+   "lng": 132.582173,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約160m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05042/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場28番』",
+   "lat": 33.3113133,
+   "lng": 132.5822601,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約160m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05043/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場29番』",
+   "lat": 33.3112499,
+   "lng": 132.5822333,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約150m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05044/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場2番』",
+   "lat": 33.3110263,
+   "lng": 132.5813422,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約120m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05045/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場30番』",
+   "lat": 33.311167,
+   "lng": 132.5821133,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約140m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05046/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場31番』",
+   "lat": 33.3111233,
+   "lng": 132.582056,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約130m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05047/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場32番』",
+   "lat": 33.3112732,
+   "lng": 132.5819524,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約150m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05048/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場33番』",
+   "lat": 33.3114001,
+   "lng": 132.581839,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約160m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05049/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場3番』",
+   "lat": 33.3109479,
+   "lng": 132.581495,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約110m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05050/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場4番』",
+   "lat": 33.3108123,
+   "lng": 132.5816627,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約90m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05051/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場5番』",
+   "lat": 33.3107265,
+   "lng": 132.5818263,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約80m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05052/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場6番』",
+   "lat": 33.3106845,
+   "lng": 132.5819202,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約80m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05053/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場7番』",
+   "lat": 33.3106755,
+   "lng": 132.5819752,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約80m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05054/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場8番』",
+   "lat": 33.3106666,
+   "lng": 132.5820965,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約90m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05055/"
+  },
+  {
+   "name": "『仏木寺三十三観音霊場9番』",
+   "lat": 33.3107859,
+   "lng": 132.5820938,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約100m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05056/"
+  },
+  {
    "name": "『仏頂尊勝陀羅尼碑』",
    "lat": 35.7148365,
    "lng": 139.7960757,
@@ -11018,6 +11306,18 @@
    "url": "https://www.memorial-object.jp/03476/"
   },
   {
+   "name": "『作業道ムネダ線竣工記念』",
+   "lat": 33.5263912,
+   "lng": 132.7667693,
+   "address": "愛媛県大洲市河辺町川上",
+   "access": "内子駅から直線で約11.4km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05181/"
+  },
+  {
    "name": "『供養塔』",
    "lat": 35.1401943,
    "lng": 139.632525,
@@ -11148,6 +11448,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02224/"
+  },
+  {
+   "name": "『修行大師』",
+   "lat": 33.3246214,
+   "lng": 132.6549913,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.3km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05057/"
   },
   {
    "name": "『修行大師』",
@@ -11328,6 +11640,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03670/"
+  },
+  {
+   "name": "『元親清一頌徳碑』",
+   "lat": 33.4134464,
+   "lng": 132.718682,
+   "address": "愛媛県西予市野村町予子林",
+   "access": "大内駅から直線で約15.7km（最寄りのバス停：河成 約90m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05231/"
   },
   {
    "name": "『先天泉』",
@@ -11991,6 +12315,18 @@
   },
   {
    "name": "『六地蔵』",
+   "lat": 33.4763223,
+   "lng": 132.5014427,
+   "address": "愛媛県大洲市平野町野田",
+   "access": "伊予平野駅から直線で約2.6km（最寄りのバス停：夜昼パークタウン前 約460m）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05182/"
+  },
+  {
+   "name": "『六地蔵』",
    "lat": 35.1860146,
    "lng": 139.6193506,
    "address": "神奈川県三浦市初声町和田３３３２",
@@ -12120,6 +12456,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01713/"
+  },
+  {
+   "name": "『六地蔵建立寄附者御芳名』",
+   "lat": 33.3701079,
+   "lng": 132.7075885,
+   "address": "愛媛県西予市城川町魚成",
+   "access": "大内駅から直線で約11.0km（最寄りのバス停：神田橋 約720m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05232/"
   },
   {
    "name": "『六字名号碑』",
@@ -12602,6 +12950,18 @@
    "url": "https://www.memorial-object.jp/03141/"
   },
   {
+   "name": "『利休さん』",
+   "lat": 33.5403551,
+   "lng": 132.4827209,
+   "address": "愛媛県大洲市上須戒",
+   "access": "西大洲駅から直線で約5.4km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05183/"
+  },
+  {
    "name": "『利行碑』",
    "lat": 35.712316,
    "lng": 139.7716959,
@@ -12648,6 +13008,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01361/"
+  },
+  {
+   "name": "『創立千百十八年奉祝碑』",
+   "lat": 33.4407231,
+   "lng": 132.702351,
+   "address": "愛媛県大洲市肱川町予子林",
+   "access": "五十崎駅から直線で約12.4km（最寄りのバス停：客神社前 約40m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05184/"
   },
   {
    "name": "『創立者の像』",
@@ -13322,6 +13694,18 @@
    "url": "https://www.memorial-object.jp/02546/"
   },
   {
+   "name": "『区画整理記念碑』",
+   "lat": 33.4079176,
+   "lng": 132.7481048,
+   "address": "愛媛県西予市城川町嘉喜尾",
+   "access": "大内駅から直線で約16.6km（最寄りのバス停：岩本集会所下（すぐ近く））",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05233/"
+  },
+  {
    "name": "『区画管理完成記念之碑』",
    "lat": 35.6628961,
    "lng": 139.8580357,
@@ -13752,6 +14136,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04200/"
+  },
+  {
+   "name": "『南無六地蔵菩薩』",
+   "lat": 33.3701061,
+   "lng": 132.7075815,
+   "address": "愛媛県西予市城川町魚成",
+   "access": "大内駅から約11.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05234/"
   },
   {
    "name": "『南無妙法蓮華経』",
@@ -14751,6 +15147,138 @@
   },
   {
    "name": "『吽』",
+   "lat": 33.3705387,
+   "lng": 132.6854813,
+   "address": "愛媛県西予市城川町田穂",
+   "access": "大内駅から直線で約10.1km（最寄りのバス停：田穂 約90m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05235/"
+  },
+  {
+   "name": "『吽』",
+   "lat": 33.6368948,
+   "lng": 132.6684898,
+   "address": "愛媛県伊予市中山町中山",
+   "access": "伊予立川駅から直線で約4.0km（最寄りのバス停：永木小学校前 約60m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05219/"
+  },
+  {
+   "name": "『吽』",
+   "lat": 33.6371392,
+   "lng": 132.6680993,
+   "address": "愛媛県伊予市中山町中山",
+   "access": "伊予立川駅から直線で約4.1km（最寄りのバス停：三島神社裏 約100m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05218/"
+  },
+  {
+   "name": "『吽』",
+   "lat": 33.4334194,
+   "lng": 132.6620229,
+   "address": "愛媛県大洲市肱川町大谷",
+   "access": "五十崎駅から直線で約11.8km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05189/"
+  },
+  {
+   "name": "『吽』",
+   "lat": 33.4316457,
+   "lng": 132.6665921,
+   "address": "愛媛県大洲市肱川町大谷",
+   "access": "五十崎駅から直線で約12.1km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05188/"
+  },
+  {
+   "name": "『吽』",
+   "lat": 33.4406162,
+   "lng": 132.7024528,
+   "address": "愛媛県大洲市肱川町予子林",
+   "access": "五十崎駅から直線で約12.4km（最寄りのバス停：客神社前 約40m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05187/"
+  },
+  {
+   "name": "『吽』",
+   "lat": 33.5117183,
+   "lng": 132.7960748,
+   "address": "愛媛県大洲市河辺町北平",
+   "access": "内子駅から直線で約14.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05186/"
+  },
+  {
+   "name": "『吽』",
+   "lat": 33.526886,
+   "lng": 132.7667135,
+   "address": "愛媛県大洲市河辺町川上",
+   "access": "内子駅から直線で約11.4km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05185/"
+  },
+  {
+   "name": "『吽』",
+   "lat": 33.1425672,
+   "lng": 132.4794362,
+   "address": "愛媛県宇和島市津島町北灘",
+   "access": "宇和島駅から直線で約12.4km（最寄りのバス停：国永 約90m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05060/"
+  },
+  {
+   "name": "『吽』",
+   "lat": 33.295165,
+   "lng": 132.59868,
+   "address": "愛媛県宇和島市三間町戸雁",
+   "access": "伊予宮野下駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05059/"
+  },
+  {
+   "name": "『吽』",
+   "lat": 33.3148918,
+   "lng": 132.6077611,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から直線で約2.9km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05058/"
+  },
+  {
+   "name": "『吽』",
    "lat": 33.3972737,
    "lng": 132.471882,
    "address": "愛媛県西予市宇和町岩木２５８４",
@@ -15144,6 +15672,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02441/"
+  },
+  {
+   "name": "『唐獅子特別寄附者』",
+   "lat": 33.5268826,
+   "lng": 132.7667073,
+   "address": "愛媛県大洲市河辺町川上",
+   "access": "内子駅から直線で約11.4km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05190/"
   },
   {
    "name": "『唯心庭』",
@@ -17858,6 +18398,18 @@
    "url": "https://www.memorial-object.jp/02946/"
   },
   {
+   "name": "『大森松五郎碑』",
+   "lat": 33.5146342,
+   "lng": 132.7643922,
+   "address": "愛媛県大洲市河辺町川上",
+   "access": "内子駅から直線で約11.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05191/"
+  },
+  {
    "name": "『大森貝塚』",
    "lat": 35.5927539,
    "lng": 139.7304478,
@@ -18000,6 +18552,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03373/"
+  },
+  {
+   "name": "『大洲城下台所』",
+   "lat": 33.5087363,
+   "lng": 132.5413614,
+   "address": "愛媛県大洲市大洲",
+   "access": "伊予大洲駅から約1.1km",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05192/"
   },
   {
    "name": "『大漁地蔵』",
@@ -18300,6 +18864,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00651/"
+  },
+  {
+   "name": "『大黒天』",
+   "lat": 33.3102028,
+   "lng": 132.5818329,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.2km（最寄りのバス停：仏木寺 約30m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05061/"
   },
   {
    "name": "『大黒天』",
@@ -18780,6 +19356,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02386/"
+  },
+  {
+   "name": "『天神社総代永年記念』",
+   "lat": 33.5268824,
+   "lng": 132.7667457,
+   "address": "愛媛県大洲市河辺町川上",
+   "access": "内子駅から直線で約11.4km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05193/"
   },
   {
    "name": "『天龍像』",
@@ -20162,6 +20750,18 @@
    "url": "https://www.memorial-object.jp/00622/"
   },
   {
+   "name": "『家畜慰霊塔』",
+   "lat": 33.31056,
+   "lng": 132.581652,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約60m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05062/"
+  },
+  {
    "name": "『家社改修記念碑』",
    "lat": 35.7542226,
    "lng": 139.805526,
@@ -20592,6 +21192,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04398/"
+  },
+  {
+   "name": "『寿老尊』",
+   "lat": 33.3101907,
+   "lng": 132.5818482,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.2km（最寄りのバス停：仏木寺 約30m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05063/"
   },
   {
    "name": "『小仏関阯』",
@@ -21146,6 +21758,18 @@
    "url": "https://www.memorial-object.jp/04877/"
   },
   {
+   "name": "『山の神様』",
+   "lat": 33.3085181,
+   "lng": 132.6048386,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から直線で約2.2km（最寄りのバス停：運動公園 約720m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05064/"
+  },
+  {
    "name": "『山下亀三郎翁像』",
    "lat": 33.2777975,
    "lng": 132.540999,
@@ -21242,6 +21866,18 @@
    "url": "https://www.memorial-object.jp/02262/"
   },
   {
+   "name": "『山岡幸助翁功労碑』",
+   "lat": 33.5117709,
+   "lng": 132.7960073,
+   "address": "愛媛県大洲市河辺町北平",
+   "access": "内子駅から直線で約14.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05194/"
+  },
+  {
    "name": "『山岳信仰碑』",
    "lat": 35.3837565,
    "lng": 139.5365819,
@@ -21300,6 +21936,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04278/"
+  },
+  {
+   "name": "『山王神社屋根換』",
+   "lat": 33.516941,
+   "lng": 132.7614577,
+   "address": "愛媛県大洲市河辺町川上",
+   "access": "内子駅から直線で約11.2km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05195/"
   },
   {
    "name": "『山田顕義「風折烏帽子」・加藤ひな子の碑』",
@@ -22191,6 +22839,18 @@
   },
   {
    "name": "『布袋尊』",
+   "lat": 33.3101877,
+   "lng": 132.581852,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.2km（最寄りのバス停：仏木寺 約30m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05065/"
+  },
+  {
+   "name": "『布袋尊』",
    "lat": 35.7571789,
    "lng": 139.7994514,
    "address": "東京都足立区千住大川町１２",
@@ -22896,6 +23556,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01755/"
+  },
+  {
+   "name": "『平家様』",
+   "lat": 33.5451111,
+   "lng": 132.5084846,
+   "address": "愛媛県大洲市上須戒",
+   "access": "八多喜駅から直線で約3.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05196/"
   },
   {
    "name": "『平尾原経塚』",
@@ -24662,6 +25334,18 @@
    "url": "https://www.memorial-object.jp/05012/"
   },
   {
+   "name": "『建立の記』",
+   "lat": 33.4946429,
+   "lng": 132.770463,
+   "address": "愛媛県大洲市河辺町三嶋",
+   "access": "内子駅から直線で約13.0km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05197/"
+  },
+  {
    "name": "『建築記念碑』",
    "lat": 35.8051235,
    "lng": 139.2884767,
@@ -25730,6 +26414,18 @@
    "url": "https://www.memorial-object.jp/02631/"
   },
   {
+   "name": "『御鎮座千二百年奉祝碑』",
+   "lat": 33.4406977,
+   "lng": 132.7024503,
+   "address": "愛媛県大洲市肱川町予子林",
+   "access": "五十崎駅から直線で約12.4km（最寄りのバス停：客神社前 約50m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05198/"
+  },
+  {
    "name": "『御鎮座参百弐拾五年祭 記念之碑』",
    "lat": 35.7029524,
    "lng": 139.821268,
@@ -26571,6 +27267,18 @@
   },
   {
    "name": "『忠魂碑』",
+   "lat": 33.295181,
+   "lng": 132.5985904,
+   "address": "愛媛県宇和島市三間町戸雁",
+   "access": "伊予宮野下駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05066/"
+  },
+  {
+   "name": "『忠魂碑』",
    "lat": 34.1919528,
    "lng": 133.0587335,
    "address": "愛媛県今治市宮窪町余所国",
@@ -26942,6 +27650,18 @@
    "url": "https://www.memorial-object.jp/02796/"
   },
   {
+   "name": "『恵美須天』",
+   "lat": 33.3102058,
+   "lng": 132.5818291,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.2km（最寄りのバス停：仏木寺 約30m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05067/"
+  },
+  {
    "name": "『意識驛』",
    "lat": 35.7215952,
    "lng": 139.6747239,
@@ -27000,6 +27720,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01467/"
+  },
+  {
+   "name": "『愛宕様』",
+   "lat": 33.4564658,
+   "lng": 132.6181118,
+   "address": "愛媛県大洲市蔵川",
+   "access": "喜多山駅から直線で約8.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05199/"
   },
   {
    "name": "『愛宕社』",
@@ -28382,6 +29114,18 @@
    "url": "https://www.memorial-object.jp/03760/"
   },
   {
+   "name": "『故西村廣吉君頌徳記念碑』",
+   "lat": 33.5117552,
+   "lng": 132.7959977,
+   "address": "愛媛県大洲市河辺町北平",
+   "access": "内子駅から直線で約14.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05200/"
+  },
+  {
    "name": "『救世観世音』",
    "lat": 35.7215719,
    "lng": 139.7833895,
@@ -28392,6 +29136,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01772/"
+  },
+  {
+   "name": "『救世観音』",
+   "lat": 33.3104517,
+   "lng": 132.5816027,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約50m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05068/"
   },
   {
    "name": "『散る桜、残る桜も散る桜』",
@@ -29954,6 +30710,18 @@
    "url": "https://www.memorial-object.jp/03892/"
   },
   {
+   "name": "『日露戰後忠魂碑』",
+   "lat": 33.3105254,
+   "lng": 132.5816932,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約60m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05069/"
+  },
+  {
    "name": "『旦』",
    "lat": 35.5470239,
    "lng": 139.4383585,
@@ -30913,6 +31681,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02280/"
+  },
+  {
+   "name": "『昭和四年　御大典記念林造成寄付金』",
+   "lat": 33.5228915,
+   "lng": 132.7661216,
+   "address": "愛媛県大洲市河辺町川上",
+   "access": "内子駅から直線で約11.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05201/"
   },
   {
    "name": "『昭和大典記念 庭園改修』",
@@ -32607,6 +33387,18 @@
    "url": "https://www.memorial-object.jp/02086/"
   },
   {
+   "name": "『林道大迫線新設工事記念』",
+   "lat": 33.5162904,
+   "lng": 132.7625636,
+   "address": "愛媛県大洲市河辺町川上",
+   "access": "内子駅から直線で約11.4km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05202/"
+  },
+  {
    "name": "『林野庁殉職者慰霊碑』",
    "lat": 35.6294018,
    "lng": 139.2519544,
@@ -33145,6 +33937,42 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01624/"
+  },
+  {
+   "name": "『森の番人』",
+   "lat": 33.3077539,
+   "lng": 132.5970478,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から直線で約2.2km（最寄りのバス停：運動公園 約80m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05070/"
+  },
+  {
+   "name": "『森の魚　クエ』",
+   "lat": 33.3081302,
+   "lng": 132.5968145,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から直線で約2.3km（最寄りのバス停：運動公園 約40m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05071/"
+  },
+  {
+   "name": "『森の魚　ヘラブナ』",
+   "lat": 33.3082468,
+   "lng": 132.5972959,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から直線で約2.3km（最寄りのバス停：運動公園 約40m）",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05072/"
   },
   {
    "name": "『森山欽司先生胸像』",
@@ -34348,6 +35176,18 @@
   },
   {
    "name": "『毘沙門天』",
+   "lat": 33.3101997,
+   "lng": 132.5818367,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.2km（最寄りのバス停：仏木寺 約30m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05073/"
+  },
+  {
+   "name": "『毘沙門天』",
    "lat": 35.8007838,
    "lng": 139.2947719,
    "address": "東京都青梅市今寺１丁目５３０",
@@ -34564,6 +35404,18 @@
   },
   {
    "name": "『水子地蔵尊』",
+   "lat": 33.3105979,
+   "lng": 132.5816104,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約70m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05074/"
+  },
+  {
+   "name": "『水子地蔵尊』",
    "lat": 35.7130281,
    "lng": 139.7947694,
    "address": "東京都台東区浅草２丁目",
@@ -34597,6 +35449,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02587/"
+  },
+  {
+   "name": "『水子地蔵菩薩』",
+   "lat": 33.2952227,
+   "lng": 132.5987078,
+   "address": "愛媛県宇和島市三間町戸雁",
+   "access": "伊予宮野下駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05075/"
   },
   {
    "name": "『水子地蔵菩薩』",
@@ -35486,6 +36350,54 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01196/"
+  },
+  {
+   "name": "『注連柱』",
+   "lat": 33.6371702,
+   "lng": 132.6681121,
+   "address": "愛媛県伊予市中山町中山",
+   "access": "伊予立川駅から直線で約4.1km（最寄りのバス停：三島神社裏 約100m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05220/"
+  },
+  {
+   "name": "『注連柱』",
+   "lat": 33.4406342,
+   "lng": 132.7024816,
+   "address": "愛媛県大洲市肱川町予子林",
+   "access": "五十崎駅から直線で約12.4km（最寄りのバス停：客神社前 約50m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05204/"
+  },
+  {
+   "name": "『注連柱』",
+   "lat": 33.5220519,
+   "lng": 132.766259,
+   "address": "愛媛県大洲市河辺町川上",
+   "access": "内子駅から直線で約11.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05203/"
+  },
+  {
+   "name": "『注連柱』",
+   "lat": 33.3166702,
+   "lng": 132.6078898,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から直線で約3.1km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05076/"
   },
   {
    "name": "『注連柱』",
@@ -36628,6 +37540,18 @@
    "url": "https://www.memorial-object.jp/04466/"
   },
   {
+   "name": "『滝の権現様』",
+   "lat": 33.4636396,
+   "lng": 132.5631968,
+   "address": "愛媛県大洲市松尾",
+   "access": "伊予平野駅から直線で約5.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05205/"
+  },
+  {
    "name": "『滝山城跡』",
    "lat": 35.6973812,
    "lng": 139.3252639,
@@ -37012,6 +37936,18 @@
    "url": "https://www.memorial-object.jp/03037/"
   },
   {
+   "name": "『災難厄除地蔵尊』",
+   "lat": 33.3105862,
+   "lng": 132.5816253,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約70m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05077/"
+  },
+  {
    "name": "『烈士脇光三碑』",
    "lat": 35.6275614,
    "lng": 139.2797754,
@@ -37276,6 +38212,18 @@
    "url": "https://www.memorial-object.jp/03894/"
   },
   {
+   "name": "『片目地蔵』",
+   "lat": 33.5351128,
+   "lng": 132.4672518,
+   "address": "愛媛県大洲市上須戒",
+   "access": "西大洲駅から直線で約6.3km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05206/"
+  },
+  {
    "name": "『牛嶋神社旧趾』",
    "lat": 35.7174826,
    "lng": 139.8084119,
@@ -37334,6 +38282,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03943/"
+  },
+  {
+   "name": "『牛頭天王神社　新築寄付者』",
+   "lat": 33.5247856,
+   "lng": 132.8053482,
+   "address": "愛媛県大洲市河辺町北平",
+   "access": "伊予立川駅から直線で約14.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05207/"
+  },
+  {
+   "name": "『牛頭天王神社鳥居寄附者名』",
+   "lat": 33.5247375,
+   "lng": 132.8053859,
+   "address": "愛媛県大洲市河辺町北平",
+   "access": "伊予立川駅から直線で約14.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05208/"
   },
   {
    "name": "『牛頭観音』",
@@ -38908,6 +39880,18 @@
    "url": "https://www.memorial-object.jp/01321/"
   },
   {
+   "name": "『百体観音お砂ふみ』",
+   "lat": 33.2951938,
+   "lng": 132.5987701,
+   "address": "愛媛県宇和島市三間町戸雁",
+   "access": "伊予宮野下駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05078/"
+  },
+  {
    "name": "『百周年記念館』",
    "lat": 35.663664,
    "lng": 139.6343009,
@@ -40445,6 +41429,18 @@
    "url": "https://www.memorial-object.jp/00215/"
   },
   {
+   "name": "『社務所・神社整備事業記念碑』",
+   "lat": 33.6373525,
+   "lng": 132.6680494,
+   "address": "愛媛県伊予市中山町中山",
+   "access": "伊予立川駅から直線で約4.1km（最寄りのバス停：三島神社裏 約80m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05221/"
+  },
+  {
    "name": "『社号標』",
    "lat": 35.4498673,
    "lng": 139.6268725,
@@ -40551,6 +41547,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00457/"
+  },
+  {
+   "name": "『祇園様』",
+   "lat": 33.307694,
+   "lng": 132.5861072,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約2.8km（最寄りのバス停：正地 約140m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05079/"
   },
   {
    "name": "『祈りと平和』",
@@ -41082,6 +42090,18 @@
   },
   {
    "name": "『福禄寿』",
+   "lat": 33.3101937,
+   "lng": 132.5818444,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.2km（最寄りのバス停：仏木寺 約30m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05080/"
+  },
+  {
+   "name": "『福禄寿』",
    "lat": 35.706311,
    "lng": 139.8209742,
    "address": "東京都江東区亀戸３丁目３８",
@@ -41415,6 +42435,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03041/"
+  },
+  {
+   "name": "『稲荷神社改修寄附者芳名碑』",
+   "lat": 33.2953272,
+   "lng": 132.5982984,
+   "address": "愛媛県宇和島市三間町戸雁",
+   "access": "伊予宮野下駅から約1.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05081/"
   },
   {
    "name": "『積木地蔵』",
@@ -43146,6 +44178,18 @@
    "url": "https://www.memorial-object.jp/01329/"
   },
   {
+   "name": "『米寿記念』",
+   "lat": 33.5332612,
+   "lng": 132.7690364,
+   "address": "愛媛県大洲市河辺町川上",
+   "access": "伊予立川駅から直線で約11.3km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05209/"
+  },
+  {
    "name": "『米田双葉子句碑』",
    "lat": 33.2293904,
    "lng": 132.5652821,
@@ -44334,6 +45378,18 @@
    "url": "https://www.memorial-object.jp/01495/"
   },
   {
+   "name": "『芝重義先生光頌徳碑』",
+   "lat": 33.3105437,
+   "lng": 132.5816706,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約60m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05082/"
+  },
+  {
    "name": "『芝金顕彰碑』",
    "lat": 35.7242491,
    "lng": 139.8161304,
@@ -44620,6 +45676,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00485/"
+  },
+  {
+   "name": "『若宮様』",
+   "lat": 33.3168024,
+   "lng": 132.6579135,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約3.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05083/"
   },
   {
    "name": "『若山牧水歌碑』",
@@ -48762,6 +49830,18 @@
    "url": "https://www.memorial-object.jp/02866/"
   },
   {
+   "name": "『赤松佐治真君頌徳碑』",
+   "lat": 33.2952432,
+   "lng": 132.5986689,
+   "address": "愛媛県宇和島市三間町戸雁",
+   "access": "伊予宮野下駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05084/"
+  },
+  {
    "name": "『赤穂浪士遺蹟 吉良邸跡』",
    "lat": 35.6932786,
    "lng": 139.7943535,
@@ -49278,6 +50358,18 @@
    "url": "https://www.memorial-object.jp/04306/"
   },
   {
+   "name": "『辨財天』",
+   "lat": 33.3101967,
+   "lng": 132.5818406,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.2km（最寄りのバス停：仏木寺 約30m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05085/"
+  },
+  {
    "name": "『辰巳の門』",
    "lat": 35.4286224,
    "lng": 139.610993,
@@ -49336,6 +50428,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01938/"
+  },
+  {
+   "name": "『近江商人中江藤樹先生』",
+   "lat": 33.5092907,
+   "lng": 132.5402794,
+   "address": "愛媛県大洲市大洲",
+   "access": "伊予大洲駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05210/"
   },
   {
    "name": "『近藤勇像』",
@@ -49684,6 +50788,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00920/"
+  },
+  {
+   "name": "『道祖神』",
+   "lat": 33.3104768,
+   "lng": 132.5816329,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約60m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05086/"
   },
   {
    "name": "『道祖神』",
@@ -50274,6 +51390,18 @@
    "url": "https://www.memorial-object.jp/02475/"
   },
   {
+   "name": "『釈迦如来』",
+   "lat": 33.3106307,
+   "lng": 132.5815718,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約70m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05087/"
+  },
+  {
    "name": "『釈迦如来坐像』",
    "lat": 35.7266769,
    "lng": 139.7709396,
@@ -50308,6 +51436,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01413/"
+  },
+  {
+   "name": "『重要文化財　大洲城三の丸南隅櫓』",
+   "lat": 33.5068197,
+   "lng": 132.5408055,
+   "address": "愛媛県大洲市大洲",
+   "access": "西大洲駅から約1.3km",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05211/"
   },
   {
    "name": "『重要文化財　大洲城苧綿櫓』",
@@ -51523,6 +52663,126 @@
   },
   {
    "name": "『阿』",
+   "lat": 33.6369251,
+   "lng": 132.6685093,
+   "address": "愛媛県伊予市中山町中山",
+   "access": "伊予立川駅から約4.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05223/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 33.6371671,
+   "lng": 132.6681233,
+   "address": "愛媛県伊予市中山町中山",
+   "access": "伊予立川駅から直線で約4.1km（最寄りのバス停：三島神社裏 約100m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05222/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 33.4334211,
+   "lng": 132.661983,
+   "address": "愛媛県大洲市肱川町大谷",
+   "access": "五十崎駅から直線で約11.8km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05216/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 33.4316595,
+   "lng": 132.6665704,
+   "address": "愛媛県大洲市肱川町大谷",
+   "access": "五十崎駅から直線で約12.1km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05215/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 33.4406129,
+   "lng": 132.7024765,
+   "address": "愛媛県大洲市肱川町予子林",
+   "access": "五十崎駅から直線で約12.4km（最寄りのバス停：客神社前 約50m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05214/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 33.5116769,
+   "lng": 132.7960978,
+   "address": "愛媛県大洲市河辺町北平",
+   "access": "内子駅から直線で約14.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05213/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 33.5268888,
+   "lng": 132.766744,
+   "address": "愛媛県大洲市河辺町川上",
+   "access": "内子駅から直線で約11.4km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05212/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 33.1425425,
+   "lng": 132.4794595,
+   "address": "愛媛県宇和島市津島町北灘",
+   "access": "宇和島駅から直線で約12.4km（最寄りのバス停：国永 約90m）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05090/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 33.2951936,
+   "lng": 132.5987118,
+   "address": "愛媛県宇和島市三間町戸雁",
+   "access": "伊予宮野下駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05089/"
+  },
+  {
+   "name": "『阿』",
+   "lat": 33.3148674,
+   "lng": 132.6077894,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から直線で約2.9km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05088/"
+  },
+  {
+   "name": "『阿』",
    "lat": 33.2284707,
    "lng": 132.5663374,
    "address": "愛媛県宇和島市和霊公園",
@@ -51868,6 +53128,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02029/"
+  },
+  {
+   "name": "『陸海軍　忠死者祀念碑』",
+   "lat": 33.3105317,
+   "lng": 132.5816841,
+   "address": "愛媛県宇和島市三間町則",
+   "access": "伊予宮野下駅から直線で約3.3km（最寄りのバス停：仏木寺 約60m）",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05091/"
   },
   {
    "name": "『陸軍中野学校址碑』",
@@ -52482,6 +53754,1014 @@
    "url": "https://www.memorial-object.jp/01506/"
   },
   {
+   "name": "『音地地四国10番』",
+   "lat": 33.3263194,
+   "lng": 132.6543773,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05092/"
+  },
+  {
+   "name": "『音地地四国11番』",
+   "lat": 33.3265288,
+   "lng": 132.6543281,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05093/"
+  },
+  {
+   "name": "『音地地四国12番』",
+   "lat": 33.3266387,
+   "lng": 132.6539746,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05094/"
+  },
+  {
+   "name": "『音地地四国13番』",
+   "lat": 33.3267628,
+   "lng": 132.6537196,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05095/"
+  },
+  {
+   "name": "『音地地四国14番』",
+   "lat": 33.3266278,
+   "lng": 132.6534164,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05096/"
+  },
+  {
+   "name": "『音地地四国15番』",
+   "lat": 33.3270875,
+   "lng": 132.6531171,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05097/"
+  },
+  {
+   "name": "『音地地四国16番』",
+   "lat": 33.3270831,
+   "lng": 132.6529356,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05098/"
+  },
+  {
+   "name": "『音地地四国17番』",
+   "lat": 33.3271509,
+   "lng": 132.6530142,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05099/"
+  },
+  {
+   "name": "『音地地四国18番』",
+   "lat": 33.3273235,
+   "lng": 132.6530348,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05100/"
+  },
+  {
+   "name": "『音地地四国19番』",
+   "lat": 33.327421,
+   "lng": 132.6525723,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05101/"
+  },
+  {
+   "name": "『音地地四国20番』",
+   "lat": 33.326955,
+   "lng": 132.6519995,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05102/"
+  },
+  {
+   "name": "『音地地四国21番』",
+   "lat": 33.3271731,
+   "lng": 132.6514412,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05103/"
+  },
+  {
+   "name": "『音地地四国22番』",
+   "lat": 33.3271555,
+   "lng": 132.6508709,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05104/"
+  },
+  {
+   "name": "『音地地四国23番』",
+   "lat": 33.3277805,
+   "lng": 132.6501781,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05105/"
+  },
+  {
+   "name": "『音地地四国24番』",
+   "lat": 33.3275616,
+   "lng": 132.6498095,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05106/"
+  },
+  {
+   "name": "『音地地四国25番』",
+   "lat": 33.3276891,
+   "lng": 132.6502121,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05107/"
+  },
+  {
+   "name": "『音地地四国26番』",
+   "lat": 33.3277323,
+   "lng": 132.6498009,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05108/"
+  },
+  {
+   "name": "『音地地四国27番』",
+   "lat": 33.3277743,
+   "lng": 132.6497247,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05109/"
+  },
+  {
+   "name": "『音地地四国28番』",
+   "lat": 33.32789,
+   "lng": 132.6495959,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05110/"
+  },
+  {
+   "name": "『音地地四国29番』",
+   "lat": 33.3279223,
+   "lng": 132.6495921,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05111/"
+  },
+  {
+   "name": "『音地地四国2番』",
+   "lat": 33.3246888,
+   "lng": 132.6544416,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.3km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05112/"
+  },
+  {
+   "name": "『音地地四国30番』",
+   "lat": 33.3282395,
+   "lng": 132.6497905,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05113/"
+  },
+  {
+   "name": "『音地地四国31番』",
+   "lat": 33.3286879,
+   "lng": 132.6496531,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05114/"
+  },
+  {
+   "name": "『音地地四国32番』",
+   "lat": 33.3286101,
+   "lng": 132.6497927,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05115/"
+  },
+  {
+   "name": "『音地地四国33番』",
+   "lat": 33.3288043,
+   "lng": 132.6506216,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05116/"
+  },
+  {
+   "name": "『音地地四国34番』",
+   "lat": 33.3288098,
+   "lng": 132.6506204,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05117/"
+  },
+  {
+   "name": "『音地地四国35番』",
+   "lat": 33.3289921,
+   "lng": 132.6508828,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05118/"
+  },
+  {
+   "name": "『音地地四国36番』",
+   "lat": 33.3290019,
+   "lng": 132.6515565,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.7km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05119/"
+  },
+  {
+   "name": "『音地地四国37番』",
+   "lat": 33.3290298,
+   "lng": 132.6512306,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05120/"
+  },
+  {
+   "name": "『音地地四国38番』",
+   "lat": 33.3290206,
+   "lng": 132.651412,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05121/"
+  },
+  {
+   "name": "『音地地四国39番』",
+   "lat": 33.3290405,
+   "lng": 132.6513464,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05122/"
+  },
+  {
+   "name": "『音地地四国3番』",
+   "lat": 33.3245638,
+   "lng": 132.6544205,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.3km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05123/"
+  },
+  {
+   "name": "『音地地四国40番』",
+   "lat": 33.3290499,
+   "lng": 132.6517267,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.7km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05124/"
+  },
+  {
+   "name": "『音地地四国41番』",
+   "lat": 33.3289817,
+   "lng": 132.6518477,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.7km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05125/"
+  },
+  {
+   "name": "『音地地四国42番』",
+   "lat": 33.329038,
+   "lng": 132.6519124,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.7km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05126/"
+  },
+  {
+   "name": "『音地地四国43番』",
+   "lat": 33.3291403,
+   "lng": 132.6522125,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.7km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05127/"
+  },
+  {
+   "name": "『音地地四国44番』",
+   "lat": 33.3293581,
+   "lng": 132.6526691,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.7km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05128/"
+  },
+  {
+   "name": "『音地地四国47番』",
+   "lat": 33.3312271,
+   "lng": 132.653486,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約5.0km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05129/"
+  },
+  {
+   "name": "『音地地四国48番』",
+   "lat": 33.3313927,
+   "lng": 132.6539068,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約5.0km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05130/"
+  },
+  {
+   "name": "『音地地四国49番』",
+   "lat": 33.3310179,
+   "lng": 132.6537332,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.9km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05131/"
+  },
+  {
+   "name": "『音地地四国4番』",
+   "lat": 33.3248199,
+   "lng": 132.6543414,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05132/"
+  },
+  {
+   "name": "『音地地四国50番』",
+   "lat": 33.3308124,
+   "lng": 132.6539732,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.9km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05133/"
+  },
+  {
+   "name": "『音地地四国51番』",
+   "lat": 33.3304933,
+   "lng": 132.6542576,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.9km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05134/"
+  },
+  {
+   "name": "『音地地四国52番』",
+   "lat": 33.3300209,
+   "lng": 132.6551053,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.9km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05135/"
+  },
+  {
+   "name": "『音地地四国53番』",
+   "lat": 33.3298744,
+   "lng": 132.6549949,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.9km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05136/"
+  },
+  {
+   "name": "『音地地四国54番』",
+   "lat": 33.3296879,
+   "lng": 132.6552656,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.9km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05137/"
+  },
+  {
+   "name": "『音地地四国55番』",
+   "lat": 33.3296754,
+   "lng": 132.6553372,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.9km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05138/"
+  },
+  {
+   "name": "『音地地四国56番』",
+   "lat": 33.3295687,
+   "lng": 132.6552956,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.9km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05139/"
+  },
+  {
+   "name": "『音地地四国57番』",
+   "lat": 33.3294978,
+   "lng": 132.6553254,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.9km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05140/"
+  },
+  {
+   "name": "『音地地四国58番』",
+   "lat": 33.3294208,
+   "lng": 132.6550985,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.8km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05141/"
+  },
+  {
+   "name": "『音地地四国59番』",
+   "lat": 33.3294535,
+   "lng": 132.6550765,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.9km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05142/"
+  },
+  {
+   "name": "『音地地四国5番』",
+   "lat": 33.3255309,
+   "lng": 132.6543117,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05143/"
+  },
+  {
+   "name": "『音地地四国60番』",
+   "lat": 33.3294951,
+   "lng": 132.6549473,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.8km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05144/"
+  },
+  {
+   "name": "『音地地四国61番』",
+   "lat": 33.3294729,
+   "lng": 132.6548916,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.8km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05145/"
+  },
+  {
+   "name": "『音地地四国62番』",
+   "lat": 33.3292937,
+   "lng": 132.6547697,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.8km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05146/"
+  },
+  {
+   "name": "『音地地四国63番』",
+   "lat": 33.3291637,
+   "lng": 132.6547857,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.8km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05147/"
+  },
+  {
+   "name": "『音地地四国64番』",
+   "lat": 33.3291463,
+   "lng": 132.6547831,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.8km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05148/"
+  },
+  {
+   "name": "『音地地四国66番』",
+   "lat": 33.3292824,
+   "lng": 132.6555685,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "二名駅から直線で約4.9km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05149/"
+  },
+  {
+   "name": "『音地地四国67番』",
+   "lat": 33.3281525,
+   "lng": 132.6564854,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.8km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05150/"
+  },
+  {
+   "name": "『音地地四国68番』",
+   "lat": 33.328149,
+   "lng": 132.6565314,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.8km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05151/"
+  },
+  {
+   "name": "『音地地四国69番』",
+   "lat": 33.3280454,
+   "lng": 132.6569555,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.8km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05152/"
+  },
+  {
+   "name": "『音地地四国6番』",
+   "lat": 33.3261223,
+   "lng": 132.6545008,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05153/"
+  },
+  {
+   "name": "『音地地四国70番』",
+   "lat": 33.328022,
+   "lng": 132.6569458,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.8km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05154/"
+  },
+  {
+   "name": "『音地地四国71番』",
+   "lat": 33.3280458,
+   "lng": 132.657124,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.8km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05155/"
+  },
+  {
+   "name": "『音地地四国72番』",
+   "lat": 33.3277958,
+   "lng": 132.6568401,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.7km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05156/"
+  },
+  {
+   "name": "『音地地四国73番』",
+   "lat": 33.3276311,
+   "lng": 132.6564407,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.7km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05157/"
+  },
+  {
+   "name": "『音地地四国74番』",
+   "lat": 33.3271812,
+   "lng": 132.6562902,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.7km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05158/"
+  },
+  {
+   "name": "『音地地四国75番』",
+   "lat": 33.3270879,
+   "lng": 132.6553862,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05159/"
+  },
+  {
+   "name": "『音地地四国76番』",
+   "lat": 33.3270184,
+   "lng": 132.6553387,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05160/"
+  },
+  {
+   "name": "『音地地四国77番』",
+   "lat": 33.3268021,
+   "lng": 132.6552363,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.6km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05161/"
+  },
+  {
+   "name": "『音地地四国78番』",
+   "lat": 33.3262734,
+   "lng": 132.6554707,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05162/"
+  },
+  {
+   "name": "『音地地四国79番』",
+   "lat": 33.3262388,
+   "lng": 132.6553454,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05163/"
+  },
+  {
+   "name": "『音地地四国7番』",
+   "lat": 33.3261315,
+   "lng": 132.6544903,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05164/"
+  },
+  {
+   "name": "『音地地四国80番』",
+   "lat": 33.3258958,
+   "lng": 132.6554179,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05165/"
+  },
+  {
+   "name": "『音地地四国81番』",
+   "lat": 33.3262894,
+   "lng": 132.6551518,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05166/"
+  },
+  {
+   "name": "『音地地四国82番』",
+   "lat": 33.3263504,
+   "lng": 132.654592,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05167/"
+  },
+  {
+   "name": "『音地地四国83番』",
+   "lat": 33.3264099,
+   "lng": 132.6544193,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05168/"
+  },
+  {
+   "name": "『音地地四国84番』",
+   "lat": 33.3262977,
+   "lng": 132.6546572,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05169/"
+  },
+  {
+   "name": "『音地地四国85番』",
+   "lat": 33.3261753,
+   "lng": 132.6547162,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05170/"
+  },
+  {
+   "name": "『音地地四国86番』",
+   "lat": 33.3256538,
+   "lng": 132.6547719,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05171/"
+  },
+  {
+   "name": "『音地地四国87番』",
+   "lat": 33.3253637,
+   "lng": 132.6549721,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05172/"
+  },
+  {
+   "name": "『音地地四国88番』",
+   "lat": 33.3111338,
+   "lng": 132.6573107,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約3.0km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05173/"
+  },
+  {
+   "name": "『音地地四国8番』",
+   "lat": 33.3261613,
+   "lng": 132.6544175,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05174/"
+  },
+  {
+   "name": "『音地地四国9番』",
+   "lat": 33.3262196,
+   "lng": 132.6543502,
+   "address": "愛媛県宇和島市三間町音地",
+   "access": "大内駅から直線で約4.5km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05175/"
+  },
+  {
    "name": "『頂上』",
    "lat": 35.6531063,
    "lng": 139.2531869,
@@ -52600,6 +54880,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04310/"
+  },
+  {
+   "name": "『題認字』",
+   "lat": 33.5094671,
+   "lng": 132.5404325,
+   "address": "愛媛県大洲市大洲",
+   "access": "伊予大洲駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05217/"
   },
   {
    "name": "『顕彰碑』",
@@ -53548,6 +55840,42 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00719/"
+  },
+  {
+   "name": "『馬頭観音』",
+   "lat": 33.3122432,
+   "lng": 132.6019658,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から直線で約2.6km（最寄りのバス停：運動公園 約620m）",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05178/"
+  },
+  {
+   "name": "『馬頭観音』",
+   "lat": 33.2919446,
+   "lng": 132.618094,
+   "address": "愛媛県宇和島市三間町元宗",
+   "access": "二名駅から約1.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05177/"
+  },
+  {
+   "name": "『馬頭観音』",
+   "lat": 33.3223724,
+   "lng": 132.614692,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "二名駅から直線で約3.7km（徒歩では遠く、車などでの移動が必要です）",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05176/"
   },
   {
    "name": "『馬頭観音』",
