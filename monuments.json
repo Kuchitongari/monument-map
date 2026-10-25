@@ -9,7 +9,7 @@
   "names": []
  },
  "generated": "2026-10-25",
- "count": 6163,
+ "count": 6198,
  "items": [
   {
    "name": "ASAO TOKOLO『TOWER OF CONNECT』",
@@ -46912,18 +46912,6 @@
    "url": "https://www.memorial-object.jp/06090/"
   },
   {
-   "name": "『琵琶塚』",
-   "lat": 34.6637451,
-   "lng": 135.1715918,
-   "address": "兵庫県神戸市兵庫区切戸町",
-   "access": "中央市場前駅から南西へ約470m",
-   "categories": [
-    "公園"
-   ],
-   "image": "",
-   "url": "https://www.memorial-object.jp/06090/"
-  },
-  {
    "name": "『瑞光』",
    "lat": 35.83760698330892,
    "lng": 139.54991267598015,
@@ -47078,6 +47066,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01319/"
+  },
+  {
+   "name": "『田井清教墓』",
+   "lat": 34.6713976,
+   "lng": 134.5340979,
+   "address": "兵庫県姫路市家島町宮",
+   "access": "山陽網干駅から約13.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06190/"
   },
   {
    "name": "『田村虎蔵先生をたたえる碑』",
@@ -47692,6 +47692,18 @@
    "url": "https://www.memorial-object.jp/03611/"
   },
   {
+   "name": "『白鷺城回想の賦』",
+   "lat": 34.841161,
+   "lng": 134.6928906,
+   "address": "兵庫県姫路市本町",
+   "access": "京口駅から約1.4km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06191/"
+  },
+  {
    "name": "『百人番所』",
    "lat": 35.685431,
    "lng": 139.7579961,
@@ -47762,6 +47774,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06119/"
+  },
+  {
+   "name": "『百度石』",
+   "lat": 34.6784394,
+   "lng": 134.5266738,
+   "address": "兵庫県姫路市家島町真浦",
+   "access": "山陽網干駅から約13.3km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06193/"
+  },
+  {
+   "name": "『百度石』",
+   "lat": 34.6790775,
+   "lng": 134.5453541,
+   "address": "兵庫県姫路市家島町宮",
+   "access": "山陽網干駅から約12.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06192/"
   },
   {
    "name": "『百度石』",
@@ -48652,6 +48688,18 @@
    "url": "https://www.memorial-object.jp/01811/"
   },
   {
+   "name": "『真浦区大師堂新築寄進者御芳名』",
+   "lat": 34.6784592,
+   "lng": 134.5266644,
+   "address": "兵庫県姫路市家島町真浦",
+   "access": "山陽網干駅から約13.3km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06194/"
+  },
+  {
    "name": "『真理界』",
    "lat": 35.7222418,
    "lng": 139.6742558,
@@ -48686,6 +48734,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04453/"
+  },
+  {
+   "name": "『眠り地蔵』",
+   "lat": 34.895297,
+   "lng": 134.650363,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約4.4km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06195/"
   },
   {
    "name": "『矢内原門跡』",
@@ -49421,6 +49481,18 @@
    "url": "https://www.memorial-object.jp/02016/"
   },
   {
+   "name": "『石造笠塔婆』",
+   "lat": 34.8908921,
+   "lng": 134.6575687,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約4.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06196/"
+  },
+  {
    "name": "『石造線刻地蔵菩薩立像碑』",
    "lat": 35.6926061,
    "lng": 139.9062746,
@@ -49527,6 +49599,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02316/"
+  },
+  {
+   "name": "『砲台場跡』",
+   "lat": 34.6796191,
+   "lng": 134.5442494,
+   "address": "兵庫県姫路市家島町宮",
+   "access": "山陽網干駅から約12.6km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06197/"
   },
   {
    "name": "『硯塚』",
@@ -52433,6 +52517,18 @@
    "url": "https://www.memorial-object.jp/02972/"
   },
   {
+   "name": "『第一番 那智山青岸渡寺』",
+   "lat": 34.8856867,
+   "lng": 134.6619706,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06198/"
+  },
+  {
    "name": "『第一駆逐隊』",
    "lat": 35.6710571,
    "lng": 139.7067951,
@@ -52470,6 +52566,102 @@
    "url": "https://www.memorial-object.jp/00068_kisenosato/"
   },
   {
+   "name": "『第七番 東光山龍蓋寺』",
+   "lat": 34.8861928,
+   "lng": 134.6613168,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06199/"
+  },
+  {
+   "name": "『第三番 風猛山粉河寺』",
+   "lat": 34.8859397,
+   "lng": 134.661693,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06200/"
+  },
+  {
+   "name": "『第丗一番 姨綺耶山長命寺』",
+   "lat": 34.8884941,
+   "lng": 134.6607301,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06201/"
+  },
+  {
+   "name": "『第丗三番 谷汲山華厳寺』",
+   "lat": 34.8888351,
+   "lng": 134.6606483,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06202/"
+  },
+  {
+   "name": "『第丗二番 繖山観音正寺』",
+   "lat": 34.888581,
+   "lng": 134.6606603,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06203/"
+  },
+  {
+   "name": "『第丗番 竹生島宝厳寺』",
+   "lat": 34.8884358,
+   "lng": 134.6607408,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06204/"
+  },
+  {
+   "name": "『第九番 興福寺南円堂』",
+   "lat": 34.8864117,
+   "lng": 134.661123,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06205/"
+  },
+  {
+   "name": "『第二番 紀三井山金剛宝寺』",
+   "lat": 34.8857835,
+   "lng": 134.6619049,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06206/"
+  },
+  {
    "name": "『第二部解散記念』",
    "lat": 35.6830138,
    "lng": 139.6400647,
@@ -52480,6 +52672,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02515/"
+  },
+  {
+   "name": "『第五番 紫雲山葛井寺』",
+   "lat": 34.8861312,
+   "lng": 134.6614677,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06207/"
+  },
+  {
+   "name": "『第八番 豊山長谷寺』",
+   "lat": 34.8863182,
+   "lng": 134.6612075,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06208/"
   },
   {
    "name": "『第六天』",
@@ -52504,6 +52720,210 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04115/"
+  },
+  {
+   "name": "『第六番 壷坂山南法華寺』",
+   "lat": 34.8861867,
+   "lng": 134.6614274,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06209/"
+  },
+  {
+   "name": "『第十一番 深雪山醍醐寺』",
+   "lat": 34.8866526,
+   "lng": 134.6609648,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06210/"
+  },
+  {
+   "name": "『第十七番 補陀洛山六波羅蜜寺』",
+   "lat": 34.8872301,
+   "lng": 134.6609272,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06211/"
+  },
+  {
+   "name": "『第十三番 石光山石山寺』",
+   "lat": 34.8869276,
+   "lng": 134.6610171,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06212/"
+  },
+  {
+   "name": "『第十九番 革堂行願寺』",
+   "lat": 34.8872885,
+   "lng": 134.6610211,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06213/"
+  },
+  {
+   "name": "『第十二番 岩間山正法寺』",
+   "lat": 34.8868308,
+   "lng": 134.6610305,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06214/"
+  },
+  {
+   "name": "『第十五番 新那智山観音寺』",
+   "lat": 34.8871212,
+   "lng": 134.6609822,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06215/"
+  },
+  {
+   "name": "『第十八番 紫雲山頂法寺』",
+   "lat": 34.8871883,
+   "lng": 134.6610264,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06216/"
+  },
+  {
+   "name": "『第十六番 音羽山清水寺』",
+   "lat": 34.8871894,
+   "lng": 134.6608964,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06217/"
+  },
+  {
+   "name": "『第十四番 長等山三井寺』",
+   "lat": 34.887031,
+   "lng": 134.6608508,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06218/"
+  },
+  {
+   "name": "『第十番 明星山三室戸寺』",
+   "lat": 34.8865057,
+   "lng": 134.6610305,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06219/"
+  },
+  {
+   "name": "『第四番 槙尾山施福寺』",
+   "lat": 34.8860256,
+   "lng": 134.661575,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06220/"
+  },
+  {
+   "name": "『第廿一番 菩提山穴太寺』",
+   "lat": 34.887536,
+   "lng": 134.6611612,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06221/"
+  },
+  {
+   "name": "『第廿七番 書写山圓教寺』",
+   "lat": 34.885629,
+   "lng": 134.6620101,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06222/"
+  },
+  {
+   "name": "『第廿三番 応頂山勝尾寺』",
+   "lat": 34.8877153,
+   "lng": 134.6609882,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06223/"
+  },
+  {
+   "name": "『第廿九番 青葉山松尾寺』",
+   "lat": 34.8883225,
+   "lng": 134.6608997,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06224/"
+  },
+  {
+   "name": "『第廿二番 補陀洛山総持寺』",
+   "lat": 34.8877076,
+   "lng": 134.6610942,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約3.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06225/"
   },
   {
    "name": "『笹下城の空堀跡』",
