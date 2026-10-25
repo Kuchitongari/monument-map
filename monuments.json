@@ -9,7 +9,7 @@
   "names": []
  },
  "generated": "2026-10-25",
- "count": 6157,
+ "count": 6163,
  "items": [
   {
    "name": "ASAO TOKOLO『TOWER OF CONNECT』",
@@ -39423,18 +39423,6 @@
    "url": "https://www.memorial-object.jp/01547/"
   },
   {
-   "name": "『東福院坂(天王坂)』",
-   "lat": 35.6860061,
-   "lng": 139.7240446,
-   "address": "東京都新宿区若葉２丁目１",
-   "access": "四谷三丁目駅から南東へ約380m",
-   "categories": [
-    "寺社境内"
-   ],
-   "image": "",
-   "url": "https://www.memorial-object.jp/01547/"
-  },
-  {
    "name": "『東部中濠保存整備工事完工記念』",
    "lat": 34.8418114,
    "lng": 134.6986899,
@@ -40587,6 +40575,18 @@
    "url": "https://www.memorial-object.jp/06116/"
   },
   {
+   "name": "『椎名麟三文学碑』",
+   "lat": 34.8773562,
+   "lng": 134.6596017,
+   "address": "兵庫県姫路市書写",
+   "access": "余部駅から約2.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06184/"
+  },
+  {
    "name": "『椎根津彦命』",
    "lat": 34.7348833,
    "lng": 135.278131,
@@ -41487,6 +41487,18 @@
    "url": "https://www.memorial-object.jp/01007/"
   },
   {
+   "name": "『歩兵第十連隊後碑』",
+   "lat": 34.837921,
+   "lng": 134.693859,
+   "address": "兵庫県姫路市本町",
+   "access": "山陽姫路駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06185/"
+  },
+  {
    "name": "『歯神さん』",
    "lat": 33.8660505,
    "lng": 133.054155,
@@ -41631,6 +41643,18 @@
    "url": "https://www.memorial-object.jp/04333/"
   },
   {
+   "name": "『殉職警官顕彰碑』",
+   "lat": 34.8388496,
+   "lng": 134.6956675,
+   "address": "兵庫県姫路市本町",
+   "access": "京口駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06186/"
+  },
+  {
    "name": "『殉難の碑』",
    "lat": 34.2628404,
    "lng": 133.5705292,
@@ -41713,6 +41737,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01796/"
+  },
+  {
+   "name": "『比島散華』",
+   "lat": 34.835533,
+   "lng": 134.6948158,
+   "address": "兵庫県姫路市本町",
+   "access": "山陽姫路駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06187/"
   },
   {
    "name": "『比翼塚』",
@@ -44584,6 +44620,30 @@
    "url": "https://www.memorial-object.jp/03265/"
   },
   {
+   "name": "『清水地蔵』",
+   "lat": 34.8441206,
+   "lng": 134.6933231,
+   "address": "兵庫県姫路市本町",
+   "access": "京口駅から約1.6km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06188/"
+  },
+  {
+   "name": "『清水地蔵尊』",
+   "lat": 34.6782055,
+   "lng": 134.5236917,
+   "address": "兵庫県姫路市家島町真浦",
+   "access": "山陽網干駅から約13.5km",
+   "categories": [
+    "その他"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06189/"
+  },
+  {
    "name": "『清水坂』",
    "lat": 35.7032486,
    "lng": 139.7668701,
@@ -46838,6 +46898,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04867/"
+  },
+  {
+   "name": "『琵琶塚』",
+   "lat": 34.6637451,
+   "lng": 135.1715918,
+   "address": "兵庫県神戸市兵庫区切戸町",
+   "access": "中央市場前駅から南西へ約470m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06090/"
   },
   {
    "name": "『琵琶塚』",
