@@ -1,0 +1,7 @@
+# Action の更新を月1回の PR で知らせる（固定した SHA を手で追わなくてよいように）
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
