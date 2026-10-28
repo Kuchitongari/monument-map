@@ -8,8 +8,8 @@
   "photos": 0,
   "names": []
  },
- "generated": "2026-10-27",
- "count": 6616,
+ "generated": "2026-10-28",
+ "count": 6821,
  "items": [
   {
    "name": "???wako Shintani『MAN』",
@@ -984,6 +984,30 @@
    "url": "https://www.memorial-object.jp/04601/"
   },
   {
+   "name": "『8時間労働発祥の地の碑』",
+   "lat": 34.6774243,
+   "lng": 135.1831652,
+   "address": "兵庫県神戸市中央区東川崎町１丁目",
+   "access": "ハーバーランド駅から南東へ約430m",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06797/"
+  },
+  {
+   "name": "『ALBA-GⅡ』",
+   "lat": 34.6584303,
+   "lng": 135.216808,
+   "address": "兵庫県神戸市中央区港島南町１丁目",
+   "access": "医療センター駅から東へ約40m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06798/"
+  },
+  {
    "name": "『ANA Safety Center』",
    "lat": 35.5716357,
    "lng": 139.6799667,
@@ -1090,6 +1114,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02350/"
+  },
+  {
+   "name": "『BE KOBE』",
+   "lat": 34.6663476,
+   "lng": 135.2021282,
+   "address": "兵庫県神戸市中央区港島１丁目",
+   "access": "みなとじま駅から西へ約780m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06799/"
+  },
+  {
+   "name": "『BE KOBE』",
+   "lat": 34.6552116,
+   "lng": 135.0919416,
+   "address": "兵庫県神戸市垂水区下畑町７３７",
+   "access": "須磨浦公園駅から約2.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06617/"
   },
   {
    "name": "『BE KOBE』",
@@ -1524,6 +1572,18 @@
    "url": "https://www.memorial-object.jp/02352/"
   },
   {
+   "name": "『KOBE KAIENTAI』",
+   "lat": 34.6814739,
+   "lng": 135.1899442,
+   "address": "兵庫県神戸市中央区波止場町",
+   "access": "みなと元町駅から南東へ約740m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06800/"
+  },
+  {
    "name": "『Kamen Rider Ichigou』",
    "lat": 35.7074396,
    "lng": 139.7946392,
@@ -1762,6 +1822,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02992/"
+  },
+  {
+   "name": "『Monument “Unloader”』",
+   "lat": 34.6706597,
+   "lng": 135.2020235,
+   "address": "兵庫県神戸市中央区港島１丁目",
+   "access": "中公園駅から南西へ約580m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06801/"
   },
   {
    "name": "『Nanako』",
@@ -2032,7 +2104,7 @@
    "lat": 33.4088678,
    "lng": 132.6744083,
    "address": "愛媛県西予市野村町中通川",
-   "access": "二名駅から約13.7km",
+   "access": "二名駅から直線で約13.7km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "その他"
    ],
@@ -3012,6 +3084,18 @@
    "url": "https://www.memorial-object.jp/00555/"
   },
   {
+   "name": "『おひゃくど石』",
+   "lat": 34.7565097,
+   "lng": 135.4026951,
+   "address": "兵庫県尼崎市富松町２丁目２５",
+   "access": "武庫之荘駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06753/"
+  },
+  {
    "name": "『おめでた蛙さま』",
    "lat": 34.7390323,
    "lng": 135.2040354,
@@ -3672,6 +3756,18 @@
    "url": "https://www.memorial-object.jp/06354/"
   },
   {
+   "name": "『かまぼこの発祥地』",
+   "lat": 34.695302,
+   "lng": 135.1902601,
+   "address": "兵庫県神戸市中央区下山手通１丁目",
+   "access": "三宮駅から北西へ約250m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06802/"
+  },
+  {
    "name": "『かもめの水兵さんの歌碑』",
    "lat": 35.4458918,
    "lng": 139.6501432,
@@ -4066,6 +4162,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00115_1.png",
    "url": "https://www.memorial-object.jp/00115/"
+  },
+  {
+   "name": "『しあわせ運べるように』",
+   "lat": 34.68752,
+   "lng": 135.2012505,
+   "address": "兵庫県神戸市中央区小野浜町",
+   "access": "貿易センター駅から南東へ約270m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06803/"
   },
   {
    "name": "『しおの山と塩山の地名の由来について』",
@@ -4536,6 +4644,18 @@
    "url": "https://www.memorial-object.jp/01953/"
   },
   {
+   "name": "『なかよしさん』",
+   "lat": 34.7349927,
+   "lng": 135.3890773,
+   "address": "兵庫県尼崎市稲葉元町３丁目１３",
+   "access": "立花駅から約1.0km",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06754/"
+  },
+  {
    "name": "『なかよしじぞう』",
    "lat": 34.6464816,
    "lng": 135.0058003,
@@ -4726,6 +4846,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03227/"
+  },
+  {
+   "name": "『はばたき』",
+   "lat": 34.7587897,
+   "lng": 135.4005381,
+   "address": "兵庫県尼崎市富松町３丁目６",
+   "access": "武庫之荘駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06755/"
   },
   {
    "name": "『はばたき』",
@@ -4944,6 +5076,18 @@
    "url": "https://www.memorial-object.jp/03460/"
   },
   {
+   "name": "『ふるさとの歴史きはめて百年の 歩みを語る杜の老樹に　白鳳』",
+   "lat": 34.6952883,
+   "lng": 135.1902413,
+   "address": "兵庫県神戸市中央区下山手通１丁目",
+   "access": "三宮駅から北西へ約250m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06804/"
+  },
+  {
    "name": "『ふるさとの生命を育んだ二ヶ領用水』",
    "lat": 35.61397,
    "lng": 139.5829397,
@@ -4978,6 +5122,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04193/"
+  },
+  {
+   "name": "『ふれあいの門』",
+   "lat": 34.7067783,
+   "lng": 135.1144895,
+   "address": "兵庫県神戸市北区しあわせの村１",
+   "access": "西鈴蘭台駅から約2.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06618/"
   },
   {
    "name": "『ぶじかえる』",
@@ -5628,6 +5784,18 @@
    "url": "https://www.memorial-object.jp/04194/"
   },
   {
+   "name": "『アジサイ』",
+   "lat": 34.6889161,
+   "lng": 135.1964898,
+   "address": "兵庫県神戸市中央区加納町６丁目",
+   "access": "貿易センター駅から西へ約280m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06805/"
+  },
+  {
    "name": "『アテネ陶芸教室』",
    "lat": 33.8310057,
    "lng": 132.7534086,
@@ -5722,6 +5890,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03489/"
+  },
+  {
+   "name": "『アンパンマン』",
+   "lat": 34.6787354,
+   "lng": 135.181527,
+   "address": "兵庫県神戸市中央区東川崎町１丁目",
+   "access": "ハーバーランド駅から東へ約240m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06807/"
+  },
+  {
+   "name": "『アンパンマン』",
+   "lat": 34.6792697,
+   "lng": 135.1807205,
+   "address": "兵庫県神戸市中央区東川崎町１丁目",
+   "access": "ハーバーランド駅から東へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06806/"
   },
   {
    "name": "『アンパンマン』",
@@ -5914,6 +6106,30 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00190_1.jpg",
    "url": "https://www.memorial-object.jp/00190/"
+  },
+  {
+   "name": "『エルヴィス・プレスリーの銅像』",
+   "lat": 34.6785658,
+   "lng": 135.1825243,
+   "address": "兵庫県神戸市中央区東川崎町１丁目",
+   "access": "ハーバーランド駅から東へ約340m",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06808/"
+  },
+  {
+   "name": "『エーゲ海に捧ぐ』",
+   "lat": 34.6888884,
+   "lng": 135.1958121,
+   "address": "兵庫県神戸市中央区加納町６丁目",
+   "access": "三宮・花時計前駅から南へ約320m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06809/"
   },
   {
    "name": "『オランダ領事館跡』",
@@ -6276,6 +6492,18 @@
    "url": "https://www.memorial-object.jp/00258/"
   },
   {
+   "name": "『コスモス』",
+   "lat": 34.6888687,
+   "lng": 135.1965148,
+   "address": "兵庫県神戸市中央区加納町６丁目",
+   "access": "貿易センター駅から西へ約280m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06810/"
+  },
+  {
    "name": "『コックカービィ』",
    "lat": 35.6823533,
    "lng": 139.7686626,
@@ -6466,6 +6694,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02199/"
+  },
+  {
+   "name": "『サルビア』",
+   "lat": 34.6888921,
+   "lng": 135.1965026,
+   "address": "兵庫県神戸市中央区加納町６丁目",
+   "access": "貿易センター駅から西へ約280m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06811/"
   },
   {
    "name": "『サンバ両さん像』",
@@ -6696,6 +6936,18 @@
    "url": "https://www.memorial-object.jp/00538/"
   },
   {
+   "name": "『スズラン、キク』",
+   "lat": 34.6887857,
+   "lng": 135.1965597,
+   "address": "兵庫県神戸市中央区加納町６丁目",
+   "access": "貿易センター駅から西へ約270m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06812/"
+  },
+  {
    "name": "『スタンドの矢』",
    "lat": 35.6619452,
    "lng": 139.6988905,
@@ -6826,6 +7078,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01438/"
+  },
+  {
+   "name": "『ゼラニウム』",
+   "lat": 34.6887557,
+   "lng": 135.196576,
+   "address": "兵庫県神戸市中央区加納町６丁目",
+   "access": "貿易センター駅から西へ約270m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06813/"
   },
   {
    "name": "『ゾフィーのウルトラマンゲート』",
@@ -7055,6 +7319,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03491/"
+  },
+  {
+   "name": "『ドキンちゃん』",
+   "lat": 34.6789921,
+   "lng": 135.1810064,
+   "address": "兵庫県神戸市中央区東川崎町１丁目",
+   "access": "ハーバーランド駅から東へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06814/"
   },
   {
    "name": "『ドッキーくん』",
@@ -7321,6 +7597,18 @@
    "url": "https://www.memorial-object.jp/02736/"
   },
   {
+   "name": "『バイキンマン』",
+   "lat": 34.678863,
+   "lng": 135.1812282,
+   "address": "兵庫県神戸市中央区東川崎町１丁目",
+   "access": "ハーバーランド駅から東へ約210m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06815/"
+  },
+  {
    "name": "『パイプ状のモニュメント』",
    "lat": 35.374616998292986,
    "lng": 139.18412026959246,
@@ -7343,6 +7631,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03185/"
+  },
+  {
+   "name": "『パンジー』",
+   "lat": 34.6888423,
+   "lng": 135.1965294,
+   "address": "兵庫県神戸市中央区加納町６丁目",
+   "access": "貿易センター駅から西へ約270m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06816/"
   },
   {
    "name": "『パンダ』",
@@ -7753,6 +8053,18 @@
    "url": "https://www.memorial-object.jp/01216/"
   },
   {
+   "name": "『ペチュニア』",
+   "lat": 34.6889398,
+   "lng": 135.1964779,
+   "address": "兵庫県神戸市中央区加納町６丁目",
+   "access": "貿易センター駅から西へ約280m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06817/"
+  },
+  {
    "name": "『ペディーポーリー モニュメント』",
    "lat": 34.2128336,
    "lng": 133.8779247,
@@ -7849,6 +8161,18 @@
    "url": "https://www.memorial-object.jp/03254/"
   },
   {
+   "name": "『ボウリング発祥の地』",
+   "lat": 34.6874734,
+   "lng": 135.1958732,
+   "address": "兵庫県神戸市中央区加納町６丁目",
+   "access": "貿易センター駅から南西へ約390m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06818/"
+  },
+  {
    "name": "『ボードワン博士像』",
    "lat": 35.7166681,
    "lng": 139.7741068,
@@ -7859,6 +8183,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01181/"
+  },
+  {
+   "name": "『ボードワン領事像』",
+   "lat": 34.6771195,
+   "lng": 135.2038475,
+   "address": "兵庫県神戸市中央区港島２丁目",
+   "access": "ポートターミナル駅から南へ約490m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06819/"
   },
   {
    "name": "『マイルストーン「まぐろと大根」』",
@@ -8017,6 +8353,18 @@
    "url": "https://www.memorial-object.jp/06023/"
   },
   {
+   "name": "『マリーゴールド』",
+   "lat": 34.688963,
+   "lng": 135.1964665,
+   "address": "兵庫県神戸市中央区加納町６丁目",
+   "access": "貿易センター駅から西へ約280m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06820/"
+  },
+  {
    "name": "『マルト様』",
    "lat": 33.5895065,
    "lng": 132.7304793,
@@ -8162,6 +8510,18 @@
    "url": "https://www.memorial-object.jp/02995/"
   },
   {
+   "name": "『メリケン地蔵尊』",
+   "lat": 34.6855652,
+   "lng": 135.1901639,
+   "address": "兵庫県神戸市中央区波止場町",
+   "access": "旧居留地・大丸前駅から南へ約450m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06821/"
+  },
+  {
    "name": "『モアイ像』",
    "lat": 34.3895988,
    "lng": 134.0527004,
@@ -8280,6 +8640,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03092/"
+  },
+  {
+   "name": "『ユーモアディスプレイ』",
+   "lat": 34.6770482,
+   "lng": 135.1831768,
+   "address": "兵庫県神戸市中央区東川崎町１丁目",
+   "access": "ハーバーランド駅から南東へ約450m",
+   "categories": [
+    "商業地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06624/"
   },
   {
    "name": "『ヨンデル』",
@@ -9206,6 +9578,18 @@
    "url": "https://www.memorial-object.jp/01703/"
   },
   {
+   "name": "『三十三番 谷汲山』",
+   "lat": 34.7951813,
+   "lng": 135.243061,
+   "address": "兵庫県神戸市北区有野町唐櫃",
+   "access": "有馬温泉駅から南西へ約540m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06787/"
+  },
+  {
    "name": "『三十三観音 六地蔵 建立記念碑』",
    "lat": 35.667178,
    "lng": 139.2477907,
@@ -9228,6 +9612,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06132/"
+  },
+  {
+   "name": "『三十番 竹生嶋』",
+   "lat": 34.7952908,
+   "lng": 135.2431507,
+   "address": "兵庫県神戸市北区有野町唐櫃",
+   "access": "有馬温泉駅から南西へ約520m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06788/"
   },
   {
    "name": "『三反田五輪卒塔婆』",
@@ -9348,6 +9744,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03353/"
+  },
+  {
+   "name": "『三宝荒神』",
+   "lat": 34.9093515,
+   "lng": 135.116571,
+   "address": "兵庫県三木市吉川町前田９９１",
+   "access": "相野駅から約5.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06742/"
   },
   {
    "name": "『三宮神社』",
@@ -9555,6 +9963,18 @@
   },
   {
    "name": "『三界萬霊』",
+   "lat": 34.9727307,
+   "lng": 135.0818855,
+   "address": "兵庫県加東市平木１１９４",
+   "access": "藍本駅から約6.7km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06734/"
+  },
+  {
+   "name": "『三界萬霊』",
    "lat": 33.3797662,
    "lng": 132.81717,
    "address": "愛媛県西予市城川町川津南",
@@ -9636,6 +10056,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05021/"
+  },
+  {
+   "name": "『三皌王菩薩』",
+   "lat": 34.9373514,
+   "lng": 134.829058,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06696/"
   },
   {
    "name": "『三社大口真大神』",
@@ -10020,6 +10452,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00823/"
+  },
+  {
+   "name": "『下宮 稗田神社御旅所』",
+   "lat": 34.8374172,
+   "lng": 134.5760675,
+   "address": "兵庫県揖保郡太子町鵤７２７",
+   "access": "網干駅から約2.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06644/"
   },
   {
    "name": "『下山国鉄総裁追憶碑』",
@@ -11546,6 +11990,18 @@
    "url": "https://www.memorial-object.jp/03339/"
   },
   {
+   "name": "『二十七番 書寫山』",
+   "lat": 34.7958078,
+   "lng": 135.2432438,
+   "address": "兵庫県神戸市北区有野町唐櫃",
+   "access": "有馬温泉駅から南西へ約470m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06789/"
+  },
+  {
    "name": "『二十三夜』",
    "lat": 35.6698338,
    "lng": 139.2568637,
@@ -11616,6 +12072,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03929/"
+  },
+  {
+   "name": "『二十六番 法華山』",
+   "lat": 34.7956446,
+   "lng": 135.2435198,
+   "address": "兵庫県神戸市北区有馬町",
+   "access": "有馬温泉駅から南西へ約470m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06790/"
   },
   {
    "name": "『二子橋』",
@@ -12012,6 +12480,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03631/"
+  },
+  {
+   "name": "『井原西鶴句碑』",
+   "lat": 34.8704521,
+   "lng": 134.5416865,
+   "address": "兵庫県たつの市龍野町中霞城２",
+   "access": "本竜野駅から約1.5km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06635/"
   },
   {
    "name": "『井原輝一翁像』",
@@ -13275,6 +13755,18 @@
   },
   {
    "name": "『供養塔』",
+   "lat": 34.8374367,
+   "lng": 134.5758603,
+   "address": "兵庫県揖保郡太子町鵤７０９",
+   "access": "網干駅から約2.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06645/"
+  },
+  {
+   "name": "『供養塔』",
    "lat": 35.1401943,
    "lng": 139.632525,
    "address": "神奈川県三浦市宮川町",
@@ -13406,6 +13898,18 @@
    "url": "https://www.memorial-object.jp/02224/"
   },
   {
+   "name": "『保食命』",
+   "lat": 34.9093916,
+   "lng": 135.1165337,
+   "address": "兵庫県三木市吉川町前田９９１",
+   "access": "相野駅から約5.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06743/"
+  },
+  {
    "name": "『修行大師』",
    "lat": 34.7901141,
    "lng": 134.6939878,
@@ -13500,6 +14004,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04385/"
+  },
+  {
+   "name": "『倶生神』",
+   "lat": 34.9373741,
+   "lng": 134.8292876,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06697/"
   },
   {
    "name": "『健康の守り神』",
@@ -13716,6 +14232,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00418/"
+  },
+  {
+   "name": "『光明王菩薩』",
+   "lat": 34.9373716,
+   "lng": 134.8290806,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06698/"
   },
   {
    "name": "『光花石碑』",
@@ -14654,6 +15182,18 @@
    "url": "https://www.memorial-object.jp/05232/"
   },
   {
+   "name": "『六地蔵立像浮彫六角石幢』",
+   "lat": 34.9372636,
+   "lng": 134.8292172,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06699/"
+  },
+  {
    "name": "『六字名号碑』",
    "lat": 35.5344881,
    "lng": 139.7290344,
@@ -14964,6 +15504,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05986/"
+  },
+  {
+   "name": "『内務省表彰紀念』",
+   "lat": 34.9094941,
+   "lng": 135.1162919,
+   "address": "兵庫県三木市吉川町前田９９１",
+   "access": "相野駅から約5.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06744/"
   },
   {
    "name": "『内川新田開拓記念碑』",
@@ -15435,6 +15987,18 @@
   },
   {
    "name": "『別所村道路元標』",
+   "lat": 34.7913342,
+   "lng": 134.9593873,
+   "address": "兵庫県三木市別所町東這田６６０",
+   "access": "大村駅から約2.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06745/"
+  },
+  {
+   "name": "『別所村道路元標』",
    "lat": 34.807287,
    "lng": 134.7556031,
    "address": "兵庫県姫路市別所町別所",
@@ -15528,6 +16092,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01361/"
+  },
+  {
+   "name": "『創建時の正門の石柱』",
+   "lat": 34.9139429,
+   "lng": 134.9648503,
+   "address": "兵庫県加東市社７７７",
+   "access": "社町駅から約2.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06735/"
+  },
+  {
+   "name": "『創立80周年記念モニュメントについて』",
+   "lat": 34.7513094,
+   "lng": 135.4027616,
+   "address": "兵庫県尼崎市上ノ島町１丁目３７",
+   "access": "武庫之荘駅から約0.9km",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06756/"
   },
   {
    "name": "『創立千百十八年奉祝碑』",
@@ -15674,6 +16262,18 @@
    "url": "https://www.memorial-object.jp/05674/"
   },
   {
+   "name": "『加古村役場跡』",
+   "lat": 34.7634022,
+   "lng": 134.9097229,
+   "address": "兵庫県加古郡稲美町加古２３１６",
+   "access": "厄神駅から約3.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06676/"
+  },
+  {
    "name": "『加持水』",
    "lat": 35.779686,
    "lng": 139.7797349,
@@ -15696,6 +16296,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04544/"
+  },
+  {
+   "name": "『加茂村道路元標』",
+   "lat": 34.9415287,
+   "lng": 134.964273,
+   "address": "兵庫県加東市新町１４５",
+   "access": "滝野駅から約0.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06736/"
   },
   {
    "name": "『加藤嘉明公騎馬像』",
@@ -16322,6 +16934,18 @@
    "url": "https://www.memorial-object.jp/02939/"
   },
   {
+   "name": "『北谷村道路元標』",
+   "lat": 34.9094906,
+   "lng": 135.1160753,
+   "address": "兵庫県三木市吉川町前田９９１",
+   "access": "相野駅から約5.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06746/"
+  },
+  {
    "name": "『北辰社牧場跡』",
    "lat": 35.6986699,
    "lng": 139.7494767,
@@ -16842,7 +17466,7 @@
    "lat": 33.3701061,
    "lng": 132.7075815,
    "address": "愛媛県西予市城川町魚成",
-   "access": "大内駅から約11.0km",
+   "access": "大内駅から直線で約11.0km（最寄りのバス停：神田橋 約720m）",
    "categories": [
     "道路沿い"
    ],
@@ -17342,6 +17966,18 @@
    "url": "https://www.memorial-object.jp/03257/"
   },
   {
+   "name": "『口吉川村道路元標』",
+   "lat": 34.8606584,
+   "lng": 135.0670874,
+   "address": "兵庫県三木市口吉川町殿畑２３",
+   "access": "恵比須駅から約9.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06747/"
+  },
+  {
    "name": "『口留番所跡』",
    "lat": 35.6711533,
    "lng": 139.2119265,
@@ -17522,6 +18158,18 @@
    "url": "https://www.memorial-object.jp/06316/"
   },
   {
+   "name": "『史跡 五色塚（千壺）古墳』",
+   "lat": 34.6304802,
+   "lng": 135.0465411,
+   "address": "兵庫県神戸市垂水区五色山４丁目",
+   "access": "霞ヶ丘駅から東へ約370m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06785/"
+  },
+  {
    "name": "『史跡 八王子城千疊敷』",
    "lat": 35.6531129,
    "lng": 139.257121,
@@ -17580,6 +18228,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06086/"
+  },
+  {
+   "name": "『史跡 舞子砲䑓跡 兵庫縣』",
+   "lat": 34.6332416,
+   "lng": 135.0323205,
+   "address": "兵庫県神戸市垂水区東舞子町",
+   "access": "舞子駅から西へ約140m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06786/"
   },
   {
    "name": "『史跡　亀甲山古墳』",
@@ -20366,6 +21026,18 @@
    "url": "https://www.memorial-object.jp/00979/"
   },
   {
+   "name": "『地花善』",
+   "lat": 34.7256262,
+   "lng": 135.4036501,
+   "address": "兵庫県尼崎市西難波町３丁目２",
+   "access": "出屋敷駅から約0.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06757/"
+  },
+  {
    "name": "『地蔵 道しるべ』",
    "lat": 35.647139,
    "lng": 139.701609,
@@ -20916,6 +21588,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01891/"
+  },
+  {
+   "name": "『地蔵道標』",
+   "lat": 34.736354,
+   "lng": 135.445879,
+   "address": "兵庫県尼崎市西川２丁目２５",
+   "access": "加島駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06758/"
   },
   {
    "name": "『地金神』",
@@ -21866,6 +22550,18 @@
    "url": "https://www.memorial-object.jp/03099/"
   },
   {
+   "name": "『大井組顕彰碑』",
+   "lat": 34.7570317,
+   "lng": 135.4332815,
+   "address": "兵庫県尼崎市口田中１丁目２４",
+   "access": "塚口駅から約1.0km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06759/"
+  },
+  {
    "name": "『大仏』",
    "lat": 35.7213215,
    "lng": 139.726122,
@@ -21972,6 +22668,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02618/"
+  },
+  {
+   "name": "『大勢至菩薩』",
+   "lat": 34.9374194,
+   "lng": 134.8290697,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06700/"
   },
   {
    "name": "『大原稲荷大神』",
@@ -22142,6 +22850,18 @@
    "url": "https://www.memorial-object.jp/00739/"
   },
   {
+   "name": "『大威徳王菩薩』",
+   "lat": 34.9373371,
+   "lng": 134.829058,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06701/"
+  },
+  {
    "name": "『大定智悲』",
    "lat": 33.3701054,
    "lng": 132.7075785,
@@ -22200,6 +22920,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02498/"
+  },
+  {
+   "name": "『大宮姫命』",
+   "lat": 34.909361,
+   "lng": 135.116562,
+   "address": "兵庫県三木市吉川町前田９９１",
+   "access": "相野駅から約5.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06748/"
   },
   {
    "name": "『大宮庫吉翁寿像』",
@@ -22296,6 +23028,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04191/"
+  },
+  {
+   "name": "『大己貴命』",
+   "lat": 34.9093706,
+   "lng": 135.1165531,
+   "address": "兵庫県三木市吉川町前田９９１",
+   "access": "相野駅から約5.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06749/"
   },
   {
    "name": "『大師像』",
@@ -22416,6 +23160,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02944/"
+  },
+  {
+   "name": "『大日如来』",
+   "lat": 34.9373677,
+   "lng": 134.8293085,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06702/"
   },
   {
    "name": "『大日如来』",
@@ -22560,6 +23316,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05848/"
+  },
+  {
+   "name": "『大杉大天狗 御神霊碑』",
+   "lat": 34.7183954,
+   "lng": 135.178122,
+   "address": "兵庫県神戸市中央区神戸港地方１",
+   "access": "新神戸駅から約2.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06625/"
   },
   {
    "name": "『大村由巳像』",
@@ -23138,6 +23906,18 @@
    "url": "https://www.memorial-object.jp/02829/"
   },
   {
+   "name": "『大自在王菩薩』",
+   "lat": 34.9373441,
+   "lng": 134.8290577,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06703/"
+  },
+  {
    "name": "『大野伴睦記念碑』",
    "lat": 35.6548641,
    "lng": 139.747742,
@@ -23654,6 +24434,18 @@
    "url": "https://www.memorial-object.jp/02666/"
   },
   {
+   "name": "『天満宮』",
+   "lat": 34.7234549,
+   "lng": 135.4284279,
+   "address": "兵庫県尼崎市長洲本通３丁目４",
+   "access": "大物駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06760/"
+  },
+  {
    "name": "『天満宮一千年記念碑』",
    "lat": 35.6183762,
    "lng": 139.7404806,
@@ -23664,6 +24456,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03203/"
+  },
+  {
+   "name": "『天満宮趾』",
+   "lat": 34.7574902,
+   "lng": 135.4361656,
+   "address": "兵庫県尼崎市食満７丁目６",
+   "access": "塚口駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06761/"
   },
   {
    "name": "『天然紀念物 曾根ノ松』",
@@ -23784,6 +24588,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03450/"
+  },
+  {
+   "name": "『天狗』",
+   "lat": 34.7183993,
+   "lng": 135.1781251,
+   "address": "兵庫県神戸市中央区神戸港地方１",
+   "access": "新神戸駅から約2.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06626/"
+  },
+  {
+   "name": "『天狗の森の妖翁』",
+   "lat": 34.9569572,
+   "lng": 134.7646791,
+   "address": "兵庫県神崎郡福崎町西田原１０２７",
+   "access": "福崎駅から約1.3km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06680/"
   },
   {
    "name": "『天狗像』",
@@ -24350,6 +25178,18 @@
    "url": "https://www.memorial-object.jp/00377/"
   },
   {
+   "name": "『奥吉川村道路元標』",
+   "lat": 34.8808164,
+   "lng": 135.1450257,
+   "address": "兵庫県三木市吉川町毘沙門４１１",
+   "access": "南ウッディタウン駅から約4.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06750/"
+  },
+  {
    "name": "『奥本傳吉君顕彰碑』",
    "lat": 34.7811393,
    "lng": 134.5866267,
@@ -24470,6 +25310,30 @@
    "url": "https://www.memorial-object.jp/05806/"
   },
   {
+   "name": "『妖怪ベンチ「一つ目小僧」』",
+   "lat": 34.9496578,
+   "lng": 134.7598187,
+   "address": "兵庫県神崎郡福崎町南田原３１０９",
+   "access": "福崎駅から約1.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06681/"
+  },
+  {
+   "name": "『妖怪ベンチ「一反もめん」』",
+   "lat": 34.9501993,
+   "lng": 134.7608506,
+   "address": "兵庫県神崎郡福崎町西田原１４０３",
+   "access": "福崎駅から約1.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06682/"
+  },
+  {
    "name": "『妖怪ベンチ「天狗」』",
    "lat": 34.9609276,
    "lng": 134.7524025,
@@ -24482,6 +25346,18 @@
    "url": "https://www.memorial-object.jp/06495/"
   },
   {
+   "name": "『妖怪ベンチ「座敷童子」』",
+   "lat": 34.9563576,
+   "lng": 134.7645651,
+   "address": "兵庫県神崎郡福崎町西田原１０２０",
+   "access": "福崎駅から約1.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06683/"
+  },
+  {
    "name": "『妖怪ベンチ「河童」』",
    "lat": 34.9604867,
    "lng": 134.7508764,
@@ -24492,6 +25368,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06496/"
+  },
+  {
+   "name": "『妖怪ベンチ「油すまし」』",
+   "lat": 34.9567199,
+   "lng": 134.7644634,
+   "address": "兵庫県神崎郡福崎町西田原１０２７",
+   "access": "福崎駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06684/"
+  },
+  {
+   "name": "『妖怪ベンチ「海ぼうず」』",
+   "lat": 34.9561678,
+   "lng": 134.7615674,
+   "address": "兵庫県神崎郡福崎町西田原１２１９",
+   "access": "福崎駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06685/"
   },
   {
    "name": "『妖怪ベンチ「猫また」』",
@@ -24540,6 +25440,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02129/"
+  },
+  {
+   "name": "『妙法日明霊位菩薩之塔』",
+   "lat": 34.7951179,
+   "lng": 135.2429559,
+   "address": "兵庫県神戸市北区有野町唐櫃",
+   "access": "有馬温泉駅から南西へ約550m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06791/"
   },
   {
    "name": "『妻鹿城趾の碑』",
@@ -24768,6 +25680,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01594/"
+  },
+  {
+   "name": "『子安地蔵尊』",
+   "lat": 34.7470637,
+   "lng": 135.381792,
+   "address": "兵庫県尼崎市南武庫之荘８丁目２０",
+   "access": "甲子園口駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06762/"
   },
   {
    "name": "『子安地蔵尊』",
@@ -25730,6 +26654,18 @@
    "url": "https://www.memorial-object.jp/06408/"
   },
   {
+   "name": "『定自在王菩薩』",
+   "lat": 34.9373494,
+   "lng": 134.8290799,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06704/"
+  },
+  {
    "name": "『宝くじ桜植栽地』",
    "lat": 34.7698774,
    "lng": 134.7755649,
@@ -25766,6 +26702,18 @@
    "url": "https://www.memorial-object.jp/01596/"
   },
   {
+   "name": "『宝津村道路元標』",
+   "lat": 34.7672516,
+   "lng": 134.5053866,
+   "address": "兵庫県たつの市御津町室津４５０",
+   "access": "西相生駅から約6.3km",
+   "categories": [
+    "公共施設"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06636/"
+  },
+  {
    "name": "『宝篋印塔』",
    "lat": 34.7552411,
    "lng": 134.851124,
@@ -25788,6 +26736,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01745/"
+  },
+  {
+   "name": "『宝蔵菩薩』",
+   "lat": 34.9373865,
+   "lng": 134.8290818,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06705/"
   },
   {
    "name": "『宝鈴和鳴』",
@@ -26306,6 +27266,18 @@
    "url": "https://www.memorial-object.jp/02884/"
   },
   {
+   "name": "『富松神社』",
+   "lat": 34.7571937,
+   "lng": 135.4019411,
+   "address": "兵庫県尼崎市富松町２丁目２４",
+   "access": "武庫之荘駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06763/"
+  },
+  {
    "name": "『富水の井戸』",
    "lat": 35.29608167862367,
    "lng": 139.14521031009036,
@@ -26316,6 +27288,18 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00237_1.jpg",
    "url": "https://www.memorial-object.jp/00237/"
+  },
+  {
+   "name": "『富田村道路元標』",
+   "lat": 34.9381761,
+   "lng": 134.8143328,
+   "address": "兵庫県加西市窪田町２１",
+   "access": "北条町駅から約1.9km",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06706/"
   },
   {
    "name": "『富貴には遠し年々牡丹見る』",
@@ -26628,6 +27612,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01286/"
+  },
+  {
+   "name": "『小園土地区画整理事業　記念碑』",
+   "lat": 34.7406151,
+   "lng": 135.4370265,
+   "address": "兵庫県尼崎市下坂部３丁目１５",
+   "access": "尼崎駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06764/"
   },
   {
    "name": "『小土呂橋親柱』",
@@ -27158,6 +28154,18 @@
    "url": "https://www.memorial-object.jp/06562/"
   },
   {
+   "name": "『尼崎市指定文化財 長洲天満神社本殿』",
+   "lat": 34.7238479,
+   "lng": 135.4284641,
+   "address": "兵庫県尼崎市長洲本通３丁目５",
+   "access": "大物駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06765/"
+  },
+  {
    "name": "『尼崎藩領界石』",
    "lat": 34.7305469,
    "lng": 135.2820893,
@@ -27470,6 +28478,18 @@
    "url": "https://www.memorial-object.jp/04970/"
   },
   {
+   "name": "『山海慧菩薩』",
+   "lat": 34.9373737,
+   "lng": 134.8290587,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06707/"
+  },
+  {
    "name": "『山片蟠桃像』",
    "lat": 34.7885907,
    "lng": 134.8054571,
@@ -27660,6 +28680,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03492/"
+  },
+  {
+   "name": "『岸原前住職歌碑』",
+   "lat": 34.9371878,
+   "lng": 134.8290189,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06708/"
   },
   {
    "name": "『岸清一先生』",
@@ -28718,6 +29750,30 @@
    "url": "https://www.memorial-object.jp/05881/"
   },
   {
+   "name": "『常松小学校発祥の地』",
+   "lat": 34.7669162,
+   "lng": 135.3786782,
+   "address": "兵庫県尼崎市常松２丁目７",
+   "access": "甲東園駅から約1.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06766/"
+  },
+  {
+   "name": "『常照地蔵尊』",
+   "lat": 34.7630236,
+   "lng": 135.3816039,
+   "address": "兵庫県尼崎市常吉２丁目１２",
+   "access": "武庫之荘駅から約1.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06767/"
+  },
+  {
    "name": "『常燈明』",
    "lat": 35.7368654,
    "lng": 139.8955858,
@@ -29412,6 +30468,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06331/"
+  },
+  {
+   "name": "『平福地域浸水実績図』",
+   "lat": 35.0407588,
+   "lng": 134.3696172,
+   "address": "兵庫県佐用郡佐用町平福",
+   "access": "平福駅から南西へ約390m",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06695/"
   },
   {
    "name": "『平經俊之墳』",
@@ -30987,6 +32055,30 @@
   },
   {
    "name": "『延命地蔵尊』",
+   "lat": 34.7953074,
+   "lng": 135.2432459,
+   "address": "兵庫県神戸市北区有馬町",
+   "access": "有馬温泉駅から南西へ約520m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06792/"
+  },
+  {
+   "name": "『延命地蔵尊』",
+   "lat": 34.7452462,
+   "lng": 135.4123755,
+   "address": "兵庫県尼崎市南塚口町７丁目１６",
+   "access": "塚口駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06768/"
+  },
+  {
+   "name": "『延命地蔵尊』",
    "lat": 34.6867854,
    "lng": 135.1748139,
    "address": "兵庫県神戸市中央区中山手通８丁目１",
@@ -31503,6 +32595,18 @@
   },
   {
    "name": "『弘法大師』",
+   "lat": 34.7951371,
+   "lng": 135.2429555,
+   "address": "兵庫県神戸市北区有野町唐櫃",
+   "access": "有馬温泉駅から南西へ約550m",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06793/"
+  },
+  {
+   "name": "『弘法大師』",
    "lat": 35.4398348,
    "lng": 139.6194872,
    "address": "神奈川県横浜市南区西中町３丁目５８",
@@ -31644,6 +32748,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04251/"
+  },
+  {
+   "name": "『弘法大師自作亀石』",
+   "lat": 34.7177293,
+   "lng": 135.1777891,
+   "address": "兵庫県神戸市中央区神戸港地方１",
+   "access": "新神戸駅から約2.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06627/"
   },
   {
    "name": "『弘法大師靈場』",
@@ -31788,6 +32904,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06279/"
+  },
+  {
+   "name": "『役行者』",
+   "lat": 34.747126,
+   "lng": 135.3830355,
+   "address": "兵庫県尼崎市南武庫之荘８丁目１６",
+   "access": "武庫之荘駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06769/"
   },
   {
    "name": "『征清戦勝記念碑』",
@@ -32906,6 +34034,18 @@
    "url": "https://www.memorial-object.jp/05974/"
   },
   {
+   "name": "『徳蔵菩薩』",
+   "lat": 34.9373885,
+   "lng": 134.8290599,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06709/"
+  },
+  {
    "name": "『心と創造 筆塚』",
    "lat": 35.6576652,
    "lng": 139.7497456,
@@ -33651,6 +34791,18 @@
   },
   {
    "name": "『忠魂碑』",
+   "lat": 34.7596312,
+   "lng": 135.3818693,
+   "address": "兵庫県尼崎市武庫元町１丁目３３",
+   "access": "武庫之荘駅から約1.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06770/"
+  },
+  {
+   "name": "『忠魂碑』",
    "lat": 33.2913643,
    "lng": 132.6082115,
    "address": "愛媛県宇和島市三間町宮野下",
@@ -33986,6 +35138,18 @@
    "url": "https://www.memorial-object.jp/06491/"
   },
   {
+   "name": "『怪しい抜け道』",
+   "lat": 34.9571946,
+   "lng": 134.7644414,
+   "address": "兵庫県神崎郡福崎町西田原１０３７",
+   "access": "福崎駅から約1.3km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06686/"
+  },
+  {
    "name": "『恋文横丁跡』",
    "lat": 35.6598331,
    "lng": 139.6984889,
@@ -34008,6 +35172,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06286/"
+  },
+  {
+   "name": "『息遊軒遺跡』",
+   "lat": 34.6964783,
+   "lng": 135.0670646,
+   "address": "兵庫県神戸市西区伊川谷町前開２１７",
+   "access": "総合運動公園駅から約1.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06632/"
   },
   {
    "name": "『恵比寿』",
@@ -34176,6 +35352,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04083/"
+  },
+  {
+   "name": "『愛の鍵モニュメント』",
+   "lat": 34.6974872,
+   "lng": 135.1806176,
+   "address": "兵庫県神戸市中央区神戸港地方",
+   "access": "県庁前駅から北西へ約780m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06628/"
   },
   {
    "name": "『愛の鐘』",
@@ -34488,6 +35676,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06013/"
+  },
+  {
+   "name": "『慰霊碑』",
+   "lat": 34.7410692,
+   "lng": 135.4267529,
+   "address": "兵庫県尼崎市久々知３丁目２７",
+   "access": "塚口駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06771/"
   },
   {
    "name": "『慰霊碑』",
@@ -35066,6 +36266,18 @@
    "url": "https://www.memorial-object.jp/01376/"
   },
   {
+   "name": "『戦艦「榛名」マスト』",
+   "lat": 34.7268863,
+   "lng": 135.4110638,
+   "address": "兵庫県尼崎市東難波町３丁目１１",
+   "access": "尼崎駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06772/"
+  },
+  {
    "name": "『戰没者慰靈碑』",
    "lat": 35.486569,
    "lng": 139.5699985,
@@ -35076,6 +36288,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03934/"
+  },
+  {
+   "name": "『戸原村道路元標』",
+   "lat": 34.9783762,
+   "lng": 134.5500715,
+   "address": "兵庫県宍粟市山崎町川戸４４１",
+   "access": "播磨新宮駅から約6.4km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06694/"
   },
   {
    "name": "『戸田伊豆守』",
@@ -35402,6 +36626,18 @@
    "url": "https://www.memorial-object.jp/00218/"
   },
   {
+   "name": "『招き鵺』",
+   "lat": 34.9570564,
+   "lng": 134.7645959,
+   "address": "兵庫県神崎郡福崎町西田原１０２７",
+   "access": "福崎駅から約1.3km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06687/"
+  },
+  {
    "name": "『招福　仲よし童』",
    "lat": 35.6074532,
    "lng": 139.7314804,
@@ -35592,6 +36828,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03972/"
+  },
+  {
+   "name": "『揖保村道路元標』",
+   "lat": 34.8279871,
+   "lng": 134.545778,
+   "address": "兵庫県たつの市揖保町西構８０",
+   "access": "竜野駅から約2.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06637/"
   },
   {
    "name": "『搦手門跡』",
@@ -36194,6 +37442,18 @@
    "url": "https://www.memorial-object.jp/03029/"
   },
   {
+   "name": "『文珠菩薩』",
+   "lat": 34.9373695,
+   "lng": 134.8293049,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06710/"
+  },
+  {
    "name": "『文竹稲荷大明神』",
    "lat": 35.7266258,
    "lng": 139.7708657,
@@ -36204,6 +37464,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01773/"
+  },
+  {
+   "name": "『斑鳩寺 仮事務所』",
+   "lat": 34.8369989,
+   "lng": 134.5756179,
+   "address": "兵庫県揖保郡太子町鵤７０９",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06646/"
+  },
+  {
+   "name": "『斑鳩村道路元標』",
+   "lat": 34.8328426,
+   "lng": 134.5772497,
+   "address": "兵庫県揖保郡太子町鵤１０３",
+   "access": "網干駅から約2.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06647/"
   },
   {
    "name": "『料理包丁道 研鑽報徳之碑』",
@@ -36648,6 +37932,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03103/"
+  },
+  {
+   "name": "『新西國廿五番』",
+   "lat": 34.6967561,
+   "lng": 135.0644857,
+   "address": "兵庫県神戸市西区伊川谷町前開２８３",
+   "access": "学園都市駅から約1.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06633/"
   },
   {
    "name": "『新西國第廿三番 観音霊場』",
@@ -37454,6 +38750,18 @@
    "url": "https://www.memorial-object.jp/02084/"
   },
   {
+   "name": "『日照王菩薩』",
+   "lat": 34.9373573,
+   "lng": 134.8290801,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06711/"
+  },
+  {
    "name": "『日米友好ガールスカウトの像』",
    "lat": 35.4456547,
    "lng": 139.6506041,
@@ -38234,6 +39542,18 @@
    "url": "https://www.memorial-object.jp/06427/"
   },
   {
+   "name": "『旧立花支所跡』",
+   "lat": 34.7450228,
+   "lng": 135.4076603,
+   "address": "兵庫県尼崎市栗山町１丁目２１",
+   "access": "立花駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06773/"
+  },
+  {
    "name": "『旧葛西海岸堤防記念碑』",
    "lat": 35.6656278,
    "lng": 139.8522114,
@@ -38605,6 +39925,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00868/"
+  },
+  {
+   "name": "『明治天皇山田御小休所』",
+   "lat": 34.8348425,
+   "lng": 134.6214337,
+   "address": "兵庫県揖保郡太子町山田４３０",
+   "access": "はりま勝原駅から約2.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06648/"
   },
   {
    "name": "『明治天皇御臨幸記念』",
@@ -39244,6 +40576,18 @@
   },
   {
    "name": "『普賢菩薩』",
+   "lat": 34.9374052,
+   "lng": 134.8290851,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06712/"
+  },
+  {
+   "name": "『普賢菩薩』",
    "lat": 35.6577959,
    "lng": 139.7480011,
    "address": "東京都港区芝公園４丁目",
@@ -39253,6 +40597,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03034/"
+  },
+  {
+   "name": "『普賢菩薩菩薩』",
+   "lat": 34.9373734,
+   "lng": 134.8292962,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06713/"
   },
   {
    "name": "『智』",
@@ -39495,6 +40851,18 @@
    "url": "https://www.memorial-object.jp/01781/"
   },
   {
+   "name": "『月光王菩薩』",
+   "lat": 34.9373594,
+   "lng": 134.8290582,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06714/"
+  },
+  {
    "name": "『月山』",
    "lat": 33.365027,
    "lng": 132.716159,
@@ -39663,6 +41031,18 @@
    "url": "https://www.memorial-object.jp/05888/"
   },
   {
+   "name": "『有馬道』",
+   "lat": 34.7363568,
+   "lng": 135.4463585,
+   "address": "兵庫県尼崎市神崎町３",
+   "access": "加島駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06774/"
+  },
+  {
    "name": "『望欣台の碑』",
    "lat": 35.4715278,
    "lng": 139.6247594,
@@ -39733,6 +41113,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02060/"
+  },
+  {
+   "name": "『朧銀の水のめぐりて初ざくら』",
+   "lat": 34.8684531,
+   "lng": 134.5449856,
+   "address": "兵庫県たつの市龍野町上霞城３",
+   "access": "本竜野駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06638/"
   },
   {
    "name": "『木の実ナナ』",
@@ -39987,6 +41379,18 @@
    "url": "https://www.memorial-object.jp/06577/"
   },
   {
+   "name": "『本殿 兵庫県重要文化財指定 富松神社』",
+   "lat": 34.7564185,
+   "lng": 135.4027702,
+   "address": "兵庫県尼崎市富松町２丁目２５",
+   "access": "武庫之荘駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06775/"
+  },
+  {
    "name": "『本殿屋根葺替記念』",
    "lat": 34.7779378,
    "lng": 134.7731968,
@@ -40033,6 +41437,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06254/"
+  },
+  {
+   "name": "『本荘西地区耕地整理記念』",
+   "lat": 34.7212489,
+   "lng": 134.8590656,
+   "address": "兵庫県加古郡播磨町北本荘３丁目８",
+   "access": "播磨町駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06677/"
   },
   {
    "name": "『本覚院不動尊』",
@@ -41083,7 +42499,7 @@
    "lat": 33.3790387,
    "lng": 132.8154827,
    "address": "愛媛県西予市城川町川津南",
-   "access": "十川駅から約16.4km",
+   "access": "十川駅から直線で約16.4km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -41095,7 +42511,7 @@
    "lat": 33.3790816,
    "lng": 132.8156371,
    "address": "愛媛県西予市城川町川津南",
-   "access": "十川駅から約16.4km",
+   "access": "十川駅から直線で約16.4km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -41107,7 +42523,7 @@
    "lat": 33.3791981,
    "lng": 132.8156318,
    "address": "愛媛県西予市城川町川津南",
-   "access": "十川駅から約16.5km",
+   "access": "十川駅から直線で約16.5km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -41119,7 +42535,7 @@
    "lat": 33.3796892,
    "lng": 132.8162024,
    "address": "愛媛県西予市城川町川津南",
-   "access": "十川駅から約16.5km",
+   "access": "十川駅から直線で約16.5km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -41131,7 +42547,7 @@
    "lat": 33.3794215,
    "lng": 132.8159597,
    "address": "愛媛県西予市城川町川津南",
-   "access": "十川駅から約16.5km",
+   "access": "十川駅から直線で約16.5km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -41155,7 +42571,7 @@
    "lat": 33.3794193,
    "lng": 132.8161018,
    "address": "愛媛県西予市城川町川津南",
-   "access": "十川駅から約16.5km",
+   "access": "十川駅から直線で約16.5km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -41167,7 +42583,7 @@
    "lat": 33.3793448,
    "lng": 132.8162514,
    "address": "愛媛県西予市城川町川津南",
-   "access": "十川駅から約16.5km",
+   "access": "十川駅から直線で約16.5km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -41179,7 +42595,7 @@
    "lat": 33.3793006,
    "lng": 132.8162735,
    "address": "愛媛県西予市城川町川津南",
-   "access": "十川駅から約16.5km",
+   "access": "十川駅から直線で約16.5km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -41191,7 +42607,7 @@
    "lat": 33.3794282,
    "lng": 132.8163204,
    "address": "愛媛県西予市城川町川津南",
-   "access": "十川駅から約16.5km",
+   "access": "十川駅から直線で約16.5km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -41203,7 +42619,7 @@
    "lat": 33.3795363,
    "lng": 132.8163084,
    "address": "愛媛県西予市城川町川津南",
-   "access": "十川駅から約16.5km",
+   "access": "十川駅から直線で約16.5km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -41383,7 +42799,7 @@
    "lat": 33.3625885,
    "lng": 132.7978802,
    "address": "愛媛県西予市城川町高野子",
-   "access": "十川駅から約15.2km",
+   "access": "十川駅から直線で約15.2km（最寄りのバス停：杖野々 約100m）",
    "categories": [
     "その他"
    ],
@@ -41431,7 +42847,7 @@
    "lat": 33.3626169,
    "lng": 132.7978772,
    "address": "愛媛県西予市城川町高野子",
-   "access": "十川駅から約15.2km",
+   "access": "十川駅から直線で約15.2km（最寄りのバス停：杖野々 約100m）",
    "categories": [
     "その他"
    ],
@@ -41773,6 +43189,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06508/"
+  },
+  {
+   "name": "『来迎二十五菩薩』",
+   "lat": 34.9373762,
+   "lng": 134.8290755,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06715/"
   },
   {
    "name": "『東やまと20景　多摩湖サイクリングロード』",
@@ -43323,6 +44751,18 @@
    "url": "https://www.memorial-object.jp/01624/"
   },
   {
+   "name": "『森に吹く風』",
+   "lat": 34.9570589,
+   "lng": 134.7646744,
+   "address": "兵庫県神崎郡福崎町西田原１０２７",
+   "access": "福崎駅から約1.3km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06688/"
+  },
+  {
    "name": "『森の番人』",
    "lat": 33.3077539,
    "lng": 132.5970478,
@@ -44415,6 +45855,18 @@
    "url": "https://www.memorial-object.jp/06583/"
   },
   {
+   "name": "『武庫村道路元標』",
+   "lat": 34.7707879,
+   "lng": 135.3790585,
+   "address": "兵庫県尼崎市西昆陽２丁目３",
+   "access": "甲東園駅から約1.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06776/"
+  },
+  {
    "name": "『武相国境之木』",
    "lat": 35.4366849,
    "lng": 139.5669073,
@@ -44557,6 +46009,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03940/"
+  },
+  {
+   "name": "『歳徳大善神』",
+   "lat": 34.9093723,
+   "lng": 135.1165515,
+   "address": "兵庫県三木市吉川町前田９９１",
+   "access": "相野駅から約5.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06751/"
   },
   {
    "name": "『歴史と文化の散歩道』",
@@ -45447,6 +46911,18 @@
    "url": "https://www.memorial-object.jp/02294/"
   },
   {
+   "name": "『水難碑』",
+   "lat": 34.7972153,
+   "lng": 135.2201829,
+   "address": "兵庫県神戸市北区有野町唐櫃",
+   "access": "有馬口駅から北西へ約100m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06794/"
+  },
+  {
    "name": "『水難者供養塔』",
    "lat": 35.5919475,
    "lng": 139.7365082,
@@ -45927,6 +47403,30 @@
    "url": "https://www.memorial-object.jp/05652/"
   },
   {
+   "name": "『河太郎』",
+   "lat": 34.9569436,
+   "lng": 134.7646293,
+   "address": "兵庫県神崎郡福崎町西田原１０２７",
+   "access": "福崎駅から約1.3km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06689/"
+  },
+  {
+   "name": "『河次郎』",
+   "lat": 34.9569006,
+   "lng": 134.7645686,
+   "address": "兵庫県神崎郡福崎町西田原１０２７",
+   "access": "福崎駅から約1.3km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06690/"
+  },
+  {
    "name": "『河童』",
    "lat": 35.6793393,
    "lng": 139.8202367,
@@ -46192,6 +47692,18 @@
    "url": "https://www.memorial-object.jp/03942/"
   },
   {
+   "name": "『法自在王菩薩』",
+   "lat": 34.9374049,
+   "lng": 134.8290635,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06716/"
+  },
+  {
    "name": "『法華宗宗門史蹟 門祖日隆聖人御霊水』",
    "lat": 34.7173033,
    "lng": 135.4142009,
@@ -46262,6 +47774,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01196/"
+  },
+  {
+   "name": "『泥付地蔵尊』",
+   "lat": 34.7456062,
+   "lng": 135.3829736,
+   "address": "兵庫県尼崎市南武庫之荘８丁目３０",
+   "access": "甲子園口駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06777/"
   },
   {
    "name": "『注連柱』",
@@ -47668,6 +49192,18 @@
    "url": "https://www.memorial-object.jp/06516/"
   },
   {
+   "name": "『淡河村道路元標』",
+   "lat": 34.8145925,
+   "lng": 135.0977487,
+   "address": "兵庫県神戸市北区淡河町淡河７４７",
+   "access": "栄駅から約7.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06619/"
+  },
+  {
    "name": "『深園幼稚園の銘板』",
    "lat": 35.3885527,
    "lng": 139.4962259,
@@ -48110,6 +49646,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06439/"
+  },
+  {
+   "name": "『湯乃山街道 淡河宿本陣跡』",
+   "lat": 34.814584,
+   "lng": 135.0977028,
+   "address": "兵庫県神戸市北区淡河町淡河７４７",
+   "access": "栄駅から約7.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06620/"
   },
   {
    "name": "『湯島天満宮』",
@@ -48556,6 +50104,18 @@
    "url": "https://www.memorial-object.jp/00874/"
   },
   {
+   "name": "『瀧野町道路元標』",
+   "lat": 34.9367492,
+   "lng": 134.9446481,
+   "address": "兵庫県加東市下滝野１２６９",
+   "access": "滝野駅から約1.1km",
+   "categories": [
+    "公共施設"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06737/"
+  },
+  {
    "name": "『瀬山登』",
    "lat": 34.2947798,
    "lng": 133.7934639,
@@ -48796,6 +50356,18 @@
    "url": "https://www.memorial-object.jp/05077/"
   },
   {
+   "name": "『炎魔王』",
+   "lat": 34.937365,
+   "lng": 134.8293085,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06717/"
+  },
+  {
    "name": "『烈士脇光三碑』",
    "lat": 35.6275614,
    "lng": 139.2797754,
@@ -48928,6 +50500,18 @@
    "url": "https://www.memorial-object.jp/02559/"
   },
   {
+   "name": "『無辺身菩薩』",
+   "lat": 34.9373351,
+   "lng": 134.8290799,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06718/"
+  },
+  {
    "name": "『無量院跡』",
    "lat": 35.6797875,
    "lng": 139.2783949,
@@ -48938,6 +50522,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00589/"
+  },
+  {
+   "name": "『照于一隅』",
+   "lat": 34.8368008,
+   "lng": 134.5756256,
+   "address": "兵庫県揖保郡太子町鵤６７８",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06649/"
   },
   {
    "name": "『照四海』",
@@ -49852,6 +51448,18 @@
    "url": "https://www.memorial-object.jp/04892/"
   },
   {
+   "name": "『獅子吼菩薩』",
+   "lat": 34.9373992,
+   "lng": 134.8290838,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06719/"
+  },
+  {
    "name": "『獅子山』",
    "lat": 35.7018006,
    "lng": 139.7679417,
@@ -49886,6 +51494,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01405/"
+  },
+  {
+   "name": "『玉丘史跡公園』",
+   "lat": 34.9205351,
+   "lng": 134.8525006,
+   "address": "兵庫県加西市玉丘町２０５",
+   "access": "北条町駅から約2.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06720/"
   },
   {
    "name": "『玉参拝講』",
@@ -50426,6 +52046,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06190/"
+  },
+  {
+   "name": "『田原村道路元標』",
+   "lat": 34.9562576,
+   "lng": 134.7610299,
+   "address": "兵庫県神崎郡福崎町西田原１２２３",
+   "access": "福崎駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06691/"
   },
   {
    "name": "『田崎慎治先生』",
@@ -51040,6 +52672,18 @@
    "url": "https://www.memorial-object.jp/04369/"
   },
   {
+   "name": "『白象王菩薩』",
+   "lat": 34.9373421,
+   "lng": 134.8290796,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06721/"
+  },
+  {
    "name": "『白頭やま竜神』",
    "lat": 35.4828233,
    "lng": 139.6441499,
@@ -51124,6 +52768,18 @@
    "url": "https://www.memorial-object.jp/06588/"
   },
   {
+   "name": "『百年の輪』",
+   "lat": 34.7507801,
+   "lng": 135.4023374,
+   "address": "兵庫県尼崎市上ノ島町１丁目３８",
+   "access": "武庫之荘駅から約0.8km",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06778/"
+  },
+  {
    "name": "『百度○』",
    "lat": 34.7438107,
    "lng": 134.8031731,
@@ -51158,6 +52814,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06119/"
+  },
+  {
+   "name": "『百度石』",
+   "lat": 34.7234995,
+   "lng": 135.4283776,
+   "address": "兵庫県尼崎市長洲本通３丁目５",
+   "access": "大物駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06779/"
   },
   {
    "name": "『百度石』",
@@ -51916,6 +53584,18 @@
    "url": "https://www.memorial-object.jp/01408/"
   },
   {
+   "name": "『皇太子殿下御成婚記念樹』",
+   "lat": 34.7234475,
+   "lng": 135.4284326,
+   "address": "兵庫県尼崎市長洲本通３丁目４",
+   "access": "大物駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06780/"
+  },
+  {
    "name": "『皇太子殿下御手植松』",
    "lat": 35.53097,
    "lng": 139.4912826,
@@ -52226,6 +53906,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04907/"
+  },
+  {
+   "name": "『県立龍野高等女学校跡地』",
+   "lat": 34.8685093,
+   "lng": 134.5449897,
+   "address": "兵庫県たつの市龍野町上霞城３",
+   "access": "本竜野駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06639/"
   },
   {
    "name": "『真友乃碑』",
@@ -53429,6 +55121,18 @@
    "url": "https://www.memorial-object.jp/00457/"
   },
   {
+   "name": "『社町道路元標』",
+   "lat": 34.9140345,
+   "lng": 134.9647987,
+   "address": "兵庫県加東市社８３８",
+   "access": "社町駅から約2.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06738/"
+  },
+  {
    "name": "『祇園様』",
    "lat": 33.307694,
    "lng": 132.5861072,
@@ -53607,6 +55311,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01325/"
+  },
+  {
+   "name": "『神出村道路元標』",
+   "lat": 34.7465599,
+   "lng": 134.9897359,
+   "address": "兵庫県神戸市西区神出町田井２４６",
+   "access": "緑が丘駅から約3.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06634/"
   },
   {
    "name": "『神名石』",
@@ -53825,6 +55541,18 @@
    "url": "https://www.memorial-object.jp/06461/"
   },
   {
+   "name": "『神戸市年記念碑』",
+   "lat": 34.7125238,
+   "lng": 135.1150098,
+   "address": "兵庫県神戸市北区しあわせの村１",
+   "access": "藍那駅から約2.2km",
+   "categories": [
+    "広場・通り"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06621/"
+  },
+  {
    "name": "『神戸日華実業協会　創立100周年記念』",
    "lat": 34.6842287,
    "lng": 135.1736669,
@@ -53835,6 +55563,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06462/"
+  },
+  {
+   "name": "『神戸有馬ロータリークラブ 創立十周年記念事業』",
+   "lat": 34.798023,
+   "lng": 135.2476411,
+   "address": "兵庫県神戸市北区有馬町",
+   "access": "有馬温泉駅から南東へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06795/"
   },
   {
    "name": "『神戸港震災メモリアルパーク』",
@@ -53859,6 +55599,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06464/"
+  },
+  {
+   "name": "『神戸震災復興記念公園』",
+   "lat": 34.686906,
+   "lng": 135.200592,
+   "address": "兵庫県神戸市中央区小野浜町",
+   "access": "貿易センター駅から南へ約300m",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06629/"
   },
   {
    "name": "『神明六木遊歩道』",
@@ -54221,6 +55973,18 @@
    "url": "https://www.memorial-object.jp/03040/"
   },
   {
+   "name": "『福田村道路元標』",
+   "lat": 34.8989886,
+   "lng": 134.9399246,
+   "address": "兵庫県加東市大門６２９",
+   "access": "青野ヶ原駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06739/"
+  },
+  {
    "name": "『福神殿』",
    "lat": 35.7709693,
    "lng": 139.8782368,
@@ -54579,6 +56343,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01558/"
+  },
+  {
+   "name": "『稲畑汀子句碑』",
+   "lat": 34.8704067,
+   "lng": 134.5419389,
+   "address": "兵庫県たつの市龍野町中霞城２",
+   "access": "本竜野駅から約1.5km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06640/"
   },
   {
    "name": "『稲荷下橋』",
@@ -56261,6 +58037,18 @@
    "url": "https://www.memorial-object.jp/02972/"
   },
   {
+   "name": "『第一番 紀州 那智山』",
+   "lat": 34.8369128,
+   "lng": 134.5762016,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06650/"
+  },
+  {
    "name": "『第一番 那智山青岸渡寺』",
    "lat": 34.8856867,
    "lng": 134.6619706,
@@ -56310,6 +58098,18 @@
    "url": "https://www.memorial-object.jp/00068_kisenosato/"
   },
   {
+   "name": "『第七番 大和 岡寺』",
+   "lat": 34.8369606,
+   "lng": 134.5761933,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06651/"
+  },
+  {
    "name": "『第七番 東光山龍蓋寺』",
    "lat": 34.8861928,
    "lng": 134.6613168,
@@ -56320,6 +58120,30 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06199/"
+  },
+  {
+   "name": "『第三十三番 美濃 谷汲山』",
+   "lat": 34.8371808,
+   "lng": 134.5761557,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06652/"
+  },
+  {
+   "name": "『第三番 紀州 粉河寺』",
+   "lat": 34.8369287,
+   "lng": 134.5761988,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06653/"
   },
   {
    "name": "『第三番 風猛山粉河寺』",
@@ -56394,6 +58218,90 @@
    "url": "https://www.memorial-object.jp/06205/"
   },
   {
+   "name": "『第二十一番 丹波 穴太寺』",
+   "lat": 34.8370867,
+   "lng": 134.5761764,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06654/"
+  },
+  {
+   "name": "『第二十七番 播州 書寫山』",
+   "lat": 34.8371329,
+   "lng": 134.5761644,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06655/"
+  },
+  {
+   "name": "『第二十三番 摂州 勝尾寺』",
+   "lat": 34.8371045,
+   "lng": 134.5761784,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06656/"
+  },
+  {
+   "name": "『第二十九番 丹後 松尾寺』",
+   "lat": 34.8371488,
+   "lng": 134.5761616,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06657/"
+  },
+  {
+   "name": "『第二十二番 摂州 總持寺』",
+   "lat": 34.8370965,
+   "lng": 134.5761797,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06658/"
+  },
+  {
+   "name": "『第二十四番 摂州 中山寺』",
+   "lat": 34.8371124,
+   "lng": 134.576177,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06659/"
+  },
+  {
+   "name": "『第二十番 山城 善峯寺』",
+   "lat": 34.8370802,
+   "lng": 134.5761723,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06660/"
+  },
+  {
    "name": "『第二番 紀三井山金剛宝寺』",
    "lat": 34.8857835,
    "lng": 134.6619049,
@@ -56404,6 +58312,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06206/"
+  },
+  {
+   "name": "『第二番 紀州 紀三井寺』",
+   "lat": 34.8369207,
+   "lng": 134.5762002,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06661/"
   },
   {
    "name": "『第二部解散記念』",
@@ -56418,6 +58338,18 @@
    "url": "https://www.memorial-object.jp/02515/"
   },
   {
+   "name": "『第五番 河内 葛井寺』",
+   "lat": 34.8369446,
+   "lng": 134.5761961,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06662/"
+  },
+  {
    "name": "『第五番 紫雲山葛井寺』",
    "lat": 34.8861312,
    "lng": 134.6614677,
@@ -56428,6 +58360,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06207/"
+  },
+  {
+   "name": "『第八番 大和 長谷寺』",
+   "lat": 34.8369685,
+   "lng": 134.576192,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06663/"
   },
   {
    "name": "『第八番 豊山長谷寺』",
@@ -56478,6 +58422,18 @@
    "url": "https://www.memorial-object.jp/06209/"
   },
   {
+   "name": "『第六番 大和 壷坂寺』",
+   "lat": 34.8369526,
+   "lng": 134.5761947,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06664/"
+  },
+  {
    "name": "『第十一番 深雪山醍醐寺』",
    "lat": 34.8866526,
    "lng": 134.6609648,
@@ -56490,6 +58446,18 @@
    "url": "https://www.memorial-object.jp/06210/"
   },
   {
+   "name": "『第十七番 山城 六波羅蜜寺』",
+   "lat": 34.8370562,
+   "lng": 134.5761768,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06665/"
+  },
+  {
    "name": "『第十七番 補陀洛山六波羅蜜寺』",
    "lat": 34.8872301,
    "lng": 134.6609272,
@@ -56500,6 +58468,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06211/"
+  },
+  {
+   "name": "『第十三番 江州 石山寺』",
+   "lat": 34.8370243,
+   "lng": 134.5761823,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06666/"
   },
   {
    "name": "『第十三番 石光山石山寺』",
@@ -56550,6 +58530,18 @@
    "url": "https://www.memorial-object.jp/06215/"
   },
   {
+   "name": "『第十八番 山城 六角堂』",
+   "lat": 34.8370641,
+   "lng": 134.5761755,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06667/"
+  },
+  {
    "name": "『第十八番 紫雲山頂法寺』",
    "lat": 34.8871883,
    "lng": 134.6610264,
@@ -56560,6 +58552,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06216/"
+  },
+  {
+   "name": "『第十六番 山城 清水寺』",
+   "lat": 34.8370482,
+   "lng": 134.5761782,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06668/"
   },
   {
    "name": "『第十六番 音羽山清水寺』",
@@ -56586,6 +58590,18 @@
    "url": "https://www.memorial-object.jp/06218/"
   },
   {
+   "name": "『第十番 山城 三室戸寺』",
+   "lat": 34.8369845,
+   "lng": 134.5761892,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06669/"
+  },
+  {
    "name": "『第十番 明星山三室戸寺』",
    "lat": 34.8865057,
    "lng": 134.6610305,
@@ -56596,6 +58612,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06219/"
+  },
+  {
+   "name": "『第四番 摂州 槇尾山』",
+   "lat": 34.8369367,
+   "lng": 134.5761975,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06670/"
   },
   {
    "name": "『第四番 槙尾山施福寺』",
@@ -57172,6 +59200,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02974/"
+  },
+  {
+   "name": "『紀念之松』",
+   "lat": 34.8372482,
+   "lng": 134.5754237,
+   "address": "兵庫県揖保郡太子町鵤７０９",
+   "access": "網干駅から約2.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06671/"
   },
   {
    "name": "『紀念燈』",
@@ -57978,6 +60018,18 @@
    "url": "https://www.memorial-object.jp/05946/"
   },
   {
+   "name": "『聖徳太子御旧跡 斑鳩寺』",
+   "lat": 34.8366863,
+   "lng": 134.5756933,
+   "address": "兵庫県揖保郡太子町鵤６７８",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06672/"
+  },
+  {
    "name": "『聖徳太子新西國 第廿七番霊場 刀田山 鶴林寺』",
    "lat": 34.7516536,
    "lng": 134.8324712,
@@ -58000,6 +60052,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05947/"
+  },
+  {
+   "name": "『聖德太子御二歳尊像』",
+   "lat": 34.8369489,
+   "lng": 134.5756576,
+   "address": "兵庫県揖保郡太子町鵤６７８",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06673/"
   },
   {
    "name": "『聖橋の由来』",
@@ -58986,6 +61050,18 @@
    "url": "https://www.memorial-object.jp/02324/"
   },
   {
+   "name": "『茶屋垣内地蔵尊』",
+   "lat": 34.8324752,
+   "lng": 134.5624103,
+   "address": "兵庫県揖保郡太子町阿曽７４",
+   "access": "網干駅から約2.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06674/"
+  },
+  {
    "name": "『茶席門跡』",
    "lat": 35.7495199,
    "lng": 139.7401484,
@@ -59284,6 +61360,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01333/"
+  },
+  {
+   "name": "『華厳王菩薩』",
+   "lat": 34.9373667,
+   "lng": 134.8290587,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06722/"
   },
   {
    "name": "『萩のひろば』",
@@ -59682,6 +61770,18 @@
    "url": "https://www.memorial-object.jp/03046/"
   },
   {
+   "name": "『薬上菩薩』",
+   "lat": 34.9374126,
+   "lng": 134.8290667,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06723/"
+  },
+  {
    "name": "『薬仙寺墓地』",
    "lat": 34.7464985,
    "lng": 134.7997979,
@@ -59716,6 +61816,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04894/"
+  },
+  {
+   "name": "『薬王菩薩』",
+   "lat": 34.9374118,
+   "lng": 134.8290868,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06724/"
   },
   {
    "name": "『薬王菩薩安置』",
@@ -59836,6 +61948,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03403/"
+  },
+  {
+   "name": "『虚空蔵菩薩』",
+   "lat": 34.9373933,
+   "lng": 134.8290828,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06725/"
   },
   {
    "name": "『虚空蔵菩薩』",
@@ -60052,6 +62176,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05633/"
+  },
+  {
+   "name": "『衆宝王菩薩』",
+   "lat": 34.9373646,
+   "lng": 134.8290806,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06726/"
   },
   {
    "name": "『行幸啓お成りの碑』",
@@ -60690,6 +62826,18 @@
    "url": "https://www.memorial-object.jp/06269/"
   },
   {
+   "name": "『西國卅三所観世音』",
+   "lat": 34.8368954,
+   "lng": 134.5761895,
+   "address": "兵庫県揖保郡太子町鵤７１０",
+   "access": "網干駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06675/"
+  },
+  {
    "name": "『西國愛染明王第四番靈場』",
    "lat": 34.7380853,
    "lng": 135.2037629,
@@ -60700,6 +62848,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06078/"
+  },
+  {
+   "name": "『西國札所三十三所観音奉安所』",
+   "lat": 34.9730257,
+   "lng": 135.0818161,
+   "address": "兵庫県加東市平木１１９４",
+   "access": "藍本駅から約6.7km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06740/"
   },
   {
    "name": "『西國街道 兵庫 西惣門跡』",
@@ -61132,6 +63292,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03733/"
+  },
+  {
+   "name": "『観世音菩薩』",
+   "lat": 34.9374182,
+   "lng": 134.8290881,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06727/"
   },
   {
    "name": "『観世音菩薩』",
@@ -63402,6 +65574,18 @@
    "url": "https://www.memorial-object.jp/04188/"
   },
   {
+   "name": "『護國塔』",
+   "lat": 34.7235408,
+   "lng": 135.4283394,
+   "address": "兵庫県尼崎市長洲本通３丁目５",
+   "access": "大物駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06781/"
+  },
+  {
    "name": "『護摩堂』",
    "lat": 34.6493777,
    "lng": 135.1121281,
@@ -63640,6 +65824,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01500/"
+  },
+  {
+   "name": "『貴姫大御神』",
+   "lat": 34.7179591,
+   "lng": 135.1780254,
+   "address": "兵庫県神戸市中央区神戸港地方１",
+   "access": "新神戸駅から約2.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06630/"
   },
   {
    "name": "『貴布禰神社』",
@@ -64350,6 +66546,18 @@
    "url": "https://www.memorial-object.jp/02179/"
   },
   {
+   "name": "『輪廻の森』",
+   "lat": 34.9572567,
+   "lng": 134.7645716,
+   "address": "兵庫県神崎郡福崎町西田原１０３７",
+   "access": "福崎駅から約1.3km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06692/"
+  },
+  {
    "name": "『轟不動明王』",
    "lat": 34.7395076,
    "lng": 135.2040427,
@@ -64444,6 +66652,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03658/"
+  },
+  {
+   "name": "『近松門左衛門の歌』",
+   "lat": 34.7461055,
+   "lng": 135.4342047,
+   "address": "兵庫県尼崎市若王寺３丁目２",
+   "access": "塚口駅から約1.0km",
+   "categories": [
+    "公共施設"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06782/"
   },
   {
    "name": "『近松門左衛門へのオマージュ』",
@@ -64552,6 +66772,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06276/"
+  },
+  {
+   "name": "『逆さ天狗』",
+   "lat": 34.9572904,
+   "lng": 134.7645796,
+   "address": "兵庫県神崎郡福崎町西田原１０３７",
+   "access": "福崎駅から約1.3km",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06693/"
   },
   {
    "name": "『逆井の渡し跡』",
@@ -64732,6 +66964,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04307/"
+  },
+  {
+   "name": "『道場村道路元標』",
+   "lat": 34.8648187,
+   "lng": 135.2288266,
+   "address": "兵庫県神戸市北区道場町道場７４",
+   "access": "道場南口駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06622/"
   },
   {
    "name": "『道念稲荷神社　蛇も蚊も発祥の地』",
@@ -65563,6 +67807,18 @@
   },
   {
    "name": "『釈迦如来』",
+   "lat": 34.9373715,
+   "lng": 134.8293002,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06728/"
+  },
+  {
+   "name": "『釈迦如来』",
    "lat": 33.3106307,
    "lng": 132.5815718,
    "address": "愛媛県宇和島市三間町則",
@@ -65620,6 +67876,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01413/"
+  },
+  {
+   "name": "『重要文化財 天津神社』",
+   "lat": 34.9094774,
+   "lng": 135.1162392,
+   "address": "兵庫県三木市吉川町前田９９１",
+   "access": "相野駅から約5.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06752/"
   },
   {
    "name": "『重要文化財　大洲城三の丸南隅櫓』",
@@ -65802,6 +68070,30 @@
    "url": "https://www.memorial-object.jp/00366/"
   },
   {
+   "name": "『金剛力士坐像』",
+   "lat": 34.9369925,
+   "lng": 134.8290653,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06729/"
+  },
+  {
+   "name": "『金剛蔵菩薩』",
+   "lat": 34.9373789,
+   "lng": 134.8290814,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06730/"
+  },
+  {
    "name": "『金子十郎家忠陣屋跡』",
    "lat": 35.2376918,
    "lng": 139.6596555,
@@ -65956,6 +68248,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01841/"
+  },
+  {
+   "name": "『金蔵菩薩』",
+   "lat": 34.937381,
+   "lng": 134.8290596,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06731/"
   },
   {
    "name": "『金龍像』",
@@ -66463,6 +68767,18 @@
   },
   {
    "name": "『鎮魂の碑』",
+   "lat": 34.698033,
+   "lng": 135.214934,
+   "address": "兵庫県神戸市中央区脇浜海岸通１丁目",
+   "access": "春日野道駅から東へ約610m",
+   "categories": [
+    "水辺"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06631/"
+  },
+  {
+   "name": "『鎮魂の碑』",
    "lat": 35.5717478,
    "lng": 139.4822509,
    "address": "神奈川県横浜市青葉区緑山",
@@ -66544,6 +68860,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06245/"
+  },
+  {
+   "name": "『長尾村道路元標』",
+   "lat": 34.8742999,
+   "lng": 135.1940887,
+   "address": "兵庫県神戸市北区長尾町上津２１２７",
+   "access": "フラワータウン駅から約1.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06623/"
   },
   {
    "name": "『長島之碑』",
@@ -66820,6 +69148,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02911/"
+  },
+  {
+   "name": "『開運の亀』",
+   "lat": 34.7952141,
+   "lng": 135.2430272,
+   "address": "兵庫県神戸市北区有野町唐櫃",
+   "access": "有馬温泉駅から南西へ約540m",
+   "categories": [
+    "山林・山道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06796/"
   },
   {
    "name": "『開運ひっぱり蛸』",
@@ -67366,7 +69706,7 @@
    "lat": 33.6369251,
    "lng": 132.6685093,
    "address": "愛媛県伊予市中山町中山",
-   "access": "伊予立川駅から約4.0km",
+   "access": "伊予立川駅から直線で約4.0km（最寄りのバス停：永木小学校前 約60m）",
    "categories": [
     "山林・山道"
    ],
@@ -67627,6 +69967,18 @@
   },
   {
    "name": "『阿弥陀如来』",
+   "lat": 34.9373751,
+   "lng": 134.829292,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06732/"
+  },
+  {
+   "name": "『阿弥陀如来』",
    "lat": 35.4297788,
    "lng": 139.5943441,
    "address": "神奈川県横浜市南区永田南２丁目９",
@@ -67770,6 +70122,18 @@
    "url": "https://www.memorial-object.jp/01009/"
   },
   {
+   "name": "『阿閇村道路元標』",
+   "lat": 34.7270601,
+   "lng": 134.8763267,
+   "address": "兵庫県加古郡播磨町大中１丁目１",
+   "access": "土山駅から約1.4km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06678/"
+  },
+  {
    "name": "『陀羅尼地蔵』",
    "lat": 35.7041082,
    "lng": 139.7598687,
@@ -67780,6 +70144,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01666/"
+  },
+  {
+   "name": "『陀羅尼菩薩』",
+   "lat": 34.9373954,
+   "lng": 134.8290609,
+   "address": "兵庫県加西市北条町北条１２９３",
+   "access": "北条町駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06733/"
   },
   {
    "name": "『陣馬尾根 中ノ平遺跡』",
@@ -70386,6 +72762,18 @@
    "url": "https://www.memorial-object.jp/03707/"
   },
   {
+   "name": "『馬橋旧跡の石碑』",
+   "lat": 34.738502,
+   "lng": 135.4370098,
+   "address": "兵庫県尼崎市次屋２丁目１７",
+   "access": "尼崎駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06783/"
+  },
+  {
    "name": "『馬等尊』",
    "lat": 35.705371,
    "lng": 139.375571,
@@ -71442,6 +73830,18 @@
    "url": "https://www.memorial-object.jp/00437/"
   },
   {
+   "name": "『高射砲跡』",
+   "lat": 34.7329401,
+   "lng": 135.4073026,
+   "address": "兵庫県尼崎市東七松町１丁目２２",
+   "access": "立花駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06784/"
+  },
+  {
    "name": "『高尾山 599.15』",
    "lat": 35.6250715,
    "lng": 139.2436161,
@@ -71944,6 +74344,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04117/"
+  },
+  {
+   "name": "『魚介類供養塔』",
+   "lat": 34.7144144,
+   "lng": 134.8589669,
+   "address": "兵庫県加古郡播磨町本荘２丁目１６",
+   "access": "播磨町駅から約0.9km",
+   "categories": [
+    "海浜"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06679/"
   },
   {
    "name": "『魚塚』",
@@ -73768,6 +76180,42 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01862/"
+  },
+  {
+   "name": "『龍野中学校跡地』",
+   "lat": 34.8684144,
+   "lng": 134.5445253,
+   "address": "兵庫県たつの市龍野町上霞城３",
+   "access": "本竜野駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06641/"
+  },
+  {
+   "name": "『龍野城趾』",
+   "lat": 34.8680021,
+   "lng": 134.5451281,
+   "address": "兵庫県たつの市龍野町上霞城３",
+   "access": "本竜野駅から約1.1km",
+   "categories": [
+    "学校"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06642/"
+  },
+  {
+   "name": "『龍野城重建之碑』",
+   "lat": 34.8683756,
+   "lng": 134.5452501,
+   "address": "兵庫県たつの市龍野町上霞城３",
+   "access": "本竜野駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06643/"
   },
   {
    "name": "『龍門橋碑』",
@@ -78065,6 +80513,18 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06294/"
+  },
+  {
+   "name": "牛尾啓三『夢・飛翔＆夢Kaidan』",
+   "lat": 34.8562706,
+   "lng": 134.9386474,
+   "address": "兵庫県小野市黒川町",
+   "access": "小野駅から約1.5km",
+   "categories": [
+    "公園"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06741/"
   },
   {
    "name": "牛島智子『結婚式』",
