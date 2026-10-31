@@ -317,8 +317,8 @@ legend.onAdd = () => {
 };
 
 // 「＋ 載っていないモニュメントを教える」: 押した時点の地図の中心・縮尺を持って情報提供のページを開く
-// 固定ページ /teach/ を公開するまでは false(ボタンを出さない)
-const TEACH_READY = false;
+// 固定ページ /teach/ を公開したので true(false にするとボタンが消える)
+const TEACH_READY = true;
 const TEACH_URL = "https://www.memorial-object.jp/teach/";
 const teach = L.control({ position: "bottomleft" });
 teach.onAdd = () => {
