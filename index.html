@@ -3,16 +3,24 @@
 <head>
 <meta charset="utf-8">
 <!-- アクセス解析(GA4。モニュメントnet 本体と同じプロパティ) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MY1DZDS8T3"></script>
+<!-- 本体(約180KB)は地図の表示が済んでから読む。それまでのイベントは dataLayer にためておき、読み込み後に送られる -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag("js", new Date());
   gtag("config", "G-MY1DZDS8T3");
+  addEventListener("load", () => setTimeout(() => {
+    const s = document.createElement("script");
+    s.async = true;
+    s.src = "https://www.googletagmanager.com/gtag/js?id=G-MY1DZDS8T3";
+    document.head.appendChild(s);
+  }, 1500));
 </script>
 <title>モニュメントMAP - モニュメントnet</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="モニュメントnet(memorial-object.jp)で紹介している各地のモニュメントを地図上に表示します。">
+<link rel="preconnect" href="https://unpkg.com">
+<link rel="preconnect" href="https://tile.openstreetmap.org" crossorigin>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
@@ -113,11 +121,11 @@ const map = L.map("map").setView([36.5, 138.5], 7);
 // 記事の地図から来たとき(#ズーム/緯度/経度)は、その場所を開く
 const hv = location.hash.match(/^#(\d{1,2})\/(-?\d+(?:\.\d+)?)\/(-?\d+(?:\.\d+)?)$/);
 if (hv) map.setView([+hv[2], +hv[3]], Math.min(Math.max(+hv[1], 5), 18));
-L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   maxZoom: 19, attribution: '&copy; OpenStreetMap contributors | <a href="https://www.memorial-object.jp/" target="_blank">モニュメントnet</a>'
 }).addTo(map);
 
-const cluster = L.markerClusterGroup({ maxClusterRadius: 40 });
+const cluster = L.markerClusterGroup({ maxClusterRadius: 40, chunkedLoading: true });
 map.addLayer(cluster);
 
 let monuments = [];
@@ -163,7 +171,12 @@ function primaryCat(cats) {
 }
 
 // 色=カテゴリー、形=写真の有無。写真がない場合は白抜き+📷(色に頼らず区別できるようにする)
+const iconCache = {};
 function pinIcon(color, hasPhoto) {
+  const key = color + (hasPhoto ? "1" : "0");
+  return iconCache[key] || (iconCache[key] = makePinIcon(color, hasPhoto));
+}
+function makePinIcon(color, hasPhoto) {
   const body = `<path d="M13 0C5.8 0 0 5.8 0 13c0 9.8 13 23 13 23s13-13.2 13-23C26 5.8 20.2 0 13 0z"
       fill="${hasPhoto ? color : "#fff"}" stroke="${hasPhoto ? "#333" : color}" stroke-width="${hasPhoto ? 1 : 2.5}"/>`;
   const inner = hasPhoto
@@ -196,22 +209,31 @@ function popupHtml(m) {
   </div>`;
 }
 
+// 点のマーカー。絞り込みを変えるたびに作り直さないよう、一度作ったものを使い回す
+const markers = new Map();
+function markerOf(m) {
+  let mk = markers.get(m);
+  if (mk) return mk;
+  const hasPhoto = !!m.image;
+  mk = L.marker([m.lat, m.lng], { icon: pinIcon(COLOR[m.cat], hasPhoto), title: m.name });
+  mk.bindPopup(() => popupHtml(m), { maxWidth: 260 });   // 中身は開いたときに作る
+  mk.on("popupopen", () => gtag("event", "map_popup", { monument_name: m.name, link_url: m.url, has_photo: hasPhoto }));
+  markers.set(m, mk);
+  return mk;
+}
+
 // 表示している点。fit=true なら、その点がすべて入るように地図を動かす
 function render(fit) {
   cluster.clearLayers();
-  const shown = [];
+  const shown = [], layers = [];
   for (const m of monuments) {
-    const cat = primaryCat(m.categories);
-    if (!enabled.has(cat)) continue;
-    const hasPhoto = !!m.image;
-    if (wantedOnly && hasPhoto) continue;
+    if (!enabled.has(m.cat)) continue;
+    if (wantedOnly && m.image) continue;
     if (!matchesFilter(m)) continue;
-    const mk = L.marker([m.lat, m.lng], { icon: pinIcon(COLOR[cat], hasPhoto), title: m.name });
-    mk.bindPopup(popupHtml(m), { maxWidth: 260 });
-    mk.on("popupopen", () => gtag("event", "map_popup", { monument_name: m.name, link_url: m.url, has_photo: hasPhoto }));
-    cluster.addLayer(mk);
+    layers.push(markerOf(m));
     shown.push([m.lat, m.lng]);
   }
+  cluster.addLayers(layers);
   updateFilterBar(shown.length);
   if (fit && shown.length) {
     map.invalidateSize();     // 画面の大きさが読み込み中に変わっても、正しい縮尺で合わせる
@@ -301,15 +323,22 @@ legend.onAdd = () => {
     render();
   });
   // 候補は件数の多い順(地図に載っているタグだけ)。候補から選ぶか、正確な名前を入れて Enter で絞り込む
-  const tagCount = {};
-  for (const m of monuments) for (const t of (m.tags || [])) tagCount[t] = (tagCount[t] || 0) + 1;
-  div.querySelector("#tag-list").innerHTML = Object.keys(tagCount)
-    .sort((a, b) => tagCount[b] - tagCount[a] || a.localeCompare(b, "ja"))
-    .map(t => `<option value="${esc(t)}" label="${tagCount[t]}件"></option>`).join("");
+  // 数千件あるので、入力欄を初めて触ったときに作る(開いた直後の処理を軽くするため)
+  let tagCount = null;
+  const tagCounts = () => {
+    if (tagCount) return tagCount;
+    tagCount = {};
+    for (const m of monuments) for (const t of (m.tags || [])) tagCount[t] = (tagCount[t] || 0) + 1;
+    div.querySelector("#tag-list").innerHTML = Object.keys(tagCount)
+      .sort((a, b) => tagCount[b] - tagCount[a] || a.localeCompare(b, "ja"))
+      .map(t => `<option value="${esc(t)}" label="${tagCount[t]}件"></option>`).join("");
+    return tagCount;
+  };
   const input = div.querySelector("#tag-input");
+  input.addEventListener("focus", tagCounts);
   const pick = () => {
     const v = input.value.trim();
-    if (tagCount[v]) { addFilterTag(v); input.value = ""; }
+    if (tagCounts()[v]) { addFilterTag(v); input.value = ""; }
   };
   input.addEventListener("change", pick);
   input.addEventListener("keydown", e => { if (e.key === "Enter") pick(); });
@@ -340,9 +369,9 @@ if (TEACH_READY) teach.addTo(map);
 fetch("monuments.json").then(r => r.json()).then(data => {
   monuments = Array.isArray(data) ? data : data.items;   // 旧形式(配列)にも対応
   for (const m of monuments) {
-    const cat = primaryCat(m.categories);
-    counts[cat] = (counts[cat] || 0) + 1;
-    enabled.add(cat);
+    m.cat = primaryCat(m.categories);
+    counts[m.cat] = (counts[m.cat] || 0) + 1;
+    enabled.add(m.cat);
   }
   if (onlyCat && counts[onlyCat]) {
     enabled.clear();
