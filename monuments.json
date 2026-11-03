@@ -8,8 +8,8 @@
   "photos": 0,
   "names": []
  },
- "generated": "2026-11-01",
- "count": 7613,
+ "generated": "2026-11-03",
+ "count": 7853,
  "items": [
   {
    "name": "???wako Shintani『MAN』",
@@ -5036,6 +5036,40 @@
    "url": "https://www.memorial-object.jp/00817/"
   },
   {
+   "name": "『いぼとり地蔵』",
+   "lat": 35.4507807,
+   "lng": 134.6021492,
+   "address": "兵庫県美方郡香美町村岡区高井",
+   "access": "江原駅から約15.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町村岡区",
+    "地蔵"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07806/"
+  },
+  {
+   "name": "『いぼとり地蔵』",
+   "lat": 35.4602547,
+   "lng": 134.8818921,
+   "address": "兵庫県豊岡市出石町下谷",
+   "access": "国府駅から約8.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07719/"
+  },
+  {
    "name": "『いろは歌頌徳碑』",
    "lat": 35.5343916,
    "lng": 139.7297985,
@@ -5350,6 +5384,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01240/"
+  },
+  {
+   "name": "『おりゅう灯籠』",
+   "lat": 35.4626561,
+   "lng": 134.8710707,
+   "address": "兵庫県豊岡市出石町柳２４",
+   "access": "国府駅から約7.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07640/"
   },
   {
    "name": "『お七 吉三郎 比翼塚』",
@@ -6899,6 +6949,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05839/"
+  },
+  {
+   "name": "『こゝも亦 元禄美挙の花の趾』",
+   "lat": 35.5499286,
+   "lng": 134.8302376,
+   "address": "兵庫県豊岡市日撫",
+   "access": "豊岡駅から約1.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07720/"
   },
   {
    "name": "『さいたまの譜』",
@@ -8915,6 +8982,40 @@
    "url": "https://www.memorial-object.jp/03135/"
   },
   {
+   "name": "『ほ場整備記念』",
+   "lat": 35.3840054,
+   "lng": 134.7189489,
+   "address": "兵庫県養父市八鹿町八木１０９４",
+   "access": "八鹿駅から約6.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "養父市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07681/"
+  },
+  {
+   "name": "『ほ場整備記念碑』",
+   "lat": 35.4542082,
+   "lng": 134.6046547,
+   "address": "兵庫県美方郡香美町村岡区寺河内",
+   "access": "江原駅から約15.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町村岡区",
+    "碑文",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07807/"
+  },
+  {
    "name": "『ぼけ封じ観音』",
    "lat": 34.9350788,
    "lng": 134.8291314,
@@ -10548,6 +10649,23 @@
    "url": "https://www.memorial-object.jp/02194/"
   },
   {
+   "name": "『カニ塚』",
+   "lat": 35.6228384,
+   "lng": 134.797064,
+   "address": "兵庫県豊岡市城崎町今津",
+   "access": "城崎温泉駅から約1.5km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07721/"
+  },
+  {
    "name": "『カネゴン像』",
    "lat": 35.6427953,
    "lng": 139.604983,
@@ -10890,6 +11008,22 @@
    "url": "https://www.memorial-object.jp/05721/"
   },
   {
+   "name": "『キリシタン灯籠』",
+   "lat": 35.4573861,
+   "lng": 134.8675017,
+   "address": "兵庫県豊岡市出石町鍜冶屋",
+   "access": "国府駅から約7.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07722/"
+  },
+  {
    "name": "『キリシタン灯籠記念碑』",
    "lat": 34.7466233,
    "lng": 134.8000241,
@@ -10948,6 +11082,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02036/"
+  },
+  {
+   "name": "『ギャラリーあまるべ』",
+   "lat": 35.6487255,
+   "lng": 134.5609505,
+   "address": "兵庫県美方郡香美町香住区余部１５６５",
+   "access": "餘部駅から東へ約350m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町香住区"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07632/"
   },
   {
    "name": "『グラント将軍植樹碑』",
@@ -14314,6 +14464,24 @@
    "url": "https://www.memorial-object.jp/00080_mercury/"
   },
   {
+   "name": "『ミニチュア竹田城』",
+   "lat": 35.2967914,
+   "lng": 134.8393159,
+   "address": "兵庫県朝来市和田山町竹田１６９４",
+   "access": "竹田駅から南東へ約420m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "播但線",
+    "朝来市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07622/"
+  },
+  {
    "name": "『ミニドラえもん』",
    "lat": 35.6205638,
    "lng": 139.5698753,
@@ -15698,6 +15866,23 @@
   },
   {
    "name": "『一隅を照らす』",
+   "lat": 35.5548118,
+   "lng": 134.4873749,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07824/"
+  },
+  {
+   "name": "『一隅を照らす』",
    "lat": 34.9372202,
    "lng": 134.8294504,
    "address": "兵庫県加西市北条町北条１２９３",
@@ -15954,6 +16139,22 @@
    "url": "https://www.memorial-object.jp/01956/"
   },
   {
+   "name": "『七番 二臂如意輪観世音』",
+   "lat": 35.5034039,
+   "lng": 134.6736296,
+   "address": "兵庫県豊岡市日高町栗栖野",
+   "access": "江原駅から約10.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07723/"
+  },
+  {
    "name": "『七福神マニコロ』",
    "lat": 34.6493904,
    "lng": 135.1121197,
@@ -16197,6 +16398,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02934/"
+  },
+  {
+   "name": "『三の丸跡』",
+   "lat": 35.4617141,
+   "lng": 134.8742872,
+   "address": "兵庫県豊岡市出石町内町",
+   "access": "国府駅から約7.7km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07724/"
   },
   {
    "name": "『三ツ子島東灯台記念碑』",
@@ -16510,6 +16729,23 @@
    "url": "https://www.memorial-object.jp/06788/"
   },
   {
+   "name": "『三原小学校跡』",
+   "lat": 35.5417978,
+   "lng": 134.6725979,
+   "address": "兵庫県豊岡市竹野町三原",
+   "access": "香住駅から約11.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07725/"
+  },
+  {
    "name": "『三反田五輪卒塔婆』",
    "lat": 34.7395162,
    "lng": 135.4051977,
@@ -16707,6 +16943,22 @@
   },
   {
    "name": "『三宝荒神』",
+   "lat": 35.6318243,
+   "lng": 134.8087565,
+   "address": "兵庫県豊岡市城崎町桃島",
+   "access": "城崎温泉駅から約1.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07726/"
+  },
+  {
+   "name": "『三宝荒神』",
    "lat": 34.9093515,
    "lng": 135.116571,
    "address": "兵庫県三木市吉川町前田９９１",
@@ -16783,6 +17035,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01705/"
+  },
+  {
+   "name": "『三尾トンネル開通記念碑』",
+   "lat": 35.651155,
+   "lng": 134.5037113,
+   "address": "兵庫県美方郡新温泉町三尾",
+   "access": "久谷駅から約2.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07825/"
   },
   {
    "name": "『三峯山』",
@@ -16901,6 +17171,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03219/"
+  },
+  {
+   "name": "『三方村道路元標』",
+   "lat": 35.4527545,
+   "lng": 134.7217038,
+   "address": "兵庫県豊岡市日高町栗山５３９",
+   "access": "江原駅から約5.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07641/"
   },
   {
    "name": "『三日月村道路元標』",
@@ -17036,6 +17323,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01706/"
+  },
+  {
+   "name": "『三柱大神』",
+   "lat": 35.4721962,
+   "lng": 134.767028,
+   "address": "兵庫県豊岡市日高町祢布",
+   "access": "江原駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07727/"
   },
   {
    "name": "『三河島事故慰霊碑』",
@@ -17243,6 +17546,23 @@
   },
   {
    "name": "『三界萬霊』",
+   "lat": 35.5547338,
+   "lng": 134.4874641,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07826/"
+  },
+  {
+   "name": "『三界萬霊』",
    "lat": 34.9727307,
    "lng": 135.0818855,
    "address": "兵庫県加東市平木１１９４",
@@ -17364,6 +17684,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05229/"
+  },
+  {
+   "name": "『三番　先手千眼観世音』",
+   "lat": 35.5022644,
+   "lng": 134.6733051,
+   "address": "兵庫県豊岡市日高町栗栖野",
+   "access": "江原駅から約10.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07728/"
   },
   {
    "name": "『三百五十年祭記念』",
@@ -18123,6 +18459,24 @@
    "url": "https://www.memorial-object.jp/02210/"
   },
   {
+   "name": "『下の郭跡』",
+   "lat": 35.4607423,
+   "lng": 134.8739184,
+   "address": "兵庫県豊岡市出石町内町４０",
+   "access": "国府駅から約7.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07642/"
+  },
+  {
    "name": "『下乗』",
    "lat": 34.7720864,
    "lng": 135.3301716,
@@ -18493,6 +18847,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04156/"
+  },
+  {
+   "name": "『下馬石』",
+   "lat": 35.6331392,
+   "lng": 134.7560856,
+   "address": "兵庫県豊岡市竹野町須谷９８２",
+   "access": "竹野駅から約1.9km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07643/"
   },
   {
    "name": "『不休地蔵尊』",
@@ -19857,6 +20228,24 @@
    "url": "https://www.memorial-object.jp/02486/"
   },
   {
+   "name": "『中藤小学校跡』",
+   "lat": 35.5209798,
+   "lng": 135.021547,
+   "address": "兵庫県豊岡市但東町中藤１８７",
+   "access": "京丹後大宮駅から約9.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07644/"
+  },
+  {
    "name": "『中西悟堂像』",
    "lat": 35.6679262,
    "lng": 139.5505047,
@@ -20150,6 +20539,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02217/"
+  },
+  {
+   "name": "『丹後ちりめんモニュメント』",
+   "lat": 35.4617551,
+   "lng": 134.9376395,
+   "address": "兵庫県豊岡市但東町出合市場",
+   "access": "国府駅から約13.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07729/"
   },
   {
    "name": "『丹波篠山五十三次 土塁の南馬出』",
@@ -20493,6 +20898,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01957/"
+  },
+  {
+   "name": "『亀塚』",
+   "lat": 35.6494878,
+   "lng": 134.8323351,
+   "address": "兵庫県豊岡市津居山",
+   "access": "城崎温泉駅から約3.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "江戸時代",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07690/"
   },
   {
    "name": "『亀塚霊神祠跡』",
@@ -20998,6 +21420,22 @@
    "url": "https://www.memorial-object.jp/00560/"
   },
   {
+   "name": "『二十五番 十一面観世音』",
+   "lat": 35.5015756,
+   "lng": 134.6752924,
+   "address": "兵庫県豊岡市日高町栗栖野",
+   "access": "江原駅から約9.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07730/"
+  },
+  {
    "name": "『二十六夜塔』",
    "lat": 35.4642653,
    "lng": 139.5603942,
@@ -21047,6 +21485,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06790/"
+  },
+  {
+   "name": "『二十六番　聖観世音』",
+   "lat": 35.5016306,
+   "lng": 134.6750161,
+   "address": "兵庫県豊岡市日高町栗栖野",
+   "access": "江原駅から約9.8km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07731/"
   },
   {
    "name": "『二子橋』",
@@ -21551,6 +22005,22 @@
    "url": "https://www.memorial-object.jp/04026/"
   },
   {
+   "name": "『五輪塔』",
+   "lat": 35.4532983,
+   "lng": 134.6040935,
+   "address": "兵庫県美方郡香美町村岡区寺河内",
+   "access": "江原駅から約15.6km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町村岡区"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07808/"
+  },
+  {
    "name": "『五輪塔形式の庚申塔』",
    "lat": 35.5403836,
    "lng": 139.5056517,
@@ -21585,6 +22055,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05024/"
+  },
+  {
+   "name": "『五郎蔵地蔵』",
+   "lat": 35.3014915,
+   "lng": 134.8386651,
+   "address": "兵庫県朝来市和田山町竹田５６９",
+   "access": "竹田駅から北東へ約340m",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "地蔵",
+    "播但線",
+    "朝来市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07623/"
   },
   {
    "name": "『五重塔建設資金の碑』",
@@ -21823,6 +22312,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01270/"
+  },
+  {
+   "name": "『井東医院跡地』",
+   "lat": 35.4966816,
+   "lng": 134.7501314,
+   "address": "兵庫県豊岡市日高町八代",
+   "access": "江原駅から約3.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "2020年代前半",
+    "兵庫県",
+    "歴史",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07691/"
   },
   {
    "name": "『井関邦三郎之像』",
@@ -22349,6 +22856,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03416/"
+  },
+  {
+   "name": "『今坂地蔵尊』",
+   "lat": 35.6573428,
+   "lng": 134.7506045,
+   "address": "兵庫県豊岡市竹野町竹野",
+   "access": "竹野駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07732/"
   },
   {
    "name": "『今松治郎之像』",
@@ -23162,6 +23686,24 @@
    "url": "https://www.memorial-object.jp/07411/"
   },
   {
+   "name": "『仲田光成先生書碑』",
+   "lat": 35.6501602,
+   "lng": 134.7567223,
+   "address": "兵庫県豊岡市竹野町竹野",
+   "access": "竹野駅から北東へ約40m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "2000年代後半",
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07645/"
+  },
+  {
    "name": "『伊丹市南野・安堂寺土地区画整理事業竣工記念碑』",
    "lat": 34.7675937,
    "lng": 135.4042659,
@@ -23671,6 +24213,24 @@
    "url": "https://www.memorial-object.jp/03096/"
   },
   {
+   "name": "『伝田結庄是義供養塔』",
+   "lat": 35.554737,
+   "lng": 134.8321423,
+   "address": "兵庫県豊岡市日撫",
+   "access": "豊岡駅から約2.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "供養塔",
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07733/"
+  },
+  {
    "name": "『佃天台地蔵尊』",
    "lat": 35.6667302,
    "lng": 139.7835776,
@@ -23750,6 +24310,92 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01356/"
+  },
+  {
+   "name": "『但東北中学校跡』",
+   "lat": 35.4944579,
+   "lng": 134.9958748,
+   "address": "兵庫県豊岡市但東町中山",
+   "access": "京丹後大宮駅から約12.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07734/"
+  },
+  {
+   "name": "『但馬六十六地蔵尊第五十五番御詠歌　来日』",
+   "lat": 35.6049102,
+   "lng": 134.7993287,
+   "address": "兵庫県豊岡市城崎町来日",
+   "access": "玄武洞駅から約1.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07735/"
+  },
+  {
+   "name": "『但馬六十六地蔵第十九番札所』",
+   "lat": 35.4559543,
+   "lng": 134.6917407,
+   "address": "兵庫県豊岡市日高町羽尻",
+   "access": "江原駅から約7.7km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07736/"
+  },
+  {
+   "name": "『但馬六拾六地蔵第六十一番札所ご詠歌』",
+   "lat": 35.555242,
+   "lng": 134.8429471,
+   "address": "兵庫県豊岡市下宮",
+   "access": "豊岡駅から約2.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07737/"
+  },
+  {
+   "name": "『但馬杜氏の郷』",
+   "lat": 35.556507,
+   "lng": 134.4878991,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約7.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07827/"
   },
   {
    "name": "『住 堰堤』",
@@ -23908,6 +24554,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02823/"
+  },
+  {
+   "name": "『佛ヶ岩（新四国二十四番札所）』",
+   "lat": 35.4910328,
+   "lng": 135.0375098,
+   "address": "兵庫県豊岡市但東町赤花",
+   "access": "与謝野駅から約9.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07738/"
   },
   {
    "name": "『佛供田記念碑』",
@@ -24233,6 +24895,40 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02224/"
+  },
+  {
+   "name": "『保月城趾』",
+   "lat": 35.1793696,
+   "lng": 135.1039607,
+   "address": "兵庫県丹波市春日町黒井",
+   "access": "黒井駅から約1.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "丹波市",
+    "兵庫県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07716/"
+  },
+  {
+   "name": "『保月城趾登山口』",
+   "lat": 35.1754244,
+   "lng": 135.1008299,
+   "address": "兵庫県丹波市春日町黒井２２７３",
+   "access": "黒井駅から約0.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "丹波市",
+    "兵庫県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07636/"
   },
   {
    "name": "『保食命』",
@@ -25403,6 +26099,22 @@
    "url": "https://www.memorial-object.jp/01271/"
   },
   {
+   "name": "『八代大神』",
+   "lat": 35.4721862,
+   "lng": 134.7670624,
+   "address": "兵庫県豊岡市日高町祢布",
+   "access": "江原駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07739/"
+  },
+  {
    "name": "『八光山権五郎像』",
    "lat": 35.6619484,
    "lng": 139.3415854,
@@ -25494,6 +26206,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04488/"
+  },
+  {
+   "name": "『八坂大神』",
+   "lat": 35.4721914,
+   "lng": 134.7670456,
+   "address": "兵庫県豊岡市日高町祢布",
+   "access": "江原駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07740/"
   },
   {
    "name": "『八坂神社跡地』",
@@ -25692,6 +26420,23 @@
   },
   {
    "name": "『八幡神社』",
+   "lat": 35.5561047,
+   "lng": 134.4898606,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約7.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07828/"
+  },
+  {
+   "name": "『八幡神社』",
    "lat": 34.4426726,
    "lng": 134.8047908,
    "address": "兵庫県淡路市草香",
@@ -25727,6 +26472,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03823/"
+  },
+  {
+   "name": "『八幡神社遥拝所』",
+   "lat": 35.530793,
+   "lng": 134.8527591,
+   "address": "兵庫県豊岡市中谷４８７",
+   "access": "豊岡駅から約3.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07646/"
   },
   {
    "name": "『八広子育地蔵尊』",
@@ -25923,6 +26684,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00830/"
+  },
+  {
+   "name": "『八番　十一面観世音』",
+   "lat": 35.5029891,
+   "lng": 134.6749259,
+   "address": "兵庫県豊岡市日高町太田",
+   "access": "江原駅から約9.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07741/"
   },
   {
    "name": "『八百萬神』",
@@ -26342,6 +27119,44 @@
    "url": "https://www.memorial-object.jp/03370/"
   },
   {
+   "name": "『六体地蔵』",
+   "lat": 35.2970076,
+   "lng": 134.8370117,
+   "address": "兵庫県朝来市和田山町竹田５１５",
+   "access": "竹田駅から南へ約280m",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "地蔵",
+    "播但線",
+    "朝来市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07625/"
+  },
+  {
+   "name": "『六体地蔵』",
+   "lat": 35.2996587,
+   "lng": 134.8382186,
+   "address": "兵庫県朝来市和田山町竹田６２６",
+   "access": "竹田駅から東へ約210m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "地蔵",
+    "播但線",
+    "朝来市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07624/"
+  },
+  {
    "name": "『六地蔵』",
    "lat": 34.7393318,
    "lng": 135.204102,
@@ -26530,6 +27345,23 @@
   },
   {
    "name": "『六地蔵尊』",
+   "lat": 35.4647529,
+   "lng": 134.8735333,
+   "address": "兵庫県豊岡市出石町鉄砲２６",
+   "access": "国府駅から約7.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07647/"
+  },
+  {
+   "name": "『六地蔵尊』",
    "lat": 35.4240687,
    "lng": 139.5978513,
    "address": "神奈川県横浜市南区弘明寺町２６６",
@@ -26642,6 +27474,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03371/"
+  },
+  {
+   "name": "『六方川改修之碑』",
+   "lat": 35.5477703,
+   "lng": 134.8302752,
+   "address": "兵庫県豊岡市立野",
+   "access": "豊岡駅から約1.6km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07742/"
   },
   {
    "name": "『六條橋』",
@@ -27383,6 +28232,23 @@
    "url": "https://www.memorial-object.jp/04004/"
   },
   {
+   "name": "『円山川改修之碑』",
+   "lat": 35.5316985,
+   "lng": 134.8275947,
+   "address": "兵庫県豊岡市塩津町１０",
+   "access": "豊岡駅から約1.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07648/"
+  },
+  {
    "name": "『円徳寺御開山日範上人』",
    "lat": 35.1862615,
    "lng": 139.6183839,
@@ -27721,6 +28587,58 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05770/"
+  },
+  {
+   "name": "『出町大いと場跡』",
+   "lat": 35.5500705,
+   "lng": 134.8245471,
+   "address": "兵庫県豊岡市小田井町１６",
+   "access": "豊岡駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07649/"
+  },
+  {
+   "name": "『出石城』",
+   "lat": 35.4602166,
+   "lng": 134.8746617,
+   "address": "兵庫県豊岡市出石町内町",
+   "access": "国府駅から約7.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07743/"
+  },
+  {
+   "name": "『出石城大手門跡』",
+   "lat": 35.4623363,
+   "lng": 134.8743036,
+   "address": "兵庫県豊岡市出石町八木１",
+   "access": "国府駅から約7.7km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07650/"
   },
   {
    "name": "『出羽三山供養塔』",
@@ -29688,6 +30606,23 @@
   },
   {
    "name": "『北向地蔵』",
+   "lat": 35.4529288,
+   "lng": 134.6025416,
+   "address": "兵庫県美方郡香美町村岡区寺河内",
+   "access": "江原駅から約15.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町村岡区",
+    "地蔵"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07809/"
+  },
+  {
+   "name": "『北向地蔵』",
    "lat": 35.441117,
    "lng": 139.59919,
    "address": "神奈川県横浜市保土ケ谷区岩井町４０６",
@@ -30111,6 +31046,22 @@
    "url": "https://www.memorial-object.jp/06938/"
   },
   {
+   "name": "『十一面観世音』",
+   "lat": 35.5066501,
+   "lng": 134.6736551,
+   "address": "兵庫県豊岡市日高町東河内",
+   "access": "江原駅から約10.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07744/"
+  },
+  {
    "name": "『十一面観世音菩薩』",
    "lat": 35.7081122,
    "lng": 139.7595983,
@@ -30197,6 +31148,22 @@
    "url": "https://www.memorial-object.jp/00564/"
   },
   {
+   "name": "『十三番　二臂如意観世音』",
+   "lat": 35.5051175,
+   "lng": 134.673222,
+   "address": "兵庫県豊岡市日高町栗栖野",
+   "access": "江原駅から約10.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07745/"
+  },
+  {
    "name": "『十二天松方正義別荘跡』",
    "lat": 35.3717895,
    "lng": 139.6356417,
@@ -30249,6 +31216,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00408/"
+  },
+  {
+   "name": "『十二番 千手観世音』",
+   "lat": 35.5049008,
+   "lng": 134.6744621,
+   "address": "兵庫県豊岡市日高町栗栖野",
+   "access": "江原駅から約10.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07746/"
   },
   {
    "name": "『十五丁』",
@@ -30320,6 +31303,22 @@
    "url": "https://www.memorial-object.jp/04291/"
   },
   {
+   "name": "『十六番 揚柳十一面千手千眼観世音』",
+   "lat": 35.5062433,
+   "lng": 134.6731992,
+   "address": "兵庫県豊岡市日高町東河内",
+   "access": "江原駅から約10.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07747/"
+  },
+  {
    "name": "『十周年紀念』",
    "lat": 34.9273566,
    "lng": 135.468084,
@@ -30372,6 +31371,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03883/"
+  },
+  {
+   "name": "『十番　二臂千手観世音』",
+   "lat": 35.5044233,
+   "lng": 134.6730622,
+   "address": "兵庫県豊岡市日高町栗栖野８４１",
+   "access": "江原駅から約10.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07651/"
   },
   {
    "name": "『千両観音』",
@@ -30630,6 +31645,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05826/"
+  },
+  {
+   "name": "『千手観世音菩薩』",
+   "lat": 35.5548152,
+   "lng": 134.4874969,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07829/"
   },
   {
    "name": "『千手観音菩薩』",
@@ -32317,6 +33348,23 @@
    "url": "https://www.memorial-object.jp/00699/"
   },
   {
+   "name": "『台風23号災害復興記念植樹』",
+   "lat": 35.5487021,
+   "lng": 134.8327388,
+   "address": "兵庫県豊岡市梶原",
+   "access": "豊岡駅から約1.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "2000年代後半",
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07692/"
+  },
+  {
    "name": "『史跡 丸亀城跡』",
    "lat": 34.2878757,
    "lng": 133.7992575,
@@ -32470,6 +33518,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06325/"
+  },
+  {
+   "name": "『史跡 有子山城跡』",
+   "lat": 35.4596016,
+   "lng": 134.8749661,
+   "address": "兵庫県豊岡市出石町伊木",
+   "access": "国府駅から約7.9km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07748/"
   },
   {
    "name": "『史跡 有岡城跡』",
@@ -33104,6 +34170,26 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07231/"
+  },
+  {
+   "name": "『史蹟 竹田城阯』",
+   "lat": 35.3007303,
+   "lng": 134.8303429,
+   "address": "兵庫県朝来市和田山町竹田",
+   "access": "竹田駅から西へ約520m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "播但線",
+    "朝来市",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07707/"
   },
   {
    "name": "『史蹟 與五郎橋』",
@@ -33759,6 +34845,41 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01364/"
+  },
+  {
+   "name": "『名牛「ぬい」号の碑』",
+   "lat": 35.440726,
+   "lng": 134.5363751,
+   "address": "兵庫県美方郡香美町小代区平野",
+   "access": "若桜駅から約16.4km",
+   "categories": [
+    "田園・農地"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町小代区",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07810/"
+  },
+  {
+   "name": "『名牛「田尻」号・前田周助氏　顕彰碑』",
+   "lat": 35.4681846,
+   "lng": 134.5485758,
+   "address": "兵庫県美方郡香美町小代区神水",
+   "access": "久谷駅から約17.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町小代区",
+    "碑文",
+    "顕彰碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07811/"
   },
   {
    "name": "『名犬チロリ記念碑』",
@@ -34687,6 +35808,27 @@
    "url": "https://www.memorial-object.jp/00271/"
   },
   {
+   "name": "『和久田口の碑』",
+   "lat": 35.5423752,
+   "lng": 134.8214833,
+   "address": "兵庫県豊岡市中央町",
+   "access": "豊岡駅から東へ約730m",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "JR西日本",
+    "京都丹後鉄道",
+    "京都丹後鉄道宮豊線",
+    "兵庫県",
+    "山陰本線",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07693/"
+  },
+  {
    "name": "『和夫地蔵尊』",
    "lat": 35.6615882,
    "lng": 139.7467391,
@@ -34785,6 +35927,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01274/"
+  },
+  {
+   "name": "『和田卯之助之碑』",
+   "lat": 35.4173631,
+   "lng": 135.0387433,
+   "address": "兵庫県豊岡市但東町大河内",
+   "access": "上川口駅から約10.2km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07749/"
   },
   {
    "name": "『和田地蔵尊』",
@@ -35442,6 +36601,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02490/"
+  },
+  {
+   "name": "『四ツ手網と魚』",
+   "lat": 35.5442032,
+   "lng": 134.8318751,
+   "address": "兵庫県豊岡市立野",
+   "access": "豊岡駅から約1.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07750/"
   },
   {
    "name": "『四ツ目橋』",
@@ -36159,6 +37334,24 @@
    "url": "https://www.memorial-object.jp/05676/"
   },
   {
+   "name": "『国指定史跡 黒井城跡』",
+   "lat": 35.1753633,
+   "lng": 135.1007954,
+   "address": "兵庫県丹波市春日町黒井２２７３",
+   "access": "黒井駅から約0.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "丹波市",
+    "兵庫県",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07637/"
+  },
+  {
    "name": "『国指定名勝 山手公園』",
    "lat": 35.4344633,
    "lng": 139.6485175,
@@ -36200,6 +37393,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06535/"
+  },
+  {
+   "name": "『国指定重要文化財 名草神社修理完成記念碑』",
+   "lat": 35.4218648,
+   "lng": 134.6565083,
+   "address": "兵庫県養父市八鹿町日畑",
+   "access": "八鹿駅から約11.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "2020年代前半",
+    "兵庫県",
+    "碑文",
+    "記念碑",
+    "養父市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07706/"
   },
   {
    "name": "『国指定重要文化財 多宝塔』",
@@ -36570,6 +37782,24 @@
   },
   {
    "name": "『圃場整備記念碑』",
+   "lat": 35.1829372,
+   "lng": 134.98981,
+   "address": "兵庫県丹波市氷上町中野２３４",
+   "access": "石生駅から約7.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "丹波市",
+    "兵庫県",
+    "碑文",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07638/"
+  },
+  {
+   "name": "『圃場整備記念碑』",
    "lat": 33.2564511,
    "lng": 132.6843846,
    "address": "愛媛県北宇和郡鬼北町大字近永７８７",
@@ -36660,6 +37890,40 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06927/"
+  },
+  {
+   "name": "『國幣中社 出石神社』",
+   "lat": 35.4806493,
+   "lng": 134.8701569,
+   "address": "兵庫県豊岡市出石町宮内",
+   "access": "国府駅から約6.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07752/"
+  },
+  {
+   "name": "『國幣中社 出石神社』",
+   "lat": 35.4812936,
+   "lng": 134.8703407,
+   "address": "兵庫県豊岡市出石町宮内",
+   "access": "国府駅から約6.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07751/"
   },
   {
    "name": "『國幣中社田邨神社』",
@@ -36807,6 +38071,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02915/"
+  },
+  {
+   "name": "『土地改良碑』",
+   "lat": 35.5323572,
+   "lng": 134.8209693,
+   "address": "兵庫県豊岡市桜町",
+   "access": "豊岡駅から約1.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07753/"
   },
   {
    "name": "『土地改良記念碑』",
@@ -37467,7 +38748,7 @@
    "lat": 34.8953285,
    "lng": 134.6501575,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約4.4km",
+   "access": "余部駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -37484,7 +38765,7 @@
    "lat": 34.8982778,
    "lng": 134.6484479,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約4.7km",
+   "access": "余部駅から直線で約4.7km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -37501,7 +38782,7 @@
    "lat": 34.887965,
    "lng": 134.6575205,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：摩尼殿 約310m）",
    "categories": [
     "山林・山道"
    ],
@@ -37905,7 +39186,7 @@
    "lat": 34.6804131,
    "lng": 134.5186024,
    "address": "兵庫県姫路市家島町真浦",
-   "access": "山陽網干駅から約13.5km",
+   "access": "山陽網干駅から直線で約13.5km（家島にあり、島内に鉄道はありません。網手浜への船などでの移動が必要です）",
    "categories": [
     "海浜"
    ],
@@ -37936,6 +39217,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02661/"
+  },
+  {
+   "name": "『地蔵尊』",
+   "lat": 35.5548102,
+   "lng": 134.4874882,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "新温泉町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07830/"
   },
   {
    "name": "『地蔵尊』",
@@ -38562,6 +39860,24 @@
   },
   {
    "name": "『埋立記念碑』",
+   "lat": 35.6509974,
+   "lng": 134.6583146,
+   "address": "兵庫県美方郡香美町香住区上計１１５７",
+   "access": "柴山駅から北西へ約700m",
+   "categories": [
+    "公共施設"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町香住区",
+    "碑文",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07633/"
+  },
+  {
+   "name": "『埋立記念碑』",
    "lat": 35.414352,
    "lng": 139.6602899,
    "address": "神奈川県横浜市中区本牧三之谷",
@@ -38613,6 +39929,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02243/"
+  },
+  {
+   "name": "『城下町 出石』",
+   "lat": 35.4621579,
+   "lng": 134.8742716,
+   "address": "兵庫県豊岡市出石町八木",
+   "access": "国府駅から約7.7km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07754/"
   },
   {
    "name": "『城北村道路元標』",
@@ -38683,6 +40016,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03244/"
+  },
+  {
+   "name": "『城山展望台』",
+   "lat": 35.459795,
+   "lng": 134.8753162,
+   "address": "兵庫県豊岡市出石町伊木",
+   "access": "国府駅から約7.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07755/"
   },
   {
    "name": "『城山観世音』",
@@ -39098,6 +40448,23 @@
    "url": "https://www.memorial-object.jp/01587/"
   },
   {
+   "name": "『塩屋地蔵尊』",
+   "lat": 35.5745583,
+   "lng": 134.805245,
+   "address": "兵庫県豊岡市一日市",
+   "access": "玄武洞駅から約1.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07756/"
+  },
+  {
    "name": "『塩屋町道路元標』",
    "lat": 34.7591968,
    "lng": 134.3810655,
@@ -39208,6 +40575,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06540/"
+  },
+  {
+   "name": "『境内地擴張記念』",
+   "lat": 35.4607923,
+   "lng": 134.87517,
+   "address": "兵庫県豊岡市出石町内町２２",
+   "access": "国府駅から約7.9km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07652/"
   },
   {
    "name": "『境内改修整備記念碑』",
@@ -39720,6 +41104,24 @@
    "url": "https://www.memorial-object.jp/05933/"
   },
   {
+   "name": "『多田弥太郎顕彰碑』",
+   "lat": 35.4453581,
+   "lng": 134.8198575,
+   "address": "兵庫県豊岡市出石町暮坂",
+   "access": "江原駅から約4.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市",
+    "顕彰碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07757/"
+  },
+  {
    "name": "『多田銀山間歩のうたげ』",
    "lat": 34.8954468,
    "lng": 135.3506586,
@@ -39952,6 +41354,22 @@
    "url": "https://www.memorial-object.jp/02494/"
   },
   {
+   "name": "『夢を断て』",
+   "lat": 35.5889282,
+   "lng": 134.8091367,
+   "address": "兵庫県豊岡市城崎町結",
+   "access": "玄武洞駅から約0.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07758/"
+  },
+  {
    "name": "『夢二・港屋ゆかりの地』",
    "lat": 35.6835062,
    "lng": 139.7717866,
@@ -39973,6 +41391,39 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01367/"
+  },
+  {
+   "name": "『夢千代』",
+   "lat": 35.554665,
+   "lng": 134.4877551,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07831/"
+  },
+  {
+   "name": "『夢千代地蔵菩薩』",
+   "lat": 35.5548133,
+   "lng": 134.4874778,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "新温泉町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07832/"
   },
   {
    "name": "『夢現地蔵尊』",
@@ -40291,6 +41742,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03914/"
+  },
+  {
+   "name": "『大兵庫開拓団 殉難者之碑』",
+   "lat": 35.4195254,
+   "lng": 135.0089934,
+   "address": "兵庫県豊岡市但東町久畑",
+   "access": "下夜久野駅から約11.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "1950年代前半",
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07694/"
   },
   {
    "name": "『大典記念奉献』",
@@ -40835,6 +42304,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06541/"
+  },
+  {
+   "name": "『大屋村道路元標』",
+   "lat": 35.3327167,
+   "lng": 134.6676442,
+   "address": "兵庫県養父市大屋町大屋市場",
+   "access": "養父駅から約13.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "養父市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07797/"
   },
   {
    "name": "『大山巌像』",
@@ -42288,6 +43774,22 @@
    "url": "https://www.memorial-object.jp/05697/"
   },
   {
+   "name": "『大石内蔵助夫人 りく像』",
+   "lat": 35.5498841,
+   "lng": 134.8298781,
+   "address": "兵庫県豊岡市日撫",
+   "access": "豊岡駅から約1.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07759/"
+  },
+  {
    "name": "『大石内蔵助良雄像』",
    "lat": 34.7490305,
    "lng": 134.3885408,
@@ -42409,6 +43911,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01455/"
+  },
+  {
+   "name": "『大石陸女生誕之地』",
+   "lat": 35.5410054,
+   "lng": 134.8232149,
+   "address": "兵庫県豊岡市京町９",
+   "access": "豊岡駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07653/"
   },
   {
    "name": "『大砲』",
@@ -42602,6 +44120,40 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06703/"
+  },
+  {
+   "name": "『大蔵村道路元標』",
+   "lat": 35.3556553,
+   "lng": 134.8308532,
+   "address": "兵庫県朝来市和田山町宮田４２４",
+   "access": "養父駅から約2.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "朝来市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07684/"
+  },
+  {
+   "name": "『大谷地蔵』",
+   "lat": 35.4820717,
+   "lng": 134.8395073,
+   "address": "兵庫県豊岡市出石町大谷４１０",
+   "access": "国府駅から約3.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07654/"
   },
   {
    "name": "『大谷竹次郎翁像』",
@@ -42990,6 +44542,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05958/"
+  },
+  {
+   "name": "『大黒天』",
+   "lat": 35.5549004,
+   "lng": 134.48763,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07833/"
   },
   {
    "name": "『大黒天』",
@@ -43662,6 +45230,23 @@
    "url": "https://www.memorial-object.jp/05677/"
   },
   {
+   "name": "『天然記念物 正福寺櫻』",
+   "lat": 35.5548852,
+   "lng": 134.487515,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07834/"
+  },
+  {
    "name": "『天然記念物馬場大門けやき並木石垣完成記念』",
    "lat": 35.6729536,
    "lng": 139.4792763,
@@ -44179,6 +45764,23 @@
    "url": "https://www.memorial-object.jp/01738/"
   },
   {
+   "name": "『天龍山 正福寺』",
+   "lat": 35.555012,
+   "lng": 134.4876183,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07835/"
+  },
+  {
    "name": "『太子堂』",
    "lat": 34.8585573,
    "lng": 134.8197653,
@@ -44331,6 +45933,25 @@
    "url": "https://www.memorial-object.jp/01529/"
   },
   {
+   "name": "『太田雅義追慕碑』",
+   "lat": 35.2996894,
+   "lng": 134.8355895,
+   "address": "兵庫県朝来市和田山町竹田１１４０",
+   "access": "竹田駅から北西へ約40m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "播但線",
+    "朝来市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07626/"
+  },
+  {
    "name": "『太郎八地蔵尊』",
    "lat": 34.7048937,
    "lng": 135.2326526,
@@ -44411,6 +46032,22 @@
    "url": "https://www.memorial-object.jp/00026_shinmaebashi_fountain/"
   },
   {
+   "name": "『太陽の道』",
+   "lat": 35.500836,
+   "lng": 134.9987422,
+   "address": "兵庫県豊岡市但東町中山２２７",
+   "access": "京丹後大宮駅から約12.3km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07655/"
+  },
+  {
    "name": "『夫婦とは なんと佳いもの 向かい風』",
    "lat": 34.6490464,
    "lng": 135.1128496,
@@ -44434,7 +46071,7 @@
    "lat": 34.8787709,
    "lng": 134.6510315,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約2.6km",
+   "access": "余部駅から直線で約2.6km（最寄りのバス停：西坂 約370m）",
    "categories": [
     "山林・山道"
    ],
@@ -45383,6 +47020,22 @@
    "url": "https://www.memorial-object.jp/06791/"
   },
   {
+   "name": "『妙経寺の題目印塔』",
+   "lat": 35.5259549,
+   "lng": 134.821895,
+   "address": "兵庫県豊岡市九日市下町",
+   "access": "豊岡駅から約2.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07760/"
+  },
+  {
    "name": "『妙見大菩薩鳥居』",
    "lat": 34.9209028,
    "lng": 135.4533866,
@@ -45795,6 +47448,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05706/"
+  },
+  {
+   "name": "『子安地蔵』",
+   "lat": 35.4596808,
+   "lng": 134.8748883,
+   "address": "兵庫県豊岡市出石町伊木",
+   "access": "国府駅から約7.9km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07761/"
   },
   {
    "name": "『子安地蔵』",
@@ -47163,7 +48833,7 @@
    "lat": 34.9902916,
    "lng": 134.5942874,
    "address": "兵庫県姫路市安富町安志",
-   "access": "播磨新宮駅から約8.8km",
+   "access": "播磨新宮駅から直線で約8.8km（最寄りのバス停：安志東口 約330m）",
    "categories": [
     "学校"
    ],
@@ -47174,6 +48844,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06165/"
+  },
+  {
+   "name": "『安木小学校跡』",
+   "lat": 35.6511048,
+   "lng": 134.7054708,
+   "address": "兵庫県美方郡香美町香住区安木",
+   "access": "佐津駅から約1.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町香住区",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07812/"
   },
   {
    "name": "『安楽子育地蔵』",
@@ -47656,6 +49343,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06704/"
+  },
+  {
+   "name": "『宝くじ桜植栽地』",
+   "lat": 35.2997168,
+   "lng": 134.8224163,
+   "address": "兵庫県朝来市和田山町安井",
+   "access": "竹田駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "朝来市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07801/"
   },
   {
    "name": "『宝くじ桜植栽地』",
@@ -48152,7 +49856,7 @@
    "lat": 34.6766712,
    "lng": 134.5337604,
    "address": "兵庫県姫路市家島町宮",
-   "access": "山陽網干駅から約13.2km",
+   "access": "山陽網干駅から直線で約13.2km（家島にあり、島内に鉄道はありません。網手浜への船などでの移動が必要です）",
    "categories": [
     "海浜"
    ],
@@ -48169,7 +49873,7 @@
    "lat": 34.6784009,
    "lng": 134.5267929,
    "address": "兵庫県姫路市家島町真浦",
-   "access": "山陽網干駅から約13.3km",
+   "access": "山陽網干駅から直線で約13.3km（家島にあり、島内に鉄道はありません。網手浜への船などでの移動が必要です）",
    "categories": [
     "公園"
    ],
@@ -48185,7 +49889,7 @@
    "lat": 34.6737221,
    "lng": 134.5305672,
    "address": "兵庫県姫路市家島町宮",
-   "access": "山陽網干駅から約13.7km",
+   "access": "山陽網干駅から直線で約13.7km（家島にあり、島内に鉄道はありません。網手浜への船などでの移動が必要です）",
    "categories": [
     "海浜"
    ],
@@ -48837,6 +50541,26 @@
    "url": "https://www.memorial-object.jp/02598/"
   },
   {
+   "name": "『寛永十七年制定但馬基点一里塚趾』",
+   "lat": 35.1657324,
+   "lng": 134.7902673,
+   "address": "兵庫県朝来市生野町口銀谷",
+   "access": "生野駅から北へ約280m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR西日本",
+    "一里塚",
+    "兵庫県",
+    "播但線",
+    "朝来市",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07708/"
+  },
+  {
    "name": "『寛永寺坂駅跡地』",
    "lat": 35.7226691,
    "lng": 139.7742392,
@@ -49239,6 +50963,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05063/"
+  },
+  {
+   "name": "『小人地蔵』",
+   "lat": 35.4589812,
+   "lng": 134.8704091,
+   "address": "兵庫県豊岡市出石町小人",
+   "access": "国府駅から約7.6km",
+   "categories": [
+    "公共施設"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07762/"
   },
   {
    "name": "『小仏関阯』",
@@ -49904,7 +51645,7 @@
    "lat": 34.799572,
    "lng": 134.7243,
    "address": "兵庫県姫路市継",
-   "access": "八家駅から約1.7km",
+   "access": "八家駅から直線で約1.7km（最寄りのバス停：明田 約360m）",
    "categories": [
     "その他"
    ],
@@ -50653,6 +52394,22 @@
   },
   {
    "name": "『山の神』",
+   "lat": 35.4546637,
+   "lng": 134.6091256,
+   "address": "兵庫県美方郡香美町村岡区寺河内",
+   "access": "江原駅から約15.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町村岡区"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07813/"
+  },
+  {
+   "name": "『山の神』",
    "lat": 33.8735283,
    "lng": 133.2164685,
    "address": "愛媛県西条市保野",
@@ -50883,6 +52640,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06829/"
+  },
+  {
+   "name": "『山名氏 赤松氏 両軍陣歿諸霊供養塔の記』",
+   "lat": 35.3002613,
+   "lng": 134.8260447,
+   "address": "兵庫県朝来市和田山町安井",
+   "access": "竹田駅から約0.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "供養塔",
+    "兵庫県",
+    "朝来市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07802/"
   },
   {
    "name": "『山堰橋』",
@@ -51424,6 +53199,41 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00741/"
+  },
+  {
+   "name": "『岩崎圃場整備河川改修記念碑』",
+   "lat": 35.4288199,
+   "lng": 134.8174705,
+   "address": "兵庫県養父市八鹿町岩崎",
+   "access": "八鹿駅から約3.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "記念碑",
+    "養父市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07798/"
+  },
+  {
+   "name": "『岩崎地蔵尊』",
+   "lat": 35.4286264,
+   "lng": 134.8169754,
+   "address": "兵庫県養父市八鹿町岩崎２５１",
+   "access": "八鹿駅から約3.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "養父市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07682/"
   },
   {
    "name": "『岩川村の庚申塔』",
@@ -52960,7 +54770,7 @@
    "lat": 34.6743291,
    "lng": 134.5308841,
    "address": "兵庫県姫路市家島町真浦",
-   "access": "山陽網干駅から約13.6km",
+   "access": "山陽網干駅から直線で約13.6km（家島にあり、島内に鉄道はありません。網手浜への船などでの移動が必要です）",
    "categories": [
     "学校"
    ],
@@ -57076,6 +58886,40 @@
   },
   {
    "name": "『延命地蔵』",
+   "lat": 35.4640827,
+   "lng": 134.8713921,
+   "address": "兵庫県豊岡市出石町柳４９",
+   "access": "国府駅から約7.4km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07657/"
+  },
+  {
+   "name": "『延命地蔵』",
+   "lat": 35.463113,
+   "lng": 134.8744436,
+   "address": "兵庫県豊岡市出石町本町１０１",
+   "access": "国府駅から約7.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07656/"
+  },
+  {
+   "name": "『延命地蔵』",
    "lat": 35.6267617,
    "lng": 134.8101647,
    "address": "兵庫県豊岡市城崎町湯島６５１",
@@ -57174,6 +59018,44 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03452/"
+  },
+  {
+   "name": "『延命地蔵尊』",
+   "lat": 35.544572,
+   "lng": 134.8064022,
+   "address": "兵庫県豊岡市高屋",
+   "access": "豊岡駅から西へ約630m",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "JR西日本",
+    "京都丹後鉄道",
+    "京都丹後鉄道宮豊線",
+    "兵庫県",
+    "地蔵",
+    "山陰本線",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07695/"
+  },
+  {
+   "name": "『延命地蔵尊』",
+   "lat": 35.4838948,
+   "lng": 134.8014475,
+   "address": "兵庫県豊岡市日高町府市場６４５",
+   "access": "国府駅から約1.4km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07658/"
   },
   {
    "name": "『延命地蔵尊』",
@@ -57328,7 +59210,7 @@
    "lat": 34.6782833,
    "lng": 134.5384924,
    "address": "兵庫県姫路市家島町宮",
-   "access": "山陽網干駅から約12.9km",
+   "access": "山陽網干駅から直線で約12.9km（家島にあり、島内に鉄道はありません。網手浜への船などでの移動が必要です）",
    "categories": [
     "海浜"
    ],
@@ -57642,6 +59524,23 @@
   },
   {
    "name": "『延命地蔵菩薩』",
+   "lat": 35.6526361,
+   "lng": 134.7054397,
+   "address": "兵庫県美方郡香美町香住区安木１５０９",
+   "access": "佐津駅から約1.8km",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町香住区",
+    "地蔵"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07688/"
+  },
+  {
+   "name": "『延命地蔵菩薩』",
    "lat": 34.738896,
    "lng": 135.2043602,
    "address": "兵庫県神戸市灘区摩耶山町",
@@ -57781,6 +59680,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05537/"
+  },
+  {
+   "name": "『建屋村道路元標』",
+   "lat": 35.2971409,
+   "lng": 134.7446343,
+   "address": "兵庫県養父市建屋",
+   "access": "青倉駅から約6.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "養父市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07799/"
   },
   {
    "name": "『建立の記』",
@@ -58053,6 +59968,26 @@
    "url": "https://www.memorial-object.jp/05538/"
   },
   {
+   "name": "『弔魂碑』",
+   "lat": 35.6277738,
+   "lng": 134.5160919,
+   "address": "兵庫県美方郡新温泉町久谷",
+   "access": "久谷駅から西へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "1970年代後半",
+    "JR西日本",
+    "兵庫県",
+    "山陰本線",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07821/"
+  },
+  {
    "name": "『引田橋記念碑』",
    "lat": 35.720078,
    "lng": 139.2630618,
@@ -58069,6 +60004,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01018/"
+  },
+  {
+   "name": "『弘原耕地整理記念』",
+   "lat": 35.4641239,
+   "lng": 134.8665829,
+   "address": "兵庫県豊岡市出石町福住",
+   "access": "国府駅から約7.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07763/"
   },
   {
    "name": "『弘法大師 修行御影』",
@@ -58238,7 +60190,7 @@
    "lat": 34.6784107,
    "lng": 134.5268018,
    "address": "兵庫県姫路市家島町真浦",
-   "access": "山陽網干駅から約13.3km",
+   "access": "山陽網干駅から直線で約13.3km（家島にあり、島内に鉄道はありません。網手浜への船などでの移動が必要です）",
    "categories": [
     "公園"
    ],
@@ -58413,6 +60365,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04879/"
+  },
+  {
+   "name": "『弘道小学校跡』",
+   "lat": 35.4616372,
+   "lng": 134.8742507,
+   "address": "兵庫県豊岡市出石町内町",
+   "access": "国府駅から約7.7km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07764/"
   },
   {
    "name": "『弟橘媛命舵の碑』",
@@ -59980,6 +61950,23 @@
    "url": "https://www.memorial-object.jp/02783/"
   },
   {
+   "name": "『御禱講之碑』",
+   "lat": 35.4784492,
+   "lng": 134.7934592,
+   "address": "兵庫県豊岡市日高町上郷２８",
+   "access": "江原駅から約1.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07659/"
+  },
+  {
    "name": "『御臨幸記念碑』",
    "lat": 35.692315,
    "lng": 139.7876573,
@@ -59999,6 +61986,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01372/"
+  },
+  {
+   "name": "『御舊跡』",
+   "lat": 35.1678841,
+   "lng": 134.7950358,
+   "address": "兵庫県朝来市生野町口銀谷",
+   "access": "生野駅から北東へ約730m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "播但線",
+    "朝来市",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07709/"
   },
   {
    "name": "『御行の松』",
@@ -60628,6 +62634,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06709/"
+  },
+  {
+   "name": "『心 水井川改修町道改良記念』",
+   "lat": 35.515938,
+   "lng": 134.6498296,
+   "address": "兵庫県豊岡市日高町稲葉１４２",
+   "access": "江原駅から約12.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07660/"
   },
   {
    "name": "『心と創造 筆塚』",
@@ -61707,6 +63730,42 @@
   },
   {
    "name": "『忠魂碑』",
+   "lat": 35.4195504,
+   "lng": 135.0089794,
+   "address": "兵庫県豊岡市但東町久畑",
+   "access": "下夜久野駅から約11.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07765/"
+  },
+  {
+   "name": "『忠魂碑』",
+   "lat": 35.2995778,
+   "lng": 134.8355259,
+   "address": "兵庫県朝来市和田山町竹田２２５",
+   "access": "竹田駅から北西へ約40m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "播但線",
+    "朝来市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07627/"
+  },
+  {
+   "name": "『忠魂碑』",
    "lat": 34.7596312,
    "lng": 135.3818693,
    "address": "兵庫県尼崎市武庫元町１丁目３３",
@@ -61744,7 +63803,7 @@
    "lat": 34.8784466,
    "lng": 134.6519613,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約2.6km",
+   "access": "余部駅から直線で約2.6km（最寄りのバス停：西坂 約350m）",
    "categories": [
     "山林・山道"
    ],
@@ -62243,6 +64302,23 @@
    "url": "https://www.memorial-object.jp/00718/"
   },
   {
+   "name": "『念願地蔵』",
+   "lat": 35.478352,
+   "lng": 134.6060331,
+   "address": "兵庫県美方郡香美町村岡区村岡",
+   "access": "江原駅から約15.4km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町村岡区",
+    "地蔵"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07814/"
+  },
+  {
    "name": "『思い出』",
    "lat": 34.6819869,
    "lng": 135.0577451,
@@ -62275,6 +64351,26 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06686/"
+  },
+  {
+   "name": "『恋人の聖地 竹田城跡』",
+   "lat": 35.2988984,
+   "lng": 134.8358992,
+   "address": "兵庫県朝来市和田山町竹田２４１",
+   "access": "竹田駅から南へ約50m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "播但線",
+    "朝来市",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07628/"
   },
   {
    "name": "『恋文横丁跡』",
@@ -62328,6 +64424,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06884/"
+  },
+  {
+   "name": "『恒良親王御旧蹟』",
+   "lat": 35.4882467,
+   "lng": 134.9931489,
+   "address": "兵庫県豊岡市但東町畑山",
+   "access": "与謝野駅から約13.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07766/"
   },
   {
    "name": "『恩誠』",
@@ -63056,6 +65168,22 @@
   },
   {
    "name": "『慰霊塔』",
+   "lat": 35.5337095,
+   "lng": 134.8287022,
+   "address": "兵庫県豊岡市塩津町３",
+   "access": "豊岡駅から約1.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07661/"
+  },
+  {
+   "name": "『慰霊塔』",
    "lat": 34.7520291,
    "lng": 135.3358588,
    "address": "兵庫県西宮市奥畑５",
@@ -63162,6 +65290,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00693/"
+  },
+  {
+   "name": "『慰霊碑 聖観世音菩薩』",
+   "lat": 35.6495392,
+   "lng": 134.5599614,
+   "address": "兵庫県美方郡香美町香住区余部１７３３",
+   "access": "餘部駅から東へ約270m",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町香住区"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07634/"
   },
   {
    "name": "『慰霊碑「想」』",
@@ -64768,6 +66912,23 @@
    "url": "https://www.memorial-object.jp/05883/"
   },
   {
+   "name": "『才の神古墳』",
+   "lat": 35.6658693,
+   "lng": 134.7971942,
+   "address": "兵庫県豊岡市竹野町田久日",
+   "access": "竹野駅から約4.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07767/"
+  },
+  {
    "name": "『打出天神社』",
    "lat": 34.733317,
    "lng": 135.3154344,
@@ -66012,6 +68173,23 @@
    "url": "https://www.memorial-object.jp/02717/"
   },
   {
+   "name": "『敬神之碑』",
+   "lat": 35.651413,
+   "lng": 134.5573677,
+   "address": "兵庫県美方郡香美町香住区余部",
+   "access": "餘部駅から北へ約300m",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町香住区",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07714/"
+  },
+  {
    "name": "『敬神生活の綱領』",
    "lat": 34.4585925,
    "lng": 134.8525156,
@@ -66340,6 +68518,24 @@
    "url": "https://www.memorial-object.jp/01773/"
   },
   {
+   "name": "『斎藤隆夫記念碑』",
+   "lat": 35.460742,
+   "lng": 134.8743063,
+   "address": "兵庫県豊岡市出石町内町４０",
+   "access": "国府駅から約7.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "記念碑",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07662/"
+  },
+  {
    "name": "『斑鳩寺 仮事務所』",
    "lat": 34.8369989,
    "lng": 134.5756179,
@@ -66590,6 +68786,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05613/"
+  },
+  {
+   "name": "『新四国六十九番札所』",
+   "lat": 35.4911245,
+   "lng": 135.0374803,
+   "address": "兵庫県豊岡市但東町赤花",
+   "access": "与謝野駅から約9.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07768/"
   },
   {
    "name": "『新堀川橋』",
@@ -66942,6 +69154,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03959/"
+  },
+  {
+   "name": "『新田次郎文学碑』",
+   "lat": 35.6271793,
+   "lng": 134.4455553,
+   "address": "兵庫県美方郡新温泉町芦屋",
+   "access": "浜坂駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "歌碑",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07836/"
   },
   {
    "name": "『新田義貞像』",
@@ -67654,7 +69884,7 @@
    "lat": 34.8924279,
    "lng": 134.656751,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約4.2km",
+   "access": "余部駅から直線で約4.2km（最寄りのバス停：摩尼殿 約240m）",
    "categories": [
     "寺社境内"
    ],
@@ -67671,7 +69901,7 @@
    "lat": 34.8924734,
    "lng": 134.6564322,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約4.2km",
+   "access": "余部駅から直線で約4.2km（最寄りのバス停：摩尼殿 約260m）",
    "categories": [
     "寺社境内"
    ],
@@ -68905,6 +71135,23 @@
    "url": "https://www.memorial-object.jp/03264/"
   },
   {
+   "name": "『日限地蔵』",
+   "lat": 35.4985115,
+   "lng": 134.9690234,
+   "address": "兵庫県豊岡市但東町太田６９",
+   "access": "かぶと山駅から約12.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07663/"
+  },
+  {
    "name": "『日限地蔵尊』",
    "lat": 35.7150616,
    "lng": 139.7958966,
@@ -69219,6 +71466,25 @@
    "url": "https://www.memorial-object.jp/05069/"
   },
   {
+   "name": "『日高町民憲章』",
+   "lat": 35.4704765,
+   "lng": 134.771677,
+   "address": "兵庫県豊岡市日高町国分寺８５０",
+   "access": "江原駅から西へ約390m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "山陰本線",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07615/"
+  },
+  {
    "name": "『旦』",
    "lat": 35.5470239,
    "lng": 139.4383585,
@@ -69237,6 +71503,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00473/"
+  },
+  {
+   "name": "『旧 西濱村役場 趾』",
+   "lat": 35.6189698,
+   "lng": 134.4303424,
+   "address": "兵庫県美方郡新温泉町諸寄６４０",
+   "access": "諸寄駅から西へ約370m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "山陰本線",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07818/"
   },
   {
    "name": "『旧中之橋の親柱石』",
@@ -70888,6 +73173,23 @@
    "url": "https://www.memorial-object.jp/05915/"
   },
   {
+   "name": "『明治天皇遥拝所』",
+   "lat": 35.5562318,
+   "lng": 134.4901268,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約7.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07837/"
+  },
+  {
    "name": "『明治憲法起草の碑』",
    "lat": 35.3320346,
    "lng": 139.6252273,
@@ -71975,7 +74277,7 @@
    "lat": 34.7719083,
    "lng": 134.593703,
    "address": "兵庫県姫路市網干区新在家",
-   "access": "山陽網干駅から約1.8km",
+   "access": "山陽網干駅から直線で約1.8km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "公園"
    ],
@@ -72068,7 +74370,7 @@
    "lat": 34.8854214,
    "lng": 134.6620592,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ（すぐ近く））",
    "categories": [
     "寺社境内"
    ],
@@ -72085,7 +74387,7 @@
    "lat": 34.8911631,
    "lng": 134.6576707,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約4.1km",
+   "access": "余部駅から直線で約4.1km（最寄りのバス停：摩尼殿 約70m）",
    "categories": [
     "寺社境内"
    ],
@@ -72102,7 +74404,7 @@
    "lat": 34.8888406,
    "lng": 134.6605215,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.9km",
+   "access": "余部駅から直線で約3.9km（最寄りのバス停：摩尼殿 約290m）",
    "categories": [
     "寺社境内"
    ],
@@ -73098,6 +75400,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06575/"
+  },
+  {
+   "name": "『本丸跡』",
+   "lat": 35.460146,
+   "lng": 134.874677,
+   "address": "兵庫県豊岡市出石町内町",
+   "access": "国府駅から約7.9km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07769/"
   },
   {
    "name": "『本住吉神社』",
@@ -75841,6 +78161,24 @@
    "url": "https://www.memorial-object.jp/00796/"
   },
   {
+   "name": "『東中地区圃場整備記念碑』",
+   "lat": 35.408953,
+   "lng": 135.0027379,
+   "address": "兵庫県豊岡市但東町東中",
+   "access": "上夜久野駅から約9.9km",
+   "categories": [
+    "公共施設"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "記念碑",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07770/"
+  },
+  {
    "name": "『東久留米市立第八小学校記念碑』",
    "lat": 35.7502627,
    "lng": 139.5231064,
@@ -76913,6 +79251,25 @@
    "url": "https://www.memorial-object.jp/01785/"
   },
   {
+   "name": "『松の碑』",
+   "lat": 35.6272586,
+   "lng": 134.4486605,
+   "address": "兵庫県美方郡新温泉町芦屋８４８",
+   "access": "浜坂駅から北西へ約790m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "山陰本線",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07819/"
+  },
+  {
    "name": "『松之大廊下跡』",
    "lat": 35.6853395,
    "lng": 139.7555593,
@@ -76931,6 +79288,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02959/"
+  },
+  {
+   "name": "『松井巡査の碑』",
+   "lat": 35.299717,
+   "lng": 134.8356942,
+   "address": "兵庫県朝来市和田山町竹田１１４０",
+   "access": "竹田駅から北西へ約40m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "播但線",
+    "朝来市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07629/"
   },
   {
    "name": "『松前重義先生像』",
@@ -77548,6 +79924,24 @@
    "url": "https://www.memorial-object.jp/05202/"
   },
   {
+   "name": "『林道開通記念碑』",
+   "lat": 35.6509746,
+   "lng": 134.5038695,
+   "address": "兵庫県美方郡新温泉町三尾",
+   "access": "久谷駅から約2.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07838/"
+  },
+  {
    "name": "『林野庁殉職者慰霊碑』",
    "lat": 35.6294018,
    "lng": 139.2519544,
@@ -77734,6 +80128,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06919/"
+  },
+  {
+   "name": "『柴栗山睨満の碑』",
+   "lat": 35.6653048,
+   "lng": 134.7601184,
+   "address": "兵庫県豊岡市竹野町竹野",
+   "access": "竹野駅から約1.7km",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07771/"
   },
   {
    "name": "『柴漁港碑碑』",
@@ -78078,6 +80489,23 @@
    "url": "https://www.memorial-object.jp/01621/"
   },
   {
+   "name": "『桂小五郎潜居跡』",
+   "lat": 35.4636679,
+   "lng": 134.8736829,
+   "address": "兵庫県豊岡市出石町宵田１２",
+   "access": "国府駅から約7.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07664/"
+  },
+  {
    "name": "『桃太郎』",
    "lat": 35.4289429,
    "lng": 139.6014473,
@@ -78094,6 +80522,40 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03723/"
+  },
+  {
+   "name": "『桃山石』",
+   "lat": 35.6314121,
+   "lng": 134.8082214,
+   "address": "兵庫県豊岡市城崎町桃島",
+   "access": "城崎温泉駅から約1.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07772/"
+  },
+  {
+   "name": "『桃島宝篋印塔』",
+   "lat": 35.6283584,
+   "lng": 134.8124667,
+   "address": "兵庫県豊岡市城崎町桃島４８９",
+   "access": "城崎温泉駅から北へ約530m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "山陰本線",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07616/"
   },
   {
    "name": "『桐田蕗村歌碑』",
@@ -79089,6 +81551,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01096/"
+  },
+  {
+   "name": "『極楽地蔵』",
+   "lat": 35.446324,
+   "lng": 134.9704367,
+   "address": "兵庫県豊岡市但東町相田",
+   "access": "上夜久野駅から約12.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07773/"
   },
   {
    "name": "『概念橋』",
@@ -80334,6 +82813,23 @@
    "url": "https://www.memorial-object.jp/02586/"
   },
   {
+   "name": "『正福寺南参道』",
+   "lat": 35.5547126,
+   "lng": 134.4875338,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07839/"
+  },
+  {
    "name": "『正覚殿』",
    "lat": 34.9843658,
    "lng": 134.7252432,
@@ -80889,6 +83385,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02810/"
+  },
+  {
+   "name": "『殉国の碑』",
+   "lat": 35.2996385,
+   "lng": 134.8355471,
+   "address": "兵庫県朝来市和田山町竹田２２５",
+   "access": "竹田駅から北西へ約40m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "播但線",
+    "朝来市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07630/"
   },
   {
    "name": "『殉国忠霊碑』",
@@ -81625,6 +84140,24 @@
    "url": "https://www.memorial-object.jp/05680/"
   },
   {
+   "name": "『水上代官所跡』",
+   "lat": 35.4781841,
+   "lng": 134.7757898,
+   "address": "兵庫県豊岡市日高町水上",
+   "access": "江原駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07774/"
+  },
+  {
    "name": "『水任流保存会会長松平賴明顕彰碑』",
    "lat": 34.3515179,
    "lng": 134.0498154,
@@ -81821,6 +84354,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00955/"
+  },
+  {
+   "name": "『水子地蔵尊』",
+   "lat": 35.4723739,
+   "lng": 134.7730833,
+   "address": "兵庫県豊岡市日高町国分寺６７３",
+   "access": "江原駅から北西へ約400m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "地蔵",
+    "山陰本線",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07617/"
   },
   {
    "name": "『水子地蔵尊』",
@@ -82311,6 +84863,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05784/"
+  },
+  {
+   "name": "『水道記念碑』",
+   "lat": 35.5127417,
+   "lng": 134.8248973,
+   "address": "兵庫県豊岡市加陽",
+   "access": "国府駅から約2.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "記念碑",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07775/"
   },
   {
    "name": "『水道道案内板 23 下星川』",
@@ -83046,6 +85616,23 @@
    "url": "https://www.memorial-object.jp/02763/"
   },
   {
+   "name": "『江野土地改良の碑』",
+   "lat": 35.5741863,
+   "lng": 134.7663461,
+   "address": "兵庫県豊岡市江野１３７６",
+   "access": "玄武洞駅から約3.4km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07665/"
+  },
+  {
    "name": "『池姫地蔵尊』",
    "lat": 34.6321097,
    "lng": 135.0554333,
@@ -83135,6 +85722,39 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03108/"
+  },
+  {
+   "name": "『沖野忠雄先生』",
+   "lat": 35.4810735,
+   "lng": 134.8703534,
+   "address": "兵庫県豊岡市出石町宮内",
+   "access": "国府駅から約6.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07776/"
+  },
+  {
+   "name": "『沖野忠雄先生生誕地』",
+   "lat": 35.5360972,
+   "lng": 134.8267853,
+   "address": "兵庫県豊岡市大磯町８",
+   "access": "豊岡駅から約1.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07666/"
   },
   {
    "name": "『沙竭羅竜王像』",
@@ -83461,6 +86081,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02800/"
+  },
+  {
+   "name": "『治水祈念の碑』",
+   "lat": 35.4561571,
+   "lng": 134.7739939,
+   "address": "兵庫県豊岡市日高町浅倉",
+   "access": "江原駅から約1.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "2000年代後半",
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07696/"
   },
   {
    "name": "『沼栄橋新道開設記念碑』",
@@ -84712,24 +87350,6 @@
    "url": "https://www.memorial-object.jp/07515/"
   },
   {
-   "name": "『洲本城 濱手御門跡』",
-   "lat": 34.3402469,
-   "lng": 134.9033413,
-   "address": "兵庫県洲本市山手１丁目",
-   "access": "加太駅から約17.8km",
-   "categories": [
-    "公園"
-   ],
-   "tags": [
-    "兵庫県",
-    "歴史",
-    "洲本市",
-    "碑文"
-   ],
-   "image": "",
-   "url": "https://www.memorial-object.jp/07515/"
-  },
-  {
    "name": "『活魚塚』",
    "lat": 35.6635943,
    "lng": 139.7716334,
@@ -85087,6 +87707,74 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05894/"
+  },
+  {
+   "name": "『浜地蔵』",
+   "lat": 35.6489448,
+   "lng": 134.8334676,
+   "address": "兵庫県豊岡市津居山２１３",
+   "access": "城崎温泉駅から約3.3km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07667/"
+  },
+  {
+   "name": "『浜坂温泉塔』",
+   "lat": 35.6208836,
+   "lng": 134.4527399,
+   "address": "兵庫県美方郡新温泉町浜坂",
+   "access": "浜坂駅から東へ約40m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "山陰本線",
+    "新温泉町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07822/"
+  },
+  {
+   "name": "『浜坂漁港修築碑碑』",
+   "lat": 35.6283155,
+   "lng": 134.4453178,
+   "address": "兵庫県美方郡新温泉町芦屋",
+   "access": "浜坂駅から約1.0km",
+   "categories": [
+    "商業地"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07840/"
+  },
+  {
+   "name": "『浜左衛門恵比須』",
+   "lat": 35.6318249,
+   "lng": 134.808777,
+   "address": "兵庫県豊岡市城崎町桃島",
+   "access": "城崎温泉駅から約1.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07777/"
   },
   {
    "name": "『浜空の碑』",
@@ -86959,6 +89647,25 @@
    "url": "https://www.memorial-object.jp/01632/"
   },
   {
+   "name": "『清水家遺跡記念碑』",
+   "lat": 35.6563473,
+   "lng": 134.5065259,
+   "address": "兵庫県美方郡新温泉町三尾",
+   "access": "久谷駅から約3.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "歴史",
+    "碑文",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07841/"
+  },
+  {
    "name": "『清水庚申尊』",
    "lat": 35.6260415,
    "lng": 139.6947775,
@@ -87358,6 +90065,40 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01805/"
+  },
+  {
+   "name": "『温泉小学校』",
+   "lat": 35.5569257,
+   "lng": 134.4866963,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約7.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07842/"
+  },
+  {
+   "name": "『温泉町役場庁舎跡地の碑』",
+   "lat": 35.556612,
+   "lng": 134.4880468,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約7.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07843/"
   },
   {
    "name": "『港区立神明小学校』",
@@ -87905,6 +90646,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04590/"
+  },
+  {
+   "name": "『漁船海難物故者之墓』",
+   "lat": 35.6505942,
+   "lng": 134.8320115,
+   "address": "兵庫県豊岡市津居山",
+   "access": "城崎温泉駅から約3.4km",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "tags": [
+    "1990年代後半",
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07697/"
   },
   {
    "name": "『漆芸家 玉楮象谷(たまかじぞうこく)の像』",
@@ -89502,6 +92260,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02304/"
+  },
+  {
+   "name": "『牧田村道路元標』",
+   "lat": 35.3339388,
+   "lng": 134.856066,
+   "address": "兵庫県朝来市和田山町和田山４３７",
+   "access": "和田山駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "朝来市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07685/"
   },
   {
    "name": "『物語の松』",
@@ -91276,6 +94051,22 @@
    "url": "https://www.memorial-object.jp/02590/"
   },
   {
+   "name": "『環界・ⅣΦ３００㎝８７』",
+   "lat": 35.4921055,
+   "lng": 134.9943139,
+   "address": "兵庫県豊岡市但東町中山",
+   "access": "与謝野駅から約13.2km",
+   "categories": [
+    "商業地"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07778/"
+  },
+  {
    "name": "『瓜生岩子之像』",
    "lat": 35.7145895,
    "lng": 139.7955559,
@@ -91611,6 +94402,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06448/"
+  },
+  {
+   "name": "『生野義挙趾』",
+   "lat": 35.1676681,
+   "lng": 134.7924198,
+   "address": "兵庫県朝来市生野町口銀谷",
+   "access": "生野駅から北東へ約560m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "1940年代",
+    "JR西日本",
+    "兵庫県",
+    "播但線",
+    "朝来市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07686/"
   },
   {
    "name": "『生類憐愍総供養』",
@@ -92475,6 +95285,24 @@
    "url": "https://www.memorial-object.jp/00705/"
   },
   {
+   "name": "『番屋峠開通記念碑』",
+   "lat": 35.5308205,
+   "lng": 134.718985,
+   "address": "兵庫県豊岡市竹野町段",
+   "access": "国府駅から約8.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "記念碑",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07779/"
+  },
+  {
    "name": "『當所干鰯屋址』",
    "lat": 34.7345769,
    "lng": 135.3359038,
@@ -92534,6 +95362,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04981/"
+  },
+  {
+   "name": "『疣地蔵』",
+   "lat": 35.5482051,
+   "lng": 134.8309591,
+   "address": "兵庫県豊岡市梶原５０８",
+   "access": "豊岡駅から約1.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07668/"
   },
   {
    "name": "『病理解剖記念碑「学びの台」』",
@@ -95037,6 +97882,23 @@
    "url": "https://www.memorial-object.jp/01409/"
   },
   {
+   "name": "『相田小学校跡』",
+   "lat": 35.4521831,
+   "lng": 134.9658763,
+   "address": "兵庫県豊岡市但東町相田",
+   "access": "上夜久野駅から約12.7km",
+   "categories": [
+    "公共施設"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07780/"
+  },
+  {
    "name": "『県営ため池等設備事業改修記念』",
    "lat": 34.75011,
    "lng": 134.877931,
@@ -95285,6 +98147,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03333/"
+  },
+  {
+   "name": "『矢名瀬ギャラリー』",
+   "lat": 35.3160357,
+   "lng": 134.8849936,
+   "address": "兵庫県朝来市山東町矢名瀬町",
+   "access": "梁瀬駅から南東へ約780m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "朝来市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07710/"
   },
   {
    "name": "『矢川清流と青柳の府中』",
@@ -96063,6 +98941,24 @@
    "url": "https://www.memorial-object.jp/01030/"
   },
   {
+   "name": "『石書大乗妙典一部供養塔』",
+   "lat": 35.535078,
+   "lng": 134.8289482,
+   "address": "兵庫県豊岡市大磯町１０",
+   "access": "豊岡駅から約1.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "供養塔",
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07669/"
+  },
+  {
    "name": "『石村近江墓』",
    "lat": 35.643561,
    "lng": 139.7366244,
@@ -96318,6 +99214,23 @@
   },
   {
    "name": "『石碑』",
+   "lat": 35.2103627,
+   "lng": 135.1416256,
+   "address": "兵庫県丹波市市島町上垣",
+   "access": "市島駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "丹波市",
+    "兵庫県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07717/"
+  },
+  {
+   "name": "『石碑』",
    "lat": 34.3348702,
    "lng": 134.8730038,
    "address": "兵庫県洲本市宇原",
@@ -96458,6 +99371,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03397/"
+  },
+  {
+   "name": "『石造九重塔』",
+   "lat": 35.6492906,
+   "lng": 134.8324431,
+   "address": "兵庫県豊岡市津居山",
+   "access": "城崎温泉駅から約3.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07781/"
   },
   {
    "name": "『石造宝篋印塔（良野の宝篋印塔）』",
@@ -98471,6 +101400,26 @@
    "url": "https://www.memorial-object.jp/00072_sakeshima3/"
   },
   {
+   "name": "『神鍋発祥之碑』",
+   "lat": 35.5053613,
+   "lng": 134.6772858,
+   "address": "兵庫県豊岡市日高町太田",
+   "access": "江原駅から約9.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "1980年代前半",
+    "兵庫県",
+    "歴史",
+    "発祥の地",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07698/"
+  },
+  {
    "name": "『神門改築紀念』",
    "lat": 34.802814,
    "lng": 134.7175034,
@@ -98783,6 +101732,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07435/"
+  },
+  {
+   "name": "『福江土地改良碑』",
+   "lat": 35.5597351,
+   "lng": 134.7955278,
+   "address": "兵庫県豊岡市福田",
+   "access": "豊岡駅から約2.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07782/"
   },
   {
    "name": "『福沢・近藤 両翁学塾跡』",
@@ -99516,6 +102482,22 @@
    "url": "https://www.memorial-object.jp/06640/"
   },
   {
+   "name": "『稲継家の地神様』",
+   "lat": 35.1832905,
+   "lng": 134.9878285,
+   "address": "兵庫県丹波市氷上町中野１９６",
+   "access": "石生駅から約7.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "丹波市",
+    "兵庫県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07639/"
+  },
+  {
    "name": "『稲荷下橋』",
    "lat": 35.6467791,
    "lng": 139.6498507,
@@ -99623,6 +102605,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07524/"
+  },
+  {
+   "name": "『稲荷神社』",
+   "lat": 35.4610099,
+   "lng": 134.8746004,
+   "address": "兵庫県豊岡市出石町内町２９",
+   "access": "国府駅から約7.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07670/"
   },
   {
    "name": "『稲荷神社』",
@@ -100031,6 +103030,44 @@
   },
   {
    "name": "『立江地蔵尊』",
+   "lat": 35.6676997,
+   "lng": 134.7616527,
+   "address": "兵庫県豊岡市竹野町竹野",
+   "access": "竹野駅から約2.0km",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07783/"
+  },
+  {
+   "name": "『立江地蔵尊』",
+   "lat": 35.5439664,
+   "lng": 134.8157034,
+   "address": "兵庫県豊岡市大手町１",
+   "access": "豊岡駅から東へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR西日本",
+    "京都丹後鉄道",
+    "京都丹後鉄道宮豊線",
+    "兵庫県",
+    "地蔵",
+    "山陰本線",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07618/"
+  },
+  {
+   "name": "『立江地蔵尊』",
    "lat": 34.7443862,
    "lng": 134.8006628,
    "address": "兵庫県高砂市高砂町狩網町７６５",
@@ -100307,6 +103344,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02971/"
+  },
+  {
+   "name": "『竹野保育園』",
+   "lat": 35.6589161,
+   "lng": 134.7643108,
+   "address": "兵庫県豊岡市竹野町竹野",
+   "access": "竹野駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07784/"
   },
   {
    "name": "『竹駒稲荷尊』",
@@ -104631,6 +107684,23 @@
   },
   {
    "name": "『筆塚』",
+   "lat": 35.5115521,
+   "lng": 134.8907152,
+   "address": "兵庫県豊岡市出石町奥小野",
+   "access": "豊岡駅から約7.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "筆塚",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07785/"
+  },
+  {
+   "name": "『筆塚』",
    "lat": 34.777642,
    "lng": 134.772783,
    "address": "兵庫県高砂市曽根町",
@@ -105024,6 +108094,23 @@
    "url": "https://www.memorial-object.jp/02922/"
   },
   {
+   "name": "『篠部有徳公の碑』",
+   "lat": 35.6353069,
+   "lng": 134.624714,
+   "address": "兵庫県美方郡香美町香住区香住１２４４",
+   "access": "香住駅から東へ約140m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町香住区",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07635/"
+  },
+  {
    "name": "『籠工商祖神講』",
    "lat": 35.7023227,
    "lng": 139.7682159,
@@ -105147,6 +108234,23 @@
    "url": "https://www.memorial-object.jp/00698/"
   },
   {
+   "name": "『粟鹿神社』",
+   "lat": 35.3011706,
+   "lng": 134.905366,
+   "address": "兵庫県朝来市山東町粟鹿",
+   "access": "梁瀬駅から約3.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "朝来市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07803/"
+  },
+  {
    "name": "『粧太夫碑』",
    "lat": 35.714518,
    "lng": 139.7974716,
@@ -105225,6 +108329,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04416/"
+  },
+  {
+   "name": "『糸井村道路元標』",
+   "lat": 35.360214,
+   "lng": 134.8386544,
+   "address": "兵庫県朝来市和田山町林垣１１５２",
+   "access": "和田山駅から約2.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "朝来市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07687/"
   },
   {
    "name": "『糸引村道路元標』",
@@ -105824,6 +108945,23 @@
    "url": "https://www.memorial-object.jp/00523/"
   },
   {
+   "name": "『絵馬堂 休み堂』",
+   "lat": 35.4816611,
+   "lng": 134.8704755,
+   "address": "兵庫県豊岡市出石町宮内",
+   "access": "国府駅から約6.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07786/"
+  },
+  {
    "name": "『絹の道』",
    "lat": 35.5446658,
    "lng": 139.4461431,
@@ -105978,6 +109116,42 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06231/"
+  },
+  {
+   "name": "『緑のリズム』",
+   "lat": 35.1672205,
+   "lng": 134.7933317,
+   "address": "兵庫県朝来市生野町口銀谷",
+   "access": "生野駅から北東へ約570m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "播但線",
+    "朝来市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07711/"
+  },
+  {
+   "name": "『緑の風』",
+   "lat": 35.167419,
+   "lng": 134.7924107,
+   "address": "兵庫県朝来市生野町口銀谷",
+   "access": "生野駅から北東へ約540m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "播但線",
+    "朝来市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07712/"
   },
   {
    "name": "『練馬区立石神井東小学校　練馬区立石神井東中学校　練馬区立総合教育センター　跡地記念碑』",
@@ -106163,6 +109337,41 @@
    "url": "https://www.memorial-object.jp/06255/"
   },
   {
+   "name": "『縣社 諸杉神社』",
+   "lat": 35.4609862,
+   "lng": 134.8754684,
+   "address": "兵庫県豊岡市出石町内町１１",
+   "access": "国府駅から約7.9km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07671/"
+  },
+  {
+   "name": "『縣道開通記念碑』",
+   "lat": 35.4173707,
+   "lng": 134.5244832,
+   "address": "兵庫県美方郡香美町小代区新屋",
+   "access": "若桜駅から約13.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町小代区",
+    "碑文",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07815/"
+  },
+  {
    "name": "『纏』",
    "lat": 35.7329083,
    "lng": 139.813577,
@@ -106249,6 +109458,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03654/"
+  },
+  {
+   "name": "『美伊藤神社新築記念』",
+   "lat": 35.6651698,
+   "lng": 134.5389343,
+   "address": "兵庫県美方郡香美町香住区余部",
+   "access": "餘部駅から約2.4km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町香住区",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07816/"
   },
   {
    "name": "『美寿々橋』",
@@ -106364,6 +109590,23 @@
    "url": "https://www.memorial-object.jp/03793/"
   },
   {
+   "name": "『義人 河野清兵衛』",
+   "lat": 35.4608425,
+   "lng": 134.8755321,
+   "address": "兵庫県豊岡市出石町内町１１",
+   "access": "国府駅から約7.9km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07672/"
+  },
+  {
    "name": "『義勇奉公』",
    "lat": 34.2868927,
    "lng": 134.0275725,
@@ -106416,6 +109659,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06274/"
+  },
+  {
+   "name": "『義母神像』",
+   "lat": 35.622885,
+   "lng": 134.7971071,
+   "address": "兵庫県豊岡市城崎町湯島",
+   "access": "城崎温泉駅から約1.5km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07787/"
   },
   {
    "name": "『義経辨慶隠家跡』",
@@ -106686,6 +109945,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02724/"
+  },
+  {
+   "name": "『耳地蔵尊』",
+   "lat": 35.4633255,
+   "lng": 134.7293135,
+   "address": "兵庫県豊岡市日高町野",
+   "access": "江原駅から約4.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07699/"
   },
   {
    "name": "『耳神様』",
@@ -108435,6 +111711,23 @@
    "url": "https://www.memorial-object.jp/06076/"
   },
   {
+   "name": "『若宮地蔵』",
+   "lat": 35.4450555,
+   "lng": 134.9738632,
+   "address": "兵庫県豊岡市但東町相田",
+   "access": "上夜久野駅から約12.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07788/"
+  },
+  {
    "name": "『若宮様』",
    "lat": 33.3168024,
    "lng": 132.6579135,
@@ -108650,6 +111943,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05632/"
+  },
+  {
+   "name": "『英霊塔』",
+   "lat": 35.5283528,
+   "lng": 134.4816675,
+   "address": "兵庫県美方郡新温泉町桐岡",
+   "access": "浜坂駅から約10.6km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07844/"
   },
   {
    "name": "『茨城百景 高濱の釣場』",
@@ -108975,6 +112284,56 @@
    "url": "https://www.memorial-object.jp/06234/"
   },
   {
+   "name": "『荒湯 湯村温泉』",
+   "lat": 35.5548985,
+   "lng": 134.4881058,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.0km",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07845/"
+  },
+  {
+   "name": "『荒湯地蔵尊』",
+   "lat": 35.5547549,
+   "lng": 134.4880364,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.0km",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "新温泉町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07846/"
+  },
+  {
+   "name": "『荒湯天狗』",
+   "lat": 35.5544643,
+   "lng": 134.488779,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.1km",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07847/"
+  },
+  {
    "name": "『荒神山堰堤』",
    "lat": 34.7442956,
    "lng": 135.2553618,
@@ -109177,6 +112536,42 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03860/"
+  },
+  {
+   "name": "『菅谷小学校跡』",
+   "lat": 35.464303,
+   "lng": 134.8346096,
+   "address": "兵庫県豊岡市出石町荒木",
+   "access": "国府駅から約4.7km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07789/"
+  },
+  {
+   "name": "『菊屋島離農之碑』",
+   "lat": 35.6314222,
+   "lng": 134.8082556,
+   "address": "兵庫県豊岡市城崎町桃島",
+   "access": "城崎温泉駅から約1.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "1970年代前半",
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07700/"
   },
   {
    "name": "『菩提樹』",
@@ -109665,6 +113060,24 @@
    "url": "https://www.memorial-object.jp/02174/"
   },
   {
+   "name": "『蒸気機関車C 57 93』",
+   "lat": 35.1673476,
+   "lng": 134.7914255,
+   "address": "兵庫県朝来市生野町口銀谷",
+   "access": "生野駅から北東へ約490m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "播但線",
+    "朝来市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07713/"
+  },
+  {
    "name": "『蒼天の摩耶に五月の来りけり』",
    "lat": 34.7386072,
    "lng": 135.2037218,
@@ -109793,6 +113206,40 @@
    "url": "https://www.memorial-object.jp/07339/"
   },
   {
+   "name": "『蓼川水路改修碑』",
+   "lat": 35.5222788,
+   "lng": 134.8187356,
+   "address": "兵庫県豊岡市九日市上町",
+   "access": "豊岡駅から約2.4km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07790/"
+  },
+  {
+   "name": "『蓼風』",
+   "lat": 35.53736,
+   "lng": 134.8265678,
+   "address": "兵庫県豊岡市大磯町３",
+   "access": "豊岡駅から約1.4km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07673/"
+  },
+  {
    "name": "『蔵前橋』",
    "lat": 35.7011783,
    "lng": 139.7923746,
@@ -109830,6 +113277,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01830/"
+  },
+  {
+   "name": "『蔵持地蔵』",
+   "lat": 35.4499752,
+   "lng": 134.8731865,
+   "address": "兵庫県豊岡市出石町日野辺",
+   "access": "国府駅から約8.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07791/"
   },
   {
    "name": "『蔵魄塔・関東大震災殃死者慰霊塔』",
@@ -109965,6 +113429,23 @@
   },
   {
    "name": "『薬師如来』",
+   "lat": 35.5555755,
+   "lng": 134.4895072,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07848/"
+  },
+  {
+   "name": "『薬師如来』",
    "lat": 34.9578508,
    "lng": 134.7645383,
    "address": "兵庫県神崎郡福崎町西田原",
@@ -110048,6 +113529,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02531/"
+  },
+  {
+   "name": "『藤原無然先生生誕之地』",
+   "lat": 35.619149,
+   "lng": 134.4322914,
+   "address": "兵庫県美方郡新温泉町諸寄３７６",
+   "access": "諸寄駅から西へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "山陰本線",
+    "新温泉町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07820/"
   },
   {
    "name": "『藤原（伊丹）元親の歌碑』",
@@ -110140,6 +113640,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03402/"
+  },
+  {
+   "name": "『藤田威先生生誕之地』",
+   "lat": 35.6209226,
+   "lng": 134.4280106,
+   "address": "兵庫県美方郡新温泉町諸寄",
+   "access": "諸寄駅から西へ約590m",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "山陰本線",
+    "新温泉町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07823/"
   },
   {
    "name": "『藤田東湖先生護母致命之處』",
@@ -110591,6 +114109,22 @@
    "url": "https://www.memorial-object.jp/01935/"
   },
   {
+   "name": "『蟹爪のモニュメント』",
+   "lat": 35.6358347,
+   "lng": 134.6231039,
+   "address": "兵庫県美方郡香美町香住区七日市",
+   "access": "香住駅から北へ約40m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "兵庫県",
+    "美方郡香美町香住区七日市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07715/"
+  },
+  {
    "name": "『血乃池趾』",
    "lat": 34.833463,
    "lng": 134.6952552,
@@ -110680,6 +114214,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04464/"
+  },
+  {
+   "name": "『行道』",
+   "lat": 35.5549127,
+   "lng": 134.4875244,
+   "address": "兵庫県美方郡新温泉町湯",
+   "access": "浜坂駅から約8.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07849/"
   },
   {
    "name": "『街の音楽』",
@@ -110833,6 +114383,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06606/"
+  },
+  {
+   "name": "『西の郭跡』",
+   "lat": 35.4607339,
+   "lng": 134.8737987,
+   "address": "兵庫県豊岡市出石町内町４０",
+   "access": "国府駅から約7.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07674/"
   },
   {
    "name": "『西之橋』",
@@ -112195,6 +115763,27 @@
    "url": "https://www.memorial-object.jp/02566/"
   },
   {
+   "name": "『見待地蔵大菩薩』",
+   "lat": 35.5499349,
+   "lng": 134.8167824,
+   "address": "兵庫県豊岡市加広町７",
+   "access": "豊岡駅から北東へ約650m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR西日本",
+    "京都丹後鉄道",
+    "京都丹後鉄道宮豊線",
+    "兵庫県",
+    "地蔵",
+    "山陰本線",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07619/"
+  },
+  {
    "name": "『見晴』",
    "lat": 35.6527851,
    "lng": 139.2531198,
@@ -112638,6 +116227,22 @@
    "url": "https://www.memorial-object.jp/05666/"
   },
   {
+   "name": "『観音寺仁王門』",
+   "lat": 35.4441718,
+   "lng": 134.714152,
+   "address": "兵庫県豊岡市日高町観音寺６８９",
+   "access": "江原駅から約6.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07675/"
+  },
+  {
    "name": "『観音崎燈台所轄地』",
    "lat": 35.2568146,
    "lng": 139.7447889,
@@ -112881,6 +116486,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04232/"
+  },
+  {
+   "name": "『記念碑「山守」』",
+   "lat": 35.4359253,
+   "lng": 134.5030423,
+   "address": "兵庫県美方郡香美町小代区久須部",
+   "access": "若桜駅から約13.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町小代区",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07817/"
   },
   {
    "name": "『記念碑』",
@@ -115618,6 +119240,22 @@
    "url": "https://www.memorial-object.jp/03295/"
   },
   {
+   "name": "『諸島稲荷神社参道』",
+   "lat": 35.6439705,
+   "lng": 134.4982637,
+   "address": "兵庫県美方郡新温泉町赤崎",
+   "access": "久谷駅から約2.5km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "新温泉町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07850/"
+  },
+  {
    "name": "『諸磯遺跡』",
    "lat": 35.1502227,
    "lng": 139.6204192,
@@ -115877,6 +119515,68 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02568/"
+  },
+  {
+   "name": "『豊岡中学生 殉難追悼碑』",
+   "lat": 35.5963113,
+   "lng": 134.8007508,
+   "address": "兵庫県豊岡市城崎町上山",
+   "access": "玄武洞駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "1960年代前半",
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07701/"
+  },
+  {
+   "name": "『豊岡市民グラウンド跡』",
+   "lat": 35.5399883,
+   "lng": 134.8170244,
+   "address": "兵庫県豊岡市山王町",
+   "access": "豊岡駅から南東へ約530m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR西日本",
+    "京都丹後鉄道",
+    "京都丹後鉄道宮豊線",
+    "兵庫県",
+    "山陰本線",
+    "歴史",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07702/"
+  },
+  {
+   "name": "『豊岡市神武山消防サイレン塔跡』",
+   "lat": 35.5397324,
+   "lng": 134.8207547,
+   "address": "兵庫県豊岡市京町",
+   "access": "豊岡駅から南東へ約790m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR西日本",
+    "京都丹後鉄道",
+    "京都丹後鉄道宮豊線",
+    "兵庫県",
+    "山陰本線",
+    "歴史",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07703/"
   },
   {
    "name": "『豊川●●尼真天』",
@@ -116226,6 +119926,23 @@
    "url": "https://www.memorial-object.jp/07222/"
   },
   {
+   "name": "『資母子安地蔵尊』",
+   "lat": 35.4956151,
+   "lng": 134.9928808,
+   "address": "兵庫県豊岡市但東町中山",
+   "access": "京丹後大宮駅から約13.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07792/"
+  },
+  {
    "name": "『賑わいの像』",
    "lat": 35.7100862,
    "lng": 139.774547,
@@ -116417,6 +120134,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02866/"
+  },
+  {
+   "name": "『赤木正雄博士像』",
+   "lat": 35.5316822,
+   "lng": 134.8273863,
+   "address": "兵庫県豊岡市塩津町１０",
+   "access": "豊岡駅から約1.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07676/"
   },
   {
    "name": "『赤松佐治真君頌徳碑』",
@@ -116728,6 +120461,24 @@
    "url": "https://www.memorial-object.jp/03795/"
   },
   {
+   "name": "『越中治郎兵衛盛嗣悪七兵衛景清 供養塔建立之跡』",
+   "lat": 35.6657201,
+   "lng": 134.7941368,
+   "address": "兵庫県豊岡市竹野町田久日３５",
+   "access": "竹野駅から約3.8km",
+   "categories": [
+    "公共施設"
+   ],
+   "tags": [
+    "供養塔",
+    "兵庫県",
+    "歴史",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07677/"
+  },
+  {
    "name": "『越木岩神社』",
    "lat": 34.7576647,
    "lng": 135.322714,
@@ -116785,6 +120536,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01502/"
+  },
+  {
+   "name": "『趣意』",
+   "lat": 35.6506187,
+   "lng": 134.832019,
+   "address": "兵庫県豊岡市津居山",
+   "access": "城崎温泉駅から約3.4km",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "tags": [
+    "1990年代後半",
+    "兵庫県",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07704/"
   },
   {
    "name": "『足毛橋』",
@@ -117607,6 +121375,23 @@
    "url": "https://www.memorial-object.jp/06609/"
   },
   {
+   "name": "『辰鼓楼』",
+   "lat": 35.462167,
+   "lng": 134.8742733,
+   "address": "兵庫県豊岡市出石町八木１",
+   "access": "国府駅から約7.7km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07678/"
+  },
+  {
    "name": "『辺房谷橋』",
    "lat": 35.6534145,
    "lng": 139.6392905,
@@ -117945,6 +121730,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02755/"
+  },
+  {
+   "name": "『逆修供養塔』",
+   "lat": 35.4808693,
+   "lng": 134.7881137,
+   "address": "兵庫県豊岡市日高町松岡",
+   "access": "江原駅から約1.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "供養塔",
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07793/"
   },
   {
    "name": "『通天門』",
@@ -119900,6 +123703,24 @@
    "url": "https://www.memorial-object.jp/04948/"
   },
   {
+   "name": "『重要文化財本殿修復記念碑』",
+   "lat": 35.48807,
+   "lng": 134.9932873,
+   "address": "兵庫県豊岡市但東町畑山",
+   "access": "与謝野駅から約13.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "記念碑",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07794/"
+  },
+  {
    "name": "『重要有形文化財 昆陽寺山門』",
    "lat": 34.7761791,
    "lng": 135.3884067,
@@ -120294,6 +124115,26 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06612/"
+  },
+  {
+   "name": "『金山稲荷神社上水道竣工記念』",
+   "lat": 35.5445786,
+   "lng": 134.8064317,
+   "address": "兵庫県豊岡市高屋",
+   "access": "豊岡駅から西へ約620m",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "JR西日本",
+    "京都丹後鉄道",
+    "京都丹後鉄道宮豊線",
+    "兵庫県",
+    "山陰本線",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07705/"
   },
   {
    "name": "『金川志ん馬之碑』",
@@ -121028,6 +124869,23 @@
    "url": "https://www.memorial-object.jp/07149/"
   },
   {
+   "name": "『銘碑』",
+   "lat": 35.3007522,
+   "lng": 134.9050548,
+   "address": "兵庫県朝来市山東町粟鹿",
+   "access": "梁瀬駅から約3.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "朝来市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07804/"
+  },
+  {
    "name": "『銭形平次』",
    "lat": 35.7020795,
    "lng": 139.7681791,
@@ -121044,6 +124902,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01339/"
+  },
+  {
+   "name": "『鋳物師町発祥之跡』",
+   "lat": 35.4636996,
+   "lng": 134.8745555,
+   "address": "兵庫県豊岡市出石町宵田１",
+   "access": "国府駅から約7.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "兵庫県",
+    "歴史",
+    "発祥の地",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07679/"
   },
   {
    "name": "『錦絵開祖鈴木春信』",
@@ -121609,6 +125485,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07265/"
+  },
+  {
+   "name": "『長命地蔵』",
+   "lat": 35.6576066,
+   "lng": 134.7615801,
+   "address": "兵庫県豊岡市竹野町竹野",
+   "access": "竹野駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07795/"
   },
   {
    "name": "『長壁神社遺趾』",
@@ -122273,6 +126166,23 @@
    "url": "https://www.memorial-object.jp/00027_soja_kokeshi/"
   },
   {
+   "name": "『関宮村道路元標』",
+   "lat": 35.3766912,
+   "lng": 134.6424387,
+   "address": "兵庫県養父市関宮",
+   "access": "八鹿駅から約13.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "養父市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07800/"
+  },
+  {
    "name": "『関川改修記念碑』",
    "lat": 33.969594,
    "lng": 133.44278,
@@ -122840,6 +126750,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07163/"
+  },
+  {
+   "name": "『防潮堤顕彰碑』",
+   "lat": 34.7000772,
+   "lng": 135.3997799,
+   "address": "兵庫県尼崎市西海岸町",
+   "access": "尼崎センタープール前駅から約2.0km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "碑文",
+    "顕彰碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/06999/"
   },
   {
    "name": "『防火守護地の碑』",
@@ -124531,6 +128457,24 @@
    "url": "https://www.memorial-object.jp/01151/"
   },
   {
+   "name": "『震災記念碑』",
+   "lat": 35.6442148,
+   "lng": 134.8451212,
+   "address": "兵庫県豊岡市田結１７９９",
+   "access": "城崎温泉駅から約3.6km",
+   "categories": [
+    "公共施設"
+   ],
+   "tags": [
+    "1940年代",
+    "兵庫県",
+    "碑文",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07620/"
+  },
+  {
    "name": "『震災記念聖観世音菩薩像』",
    "lat": 35.663657,
    "lng": 139.749173,
@@ -124808,6 +128752,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02990/"
+  },
+  {
+   "name": "『青渓中学校跡記念碑』",
+   "lat": 35.4316774,
+   "lng": 134.792725,
+   "address": "兵庫県養父市八鹿町伊佐３３９",
+   "access": "八鹿駅から約2.2km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "兵庫県",
+    "碑文",
+    "記念碑",
+    "養父市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07683/"
   },
   {
    "name": "『青砥史蹟復興之碑』",
@@ -127696,6 +131658,23 @@
    "url": "https://www.memorial-object.jp/02592/"
   },
   {
+   "name": "『首切地蔵尊』",
+   "lat": 35.0557841,
+   "lng": 135.0723844,
+   "address": "兵庫県丹波市山南町谷川",
+   "access": "谷川駅から約3.6km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "丹波市",
+    "兵庫県",
+    "地蔵"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07718/"
+  },
+  {
    "name": "『首地蔵』",
    "lat": 34.7216245,
    "lng": 135.2679369,
@@ -130338,6 +134317,24 @@
    "url": "https://www.memorial-object.jp/00460/"
   },
   {
+   "name": "『鬼子母善神』",
+   "lat": 35.6267541,
+   "lng": 134.8101545,
+   "address": "兵庫県豊岡市城崎町湯島６５１",
+   "access": "城崎温泉駅から北西へ約460m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "山陰本線",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07621/"
+  },
+  {
    "name": "『鬼燈』",
    "lat": 35.7213874,
    "lng": 139.6748209,
@@ -132322,6 +136319,26 @@
    "url": "https://www.memorial-object.jp/01857/"
   },
   {
+   "name": "『鳥居再建記念之碑』",
+   "lat": 35.3011312,
+   "lng": 134.9053385,
+   "address": "兵庫県朝来市山東町粟鹿",
+   "access": "梁瀬駅から約3.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "動物",
+    "朝来市",
+    "碑文",
+    "記念碑",
+    "鳥"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07805/"
+  },
+  {
    "name": "『鳥居石』",
    "lat": 35.7189822,
    "lng": 139.7441955,
@@ -132507,6 +136524,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01858/"
+  },
+  {
+   "name": "『鳩場地蔵』",
+   "lat": 35.5395121,
+   "lng": 134.8228264,
+   "address": "兵庫県豊岡市城南町１",
+   "access": "豊岡駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07680/"
   },
   {
    "name": "『鳩塚』",
@@ -133240,6 +137274,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06485/"
+  },
+  {
+   "name": "『鼻かけ地蔵』",
+   "lat": 35.6169607,
+   "lng": 134.8233,
+   "address": "兵庫県豊岡市城崎町楽々浦",
+   "access": "城崎温泉駅から約1.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "兵庫県",
+    "地蔵",
+    "豊岡市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07796/"
   },
   {
    "name": "『鼻欠地蔵』",
@@ -140562,6 +144613,24 @@
    "url": "https://www.memorial-object.jp/00057_dokan/"
   },
   {
+   "name": "橋本龍太郎『海守』",
+   "lat": 35.6468892,
+   "lng": 134.6137901,
+   "address": "兵庫県美方郡香美町香住区下浜",
+   "access": "香住駅から約1.5km",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "兵庫県",
+    "兵庫県美方郡香美町香住区",
+    "橋本龍太郎",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07689/"
+  },
+  {
    "name": "櫻井敏生『微風』",
    "lat": 35.643637999999996,
    "lng": 139.3069554,
@@ -141278,6 +145347,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06741/"
+  },
+  {
+   "name": "牛尾啓三『門』",
+   "lat": 35.1673716,
+   "lng": 134.7934542,
+   "address": "兵庫県朝来市生野町口銀谷",
+   "access": "生野駅から北東へ約590m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR西日本",
+    "兵庫県",
+    "播但線",
+    "朝来市",
+    "牛尾啓三"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07631/"
   },
   {
    "name": "牛島智子『結婚式』",
@@ -142203,6 +146291,82 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01062/"
+  },
+  {
+   "name": "荒川修作・マドリン・ギンズ『不死門』",
+   "lat": 35.2829357,
+   "lng": 136.5515092,
+   "address": "岐阜県養老郡養老町高林１２９８",
+   "access": "養老駅から南西へ約650m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "岐阜県",
+    "荒川修作・マドリン・ギンズ",
+    "養老町",
+    "養老鉄道",
+    "養老鉄道養老線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07851/"
+  },
+  {
+   "name": "荒川修作・マドリン・ギンズ『昆虫山脈』",
+   "lat": 35.2829638,
+   "lng": 136.5517332,
+   "address": "岐阜県養老郡養老町高林１２９８",
+   "access": "養老駅から南西へ約630m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "岐阜県",
+    "荒川修作・マドリン・ギンズ",
+    "養老町",
+    "養老鉄道",
+    "養老鉄道養老線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07852/"
+  },
+  {
+   "name": "荒川修作・マドリン・ギンズ『極限で似るものの家』",
+   "lat": 35.2827087,
+   "lng": 136.5517789,
+   "address": "岐阜県養老郡養老町高林１２９８",
+   "access": "養老駅から南西へ約650m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "岐阜県",
+    "荒川修作・マドリン・ギンズ",
+    "養老町",
+    "養老鉄道",
+    "養老鉄道養老線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07853/"
+  },
+  {
+   "name": "荒川修作・マドリン・ギンズ『精緻の棟』",
+   "lat": 35.2824115,
+   "lng": 136.5511542,
+   "address": "岐阜県養老郡養老町高林１２９８",
+   "access": "養老駅から南西へ約710m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "岐阜県",
+    "荒川修作・マドリン・ギンズ",
+    "養老町",
+    "養老鉄道",
+    "養老鉄道養老線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07854/"
   },
   {
    "name": "菅原二郎『内側のかたち・風と光の通り道』",
