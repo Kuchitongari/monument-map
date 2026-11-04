@@ -8,8 +8,8 @@
   "photos": 0,
   "names": []
  },
- "generated": "2026-11-03",
- "count": 7853,
+ "generated": "2026-11-04",
+ "count": 7970,
  "items": [
   {
    "name": "???wako Shintani『MAN』",
@@ -2996,6 +2996,22 @@
    "url": "https://www.memorial-object.jp/06003/"
   },
   {
+   "name": "『MELLOW』",
+   "lat": 35.3352516,
+   "lng": 136.6641162,
+   "address": "岐阜県安八郡安八町南今ケ渕２０２",
+   "access": "岐阜羽島駅から約3.0km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "安八町",
+    "岐阜県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07874/"
+  },
+  {
    "name": "『MOON LIGHT STAGE – 月舞台 -』",
    "lat": 35.6737295,
    "lng": 139.776732,
@@ -3946,6 +3962,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06318/"
+  },
+  {
+   "name": "『YUHIGAURA』",
+   "lat": 35.6637422,
+   "lng": 134.9662431,
+   "address": "京都府京丹後市網野町浜詰",
+   "access": "夕日ヶ浦木津温泉駅から約1.6km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07913/"
   },
   {
    "name": "『YUTAKA OZAKI』",
@@ -6006,6 +6038,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06128/"
+  },
+  {
+   "name": "『お薬師さん』",
+   "lat": 35.6514908,
+   "lng": 134.9774332,
+   "address": "京都府京丹後市網野町木津",
+   "access": "夕日ヶ浦木津温泉駅から東へ約480m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都丹後鉄道",
+    "京都丹後鉄道宮豊線",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07906/"
   },
   {
    "name": "『お話し』",
@@ -8753,6 +8804,23 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00186_1.jpg",
    "url": "https://www.memorial-object.jp/00186/"
+  },
+  {
+   "name": "『ふるさと味土野之碑』",
+   "lat": 35.6505945,
+   "lng": 135.1537107,
+   "address": "京都府京丹後市弥栄町須川",
+   "access": "峰山駅から約7.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07914/"
   },
   {
    "name": "『ふるさと尾根道』",
@@ -13646,6 +13714,22 @@
    "url": "https://www.memorial-object.jp/03666/"
   },
   {
+   "name": "『ブリとタイのモニュメント』",
+   "lat": 35.6751252,
+   "lng": 135.2913497,
+   "address": "京都府与謝郡伊根町字亀島",
+   "access": "傘松駅から約13.1km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "京都府",
+    "伊根町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07993/"
+  },
+  {
    "name": "『ブリキのおもちゃ博物館』",
    "lat": 35.4377148,
    "lng": 139.6530124,
@@ -15804,6 +15888,25 @@
   },
   {
    "name": "『一里塚』",
+   "lat": 35.7507114,
+   "lng": 135.1393877,
+   "address": "京都府京丹後市丹後町此代",
+   "access": "網野駅から約13.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "一里塚",
+    "京丹後市",
+    "京都府",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07915/"
+  },
+  {
+   "name": "『一里塚』",
    "lat": 35.7469636,
    "lng": 139.7413075,
    "address": "東京都北区西ケ原２丁目３９",
@@ -17545,6 +17648,22 @@
    "url": "https://www.memorial-object.jp/02208/"
   },
   {
+   "name": "『三界万霊塔』",
+   "lat": 35.7097866,
+   "lng": 135.0662541,
+   "address": "京都府京丹後市網野町三津",
+   "access": "網野駅から約6.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07916/"
+  },
+  {
    "name": "『三界萬霊』",
    "lat": 35.5547338,
    "lng": 134.4874641,
@@ -17945,6 +18064,23 @@
    "url": "https://www.memorial-object.jp/07221/"
   },
   {
+   "name": "『三輪茂雄先生之碑』",
+   "lat": 35.6974711,
+   "lng": 135.0568736,
+   "address": "京都府京丹後市網野町掛津",
+   "access": "網野駅から約4.4km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07917/"
+  },
+  {
    "name": "『三遊亭円朝旧居跡』",
    "lat": 35.6888992,
    "lng": 139.7131119,
@@ -17997,6 +18133,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07500/"
+  },
+  {
+   "name": "『上佐濃村道路元標』",
+   "lat": 35.5838241,
+   "lng": 134.9614238,
+   "address": "京都府京丹後市久美浜町野中",
+   "access": "かぶと山駅から約4.5km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07918/"
   },
   {
    "name": "『上大市庚申塔』",
@@ -18560,6 +18713,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00823/"
+  },
+  {
+   "name": "『下宇川村道路元標』",
+   "lat": 35.7568079,
+   "lng": 135.1735479,
+   "address": "京都府京丹後市丹後町久僧",
+   "access": "網野駅から約16.6km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07919/"
   },
   {
    "name": "『下宮 稗田神社御旅所』",
@@ -19323,6 +19493,24 @@
    "url": "https://www.memorial-object.jp/01268/"
   },
   {
+   "name": "『与謝野鉄幹晶子の歌碑』",
+   "lat": 35.7011413,
+   "lng": 135.0457397,
+   "address": "京都府京丹後市網野町掛津",
+   "access": "網野駅から約4.2km",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "歌碑",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07920/"
+  },
+  {
    "name": "『世界に一つ！加東遺産 光明寺』",
    "lat": 34.9487291,
    "lng": 134.948971,
@@ -19338,6 +19526,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06963/"
+  },
+  {
+   "name": "『世界を繋ぐ丹後ちりめん』",
+   "lat": 35.6246953,
+   "lng": 135.0617424,
+   "address": "京都府京丹後市峰山町杉谷",
+   "access": "峰山駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07921/"
   },
   {
    "name": "『世界超偉人500万人伝説』",
@@ -20555,6 +20759,75 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07729/"
+  },
+  {
+   "name": "『丹後半島 犬ケ岬』",
+   "lat": 35.7506798,
+   "lng": 135.1393931,
+   "address": "京都府京丹後市丹後町此代",
+   "access": "網野駅から約13.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07922/"
+  },
+  {
+   "name": "『丹後大仏』",
+   "lat": 35.7079119,
+   "lng": 135.2419554,
+   "address": "京都府与謝郡伊根町字本坂",
+   "access": "傘松駅から約14.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京都府",
+    "伊根町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07912/"
+  },
+  {
+   "name": "『丹波国大嘗祭主基斎田跡』",
+   "lat": 35.5895881,
+   "lng": 135.1011159,
+   "address": "京都府京丹後市大宮町周枳",
+   "access": "京丹後大宮駅から約1.3km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07923/"
+  },
+  {
+   "name": "『丹波村道路元標』",
+   "lat": 35.6306679,
+   "lng": 135.0752011,
+   "address": "京都府京丹後市峰山町丹波",
+   "access": "峰山駅から北東へ約610m",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都丹後鉄道",
+    "京都丹後鉄道宮豊線",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07907/"
   },
   {
    "name": "『丹波篠山五十三次 土塁の南馬出』",
@@ -22590,6 +22863,24 @@
    "url": "https://www.memorial-object.jp/00960/"
   },
   {
+   "name": "『京都府指定 古代祭祀史跡』",
+   "lat": 35.5895646,
+   "lng": 135.1012085,
+   "address": "京都府京丹後市大宮町周枳",
+   "access": "京丹後大宮駅から約1.3km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07924/"
+  },
+  {
    "name": "『人々の門』",
    "lat": 35.6765503,
    "lng": 139.4826608,
@@ -23958,6 +24249,23 @@
    "url": "https://www.memorial-object.jp/01961/"
   },
   {
+   "name": "『伊根村道路元標』",
+   "lat": 35.6759373,
+   "lng": 135.2874322,
+   "address": "京都府与謝郡伊根町字平田",
+   "access": "傘松駅から約12.9km",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "京都府",
+    "伊根町",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07994/"
+  },
+  {
    "name": "『伊皿子坂』",
    "lat": 35.6408126,
    "lng": 139.7380679,
@@ -24660,6 +24968,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05181/"
+  },
+  {
+   "name": "『供養塔』",
+   "lat": 35.5573261,
+   "lng": 135.0755183,
+   "address": "京都府京丹後市大宮町下常吉",
+   "access": "京丹後大宮駅から約3.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "供養塔",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07925/"
   },
   {
    "name": "『供養塔』",
@@ -26156,6 +26482,22 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/03/00070_sakeshima1-3.png",
    "url": "https://www.memorial-object.jp/00070_sakeshima1/"
+  },
+  {
+   "name": "『八十八ヶ所再興記念』",
+   "lat": 35.6593953,
+   "lng": 135.068936,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07926/"
   },
   {
    "name": "『八千種村道路元標』",
@@ -28759,6 +29101,22 @@
    "url": "https://www.memorial-object.jp/00420/"
   },
   {
+   "name": "『切割』",
+   "lat": 35.3114698,
+   "lng": 136.6414225,
+   "address": "岐阜県安八郡輪之内町南波",
+   "access": "大外羽駅から約4.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "岐阜県",
+    "輪之内町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07877/"
+  },
+  {
    "name": "『切割地蔵尊』",
    "lat": 35.4584817,
    "lng": 139.5398057,
@@ -28986,6 +29344,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06378/"
+  },
+  {
+   "name": "『初老記念』",
+   "lat": 35.6913378,
+   "lng": 135.0180649,
+   "address": "京都府京丹後市網野町浅茂川",
+   "access": "網野駅から約2.7km",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07927/"
   },
   {
    "name": "『初音六地蔵』",
@@ -34429,7 +34804,7 @@
    "lat": 34.7819473,
    "lng": 134.7948422,
    "address": "兵庫県高砂市阿弥陀町生石",
-   "access": "宝殿駅から約1.6km",
+   "access": "宝殿駅から直線で約1.6km（最寄りのバス停：ふれあいの郷生石 約210m）",
    "categories": [
     "寺社境内"
    ],
@@ -36850,6 +37225,24 @@
    "url": "https://www.memorial-object.jp/05556/"
   },
   {
+   "name": "『四国西国秩父坂東順拝供養塔』",
+   "lat": 35.6589245,
+   "lng": 135.0687445,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "供養塔",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07928/"
+  },
+  {
    "name": "『四國八十八ヶ所巡拝供養塔』",
    "lat": 33.6341711,
    "lng": 132.6487997,
@@ -37191,7 +37584,7 @@
    "lat": 34.7819332,
    "lng": 134.7949022,
    "address": "兵庫県高砂市阿弥陀町生石",
-   "access": "宝殿駅から約1.6km",
+   "access": "宝殿駅から直線で約1.6km（最寄りのバス停：ふれあいの郷生石 約210m）",
    "categories": [
     "寺社境内"
    ],
@@ -38074,6 +38467,23 @@
   },
   {
    "name": "『土地改良碑』",
+   "lat": 35.2100129,
+   "lng": 136.6336233,
+   "address": "岐阜県海津市海津町萱野１",
+   "access": "美濃山崎駅から約1.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "岐阜県",
+    "海津市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07863/"
+  },
+  {
+   "name": "『土地改良碑』",
    "lat": 35.5323572,
    "lng": 134.8209693,
    "address": "兵庫県豊岡市桜町",
@@ -38669,6 +39079,125 @@
   },
   {
    "name": "『地蔵』",
+   "lat": 35.7641269,
+   "lng": 135.2013856,
+   "address": "京都府京丹後市丹後町袖志",
+   "access": "網野駅から約19.1km",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "地蔵"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07934/"
+  },
+  {
+   "name": "『地蔵』",
+   "lat": 35.5536394,
+   "lng": 135.079565,
+   "address": "京都府京丹後市大宮町下常吉",
+   "access": "京丹後大宮駅から約3.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "地蔵"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07933/"
+  },
+  {
+   "name": "『地蔵』",
+   "lat": 35.5545407,
+   "lng": 135.0788864,
+   "address": "京都府京丹後市大宮町下常吉",
+   "access": "京丹後大宮駅から約3.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "地蔵"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07932/"
+  },
+  {
+   "name": "『地蔵』",
+   "lat": 35.5561898,
+   "lng": 135.0765831,
+   "address": "京都府京丹後市大宮町下常吉",
+   "access": "京丹後大宮駅から約3.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "地蔵"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07931/"
+  },
+  {
+   "name": "『地蔵』",
+   "lat": 35.5560987,
+   "lng": 135.075767,
+   "address": "京都府京丹後市大宮町下常吉",
+   "access": "京丹後大宮駅から約3.1km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "地蔵"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07930/"
+  },
+  {
+   "name": "『地蔵』",
+   "lat": 35.5565362,
+   "lng": 135.0754345,
+   "address": "京都府京丹後市大宮町下常吉",
+   "access": "京丹後大宮駅から約3.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "地蔵"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07929/"
+  },
+  {
+   "name": "『地蔵』",
+   "lat": 35.283922,
+   "lng": 136.6481374,
+   "address": "岐阜県安八郡輪之内町四郷１７７８",
+   "access": "岐阜羽島駅から約4.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "地蔵",
+    "岐阜県",
+    "輪之内町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07869/"
+  },
+  {
+   "name": "『地蔵』",
    "lat": 34.7415309,
    "lng": 135.364119,
    "address": "兵庫県西宮市高畑町",
@@ -39161,6 +39690,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02580/"
+  },
+  {
+   "name": "『地蔵堂』",
+   "lat": 35.3080387,
+   "lng": 136.6607216,
+   "address": "岐阜県安八郡輪之内町楡俣１６６４",
+   "access": "岐阜羽島駅から約2.4km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "地蔵",
+    "岐阜県",
+    "輪之内町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07870/"
   },
   {
    "name": "『地蔵塔』",
@@ -40532,6 +41078,23 @@
    "url": "https://www.memorial-object.jp/00761/"
   },
   {
+   "name": "『塩谷四郎之碑』",
+   "lat": 35.7593457,
+   "lng": 135.1749303,
+   "address": "京都府京丹後市丹後町久僧",
+   "access": "網野駅から約16.9km",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07935/"
+  },
+  {
    "name": "『塩谷宕陰墓』",
    "lat": 35.7259891,
    "lng": 139.7698869,
@@ -40795,6 +41358,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01279/"
+  },
+  {
+   "name": "『夕日魚籃観音像』",
+   "lat": 35.6688078,
+   "lng": 134.968991,
+   "address": "京都府京丹後市網野町浜詰",
+   "access": "夕日ヶ浦木津温泉駅から約2.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07936/"
   },
   {
    "name": "『夕焼小焼』",
@@ -41228,6 +41807,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05602/"
+  },
+  {
+   "name": "『夢』",
+   "lat": 35.6207943,
+   "lng": 135.060801,
+   "address": "京都府京丹後市峰山町杉谷",
+   "access": "峰山駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07937/"
   },
   {
    "name": "『夢』",
@@ -43947,6 +44543,24 @@
    "url": "https://www.memorial-object.jp/06398/"
   },
   {
+   "name": "『大神宮燈明』",
+   "lat": 35.2545221,
+   "lng": 136.5657959,
+   "address": "岐阜県海津市南濃町津屋２１９９",
+   "access": "美濃津屋駅から北へ約360m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "岐阜県",
+    "海津市",
+    "養老鉄道",
+    "養老鉄道養老線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07856/"
+  },
+  {
    "name": "『大福地蔵』",
    "lat": 34.7971624,
    "lng": 135.3838217,
@@ -44792,7 +45406,7 @@
    "lat": 34.8130468,
    "lng": 134.7921512,
    "address": "兵庫県高砂市阿弥陀町阿弥陀",
-   "access": "曽根駅から約3.0km",
+   "access": "曽根駅から直線で約3.0km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -45724,6 +46338,24 @@
    "url": "https://www.memorial-object.jp/05193/"
   },
   {
+   "name": "『天谷川改修記念碑』",
+   "lat": 35.5553339,
+   "lng": 135.0769043,
+   "address": "京都府京丹後市大宮町下常吉",
+   "access": "京丹後大宮駅から約3.1km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07938/"
+  },
+  {
    "name": "『天野神社由緒』",
    "lat": 34.2833296,
    "lng": 134.8112372,
@@ -45739,6 +46371,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07533/"
+  },
+  {
+   "name": "『天長滝甲坂不動尊』",
+   "lat": 35.5944818,
+   "lng": 134.9043554,
+   "address": "京都府京丹後市久美浜町栃谷",
+   "access": "久美浜駅から約1.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07939/"
   },
   {
    "name": "『天龍像』",
@@ -45855,6 +46503,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03958/"
+  },
+  {
+   "name": "『太平洋戦争中･･･』",
+   "lat": 35.5987564,
+   "lng": 135.084792,
+   "address": "京都府京丹後市大宮町河辺",
+   "access": "京丹後大宮駅から約2.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07940/"
   },
   {
    "name": "『太平洋戦争戦没者之碑』",
@@ -46592,6 +47257,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06750/"
+  },
+  {
+   "name": "『奥大野村道路元標』",
+   "lat": 35.5672043,
+   "lng": 135.0861257,
+   "address": "京都府京丹後市大宮町奥大野",
+   "access": "京丹後大宮駅から約1.5km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07941/"
   },
   {
    "name": "『奥本傳吉君顕彰碑』",
@@ -47451,6 +48133,23 @@
   },
   {
    "name": "『子安地蔵』",
+   "lat": 35.7097113,
+   "lng": 135.0662469,
+   "address": "京都府京丹後市網野町三津",
+   "access": "網野駅から約6.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "地蔵"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07942/"
+  },
+  {
+   "name": "『子安地蔵』",
    "lat": 35.4596808,
    "lng": 134.8748883,
    "address": "兵庫県豊岡市出石町伊木",
@@ -47686,6 +48385,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06552/"
+  },
+  {
+   "name": "『子安弘法大師』",
+   "lat": 35.6592881,
+   "lng": 135.069429,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07943/"
   },
   {
    "name": "『子安水子地蔵尊』",
@@ -48636,6 +49351,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05252/"
+  },
+  {
+   "name": "『宇川牛発祥地』",
+   "lat": 35.7652467,
+   "lng": 135.1947686,
+   "address": "京都府京丹後市丹後町袖志",
+   "access": "網野駅から約18.7km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "歴史",
+    "発祥の地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07944/"
   },
   {
    "name": "『宇賀神』",
@@ -53306,6 +54039,92 @@
    "url": "https://www.memorial-object.jp/01535/"
   },
   {
+   "name": "『峰山城趾碑』",
+   "lat": 35.6320169,
+   "lng": 135.0540612,
+   "address": "京都府京丹後市峰山町吉原",
+   "access": "峰山駅から約1.8km",
+   "categories": [
+    "田園・農地"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07945/"
+  },
+  {
+   "name": "『峰山城跡』",
+   "lat": 35.6321325,
+   "lng": 135.0539925,
+   "address": "京都府京丹後市峰山町吉原",
+   "access": "峰山駅から約1.8km",
+   "categories": [
+    "田園・農地"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07946/"
+  },
+  {
+   "name": "『峰山町 千客万来』",
+   "lat": 35.6255364,
+   "lng": 135.0715908,
+   "address": "京都府京丹後市峰山町丹波",
+   "access": "峰山駅から西へ約60m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都丹後鉄道",
+    "京都丹後鉄道宮豊線",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07908/"
+  },
+  {
+   "name": "『峰山町道路元標』",
+   "lat": 35.6253296,
+   "lng": 135.0578159,
+   "address": "京都府京丹後市峰山町室",
+   "access": "峰山駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07947/"
+  },
+  {
+   "name": "『島児神社』",
+   "lat": 35.6913172,
+   "lng": 135.018051,
+   "address": "京都府京丹後市網野町浅茂川",
+   "access": "網野駅から約2.7km",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07948/"
+  },
+  {
    "name": "『島四国88箇所第10番』",
    "lat": 34.2624068,
    "lng": 133.6256177,
@@ -54239,6 +55058,24 @@
    "url": "https://www.memorial-object.jp/02551/"
   },
   {
+   "name": "『巨大松葉かに』",
+   "lat": 35.5976253,
+   "lng": 134.889504,
+   "address": "京都府京丹後市久美浜町",
+   "access": "久美浜駅から南西へ約720m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都丹後鉄道",
+    "京都丹後鉄道宮豊線",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07909/"
+  },
+  {
    "name": "『巽地蔵(田井ケ浜趾)』",
    "lat": 34.8009608,
    "lng": 134.6453636,
@@ -54958,6 +55795,23 @@
    "url": "https://www.memorial-object.jp/03279/"
   },
   {
+   "name": "『常吉小学校跡』",
+   "lat": 35.5503192,
+   "lng": 135.0768761,
+   "address": "京都府京丹後市大宮町上常吉",
+   "access": "京丹後大宮駅から約3.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07949/"
+  },
+  {
    "name": "『常徳院橋』",
    "lat": 35.6537106,
    "lng": 139.6426745,
@@ -55011,6 +55865,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06766/"
+  },
+  {
+   "name": "『常林寺参道』",
+   "lat": 35.5565122,
+   "lng": 135.0756437,
+   "address": "京都府京丹後市大宮町下常吉",
+   "access": "京丹後大宮駅から約3.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07950/"
   },
   {
    "name": "『常照地蔵尊』",
@@ -56049,6 +56919,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01755/"
+  },
+  {
+   "name": "『平地地蔵』",
+   "lat": 35.5423688,
+   "lng": 135.0837252,
+   "address": "京都府京丹後市大宮町上常吉",
+   "access": "与謝野駅から約3.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "地蔵"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07951/"
   },
   {
    "name": "『平家様』",
@@ -58591,6 +59478,24 @@
    "url": "https://www.memorial-object.jp/02391/"
   },
   {
+   "name": "『庚申社』",
+   "lat": 35.5911171,
+   "lng": 135.1017255,
+   "address": "京都府京丹後市大宮町周枳１０２０",
+   "access": "京丹後大宮駅から約1.5km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "庚申塔",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07890/"
+  },
+  {
    "name": "『庚申神』",
    "lat": 35.6172075,
    "lng": 139.5600032,
@@ -59934,6 +60839,23 @@
    "url": "https://www.memorial-object.jp/05831/"
   },
   {
+   "name": "『式内名神大 大宮賣神社二座』",
+   "lat": 35.589479,
+   "lng": 135.1011555,
+   "address": "京都府京丹後市大宮町周枳",
+   "access": "京丹後大宮駅から約1.3km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07952/"
+  },
+  {
    "name": "『式内社 伊和志豆神社』",
    "lat": 34.7527306,
    "lng": 135.3398215,
@@ -60040,6 +60962,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05645/"
+  },
+  {
+   "name": "『弘法大師』",
+   "lat": 35.658921,
+   "lng": 135.0687434,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07953/"
   },
   {
    "name": "『弘法大師』",
@@ -61695,6 +62633,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03206/"
+  },
+  {
+   "name": "『御旅場』",
+   "lat": 35.7112088,
+   "lng": 135.0659183,
+   "address": "京都府京丹後市網野町三津",
+   "access": "網野駅から約6.1km",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07954/"
   },
   {
    "name": "『御本殿御造営記念』",
@@ -65147,6 +66101,22 @@
    "url": "https://www.memorial-object.jp/01375/"
   },
   {
+   "name": "『慈愛観音尊』",
+   "lat": 35.7097455,
+   "lng": 135.0662418,
+   "address": "京都府京丹後市網野町三津",
+   "access": "網野駅から約6.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07955/"
+  },
+  {
    "name": "『慰霊の櫻』",
    "lat": 35.4102421,
    "lng": 139.591628,
@@ -68229,6 +69199,24 @@
    "url": "https://www.memorial-object.jp/02144/"
   },
   {
+   "name": "『整田碑』",
+   "lat": 35.2712038,
+   "lng": 136.6389635,
+   "address": "岐阜県安八郡輪之内町下大榑新田",
+   "access": "烏江駅から約5.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "1920年代",
+    "岐阜県",
+    "碑文",
+    "輪之内町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07876/"
+  },
+  {
    "name": "『敵・味方軍人の供養碑』",
    "lat": 35.6477497,
    "lng": 139.7138376,
@@ -71080,6 +72068,22 @@
    "url": "https://www.memorial-object.jp/01384/"
   },
   {
+   "name": "『日進こまねこウォールアート』",
+   "lat": 35.6212851,
+   "lng": 135.0577721,
+   "address": "京都府京丹後市峰山町千歳３０",
+   "access": "峰山駅から約1.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07897/"
+  },
+  {
    "name": "『日野の渡し碑』",
    "lat": 35.6864063,
    "lng": 139.4106253,
@@ -71881,6 +72885,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03193/"
+  },
+  {
+   "name": "『旧尾坂寺宝篋印塔』",
+   "lat": 35.6810492,
+   "lng": 135.0528922,
+   "address": "京都府京丹後市網野町島津",
+   "access": "網野駅から約2.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07956/"
   },
   {
    "name": "『旧居留地海岸通』",
@@ -73599,6 +74619,22 @@
    "url": "https://www.memorial-object.jp/00474/"
   },
   {
+   "name": "『春日大神』",
+   "lat": 35.591372,
+   "lng": 135.1017764,
+   "address": "京都府京丹後市大宮町周枳１０２０",
+   "access": "京丹後大宮駅から約1.5km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07898/"
+  },
+  {
    "name": "『春日局之像』",
    "lat": 35.7075539,
    "lng": 139.7649461,
@@ -74458,7 +75494,7 @@
    "lat": 34.8856658,
    "lng": 134.6619873,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ（すぐ近く））",
    "categories": [
     "寺社境内"
    ],
@@ -75268,6 +76304,25 @@
    "url": "https://www.memorial-object.jp/03388/"
   },
   {
+   "name": "『木津村道路元標』",
+   "lat": 35.6515883,
+   "lng": 134.9775727,
+   "address": "京都府京丹後市網野町木津",
+   "access": "夕日ヶ浦木津温泉駅から東へ約490m",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都丹後鉄道",
+    "京都丹後鉄道宮豊線",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07910/"
+  },
+  {
    "name": "『木遣音頭碑』",
    "lat": 35.7037726,
    "lng": 139.8253102,
@@ -75690,7 +76745,7 @@
    "lat": 34.7825421,
    "lng": 134.7951362,
    "address": "兵庫県高砂市阿弥陀町生石",
-   "access": "宝殿駅から約1.6km",
+   "access": "宝殿駅から直線で約1.6km（最寄りのバス停：ふれあいの郷生石 約180m）",
    "categories": [
     "寺社境内"
    ],
@@ -75706,7 +76761,7 @@
    "lat": 34.7825812,
    "lng": 134.795155,
    "address": "兵庫県高砂市阿弥陀町生石",
-   "access": "宝殿駅から約1.6km",
+   "access": "宝殿駅から直線で約1.6km（最寄りのバス停：ふれあいの郷生石 約170m）",
    "categories": [
     "寺社境内"
    ],
@@ -81441,7 +82496,7 @@
    "lat": 34.8773562,
    "lng": 134.6596017,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約2.8km",
+   "access": "余部駅から直線で約2.8km（最寄りのバス停：書写東坂 約220m）",
    "categories": [
     "道路沿い"
    ],
@@ -81694,6 +82749,22 @@
    "url": "https://www.memorial-object.jp/01626/"
   },
   {
+   "name": "『標柱』",
+   "lat": 35.5573201,
+   "lng": 135.0755639,
+   "address": "京都府京丹後市大宮町下常吉",
+   "access": "京丹後大宮駅から約3.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07957/"
+  },
+  {
    "name": "『権太夫大神』",
    "lat": 35.6532981,
    "lng": 139.7403352,
@@ -81718,7 +82789,7 @@
    "lat": 34.8184786,
    "lng": 134.8772426,
    "address": "兵庫県加古川市平荘町上原",
-   "access": "神野駅から約3.0km",
+   "access": "神野駅から直線で約3.0km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "道路沿い"
    ],
@@ -82972,6 +84043,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02893/"
+  },
+  {
+   "name": "『正養寺横地蔵』",
+   "lat": 35.2709862,
+   "lng": 136.642525,
+   "address": "岐阜県安八郡輪之内町下大榑新田１６５６",
+   "access": "烏江駅から約6.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "地蔵",
+    "岐阜県",
+    "輪之内町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07871/"
   },
   {
    "name": "『武家屋敷公園』",
@@ -84285,6 +85373,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01627/"
+  },
+  {
+   "name": "『水子地蔵』",
+   "lat": 35.6589689,
+   "lng": 135.0687252,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "地蔵"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07958/"
   },
   {
    "name": "『水子地蔵』",
@@ -87115,6 +88220,25 @@
    "url": "https://www.memorial-object.jp/02158/"
   },
   {
+   "name": "『津屋城跡』",
+   "lat": 35.2550121,
+   "lng": 136.5656027,
+   "address": "岐阜県海津市南濃町津屋２０２２",
+   "access": "美濃津屋駅から北へ約420m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "岐阜県",
+    "歴史",
+    "海津市",
+    "養老鉄道",
+    "養老鉄道養老線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07857/"
+  },
+  {
    "name": "『津島寿一』",
    "lat": 34.3187155,
    "lng": 133.8343045,
@@ -87813,6 +88937,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04111/"
+  },
+  {
+   "name": "『浜詰 夕日の丘』",
+   "lat": 35.6633167,
+   "lng": 134.9663585,
+   "address": "京都府京丹後市網野町浜詰",
+   "access": "夕日ヶ浦木津温泉駅から約1.6km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07959/"
   },
   {
    "name": "『浜離宮前踏切』",
@@ -89595,7 +90735,7 @@
    "lat": 34.8441206,
    "lng": 134.6933231,
    "address": "兵庫県姫路市本町",
-   "access": "京口駅から約1.6km",
+   "access": "京口駅から直線で約1.6km（最寄りのバス停：八代本町 約260m）",
    "categories": [
     "公園"
    ],
@@ -89612,7 +90752,7 @@
    "lat": 34.6782055,
    "lng": 134.5236917,
    "address": "兵庫県姫路市家島町真浦",
-   "access": "山陽網干駅から約13.5km",
+   "access": "山陽網干駅から直線で約13.5km（家島にあり、島内に鉄道はありません。網手浜への船などでの移動が必要です）",
    "categories": [
     "その他"
    ],
@@ -92628,6 +93768,38 @@
   },
   {
    "name": "『狛犬』",
+   "lat": 35.6838188,
+   "lng": 135.0275946,
+   "address": "京都府京丹後市網野町網野７２０",
+   "access": "網野駅から約1.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07900/"
+  },
+  {
+   "name": "『狛犬』",
+   "lat": 35.6831053,
+   "lng": 135.027097,
+   "address": "京都府京丹後市網野町網野７１１",
+   "access": "網野駅から約1.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07899/"
+  },
+  {
+   "name": "『狛犬』",
    "lat": 34.69895,
    "lng": 135.196749,
    "address": "兵庫県神戸市中央区二宮町３丁目１",
@@ -92750,6 +93922,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03112/"
+  },
+  {
+   "name": "『狛猫シャッターアート』",
+   "lat": 35.6230827,
+   "lng": 135.0591345,
+   "address": "京都府京丹後市峰山町白銀１１",
+   "access": "峰山駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07901/"
   },
   {
    "name": "『独断峡』",
@@ -93885,6 +95073,22 @@
    "url": "https://www.memorial-object.jp/05625/"
   },
   {
+   "name": "『琴引浜』",
+   "lat": 35.7018786,
+   "lng": 135.0509311,
+   "address": "京都府京丹後市網野町掛津",
+   "access": "網野駅から約4.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07960/"
+  },
+  {
    "name": "『琴弾坂』",
    "lat": 34.9404777,
    "lng": 135.2373272,
@@ -94500,7 +95704,7 @@
    "lat": 34.6713976,
    "lng": 134.5340979,
    "address": "兵庫県姫路市家島町宮",
-   "access": "山陽網干駅から約13.8km",
+   "access": "山陽網干駅から直線で約13.8km（家島にあり、島内に鉄道はありません。網手浜への船などでの移動が必要です）",
    "categories": [
     "道路沿い"
    ],
@@ -95813,6 +97017,23 @@
    "url": "https://www.memorial-object.jp/06778/"
   },
   {
+   "name": "『百年塔』",
+   "lat": 35.5421571,
+   "lng": 135.0836769,
+   "address": "京都府京丹後市大宮町上常吉",
+   "access": "与謝野駅から約3.9km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07961/"
+  },
+  {
    "name": "『百度○』",
    "lat": 34.7438107,
    "lng": 134.8031731,
@@ -95871,6 +97092,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06119/"
+  },
+  {
+   "name": "『百度石』",
+   "lat": 35.6208684,
+   "lng": 135.0613582,
+   "address": "京都府京丹後市峰山町杉谷",
+   "access": "峰山駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07962/"
   },
   {
    "name": "『百度石』",
@@ -96357,7 +97595,7 @@
    "lat": 34.6784394,
    "lng": 134.5266738,
    "address": "兵庫県姫路市家島町真浦",
-   "access": "山陽網干駅から約13.3km",
+   "access": "山陽網干駅から直線で約13.3km（家島にあり、島内に鉄道はありません。網手浜への船などでの移動が必要です）",
    "categories": [
     "公園"
    ],
@@ -96374,7 +97612,7 @@
    "lat": 34.6790775,
    "lng": 134.5453541,
    "address": "兵庫県姫路市家島町宮",
-   "access": "山陽網干駅から約12.6km",
+   "access": "山陽網干駅から直線で約12.6km（家島にあり、島内に鉄道はありません。網手浜への船などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -97990,7 +99228,7 @@
    "lat": 34.6784592,
    "lng": 134.5266644,
    "address": "兵庫県姫路市家島町真浦",
-   "access": "山陽網干駅から約13.3km",
+   "access": "山陽網干駅から直線で約13.3km（家島にあり、島内に鉄道はありません。網手浜への船などでの移動が必要です）",
    "categories": [
     "公園"
    ],
@@ -98059,7 +99297,7 @@
    "lat": 34.895297,
    "lng": 134.650363,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約4.4km",
+   "access": "余部駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -99452,7 +100690,7 @@
    "lat": 34.8908921,
    "lng": 134.6575687,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約4.1km",
+   "access": "余部駅から直線で約4.1km（最寄りのバス停：摩尼殿 約70m）",
    "categories": [
     "寺社境内"
    ],
@@ -99641,7 +100879,7 @@
    "lat": 34.6796191,
    "lng": 134.5442494,
    "address": "兵庫県姫路市家島町宮",
-   "access": "山陽網干駅から約12.6km",
+   "access": "山陽網干駅から直線で約12.6km（家島にあり、島内に鉄道はありません。網手浜への船などでの移動が必要です）",
    "categories": [
     "海浜"
    ],
@@ -99693,6 +100931,40 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02462/"
+  },
+  {
+   "name": "『碇抄』",
+   "lat": 35.7191983,
+   "lng": 135.1868293,
+   "address": "京都府京丹後市丹後町碇",
+   "access": "峰山駅から約14.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07963/"
+  },
+  {
+   "name": "『碇高原』",
+   "lat": 35.7192636,
+   "lng": 135.1867837,
+   "address": "京都府京丹後市丹後町碇",
+   "access": "峰山駅から約14.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07964/"
   },
   {
    "name": "『碑小学校創立之地』",
@@ -101400,6 +102672,25 @@
    "url": "https://www.memorial-object.jp/00072_sakeshima3/"
   },
   {
+   "name": "『神野村道路元標』",
+   "lat": 35.626908,
+   "lng": 134.924819,
+   "address": "京都府京丹後市久美浜町浦明",
+   "access": "小天橋駅から南西へ約540m",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都丹後鉄道",
+    "京都丹後鉄道宮豊線",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07911/"
+  },
+  {
    "name": "『神鍋発祥之碑』",
    "lat": 35.5053613,
    "lng": 134.6772858,
@@ -102232,6 +103523,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06602/"
+  },
+  {
+   "name": "『秩父坂東順拝供養塔』",
+   "lat": 35.6590129,
+   "lng": 135.0688629,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "供養塔",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07965/"
   },
   {
    "name": "『程ヶ谷宿江戸方見附跡』",
@@ -105115,7 +106424,7 @@
    "lat": 34.8856867,
    "lng": 134.6619706,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ（すぐ近く））",
    "categories": [
     "寺社境内"
    ],
@@ -105125,6 +106434,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06198/"
+  },
+  {
+   "name": "『第一番』",
+   "lat": 35.6593941,
+   "lng": 135.0689258,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07966/"
   },
   {
    "name": "『第一番』",
@@ -105413,7 +106738,7 @@
    "lat": 34.8861928,
    "lng": 134.6613168,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ 約90m）",
    "categories": [
     "寺社境内"
    ],
@@ -105423,6 +106748,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06199/"
+  },
+  {
+   "name": "『第七番』",
+   "lat": 35.6593553,
+   "lng": 135.0684461,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07967/"
   },
   {
    "name": "『第七番』",
@@ -105659,7 +107000,7 @@
    "lat": 34.8859397,
    "lng": 134.661693,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ 約50m）",
    "categories": [
     "寺社境内"
    ],
@@ -105669,6 +107010,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06200/"
+  },
+  {
+   "name": "『第三番』",
+   "lat": 35.659395,
+   "lng": 135.0689184,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07968/"
   },
   {
    "name": "『第三番』",
@@ -105693,7 +107050,7 @@
    "lat": 34.8884941,
    "lng": 134.6607301,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.9km",
+   "access": "余部駅から直線で約3.9km（最寄りのバス停：摩尼殿 約330m）",
    "categories": [
     "寺社境内"
    ],
@@ -105709,7 +107066,7 @@
    "lat": 34.8888351,
    "lng": 134.6606483,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.9km",
+   "access": "余部駅から直線で約3.9km（最寄りのバス停：摩尼殿 約300m）",
    "categories": [
     "寺社境内"
    ],
@@ -105725,7 +107082,7 @@
    "lat": 34.888581,
    "lng": 134.6606603,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.9km",
+   "access": "余部駅から直線で約3.9km（最寄りのバス停：摩尼殿 約320m）",
    "categories": [
     "寺社境内"
    ],
@@ -105741,7 +107098,7 @@
    "lat": 34.8884358,
    "lng": 134.6607408,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.9km",
+   "access": "余部駅から直線で約3.9km（最寄りのバス停：摩尼殿 約340m）",
    "categories": [
     "寺社境内"
    ],
@@ -105757,7 +107114,7 @@
    "lat": 34.8864117,
    "lng": 134.661123,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ 約120m）",
    "categories": [
     "寺社境内"
    ],
@@ -105787,6 +107144,22 @@
    "url": "https://www.memorial-object.jp/07078/"
   },
   {
+   "name": "『第二十ニ番』",
+   "lat": 35.659748,
+   "lng": 135.0686288,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07969/"
+  },
+  {
    "name": "『第二十一番 丹波 穴太寺』",
    "lat": 34.8370867,
    "lng": 134.5761764,
@@ -105801,6 +107174,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06654/"
+  },
+  {
+   "name": "『第二十一番』",
+   "lat": 35.6597432,
+   "lng": 135.0686026,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07970/"
   },
   {
    "name": "『第二十一番』",
@@ -106028,6 +107417,22 @@
   },
   {
    "name": "『第二十四番』",
+   "lat": 35.6597143,
+   "lng": 135.0687049,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07971/"
+  },
+  {
+   "name": "『第二十四番』",
    "lat": 34.7619087,
    "lng": 135.3537811,
    "address": "兵庫県西宮市門戸西町９",
@@ -106062,6 +107467,22 @@
   },
   {
    "name": "『第二十番』",
+   "lat": 35.6597315,
+   "lng": 135.0685823,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07972/"
+  },
+  {
+   "name": "『第二十番』",
    "lat": 34.7618658,
    "lng": 135.3537729,
    "address": "兵庫県西宮市門戸西町９",
@@ -106083,7 +107504,7 @@
    "lat": 34.8857835,
    "lng": 134.6619049,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ 約30m）",
    "categories": [
     "寺社境内"
    ],
@@ -106109,6 +107530,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06661/"
+  },
+  {
+   "name": "『第二番』",
+   "lat": 35.6593945,
+   "lng": 135.0689225,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07973/"
   },
   {
    "name": "『第二番』",
@@ -106348,7 +107785,7 @@
    "lat": 34.8861312,
    "lng": 134.6614677,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ 約80m）",
    "categories": [
     "寺社境内"
    ],
@@ -106358,6 +107795,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06207/"
+  },
+  {
+   "name": "『第五番』",
+   "lat": 35.659357,
+   "lng": 135.0685087,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07974/"
   },
   {
    "name": "『第五番』",
@@ -106560,7 +108013,7 @@
    "lat": 34.8863182,
    "lng": 134.6612075,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ 約110m）",
    "categories": [
     "寺社境内"
    ],
@@ -106570,6 +108023,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06208/"
+  },
+  {
+   "name": "『第八番』",
+   "lat": 35.6593611,
+   "lng": 135.0684537,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07975/"
   },
   {
    "name": "『第八番』",
@@ -106810,7 +108279,7 @@
    "lat": 34.8861867,
    "lng": 134.6614274,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ 約90m）",
    "categories": [
     "寺社境内"
    ],
@@ -106839,6 +108308,22 @@
   },
   {
    "name": "『第六番』",
+   "lat": 35.6593367,
+   "lng": 135.0684461,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07976/"
+  },
+  {
+   "name": "『第六番』",
    "lat": 34.7617766,
    "lng": 135.3538699,
    "address": "兵庫県西宮市門戸西町９",
@@ -106860,7 +108345,7 @@
    "lat": 34.8866526,
    "lng": 134.6609648,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ 約150m）",
    "categories": [
     "寺社境内"
    ],
@@ -106910,7 +108395,7 @@
    "lat": 34.8872301,
    "lng": 134.6609272,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.8km",
+   "access": "余部駅から直線で約3.8km（最寄りのバス停：ロープウェイ 約210m）",
    "categories": [
     "寺社境内"
    ],
@@ -106920,6 +108405,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06211/"
+  },
+  {
+   "name": "『第十七番』",
+   "lat": 35.6596621,
+   "lng": 135.0687193,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07977/"
   },
   {
    "name": "『第十七番』",
@@ -106960,7 +108461,7 @@
    "lat": 34.8869276,
    "lng": 134.6610171,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.8km",
+   "access": "余部駅から直線で約3.8km（最寄りのバス停：ロープウェイ 約180m）",
    "categories": [
     "寺社境内"
    ],
@@ -106994,7 +108495,7 @@
    "lat": 34.8872885,
    "lng": 134.6610211,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.8km",
+   "access": "余部駅から直線で約3.8km（最寄りのバス停：ロープウェイ 約210m）",
    "categories": [
     "寺社境内"
    ],
@@ -107004,6 +108505,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06213/"
+  },
+  {
+   "name": "『第十九番』",
+   "lat": 35.6597136,
+   "lng": 135.0685975,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07978/"
   },
   {
    "name": "『第十九番』",
@@ -107024,11 +108541,27 @@
    "url": "https://www.memorial-object.jp/07125/"
   },
   {
+   "name": "『第十二十三番』",
+   "lat": 35.6597281,
+   "lng": 135.0686669,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07979/"
+  },
+  {
    "name": "『第十二番 岩間山正法寺』",
    "lat": 34.8868308,
    "lng": 134.6610305,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.8km",
+   "access": "余部駅から直線で約3.8km（最寄りのバス停：ロープウェイ 約170m）",
    "categories": [
     "寺社境内"
    ],
@@ -107062,7 +108595,7 @@
    "lat": 34.8871212,
    "lng": 134.6609822,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.8km",
+   "access": "余部駅から直線で約3.8km（最寄りのバス停：ロープウェイ 約200m）",
    "categories": [
     "寺社境内"
    ],
@@ -107112,7 +108645,7 @@
    "lat": 34.8871883,
    "lng": 134.6610264,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.8km",
+   "access": "余部駅から直線で約3.8km（最寄りのバス停：ロープウェイ 約200m）",
    "categories": [
     "寺社境内"
    ],
@@ -107122,6 +108655,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06216/"
+  },
+  {
+   "name": "『第十八番』",
+   "lat": 35.659704,
+   "lng": 135.0686457,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07980/"
   },
   {
    "name": "『第十八番』",
@@ -107162,7 +108711,7 @@
    "lat": 34.8871894,
    "lng": 134.6608964,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.8km",
+   "access": "余部駅から直線で約3.8km（最寄りのバス停：ロープウェイ 約210m）",
    "categories": [
     "寺社境内"
    ],
@@ -107172,6 +108721,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06217/"
+  },
+  {
+   "name": "『第十六番』",
+   "lat": 35.6595762,
+   "lng": 135.0686931,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07981/"
   },
   {
    "name": "『第十六番』",
@@ -107196,7 +108761,7 @@
    "lat": 34.887031,
    "lng": 134.6608508,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.8km",
+   "access": "余部駅から直線で約3.8km（最寄りのバス停：ロープウェイ 約190m）",
    "categories": [
     "寺社境内"
    ],
@@ -107246,7 +108811,7 @@
    "lat": 34.8865057,
    "lng": 134.6610305,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ 約140m）",
    "categories": [
     "寺社境内"
    ],
@@ -107476,7 +109041,7 @@
    "lat": 34.8860256,
    "lng": 134.661575,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ 約60m）",
    "categories": [
     "寺社境内"
    ],
@@ -107486,6 +109051,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06220/"
+  },
+  {
+   "name": "『第四番』",
+   "lat": 35.6593831,
+   "lng": 135.0688512,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07982/"
   },
   {
    "name": "『第四番』",
@@ -107510,7 +109091,7 @@
    "lat": 34.887536,
    "lng": 134.6611612,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.8km",
+   "access": "余部駅から直線で約3.8km（最寄りのバス停：ロープウェイ 約240m）",
    "categories": [
     "寺社境内"
    ],
@@ -107526,7 +109107,7 @@
    "lat": 34.885629,
    "lng": 134.6620101,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ（すぐ近く））",
    "categories": [
     "寺社境内"
    ],
@@ -107542,7 +109123,7 @@
    "lat": 34.8877153,
    "lng": 134.6609882,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.8km",
+   "access": "余部駅から直線で約3.8km（最寄りのバス停：ロープウェイ 約260m）",
    "categories": [
     "寺社境内"
    ],
@@ -107558,7 +109139,7 @@
    "lat": 34.8883225,
    "lng": 134.6608997,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.9km",
+   "access": "余部駅から直線で約3.9km（最寄りのバス停：ロープウェイ 約320m）",
    "categories": [
     "寺社境内"
    ],
@@ -107574,7 +109155,7 @@
    "lat": 34.8877076,
    "lng": 134.6610942,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.9km",
+   "access": "余部駅から直線で約3.9km（最寄りのバス停：ロープウェイ 約260m）",
    "categories": [
     "寺社境内"
    ],
@@ -107590,7 +109171,7 @@
    "lat": 34.8879397,
    "lng": 134.6608883,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.9km",
+   "access": "余部駅から直線で約3.9km（最寄りのバス停：ロープウェイ 約280m）",
    "categories": [
     "寺社境内"
    ],
@@ -107606,7 +109187,7 @@
    "lat": 34.8881845,
    "lng": 134.6608541,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.9km",
+   "access": "余部駅から直線で約3.9km（最寄りのバス停：ロープウェイ 約310m）",
    "categories": [
     "寺社境内"
    ],
@@ -107622,7 +109203,7 @@
    "lat": 34.8880992,
    "lng": 134.6608581,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.9km",
+   "access": "余部駅から直線で約3.9km（最寄りのバス停：ロープウェイ 約300m）",
    "categories": [
     "寺社境内"
    ],
@@ -107638,7 +109219,7 @@
    "lat": 34.8878385,
    "lng": 134.660899,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.9km",
+   "access": "余部駅から直線で約3.9km（最寄りのバス停：ロープウェイ 約270m）",
    "categories": [
     "寺社境内"
    ],
@@ -107654,7 +109235,7 @@
    "lat": 34.8873996,
    "lng": 134.6611673,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.8km",
+   "access": "余部駅から直線で約3.8km（最寄りのバス停：ロープウェイ 約220m）",
    "categories": [
     "寺社境内"
    ],
@@ -108670,6 +110251,22 @@
    "url": "https://www.memorial-object.jp/03462/"
   },
   {
+   "name": "『細川ガラシャ夫人隠棲地』",
+   "lat": 35.6500868,
+   "lng": 135.1555414,
+   "address": "京都府京丹後市弥栄町須川",
+   "access": "傘松駅から約7.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07983/"
+  },
+  {
    "name": "『細川一博士生誕地の碑』",
    "lat": 33.3756732,
    "lng": 132.427209,
@@ -109105,7 +110702,7 @@
    "lat": 34.6668789,
    "lng": 134.5260973,
    "address": "兵庫県姫路市家島町真浦",
-   "access": "山陽網干駅から約14.5km",
+   "access": "山陽網干駅から直線で約14.5km（家島にあり、島内に鉄道はありません。網手浜への船などでの移動が必要です）",
    "categories": [
     "海浜"
    ],
@@ -109116,6 +110713,40 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06231/"
+  },
+  {
+   "name": "『網野町政施行五十周年記念』",
+   "lat": 35.6911659,
+   "lng": 135.0201387,
+   "address": "京都府京丹後市網野町浅茂川",
+   "access": "網野駅から約2.7km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07984/"
+  },
+  {
+   "name": "『網野町道路元標』",
+   "lat": 35.6777903,
+   "lng": 135.028249,
+   "address": "京都府京丹後市網野町網野",
+   "access": "網野駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07985/"
   },
   {
    "name": "『緑のリズム』",
@@ -109324,7 +110955,7 @@
    "lat": 34.7825688,
    "lng": 134.795321,
    "address": "兵庫県高砂市阿弥陀町生石",
-   "access": "宝殿駅から約1.6km",
+   "access": "宝殿駅から直線で約1.6km（最寄りのバス停：ふれあいの郷生石 約160m）",
    "categories": [
     "寺社境内"
    ],
@@ -110479,7 +112110,7 @@
    "lat": 34.8888186,
    "lng": 134.6578582,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.8km",
+   "access": "余部駅から直線で約3.8km（最寄りのバス停：摩尼殿 約210m）",
    "categories": [
     "寺社境内"
    ],
@@ -111509,7 +113140,7 @@
    "lat": 34.8375355,
    "lng": 134.7227608,
    "address": "兵庫県姫路市花田町小川",
-   "access": "京口駅から約1.7km",
+   "access": "京口駅から直線で約1.7km（最寄りのバス停：小川 約420m）",
    "categories": [
     "公園"
    ],
@@ -113238,6 +114869,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07673/"
+  },
+  {
+   "name": "『蔵の跡』",
+   "lat": 35.2197743,
+   "lng": 136.6309319,
+   "address": "岐阜県海津市海津町高須町４１０",
+   "access": "美濃山崎駅から約2.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "岐阜県",
+    "歴史",
+    "海津市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07864/"
   },
   {
    "name": "『蔵前橋』",
@@ -115154,7 +116802,7 @@
    "lat": 34.8580844,
    "lng": 134.8130024,
    "address": "兵庫県加古川市志方町畑",
-   "access": "播磨下里駅から約4.0km",
+   "access": "播磨下里駅から直線で約4.0km（最寄りのバス停：畑法華口 約520m）",
    "categories": [
     "水辺"
    ],
@@ -115306,7 +116954,7 @@
    "lat": 34.8911436,
    "lng": 134.6576214,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約4.1km",
+   "access": "余部駅から直線で約4.1km（最寄りのバス停：摩尼殿 約80m）",
    "categories": [
     "寺社境内"
    ],
@@ -115323,7 +116971,7 @@
    "lat": 34.885596,
    "lng": 134.6620524,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約3.7km",
+   "access": "余部駅から直線で約3.7km（最寄りのバス停：ロープウェイ（すぐ近く））",
    "categories": [
     "寺社境内"
    ],
@@ -115484,7 +117132,7 @@
    "lat": 34.769242,
    "lng": 134.8194692,
    "address": "兵庫県加古川市加古川町西河原",
-   "access": "宝殿駅から約1.8km",
+   "access": "宝殿駅から直線で約1.8km（最寄りのバス停：加古川西団地サンロイヤル 約350m）",
    "categories": [
     "霊園・墓地"
    ],
@@ -115995,7 +117643,7 @@
    "lat": 34.8913376,
    "lng": 134.6578125,
    "address": "兵庫県姫路市書写",
-   "access": "余部駅から約4.1km",
+   "access": "余部駅から直線で約4.1km（最寄りのバス停：摩尼殿 約80m）",
    "categories": [
     "寺社境内"
    ],
@@ -116563,7 +118211,7 @@
    "lat": 34.7824217,
    "lng": 134.7952547,
    "address": "兵庫県高砂市阿弥陀町生石",
-   "access": "宝殿駅から約1.6km",
+   "access": "宝殿駅から直線で約1.6km（最寄りのバス停：ふれあいの郷生石 約170m）",
    "categories": [
     "寺社境内"
    ],
@@ -121256,6 +122904,38 @@
    "url": "https://www.memorial-object.jp/02179/"
   },
   {
+   "name": "『輪中堤の樹連坊の切割』",
+   "lat": 35.307294,
+   "lng": 136.6561618,
+   "address": "岐阜県安八郡輪之内町楡俣２２６０",
+   "access": "岐阜羽島駅から約2.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "岐阜県",
+    "輪之内町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07872/"
+  },
+  {
+   "name": "『輪中堤の灯明』",
+   "lat": 35.3074282,
+   "lng": 136.6548472,
+   "address": "岐阜県安八郡輪之内町楡俣１３６０",
+   "access": "岐阜羽島駅から約3.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "岐阜県",
+    "輪之内町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07873/"
+  },
+  {
    "name": "『輪廻の森』",
    "lat": 34.9572567,
    "lng": 134.7645716,
@@ -124045,6 +125725,23 @@
    "url": "https://www.memorial-object.jp/00366/"
   },
   {
+   "name": "『金刀比羅神社』",
+   "lat": 35.6210423,
+   "lng": 135.0599132,
+   "address": "京都府京丹後市峰山町杉谷",
+   "access": "峰山駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07986/"
+  },
+  {
    "name": "『金剛力士坐像』",
    "lat": 34.9369925,
    "lng": 134.8290653,
@@ -125700,6 +127397,23 @@
    "url": "https://www.memorial-object.jp/06478/"
   },
   {
+   "name": "『長良川堤防破堤治水碑』",
+   "lat": 35.3232625,
+   "lng": 136.6680498,
+   "address": "岐阜県安八郡安八町大森６６６",
+   "access": "岐阜羽島駅から約1.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "安八町",
+    "岐阜県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07875/"
+  },
+  {
    "name": "『長谷山蒲田寺趾』",
    "lat": 34.8238,
    "lng": 134.643237,
@@ -126087,6 +127801,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00395/"
+  },
+  {
+   "name": "『間人皇后 聖徳太子 母子像』",
+   "lat": 35.7424954,
+   "lng": 135.1053888,
+   "address": "京都府京丹後市丹後町間人",
+   "access": "網野駅から約11.0km",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07987/"
   },
   {
    "name": "『間宮林蔵の墓』",
@@ -128415,6 +130145,23 @@
    "url": "https://www.memorial-object.jp/04309/"
   },
   {
+   "name": "『震災供養塔』",
+   "lat": 35.6808451,
+   "lng": 135.0529574,
+   "address": "京都府京丹後市網野町島津",
+   "access": "網野駅から約2.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07988/"
+  },
+  {
    "name": "『震災慰霊碑』",
    "lat": 34.7201003,
    "lng": 135.2947766,
@@ -128492,6 +130239,39 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01163/"
+  },
+  {
+   "name": "『霊亀之墓』",
+   "lat": 35.6915024,
+   "lng": 135.0180486,
+   "address": "京都府京丹後市網野町浅茂川",
+   "access": "網野駅から約2.8km",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07989/"
+  },
+  {
+   "name": "『霊區雜詠』",
+   "lat": 35.6593203,
+   "lng": 135.0693901,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07990/"
   },
   {
    "name": "『霊随上人六字名号塔』",
@@ -131181,6 +132961,22 @@
    "url": "https://www.memorial-object.jp/04237/"
   },
   {
+   "name": "『願掛不動』",
+   "lat": 35.6595091,
+   "lng": 135.0692922,
+   "address": "京都府京丹後市峰山町橋木",
+   "access": "峰山駅から約3.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07991/"
+  },
+  {
    "name": "『風とともに』",
    "lat": 35.6631296,
    "lng": 139.8733679,
@@ -131366,7 +133162,7 @@
    "lat": 34.8129495,
    "lng": 134.7933422,
    "address": "兵庫県高砂市阿弥陀町阿弥陀",
-   "access": "曽根駅から約3.1km",
+   "access": "曽根駅から直線で約3.1km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -131435,7 +133231,7 @@
    "lat": 34.8138242,
    "lng": 134.8172191,
    "address": "兵庫県加古川市志方町志方町",
-   "access": "宝殿駅から約3.3km",
+   "access": "宝殿駅から直線で約3.3km（最寄りのバス停：志方南町 約180m）",
    "categories": [
     "道路沿い"
    ],
@@ -131942,6 +133738,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05872/"
+  },
+  {
+   "name": "『馬』",
+   "lat": 35.6832938,
+   "lng": 135.0274551,
+   "address": "京都府京丹後市網野町網野",
+   "access": "網野駅から約1.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京丹後市",
+    "京都府"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07992/"
   },
   {
    "name": "『馬』",
@@ -146293,6 +148105,25 @@
    "url": "https://www.memorial-object.jp/01062/"
   },
   {
+   "name": "荒川修作・マドリン・ギンズ『もののあわれ変容器』",
+   "lat": 35.2821251,
+   "lng": 136.5504605,
+   "address": "岐阜県養老郡養老町高林",
+   "access": "養老駅から南西へ約780m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "岐阜県",
+    "荒川修作・マドリン・ギンズ",
+    "養老町",
+    "養老鉄道",
+    "養老鉄道養老線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07859/"
+  },
+  {
    "name": "荒川修作・マドリン・ギンズ『不死門』",
    "lat": 35.2829357,
    "lng": 136.5515092,
@@ -146310,6 +148141,78 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07851/"
+  },
+  {
+   "name": "荒川修作・マドリン・ギンズ『切り閉じの間』",
+   "lat": 35.2822406,
+   "lng": 136.5501006,
+   "address": "岐阜県養老郡養老町高林",
+   "access": "養老駅から南西へ約800m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "岐阜県",
+    "荒川修作・マドリン・ギンズ",
+    "養老町",
+    "養老鉄道",
+    "養老鉄道養老線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07860/"
+  },
+  {
+   "name": "荒川修作・マドリン・ギンズ『地霊』",
+   "lat": 35.2816801,
+   "lng": 136.5505484,
+   "address": "岐阜県養老郡養老町高林",
+   "access": "養老駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "岐阜県",
+    "荒川修作・マドリン・ギンズ",
+    "養老町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07865/"
+  },
+  {
+   "name": "荒川修作・マドリン・ギンズ『宿命の家』",
+   "lat": 35.2820188,
+   "lng": 136.5503999,
+   "address": "岐阜県養老郡養老町高林",
+   "access": "養老駅から南西へ約790m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "岐阜県",
+    "荒川修作・マドリン・ギンズ",
+    "養老町",
+    "養老鉄道",
+    "養老鉄道養老線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07861/"
+  },
+  {
+   "name": "荒川修作・マドリン・ギンズ『想像のへそ』",
+   "lat": 35.2815465,
+   "lng": 136.5501317,
+   "address": "岐阜県養老郡養老町高林",
+   "access": "養老駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "岐阜県",
+    "荒川修作・マドリン・ギンズ",
+    "養老町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07866/"
   },
   {
    "name": "荒川修作・マドリン・ギンズ『昆虫山脈』",
@@ -146350,6 +148253,25 @@
    "url": "https://www.memorial-object.jp/07853/"
   },
   {
+   "name": "荒川修作・マドリン・ギンズ『白昼の混沌世界』",
+   "lat": 35.2820982,
+   "lng": 136.5508162,
+   "address": "岐阜県養老郡養老町高林",
+   "access": "養老駅から南西へ約760m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "岐阜県",
+    "荒川修作・マドリン・ギンズ",
+    "養老町",
+    "養老鉄道",
+    "養老鉄道養老線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07862/"
+  },
+  {
    "name": "荒川修作・マドリン・ギンズ『精緻の棟』",
    "lat": 35.2824115,
    "lng": 136.5511542,
@@ -146367,6 +148289,59 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07854/"
+  },
+  {
+   "name": "荒川修作・マドリン・ギンズ『運動路』",
+   "lat": 35.2818004,
+   "lng": 136.549837,
+   "address": "岐阜県養老郡養老町高林",
+   "access": "養老駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "岐阜県",
+    "荒川修作・マドリン・ギンズ",
+    "養老町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07867/"
+  },
+  {
+   "name": "荒川修作・マドリン・ギンズ『陥入膜の径』",
+   "lat": 35.281888,
+   "lng": 136.5501408,
+   "address": "岐阜県養老郡養老町高林",
+   "access": "養老駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "岐阜県",
+    "荒川修作・マドリン・ギンズ",
+    "養老町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07868/"
+  },
+  {
+   "name": "荒川修作・マドリン・ギンズ『養老天命反転地記念館』",
+   "lat": 35.2832956,
+   "lng": 136.5515025,
+   "address": "岐阜県養老郡養老町高林１２９８",
+   "access": "養老駅から南西へ約620m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "岐阜県",
+    "荒川修作・マドリン・ギンズ",
+    "養老町",
+    "養老鉄道",
+    "養老鉄道養老線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/07855/"
   },
   {
    "name": "菅原二郎『内側のかたち・風と光の通り道』",
