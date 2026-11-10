@@ -8,8 +8,8 @@
   "photos": 0,
   "names": []
  },
- "generated": "2026-11-08",
- "count": 8019,
+ "generated": "2026-11-10",
+ "count": 8264,
  "items": [
   {
    "name": "???wako Shintani『MAN』",
@@ -5178,7 +5178,7 @@
    "lat": 34.3127333,
    "lng": 134.7711683,
    "address": "兵庫県南あわじ市榎列下幡多４１５",
-   "access": "鳴門駅から約21.1km",
+   "access": "鳴門駅から直線で約21.1km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -5313,7 +5313,7 @@
    "lat": 34.3121432,
    "lng": 134.7710533,
    "address": "兵庫県南あわじ市榎列下幡多４１５",
-   "access": "鳴門駅から約21.0km",
+   "access": "鳴門駅から直線で約21.0km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -6747,6 +6747,22 @@
    "url": "https://www.memorial-object.jp/03009/"
   },
   {
+   "name": "『くにかぜ1号機』",
+   "lat": 36.1039813,
+   "lng": 140.086251,
+   "address": "茨城県つくば市北郷",
+   "access": "研究学園駅から約2.4km",
+   "categories": [
+    "商業地"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08229/"
+  },
+  {
    "name": "『くまごう大師』",
    "lat": 33.5763334,
    "lng": 132.715198,
@@ -7783,6 +7799,23 @@
    "url": "https://www.memorial-object.jp/01433/"
   },
   {
+   "name": "『ちとせまつ』",
+   "lat": 36.382392,
+   "lng": 140.2664852,
+   "address": "茨城県笠間市笠間",
+   "access": "笠間駅から約2.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08208/"
+  },
+  {
    "name": "『ちどりばしの記憶』",
    "lat": 35.6694872,
    "lng": 139.7945435,
@@ -7800,6 +7833,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01952/"
+  },
+  {
+   "name": "『つくば道の標石』",
+   "lat": 36.177846,
+   "lng": 140.092632,
+   "address": "茨城県つくば市北条",
+   "access": "宮脇駅から約4.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "つくば市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08230/"
   },
   {
    "name": "『つつじ1810本進呈の記念碑』",
@@ -8097,7 +8147,7 @@
    "lat": 34.2698623,
    "lng": 134.7374164,
    "address": "兵庫県南あわじ市賀集八幡７０７",
-   "access": "鳴門駅から約15.6km",
+   "access": "鳴門駅から直線で約15.6km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -8926,6 +8976,24 @@
    "url": "https://www.memorial-object.jp/02033/"
   },
   {
+   "name": "『へら鮒供養塔』",
+   "lat": 36.1890371,
+   "lng": 139.9546923,
+   "address": "茨城県下妻市下妻丙",
+   "access": "下妻駅から約1.2km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "下妻市",
+    "供養塔",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08200/"
+  },
+  {
    "name": "『ほうろく地蔵尊』",
    "lat": 35.72432,
    "lng": 139.5492645,
@@ -9407,6 +9475,22 @@
    "url": "https://www.memorial-object.jp/07553/"
   },
   {
+   "name": "『むすびまち』",
+   "lat": 36.0832638,
+   "lng": 139.9851918,
+   "address": "茨城県常総市むすびまち",
+   "access": "三妻駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "常総市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08206/"
+  },
+  {
    "name": "『むすび石』",
    "lat": 34.286478,
    "lng": 134.0275081,
@@ -9703,6 +9787,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02482/"
+  },
+  {
+   "name": "『ゆるぎ石』",
+   "lat": 36.0860308,
+   "lng": 140.1109121,
+   "address": "茨城県つくば市吾妻２丁目",
+   "access": "つくば駅から北へ約380m",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "つくばエクスプレス",
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08167/"
   },
   {
    "name": "『ようこそ 七夕のまち 茂原へ』",
@@ -10462,6 +10563,22 @@
    "url": "https://www.memorial-object.jp/04241/"
   },
   {
+   "name": "『ウエルカムアーチ』",
+   "lat": 36.0625734,
+   "lng": 140.1197628,
+   "address": "茨城県つくば市二の宮２丁目",
+   "access": "つくば駅から約2.4km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08231/"
+  },
+  {
    "name": "『ウルトラマン モニュメント』",
    "lat": 35.6427901,
    "lng": 139.6087391,
@@ -10715,6 +10832,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02194/"
+  },
+  {
+   "name": "『カッパの碑』",
+   "lat": 35.960911,
+   "lng": 140.1261723,
+   "address": "茨城県牛久市庄兵衛新田町",
+   "access": "牛久駅から約2.1km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "牛久市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08226/"
   },
   {
    "name": "『カニ塚』",
@@ -12290,6 +12424,28 @@
    "url": "https://www.memorial-object.jp/05002/"
   },
   {
+   "name": "『タツミ二十三夜地蔵尊』",
+   "lat": 36.3059387,
+   "lng": 139.9777059,
+   "address": "茨城県筑西市乙",
+   "access": "下館駅から北へ約200m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "二十三夜塔",
+    "地蔵",
+    "水戸線",
+    "真岡鐵道真岡線",
+    "筑西市",
+    "茨城県",
+    "関東鉄道常総線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08061/"
+  },
+  {
    "name": "『タヌキ』",
    "lat": 35.6967201,
    "lng": 139.7736098,
@@ -12312,6 +12468,22 @@
    "url": "https://www.memorial-object.jp/01263/"
   },
   {
+   "name": "『ダイダラボウ』",
+   "lat": 36.3346583,
+   "lng": 140.5471061,
+   "address": "茨城県水戸市大串町",
+   "access": "常澄駅から約1.2km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "水戸市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08190/"
+  },
+  {
    "name": "『ダイダラボッチ像』",
    "lat": 35.766102,
    "lng": 139.4166937,
@@ -12329,6 +12501,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00697/"
+  },
+  {
+   "name": "『ダイダラ坊の背負い石』",
+   "lat": 36.3926017,
+   "lng": 140.154067,
+   "address": "茨城県桜川市平沢",
+   "access": "羽黒駅から約4.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "桜川市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08250/"
   },
   {
    "name": "『ダブルピース両さん像』",
@@ -13216,6 +13404,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06815/"
+  },
+  {
+   "name": "『バルカン像』",
+   "lat": 36.6092248,
+   "lng": 140.6570018,
+   "address": "茨城県日立市宮田町５丁目",
+   "access": "日立駅から約2.1km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "日立市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08194/"
   },
   {
    "name": "『パイプ状のモニュメント』",
@@ -14146,7 +14350,7 @@
    "lat": 34.2606426,
    "lng": 134.7501091,
    "address": "兵庫県南あわじ市賀集鍛治屋８７",
-   "access": "鳴門駅から約15.9km",
+   "access": "鳴門駅から直線で約15.9km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -17978,6 +18182,23 @@
    "url": "https://www.memorial-object.jp/03711/"
   },
   {
+   "name": "『三義人 頌徳碑』",
+   "lat": 36.1830736,
+   "lng": 139.95548,
+   "address": "茨城県下妻市砂沼新田６３",
+   "access": "下妻駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "下妻市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08094/"
+  },
+  {
    "name": "『三菱製紙株式会社中川工場跡』",
    "lat": 35.7724653,
    "lng": 139.8654142,
@@ -18185,6 +18406,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07918/"
+  },
+  {
+   "name": "『上冨田子安観世音』",
+   "lat": 36.1990155,
+   "lng": 140.4532393,
+   "address": "茨城県鉾田市上冨田",
+   "access": "徳宿駅から約5.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "茨城県",
+    "鉾田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08254/"
   },
   {
    "name": "『上大市庚申塔』",
@@ -20172,6 +20409,25 @@
    "url": "https://www.memorial-object.jp/03669/"
   },
   {
+   "name": "『中島藤右衛門翁顕彰之碑』",
+   "lat": 36.6325268,
+   "lng": 140.3957521,
+   "address": "茨城県常陸大宮市山方",
+   "access": "山方宿駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "常陸大宮市",
+    "歴史",
+    "碑文",
+    "茨城県",
+    "顕彰碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08241/"
+  },
+  {
    "name": "『中川像』",
    "lat": 35.7660071,
    "lng": 139.8484934,
@@ -21028,6 +21284,24 @@
    "url": "https://www.memorial-object.jp/08025/"
   },
   {
+   "name": "『久慈浜駅跡』",
+   "lat": 36.4978669,
+   "lng": 140.6131433,
+   "address": "茨城県日立市久慈町３丁目２４",
+   "access": "大甕駅から約1.8km",
+   "categories": [
+    "公共施設"
+   ],
+   "tags": [
+    "日立市",
+    "碑文",
+    "茨城県",
+    "駅の歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08074/"
+  },
+  {
    "name": "『久本北向地蔵』",
    "lat": 35.5972554,
    "lng": 139.6116246,
@@ -21442,6 +21716,42 @@
    "url": "https://www.memorial-object.jp/05023/"
   },
   {
+   "name": "『二の丸土塁・堀跡』",
+   "lat": 36.5547437,
+   "lng": 139.8836917,
+   "address": "栃木県宇都宮市旭１丁目４",
+   "access": "東武宇都宮駅から南東へ約550m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "宇都宮市",
+    "東武鉄道",
+    "栃木県",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08286/"
+  },
+  {
+   "name": "『二の丸跡』",
+   "lat": 36.0843921,
+   "lng": 140.1981895,
+   "address": "茨城県土浦市中央１丁目１３",
+   "access": "土浦駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "土浦市",
+    "歴史",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08078/"
+  },
+  {
    "name": "『二の櫓』",
    "lat": 34.8395367,
    "lng": 134.6935435,
@@ -21724,6 +22034,23 @@
   },
   {
    "name": "『二十三夜』",
+   "lat": 36.3456715,
+   "lng": 139.9471826,
+   "address": "茨城県筑西市森添島",
+   "access": "折本駅から約2.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "二十三夜塔",
+    "筑西市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08243/"
+  },
+  {
+   "name": "『二十三夜』",
    "lat": 35.6698338,
    "lng": 139.2568637,
    "address": "東京都八王子市下恩方町",
@@ -21839,6 +22166,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03929/"
+  },
+  {
+   "name": "『二十六夜尊供養塔』",
+   "lat": 36.142928,
+   "lng": 140.4890305,
+   "address": "茨城県鉾田市野友",
+   "access": "新鉾田駅から約3.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "供養塔",
+    "碑文",
+    "茨城県",
+    "鉾田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08255/"
   },
   {
    "name": "『二十六番 法華山』",
@@ -22170,7 +22515,7 @@
    "lat": 34.3125644,
    "lng": 134.770824,
    "address": "兵庫県南あわじ市榎列下幡多４１５",
-   "access": "鳴門駅から約21.0km",
+   "access": "鳴門駅から直線で約21.0km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -24042,6 +24387,22 @@
    "url": "https://www.memorial-object.jp/06370/"
   },
   {
+   "name": "『令和記念植樹祭』",
+   "lat": 36.2132604,
+   "lng": 140.101245,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南東へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08168/"
+  },
+  {
    "name": "『仰之碑』",
    "lat": 34.3574321,
    "lng": 134.1011311,
@@ -24348,6 +24709,41 @@
    "url": "https://www.memorial-object.jp/01961/"
   },
   {
+   "name": "『伊東甲子太郎生誕の地』",
+   "lat": 36.1903259,
+   "lng": 140.2344119,
+   "address": "茨城県かすみがうら市中志筑１０８６",
+   "access": "石岡駅から約4.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "かすみがうら市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08114/"
+  },
+  {
+   "name": "『伊東甲子太郎顕彰碑』",
+   "lat": 36.1924172,
+   "lng": 140.2342605,
+   "address": "茨城県かすみがうら市中志筑９４５",
+   "access": "石岡駅から約4.1km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "かすみがうら市",
+    "碑文",
+    "茨城県",
+    "顕彰碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08115/"
+  },
+  {
    "name": "『伊根村道路元標』",
    "lat": 35.6759373,
    "lng": 135.2874322,
@@ -24533,6 +24929,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04929/"
+  },
+  {
+   "name": "『伊賀門跡』",
+   "lat": 36.5537543,
+   "lng": 139.8858858,
+   "address": "栃木県宇都宮市本丸町１",
+   "access": "東武宇都宮駅から南東へ約750m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "宇都宮市",
+    "東武鉄道",
+    "栃木県",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08287/"
   },
   {
    "name": "『伊達時彰徳碑』",
@@ -24927,6 +25341,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04062/"
+  },
+  {
+   "name": "『佐白山観光道路完成之碑』",
+   "lat": 36.3841961,
+   "lng": 140.2668554,
+   "address": "茨城県笠間市笠間",
+   "access": "笠間駅から約2.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08209/"
   },
   {
    "name": "『佐野善作先生像』",
@@ -25393,6 +25824,23 @@
    "url": "https://www.memorial-object.jp/06743/"
   },
   {
+   "name": "『修井碑』",
+   "lat": 36.3829923,
+   "lng": 140.2661151,
+   "address": "茨城県笠間市笠間９４７",
+   "access": "笠間駅から約2.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08101/"
+  },
+  {
    "name": "『修行大師』",
    "lat": 34.8216359,
    "lng": 135.3523879,
@@ -25609,6 +26057,22 @@
    "url": "https://www.memorial-object.jp/03273/"
   },
   {
+   "name": "『倭建命』",
+   "lat": 36.2132087,
+   "lng": 140.1010848,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南東へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08169/"
+  },
+  {
    "name": "『倭文村道路元標』",
    "lat": 34.3355151,
    "lng": 134.7790825,
@@ -25750,6 +26214,25 @@
    "url": "https://www.memorial-object.jp/04097/"
   },
   {
+   "name": "『健育塚』",
+   "lat": 35.8899791,
+   "lng": 140.0663812,
+   "address": "茨城県取手市東１丁目２",
+   "access": "取手駅から南東へ約690m",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "JR東日本",
+    "取手市",
+    "常磐線",
+    "茨城県",
+    "関東鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08047/"
+  },
+  {
    "name": "『傍示堂の石塔群』",
    "lat": 35.3181671,
    "lng": 139.6228486,
@@ -25818,6 +26301,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06978/"
+  },
+  {
+   "name": "『僊湖暮雪碑』",
+   "lat": 36.3734484,
+   "lng": 140.4536713,
+   "address": "茨城県水戸市常磐町１丁目",
+   "access": "偕楽園駅から西へ約230m（偕楽園駅は梅まつりの時期だけ列車が止まる臨時駅です。ふだんは水戸駅から直線で約2.0km）",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08130/"
   },
   {
    "name": "『僧形馬頭観音』",
@@ -26343,6 +26845,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01359/"
+  },
+  {
+   "name": "『入四間道標』",
+   "lat": 36.6340446,
+   "lng": 140.5466205,
+   "address": "茨城県日立市東河内町",
+   "access": "日立駅から約11.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "日立市",
+    "碑文",
+    "茨城県",
+    "道標"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08195/"
   },
   {
    "name": "『入我我入』",
@@ -27208,7 +27728,7 @@
    "lat": 34.3126832,
    "lng": 134.7710808,
    "address": "兵庫県南あわじ市榎列下幡多４１５",
-   "access": "鳴門駅から約21.0km",
+   "access": "鳴門駅から直線で約21.0km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -27955,6 +28475,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03371/"
+  },
+  {
+   "name": "『六所大佛』",
+   "lat": 36.1979416,
+   "lng": 140.1106504,
+   "address": "茨城県つくば市神郡",
+   "access": "宮脇駅から約2.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08232/"
   },
   {
    "name": "『六方川改修之碑』",
@@ -29502,6 +30038,24 @@
    "url": "https://www.memorial-object.jp/07927/"
   },
   {
+   "name": "『初辰稲荷神社』",
+   "lat": 36.5626868,
+   "lng": 139.8855089,
+   "address": "栃木県宇都宮市馬場通り１丁目１",
+   "access": "東武宇都宮駅から北東へ約590m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "宇都宮市",
+    "東武鉄道",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08288/"
+  },
+  {
    "name": "『初音六地蔵』",
    "lat": 35.7237071,
    "lng": 139.7681377,
@@ -29802,6 +30356,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01361/"
+  },
+  {
+   "name": "『剣聖塚原卜傳先生像』",
+   "lat": 35.9685525,
+   "lng": 140.6256522,
+   "address": "茨城県鹿嶋市宮下２丁目１１",
+   "access": "鹿島神宮駅から南へ約240m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "茨城県",
+    "鹿島臨海鉄道大洗鹿島線",
+    "鹿嶋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08059/"
   },
   {
    "name": "『創建時の正門の石柱』",
@@ -30543,6 +31114,42 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06105/"
+  },
+  {
+   "name": "『勝善神』",
+   "lat": 36.5394872,
+   "lng": 139.8598228,
+   "address": "栃木県宇都宮市鶴田町３３３２",
+   "access": "鶴田駅から北東へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "宇都宮市",
+    "日光線",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08290/"
+  },
+  {
+   "name": "『勝善神』",
+   "lat": 36.540348,
+   "lng": 139.8567284,
+   "address": "栃木県宇都宮市鶴田町３３１４",
+   "access": "鶴田駅から北西へ約290m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "宇都宮市",
+    "日光線",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08289/"
   },
   {
    "name": "『勝川春英翁略伝の碑』",
@@ -31336,6 +31943,27 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00181_1.jpg",
    "url": "https://www.memorial-object.jp/00181/"
+  },
+  {
+   "name": "『北河原 興禪寺見取図』",
+   "lat": 36.5621134,
+   "lng": 139.8957604,
+   "address": "栃木県宇都宮市今泉２丁目７",
+   "access": "宇都宮駅から北西へ約380m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "上野東京ライン",
+    "宇都宮市",
+    "宇都宮線",
+    "新幹線駅",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08291/"
   },
   {
    "name": "『北温海岸防波堤竣工記念』",
@@ -32566,6 +33194,23 @@
   },
   {
    "name": "『南無妙法蓮華経』",
+   "lat": 36.3136759,
+   "lng": 140.5618285,
+   "address": "茨城県東茨城郡大洗町桜道３２３",
+   "access": "大洗駅から南西へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "大洗町",
+    "茨城県",
+    "鹿島臨海鉄道大洗鹿島線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08063/"
+  },
+  {
+   "name": "『南無妙法蓮華経』",
    "lat": 34.7987543,
    "lng": 135.2427168,
    "address": "兵庫県神戸市北区有馬町１３０７",
@@ -33669,6 +34314,22 @@
    "url": "https://www.memorial-object.jp/06534/"
   },
   {
+   "name": "『古峯神社講中』",
+   "lat": 36.345495,
+   "lng": 139.9472903,
+   "address": "茨城県筑西市森添島７４３",
+   "access": "折本駅から約2.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "筑西市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08109/"
+  },
+  {
    "name": "『古市公威像』",
    "lat": 35.7132963,
    "lng": 139.7595407,
@@ -33827,6 +34488,40 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06382/"
+  },
+  {
+   "name": "『可恐』",
+   "lat": 36.7619366,
+   "lng": 140.3796087,
+   "address": "茨城県久慈郡大子町大字久野瀬１１１−１",
+   "access": "袋田駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大子町",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08126/"
+  },
+  {
+   "name": "『可恐』",
+   "lat": 36.7566289,
+   "lng": 140.3795215,
+   "address": "茨城県久慈郡大子町大字袋田１９７２−１０",
+   "access": "袋田駅から北へ約250m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "大子町",
+    "水郡線",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08068/"
   },
   {
    "name": "『台湾出身戦没者慰霊塔』",
@@ -33996,6 +34691,24 @@
    "url": "https://www.memorial-object.jp/05728/"
   },
   {
+   "name": "『史跡 土浦城址及び櫓門』",
+   "lat": 36.0849708,
+   "lng": 140.1990022,
+   "address": "茨城県土浦市中央１丁目１３",
+   "access": "土浦駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "土浦市",
+    "歴史",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08079/"
+  },
+  {
    "name": "『史跡 多田銀銅山遺跡』",
    "lat": 34.8955843,
    "lng": 135.35038,
@@ -34137,6 +34850,24 @@
    "url": "https://www.memorial-object.jp/06993/"
   },
   {
+   "name": "『史跡 笠間城八幡台櫓跡』",
+   "lat": 36.3824524,
+   "lng": 140.266276,
+   "address": "茨城県笠間市笠間",
+   "access": "笠間駅から約2.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "歴史",
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08210/"
+  },
+  {
    "name": "『史跡 舞子砲䑓跡 兵庫縣』",
    "lat": 34.6332416,
    "lng": 135.0323205,
@@ -34178,6 +34909,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03230/"
+  },
+  {
+   "name": "『史跡　日下ヶ塚』",
+   "lat": 36.3162114,
+   "lng": 140.5702047,
+   "address": "茨城県東茨城郡大洗町磯浜町９１８",
+   "access": "大洗駅から東へ約660m",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "大洗町",
+    "歴史",
+    "茨城県",
+    "鹿島臨海鉄道大洗鹿島線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08064/"
   },
   {
    "name": "『史跡　玉川上水の碑』",
@@ -34482,6 +35231,24 @@
    "url": "https://www.memorial-object.jp/00836/"
   },
   {
+   "name": "『史蹟 千人溜り跡』",
+   "lat": 36.3846064,
+   "lng": 140.2672677,
+   "address": "茨城県笠間市笠間",
+   "access": "笠間駅から約2.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "歴史",
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08211/"
+  },
+  {
    "name": "『史蹟 南朝忠臣赤松氏範父子並一族憤死之…』",
    "lat": 34.9754037,
    "lng": 135.0850609,
@@ -34533,6 +35300,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06150/"
+  },
+  {
+   "name": "『史蹟 大石邸址』",
+   "lat": 36.3849611,
+   "lng": 140.2580839,
+   "address": "茨城県笠間市笠間",
+   "access": "笠間駅から約1.7km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "歴史",
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08212/"
   },
   {
    "name": "『史蹟 姫路城 中濠』",
@@ -34706,6 +35491,42 @@
    "url": "https://www.memorial-object.jp/07707/"
   },
   {
+   "name": "『史蹟 笠間城大手門跡』",
+   "lat": 36.3839046,
+   "lng": 140.2667212,
+   "address": "茨城県笠間市笠間",
+   "access": "笠間駅から約2.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "歴史",
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08213/"
+  },
+  {
+   "name": "『史蹟 笠間城跡主下屋敷跡』",
+   "lat": 36.3842372,
+   "lng": 140.2598105,
+   "address": "茨城県笠間市笠間",
+   "access": "笠間駅から約1.7km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "歴史",
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08214/"
+  },
+  {
    "name": "『史蹟 與五郎橋』",
    "lat": 34.941084,
    "lng": 134.9638901,
@@ -34724,6 +35545,27 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06868/"
+  },
+  {
+   "name": "『史蹟 舊弘道館』",
+   "lat": 36.375249,
+   "lng": 140.4777715,
+   "address": "茨城県水戸市三の丸１丁目",
+   "access": "水戸駅から北へ約510m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "歴史",
+    "水戸市",
+    "碑文",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08131/"
   },
   {
    "name": "『史蹟 若菜の里阯』",
@@ -35122,6 +35964,23 @@
    "url": "https://www.memorial-object.jp/03839/"
   },
   {
+   "name": "『吉田松陰 水戸留学の地』",
+   "lat": 36.3775154,
+   "lng": 140.4694713,
+   "address": "茨城県水戸市南町３丁目",
+   "access": "水戸駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "水戸市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08191/"
+  },
+  {
    "name": "『吉田松陰佐久間象山相会処』",
    "lat": 35.2426635,
    "lng": 139.7211535,
@@ -35507,6 +36366,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03242/"
+  },
+  {
+   "name": "『君が代』",
+   "lat": 36.2134781,
+   "lng": 140.101188,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南東へ約160m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08170/"
   },
   {
    "name": "『吟道碑』",
@@ -36964,6 +37839,24 @@
    "url": "https://www.memorial-object.jp/06969/"
   },
   {
+   "name": "『善意の桜』",
+   "lat": 36.5547006,
+   "lng": 139.8856337,
+   "address": "栃木県宇都宮市本丸町１",
+   "access": "東武宇都宮駅から南東へ約660m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "宇都宮市",
+    "東武鉄道",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08292/"
+  },
+  {
    "name": "『喜代住稲荷大神』",
    "lat": 35.6696031,
    "lng": 139.7477766,
@@ -37055,6 +37948,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00737/"
+  },
+  {
+   "name": "『四つのテスト』",
+   "lat": 36.3845189,
+   "lng": 140.2605884,
+   "address": "茨城県笠間市笠間",
+   "access": "笠間駅から約1.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08215/"
   },
   {
    "name": "『四つのテスト』",
@@ -37702,6 +38612,25 @@
    "url": "https://www.memorial-object.jp/00169/"
   },
   {
+   "name": "『図書館情報大学 記念碑』",
+   "lat": 36.0856548,
+   "lng": 140.1069079,
+   "address": "茨城県つくば市春日１丁目",
+   "access": "つくば駅から北西へ約510m",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "つくばエクスプレス",
+    "つくば市",
+    "碑文",
+    "茨城県",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08171/"
+  },
+  {
    "name": "『国分尼寺比定地』",
    "lat": 34.826648,
    "lng": 134.732373,
@@ -38162,6 +39091,26 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03188/"
+  },
+  {
+   "name": "『国登録有形文化財』",
+   "lat": 36.3779386,
+   "lng": 140.4755199,
+   "address": "茨城県水戸市北見町",
+   "access": "水戸駅から北へ約800m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "碑文",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08132/"
   },
   {
    "name": "『国道地蔵尊』",
@@ -38658,6 +39607,24 @@
   },
   {
    "name": "『土地改良記念碑』",
+   "lat": 36.345582,
+   "lng": 139.9473506,
+   "address": "茨城県筑西市森添島７４３",
+   "access": "折本駅から約2.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "碑文",
+    "筑西市",
+    "茨城県",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08110/"
+  },
+  {
+   "name": "『土地改良記念碑』",
    "lat": 35.7403755,
    "lng": 139.2609955,
    "address": "東京都西多摩郡日の出町大字平井",
@@ -38673,6 +39640,42 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01041/"
+  },
+  {
+   "name": "『土地改良顕彰碑』",
+   "lat": 35.986025,
+   "lng": 140.1219073,
+   "address": "茨城県つくば市小茎",
+   "access": "牛久駅から約2.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "つくば市",
+    "碑文",
+    "茨城県",
+    "顕彰碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08233/"
+  },
+  {
+   "name": "『土地改良顕彰碑』",
+   "lat": 36.0174121,
+   "lng": 140.1435925,
+   "address": "茨城県牛久市東猯穴町",
+   "access": "ひたち野うしく駅から約1.7km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "牛久市",
+    "碑文",
+    "茨城県",
+    "顕彰碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08227/"
   },
   {
    "name": "『土地整理事業記念碑』",
@@ -38782,6 +39785,26 @@
   },
   {
    "name": "『土木學會選奨土木遺産』",
+   "lat": 36.3779369,
+   "lng": 140.4755388,
+   "address": "茨城県水戸市北見町",
+   "access": "水戸駅から北へ約800m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "碑文",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08133/"
+  },
+  {
+   "name": "『土木學會選奨土木遺産』",
    "lat": 35.5442175,
    "lng": 139.7231769,
    "address": "東京都大田区南六郷２丁目",
@@ -38831,6 +39854,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02708/"
+  },
+  {
+   "name": "『土浦城址』",
+   "lat": 36.0846283,
+   "lng": 140.1982659,
+   "address": "茨城県土浦市中央１丁目１３",
+   "access": "土浦駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "土浦市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08080/"
   },
   {
    "name": "『土浦町道路元標』",
@@ -41369,6 +42409,22 @@
    "url": "https://www.memorial-object.jp/02244/"
   },
   {
+   "name": "『墓地』",
+   "lat": 36.0431561,
+   "lng": 140.0174419,
+   "address": "茨城県常総市十花町６１",
+   "access": "中妻駅から約2.5km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "常総市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08095/"
+  },
+  {
    "name": "『増善友楽清吟』",
    "lat": 34.7022857,
    "lng": 135.1771681,
@@ -43421,6 +44477,23 @@
    "url": "https://www.memorial-object.jp/05007/"
   },
   {
+   "name": "『大手門入口』",
+   "lat": 36.0822163,
+   "lng": 140.1980527,
+   "address": "茨城県土浦市大手町６",
+   "access": "土浦駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "土浦市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08081/"
+  },
+  {
    "name": "『大手門渡櫓』",
    "lat": 35.6860618,
    "lng": 139.7600865,
@@ -43517,6 +44590,44 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05969/"
+  },
+  {
+   "name": "『大日本史完成の地』",
+   "lat": 36.3736423,
+   "lng": 140.4547486,
+   "address": "茨城県水戸市常磐町１丁目",
+   "access": "偕楽園駅から北西へ約150m（偕楽園駅は梅まつりの時期だけ列車が止まる臨時駅です。ふだんは水戸駅から直線で約2.0km）",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08134/"
+  },
+  {
+   "name": "『大日本史編纂之地』",
+   "lat": 36.3749713,
+   "lng": 140.4796691,
+   "address": "茨城県水戸市三の丸２丁目",
+   "access": "水戸駅から北東へ約560m",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "碑文",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08135/"
   },
   {
    "name": "『大日本紡績発祥之地』",
@@ -43906,7 +45017,7 @@
    "lat": 34.3307297,
    "lng": 134.8530041,
    "address": "兵庫県洲本市大野１３４５",
-   "access": "加太駅から約21.8km",
+   "access": "加太駅から直線で約21.8km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "公園"
    ],
@@ -44258,6 +45369,22 @@
    "url": "https://www.memorial-object.jp/05912/"
   },
   {
+   "name": "『大気像』",
+   "lat": 36.1079596,
+   "lng": 140.1019784,
+   "address": "茨城県つくば市天王台１丁目１",
+   "access": "つくば駅から約2.9km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08107/"
+  },
+  {
    "name": "『大江神社』",
    "lat": 35.6185686,
    "lng": 139.7401299,
@@ -44295,6 +45422,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03373/"
+  },
+  {
+   "name": "『大洗磯前神社　御鎮座壱千百四拾年記念事業之碑』",
+   "lat": 36.3152792,
+   "lng": 140.5873338,
+   "address": "茨城県東茨城郡大洗町磯浜町６８７９",
+   "access": "大洗駅から約2.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08119/"
   },
   {
    "name": "『大津村道路元標』",
@@ -44578,6 +45722,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07759/"
+  },
+  {
+   "name": "『大石内蔵助良雄像』",
+   "lat": 36.3849486,
+   "lng": 140.2579048,
+   "address": "茨城県笠間市笠間",
+   "access": "笠間駅から約1.7km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08216/"
   },
   {
    "name": "『大石内蔵助良雄像』",
@@ -44985,7 +46145,7 @@
    "lat": 34.3306991,
    "lng": 134.8527835,
    "address": "兵庫県洲本市大野１３４５",
-   "access": "加太駅から約21.8km",
+   "access": "加太駅から直線で約21.8km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "公園"
    ],
@@ -46288,6 +47448,39 @@
    "url": "https://www.memorial-object.jp/00372/"
   },
   {
+   "name": "『天狗党慰霊碑』",
+   "lat": 36.3196601,
+   "lng": 140.583266,
+   "address": "茨城県東茨城郡大洗町磯浜町",
+   "access": "大洗駅から約1.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08260/"
+  },
+  {
+   "name": "『天狗塚』",
+   "lat": 36.3978386,
+   "lng": 140.3259819,
+   "address": "茨城県笠間市池野辺",
+   "access": "内原駅から約3.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08217/"
+  },
+  {
    "name": "『天狗松』",
    "lat": 35.7218439,
    "lng": 139.6739879,
@@ -46385,6 +47578,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07168/"
+  },
+  {
+   "name": "『天皇観臨賜甫処』",
+   "lat": 36.5542925,
+   "lng": 139.885649,
+   "address": "栃木県宇都宮市本丸町１",
+   "access": "東武宇都宮駅から南東へ約700m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "宇都宮市",
+    "東武鉄道",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08293/"
   },
   {
    "name": "『天皇陛下御在位六十年 奉祝記念事業竣功之碑』",
@@ -47022,6 +48232,22 @@
    "url": "https://www.memorial-object.jp/00677/"
   },
   {
+   "name": "『奉寄進山王』",
+   "lat": 36.3456652,
+   "lng": 139.9471632,
+   "address": "茨城県筑西市森添島",
+   "access": "折本駅から約2.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "筑西市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08244/"
+  },
+  {
    "name": "『奉祝 天皇陛下御在位六十年』",
    "lat": 34.8323248,
    "lng": 135.2370048,
@@ -47097,6 +48323,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02781/"
+  },
+  {
+   "name": "『奉納 子供御神輿』",
+   "lat": 36.3341662,
+   "lng": 140.5894743,
+   "address": "茨城県東茨城郡大洗町磯浜町",
+   "access": "那珂湊駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08261/"
   },
   {
    "name": "『奉納 明月樓』",
@@ -47235,6 +48477,23 @@
   },
   {
    "name": "『奉納』",
+   "lat": 36.3135738,
+   "lng": 140.5676879,
+   "address": "茨城県東茨城郡大洗町磯浜町１０９８",
+   "access": "大洗駅から東へ約460m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "茨城県",
+    "鹿島臨海鉄道大洗鹿島線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08065/"
+  },
+  {
+   "name": "『奉納』",
    "lat": 35.6168194,
    "lng": 139.5533765,
    "address": "神奈川県川崎市多摩区枡形４丁目１３",
@@ -47285,6 +48544,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05535/"
+  },
+  {
+   "name": "『奉納大乗妙典日本回國』",
+   "lat": 36.3456717,
+   "lng": 139.947178,
+   "address": "茨城県筑西市森添島",
+   "access": "折本駅から約2.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "筑西市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08245/"
   },
   {
    "name": "『奉納杉壹苗万五千本』",
@@ -48638,6 +49913,22 @@
   },
   {
    "name": "『子安観音』",
+   "lat": 36.2169623,
+   "lng": 140.4497573,
+   "address": "茨城県鉾田市菅野谷",
+   "access": "鹿島旭駅から約5.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "茨城県",
+    "鉾田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08256/"
+  },
+  {
+   "name": "『子安観音』",
    "lat": 35.4240639,
    "lng": 139.5978666,
    "address": "神奈川県横浜市南区弘明寺町２６６",
@@ -49568,6 +50859,22 @@
    "url": "https://www.memorial-object.jp/05252/"
   },
   {
+   "name": "『宇宙の卵』",
+   "lat": 36.2132092,
+   "lng": 140.1007797,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08172/"
+  },
+  {
    "name": "『宇川牛発祥地』",
    "lat": 35.7652467,
    "lng": 135.1947686,
@@ -49584,6 +50891,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07944/"
+  },
+  {
+   "name": "『宇田川源次郎氏像』",
+   "lat": 35.8934391,
+   "lng": 140.0646111,
+   "address": "茨城県取手市取手２丁目９",
+   "access": "取手駅から南東へ約280m",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "JR東日本",
+    "取手市",
+    "常磐線",
+    "茨城県",
+    "関東鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08048/"
   },
   {
    "name": "『宇賀神』",
@@ -50058,7 +51384,7 @@
    "lat": 34.33385,
    "lng": 134.8722136,
    "address": "兵庫県洲本市宇原６４５",
-   "access": "加太駅から約20.2km",
+   "access": "加太駅から直線で約20.2km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "公園"
    ],
@@ -50427,6 +51753,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06636/"
+  },
+  {
+   "name": "『宝篋印塔』",
+   "lat": 36.1674152,
+   "lng": 140.1299807,
+   "address": "茨城県つくば市山口",
+   "access": "宮脇駅から約5.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "つくば市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08234/"
   },
   {
    "name": "『宝篋印塔』",
@@ -52240,6 +53583,23 @@
    "url": "https://www.memorial-object.jp/02258/"
   },
   {
+   "name": "『小幡千貫桜碑』",
+   "lat": 36.2721564,
+   "lng": 140.3972685,
+   "address": "茨城県東茨城郡茨城町大字小幡",
+   "access": "羽鳥駅から約10.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "碑文",
+    "茨城町",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08258/"
+  },
+  {
    "name": "『小御嶽神社』",
    "lat": 35.4788825,
    "lng": 139.5690344,
@@ -52610,6 +53970,23 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00179_1.jpg",
    "url": "https://www.memorial-object.jp/00179/"
+  },
+  {
+   "name": "『小田湯地蔵』",
+   "lat": 36.1547319,
+   "lng": 140.1204873,
+   "address": "茨城県つくば市小田",
+   "access": "宮脇駅から約6.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "つくば市",
+    "地蔵",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08235/"
   },
   {
    "name": "『小矢部橋』",
@@ -53753,6 +55130,22 @@
    "url": "https://www.memorial-object.jp/03674/"
   },
   {
+   "name": "『山本五十六』",
+   "lat": 36.0469669,
+   "lng": 140.2216961,
+   "address": "茨城県稲敷郡阿見町大字青宿１２１",
+   "access": "土浦駅から約3.7km",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "茨城県",
+    "阿見町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08127/"
+  },
+  {
    "name": "『山本周五郎 文学碑』",
    "lat": 35.594864600679124,
    "lng": 138.88367024201082,
@@ -53776,6 +55169,24 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00132_1.png",
    "url": "https://www.memorial-object.jp/00132/"
+  },
+  {
+   "name": "『山村暮鳥　老漁夫の詩』",
+   "lat": 36.3137259,
+   "lng": 140.5842134,
+   "address": "茨城県東茨城郡大洗町磯浜町６８７４",
+   "access": "大洗駅から約1.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "動物",
+    "大洗町",
+    "茨城県",
+    "鳥"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08120/"
   },
   {
    "name": "『山村豊次郎君頌功碑』",
@@ -54247,7 +55658,7 @@
    "lat": 34.3453441,
    "lng": 134.8979918,
    "address": "兵庫県洲本市海岸通１丁目８",
-   "access": "加太駅から約18.5km",
+   "access": "加太駅から直線で約18.5km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "海浜"
    ],
@@ -55151,6 +56562,22 @@
    "url": "https://www.memorial-object.jp/03970/"
   },
   {
+   "name": "『巡洋艦那珂』",
+   "lat": 36.315485,
+   "lng": 140.5875811,
+   "address": "茨城県東茨城郡大洗町磯浜町６８７９",
+   "access": "大洗駅から約2.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08121/"
+  },
+  {
    "name": "『巣鴨プリズン跡』",
    "lat": 35.7268258,
    "lng": 139.7222007,
@@ -55520,6 +56947,78 @@
    "url": "https://www.memorial-object.jp/03924/"
   },
   {
+   "name": "『市指定史跡　南門の土塁』",
+   "lat": 36.0804155,
+   "lng": 140.1966521,
+   "address": "茨城県土浦市大手町３",
+   "access": "土浦駅から約0.9km",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "tags": [
+    "土浦市",
+    "歴史",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08082/"
+  },
+  {
+   "name": "『市指定史跡　南門の跡』",
+   "lat": 36.0810609,
+   "lng": 140.1953866,
+   "address": "茨城県土浦市大手町９",
+   "access": "土浦駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "土浦市",
+    "歴史",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08083/"
+  },
+  {
+   "name": "『市指定史跡　大手門の跡』",
+   "lat": 36.0827468,
+   "lng": 140.197921,
+   "address": "茨城県土浦市大手町６",
+   "access": "土浦駅から約0.9km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "土浦市",
+    "歴史",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08084/"
+  },
+  {
+   "name": "『市指定史跡　搦手門の跡』",
+   "lat": 36.0836166,
+   "lng": 140.2001341,
+   "address": "茨城県土浦市中央１丁目１２",
+   "access": "土浦駅から約0.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "土浦市",
+    "歴史",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08085/"
+  },
+  {
    "name": "『市指定史跡　退筆塚の碑』",
    "lat": 36.0829278,
    "lng": 140.2001669,
@@ -55539,6 +57038,40 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08039/"
+  },
+  {
+   "name": "『市指定建造物 東光寺瑠璃光殿』",
+   "lat": 36.0807542,
+   "lng": 140.1961711,
+   "address": "茨城県土浦市大手町３",
+   "access": "土浦駅から約0.9km",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "土浦市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08086/"
+  },
+  {
+   "name": "『市指定文化財 時鐘』",
+   "lat": 36.3845098,
+   "lng": 140.2604288,
+   "address": "茨城県笠間市笠間",
+   "access": "笠間駅から約1.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08218/"
   },
   {
    "name": "『市村座跡』",
@@ -55917,6 +57450,23 @@
    "url": "https://www.memorial-object.jp/03845/"
   },
   {
+   "name": "『希望の灯』",
+   "lat": 36.0230173,
+   "lng": 139.9935217,
+   "address": "茨城県常総市水海道諏訪町３２５２",
+   "access": "水海道駅から北へ約580m",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "常総市",
+    "茨城県",
+    "関東鉄道常総線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08043/"
+  },
+  {
    "name": "『希望丘大橋』",
    "lat": 35.6562175,
    "lng": 139.6231185,
@@ -56087,6 +57637,39 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07949/"
+  },
+  {
+   "name": "『常在戦場の碑』",
+   "lat": 36.0489417,
+   "lng": 140.2237968,
+   "address": "茨城県稲敷郡阿見町大字青宿１３７",
+   "access": "土浦駅から約3.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "碑文",
+    "茨城県",
+    "阿見町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08128/"
+  },
+  {
+   "name": "『常夜灯』",
+   "lat": 36.1076595,
+   "lng": 139.7872024,
+   "address": "茨城県猿島郡境町",
+   "access": "南栗橋駅から約6.7km",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "境町",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08277/"
   },
   {
    "name": "『常徳院橋』",
@@ -58364,6 +59947,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02902/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 36.1104981,
+   "lng": 140.3565576,
+   "address": "茨城県かすみがうら市安食",
+   "access": "高浜駅から約8.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "かすみがうら市",
+    "庚申塔",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08247/"
   },
   {
    "name": "『庚申塔』",
@@ -61741,6 +63342,26 @@
    "url": "https://www.memorial-object.jp/07764/"
   },
   {
+   "name": "『弘道館 鹿島神社』",
+   "lat": 36.3760798,
+   "lng": 140.4765853,
+   "address": "茨城県水戸市三の丸１丁目",
+   "access": "水戸駅から北へ約590m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "碑文",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08136/"
+  },
+  {
    "name": "『弟橘媛命舵の碑』",
    "lat": 35.2616254,
    "lng": 139.7310163,
@@ -61756,6 +63377,41 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04252/"
+  },
+  {
+   "name": "『弟橘比賣神社 御本殿改築 拝殿補修 参道改修 記念之碑』",
+   "lat": 36.3341677,
+   "lng": 140.5894361,
+   "address": "茨城県東茨城郡大洗町磯浜町",
+   "access": "那珂湊駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "碑文",
+    "茨城県",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08262/"
+  },
+  {
+   "name": "『弟橘比賣神社由来』",
+   "lat": 36.3341639,
+   "lng": 140.5895085,
+   "address": "茨城県東茨城郡大洗町磯浜町",
+   "access": "那珂湊駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "歴史",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08263/"
   },
   {
    "name": "『弥生式土器発掘ゆかりの地』",
@@ -61892,6 +63548,27 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01292/"
+  },
+  {
+   "name": "『彰考館跡』",
+   "lat": 36.3749786,
+   "lng": 140.4796491,
+   "address": "茨城県水戸市三の丸２丁目",
+   "access": "水戸駅から北東へ約560m",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "歴史",
+    "水戸市",
+    "碑文",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08137/"
   },
   {
    "name": "『影山正治大人之碑』",
@@ -62218,6 +63895,40 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05937/"
+  },
+  {
+   "name": "『従是北土浦領』",
+   "lat": 36.0850494,
+   "lng": 140.1971793,
+   "address": "茨城県土浦市中央１丁目１５",
+   "access": "土浦駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "土浦市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08087/"
+  },
+  {
+   "name": "『従是南土浦領』",
+   "lat": 36.0850776,
+   "lng": 140.1972671,
+   "address": "茨城県土浦市中央１丁目１５",
+   "access": "土浦駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "土浦市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08088/"
   },
   {
    "name": "『従是楠公石碑道』",
@@ -63087,6 +64798,23 @@
    "url": "https://www.memorial-object.jp/01605/"
   },
   {
+   "name": "『御本殿玉垣竣工記念』",
+   "lat": 36.3136987,
+   "lng": 140.5675397,
+   "address": "茨城県東茨城郡大洗町磯浜町１２２２",
+   "access": "大洗駅から東へ約440m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "茨城県",
+    "鹿島臨海鉄道大洗鹿島線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08066/"
+  },
+  {
    "name": "『御本殿造営記念』",
    "lat": 35.6985351,
    "lng": 139.4937234,
@@ -63601,6 +65329,24 @@
    "url": "https://www.memorial-object.jp/02631/"
   },
   {
+   "name": "『御野立所の記念碑』",
+   "lat": 36.192051,
+   "lng": 140.2192488,
+   "address": "茨城県かすみがうら市上志筑",
+   "access": "石岡駅から約5.4km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "かすみがうら市",
+    "碑文",
+    "茨城県",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08248/"
+  },
+  {
    "name": "『御鎮座千二百五十年奉賛事業記念碑』",
    "lat": 33.2917802,
    "lng": 132.6084995,
@@ -63965,6 +65711,25 @@
    "url": "https://www.memorial-object.jp/08017/"
   },
   {
+   "name": "『徳川光圀公像』",
+   "lat": 36.3715778,
+   "lng": 140.4785858,
+   "address": "茨城県水戸市宮町１丁目",
+   "access": "水戸駅から北東へ約210m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08138/"
+  },
+  {
    "name": "『徳川好敏之像』",
    "lat": 35.6685812,
    "lng": 139.6931241,
@@ -64003,6 +65768,63 @@
    "url": "https://www.memorial-object.jp/01608/"
   },
   {
+   "name": "『徳川慶喜公像』",
+   "lat": 36.3777159,
+   "lng": 140.4667538,
+   "address": "茨城県水戸市南町３丁目５",
+   "access": "水戸駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "水戸市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08069/"
+  },
+  {
+   "name": "『徳川慶喜向学の地』",
+   "lat": 36.3751561,
+   "lng": 140.4779382,
+   "address": "茨城県水戸市三の丸１丁目",
+   "access": "水戸駅から北へ約510m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "碑文",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08139/"
+  },
+  {
+   "name": "『徳川斉昭の歌碑』",
+   "lat": 35.8917404,
+   "lng": 140.0654367,
+   "address": "茨城県取手市取手２丁目１６",
+   "access": "取手駅から南東へ約480m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "取手市",
+    "常磐線",
+    "歌碑",
+    "碑文",
+    "茨城県",
+    "関東鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08049/"
+  },
+  {
    "name": "『徳川斉昭・慶喜親子像』",
    "lat": 36.3711455,
    "lng": 140.4540208,
@@ -64020,6 +65842,82 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08030/"
+  },
+  {
+   "name": "『徳川斉昭公像』",
+   "lat": 36.3754033,
+   "lng": 140.4716366,
+   "address": "茨城県水戸市南町２丁目",
+   "access": "水戸駅から北西へ約660m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08141/"
+  },
+  {
+   "name": "『徳川斉昭公像』",
+   "lat": 36.3751898,
+   "lng": 140.4781166,
+   "address": "茨城県水戸市三の丸１丁目",
+   "access": "水戸駅から北へ約520m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08140/"
+  },
+  {
+   "name": "『徳川頼房公像』",
+   "lat": 36.3727773,
+   "lng": 140.4814586,
+   "address": "茨城県水戸市三の丸２丁目",
+   "access": "水戸駅から北東へ約500m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08143/"
+  },
+  {
+   "name": "『徳川頼房公像』",
+   "lat": 36.3749155,
+   "lng": 140.4786772,
+   "address": "茨城県水戸市三の丸２丁目",
+   "access": "水戸駅から北東へ約510m",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08142/"
   },
   {
    "name": "『徳明地蔵』",
@@ -65033,6 +66931,23 @@
    "url": "https://www.memorial-object.jp/07311/"
   },
   {
+   "name": "『志筑城址』",
+   "lat": 36.1924139,
+   "lng": 140.2343265,
+   "address": "茨城県かすみがうら市中志筑９４５",
+   "access": "石岡駅から約4.1km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "かすみがうら市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08116/"
+  },
+  {
    "name": "『忠䰟碑』",
    "lat": 34.7148191,
    "lng": 135.4182472,
@@ -65131,6 +67046,23 @@
   },
   {
    "name": "『忠魂』",
+   "lat": 36.0847971,
+   "lng": 140.1979189,
+   "address": "茨城県土浦市中央１丁目",
+   "access": "土浦駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "土浦市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08198/"
+  },
+  {
+   "name": "『忠魂』",
    "lat": 35.7062617,
    "lng": 139.5028416,
    "address": "東京都小金井市本町５丁目４０",
@@ -65164,6 +67096,74 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00381/"
+  },
+  {
+   "name": "『忠魂慰霊碑』",
+   "lat": 36.213397,
+   "lng": 140.1009983,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南東へ約160m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08173/"
+  },
+  {
+   "name": "『忠魂碑』",
+   "lat": 36.3048013,
+   "lng": 140.5609551,
+   "address": "茨城県東茨城郡大洗町大貫町",
+   "access": "大洗駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08264/"
+  },
+  {
+   "name": "『忠魂碑』",
+   "lat": 36.5127771,
+   "lng": 140.5871695,
+   "address": "茨城県日立市大和田町１丁目",
+   "access": "大甕駅から約2.9km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "日立市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08196/"
+  },
+  {
+   "name": "『忠魂碑』",
+   "lat": 36.3847521,
+   "lng": 140.2614795,
+   "address": "茨城県笠間市笠間９９９",
+   "access": "笠間駅から約1.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08102/"
   },
   {
    "name": "『忠魂碑』",
@@ -65808,6 +67808,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07628/"
+  },
+  {
+   "name": "『恋人の聖地』",
+   "lat": 36.7644872,
+   "lng": 140.4058172,
+   "address": "茨城県久慈郡大子町大字袋田",
+   "access": "袋田駅から約2.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "大子町",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08275/"
   },
   {
    "name": "『恋文横丁跡』",
@@ -66780,6 +68796,25 @@
   },
   {
    "name": "『慰霊碑』",
+   "lat": 36.0752271,
+   "lng": 140.2043873,
+   "address": "茨城県土浦市有明町",
+   "access": "土浦駅から南西へ約340m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "土浦市",
+    "常磐線",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08158/"
+  },
+  {
+   "name": "『慰霊碑』",
    "lat": 34.7612718,
    "lng": 135.3580897,
    "address": "兵庫県西宮市神呪町３",
@@ -67227,6 +69262,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08031/"
+  },
+  {
+   "name": "『戌亥碑』",
+   "lat": 36.7147911,
+   "lng": 140.7037923,
+   "address": "茨城県高萩市大字安良川１０１５",
+   "access": "高萩駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "碑文",
+    "茨城県",
+    "高萩市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08098/"
   },
   {
    "name": "『戎宮大神之像』",
@@ -68795,7 +70847,7 @@
    "lat": 34.329496,
    "lng": 134.8596083,
    "address": "兵庫県洲本市宇原２２",
-   "access": "加太駅から約21.2km",
+   "access": "加太駅から直線で約21.2km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -69642,6 +71694,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02717/"
+  },
+  {
+   "name": "『敬神』",
+   "lat": 36.3135244,
+   "lng": 140.5676644,
+   "address": "茨城県東茨城郡大洗町磯浜町１０９８",
+   "access": "大洗駅から東へ約460m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "茨城県",
+    "鹿島臨海鉄道大洗鹿島線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08067/"
   },
   {
    "name": "『敬神之碑』",
@@ -72990,6 +75059,23 @@
    "url": "https://www.memorial-object.jp/05069/"
   },
   {
+   "name": "『日露軍馬紀念碑』",
+   "lat": 36.3454807,
+   "lng": 139.9472762,
+   "address": "茨城県筑西市森添島７４３",
+   "access": "折本駅から約2.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "碑文",
+    "筑西市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08111/"
+  },
+  {
    "name": "『日高町民憲章』",
    "lat": 35.4704765,
    "lng": 134.771677,
@@ -73749,6 +75835,43 @@
    "url": "https://www.memorial-object.jp/05886/"
   },
   {
+   "name": "『旧町名 内西町』",
+   "lat": 36.0834974,
+   "lng": 140.1995426,
+   "address": "茨城県土浦市中央１丁目１４",
+   "access": "土浦駅から約0.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "土浦市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08089/"
+  },
+  {
+   "name": "『旧町名 北三ノ丸』",
+   "lat": 36.377761,
+   "lng": 140.4755748,
+   "address": "茨城県水戸市三の丸１丁目",
+   "access": "水戸駅から北へ約780m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "碑文",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08144/"
+  },
+  {
    "name": "『旧町名 本町』",
    "lat": 36.0829663,
    "lng": 140.2009615,
@@ -73786,6 +75909,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05614/"
+  },
+  {
+   "name": "『旧町名鉄砲町』",
+   "lat": 36.379814,
+   "lng": 140.466508,
+   "address": "茨城県水戸市五軒町１丁目２",
+   "access": "水戸駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "水戸市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08070/"
   },
   {
    "name": "『旧石材埋設箇所』",
@@ -74399,6 +76538,24 @@
    "url": "https://www.memorial-object.jp/03937/"
   },
   {
+   "name": "『明治二十三年洪水被害紀念碑』",
+   "lat": 36.788301,
+   "lng": 140.361272,
+   "address": "茨城県久慈郡大子町大字池田",
+   "access": "常陸大子駅から約2.2km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "大子町",
+    "明治時代",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08189/"
+  },
+  {
    "name": "『明治十年西征陣亡軍人之碑』",
    "lat": 35.4498899,
    "lng": 139.6259638,
@@ -74641,6 +76798,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03765/"
+  },
+  {
+   "name": "『明治天皇笠間行在所』",
+   "lat": 36.3847932,
+   "lng": 140.2615821,
+   "address": "茨城県笠間市笠間９９９",
+   "access": "笠間駅から約1.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08103/"
   },
   {
    "name": "『明治天皇行在所之蹟』",
@@ -75487,6 +77661,22 @@
    "url": "https://www.memorial-object.jp/01388/"
   },
   {
+   "name": "『昭和維新烈士之墓』",
+   "lat": 36.3194324,
+   "lng": 140.5829342,
+   "address": "茨城県東茨城郡大洗町磯浜町",
+   "access": "大洗駅から約1.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08265/"
+  },
+  {
    "name": "『昭憲皇太后大喪儀葬場殿趾碑』",
    "lat": 35.6699504,
    "lng": 139.6986313,
@@ -76044,6 +78234,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05265/"
+  },
+  {
+   "name": "『曹洞宗牧洞山松学寺』",
+   "lat": 36.0802629,
+   "lng": 140.2695562,
+   "address": "茨城県かすみがうら市戸崎",
+   "access": "神立駅から約4.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "かすみがうら市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08249/"
   },
   {
    "name": "『曼珠沙華 幼き記憶 みな持てり』",
@@ -77014,6 +79221,24 @@
   },
   {
    "name": "『本丸跡』",
+   "lat": 36.0847015,
+   "lng": 140.1984818,
+   "address": "茨城県土浦市中央１丁目１３",
+   "access": "土浦駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "土浦市",
+    "歴史",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08090/"
+  },
+  {
+   "name": "『本丸跡』",
    "lat": 35.460146,
    "lng": 134.874677,
    "address": "兵庫県豊岡市出石町内町",
@@ -77417,6 +79642,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00869/"
+  },
+  {
+   "name": "『本間玄調の像』",
+   "lat": 36.3741773,
+   "lng": 140.4758304,
+   "address": "茨城県水戸市三の丸１丁目",
+   "access": "水戸駅から北へ約380m",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08145/"
   },
   {
    "name": "『札の辻』",
@@ -80713,6 +82957,38 @@
    "url": "https://www.memorial-object.jp/03211/"
   },
   {
+   "name": "『東海十二景・住吉社寒霜』",
+   "lat": 36.4439086,
+   "lng": 140.5613314,
+   "address": "茨城県那珂郡東海村大字須和間",
+   "access": "東海駅から約2.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "東海村",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08273/"
+  },
+  {
+   "name": "『東海十二景・如意輪寺秋月』",
+   "lat": 36.4341173,
+   "lng": 140.5941057,
+   "address": "茨城県那珂郡東海村大字照沼",
+   "access": "東海駅から約4.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "東海村",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08274/"
+  },
+  {
    "name": "『東海道跡』",
    "lat": 35.5441366,
    "lng": 139.7118889,
@@ -82303,6 +84579,23 @@
    "url": "https://www.memorial-object.jp/06115/"
   },
   {
+   "name": "『桜川遺蹟碑』",
+   "lat": 36.3864318,
+   "lng": 140.1545729,
+   "address": "茨城県桜川市池亀",
+   "access": "羽黒駅から約3.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "桜川市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08251/"
+  },
+  {
    "name": "『桜木観世音菩薩』",
    "lat": 35.5048066,
    "lng": 139.6715317,
@@ -83755,6 +86048,23 @@
    "url": "https://www.memorial-object.jp/03691/"
   },
   {
+   "name": "『横瀬夜雨（詩人）』",
+   "lat": 36.2015844,
+   "lng": 139.9868802,
+   "address": "茨城県下妻市横根",
+   "access": "大宝駅から約1.5km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "下妻市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08201/"
+  },
+  {
    "name": "『横綱・千代の富士 (大相撲)』",
    "lat": 35.7113987,
    "lng": 139.7733901,
@@ -84092,6 +86402,23 @@
    "url": "https://www.memorial-object.jp/06433/"
   },
   {
+   "name": "『櫻花公園』",
+   "lat": 35.9376746,
+   "lng": 140.6607093,
+   "address": "茨城県鹿嶋市大字光",
+   "access": "鹿島神宮駅から約4.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "碑文",
+    "茨城県",
+    "鹿嶋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08240/"
+  },
+  {
    "name": "『次大夫掘』",
    "lat": 35.6182604,
    "lng": 139.6261558,
@@ -84320,6 +86647,22 @@
    "url": "https://www.memorial-object.jp/06582/"
   },
   {
+   "name": "『正一位妻恋稲荷神社新築記念』",
+   "lat": 36.3078244,
+   "lng": 140.562284,
+   "address": "茨城県東茨城郡大洗町大貫町",
+   "access": "大洗駅から約0.8km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08266/"
+  },
+  {
    "name": "『正岡子規 句碑』",
    "lat": 33.8450673,
    "lng": 132.7726139,
@@ -84337,6 +86680,27 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04997/"
+  },
+  {
+   "name": "『正岡子規の句碑』",
+   "lat": 36.3736905,
+   "lng": 140.452757,
+   "address": "茨城県水戸市常磐町１丁目",
+   "access": "偕楽園駅から西へ約320m（偕楽園駅は梅まつりの時期だけ列車が止まる臨時駅です。ふだんは水戸駅から直線で約2.1km）",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "句碑",
+    "常磐線",
+    "歌碑",
+    "水戸市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08146/"
   },
   {
    "name": "『正岡子規像』",
@@ -84876,6 +87240,26 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01007/"
+  },
+  {
+   "name": "『武道 天覧記恩之碑』",
+   "lat": 36.3743182,
+   "lng": 140.4817332,
+   "address": "茨城県水戸市三の丸２丁目",
+   "access": "水戸駅から北東へ約620m",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "碑文",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08147/"
   },
   {
    "name": "『歩く鉄』",
@@ -86208,6 +88592,41 @@
    "url": "https://www.memorial-object.jp/02908/"
   },
   {
+   "name": "『水守城跡』",
+   "lat": 36.1714567,
+   "lng": 140.0668975,
+   "address": "茨城県つくば市水守",
+   "access": "宮脇駅から約5.6km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "つくば市",
+    "歴史",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08236/"
+  },
+  {
+   "name": "『水害復興の碑』",
+   "lat": 36.13021,
+   "lng": 139.959219,
+   "address": "茨城県常総市本石下",
+   "access": "玉村駅から約1.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "2010年代後半",
+    "常総市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08160/"
+  },
+  {
    "name": "『水害復興記念碑』",
    "lat": 33.800714,
    "lng": 132.753922,
@@ -86266,6 +88685,97 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/05/00091_1.png",
    "url": "https://www.memorial-object.jp/00091/"
+  },
+  {
+   "name": "『水戸八景「太田落雁」』",
+   "lat": 36.5468277,
+   "lng": 140.523667,
+   "address": "茨城県常陸太田市栄町２４９３",
+   "access": "常陸太田駅から約1.8km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "常陸太田市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08097/"
+  },
+  {
+   "name": "『水戸八景「水門帰帆」』",
+   "lat": 36.3435497,
+   "lng": 140.6000909,
+   "address": "茨城県ひたちなか市和田町２丁目６",
+   "access": "殿山駅から南へ約730m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "ひたちなか市",
+    "ひたちなか海浜鉄道湊線",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08056/"
+  },
+  {
+   "name": "『水戸城三階物見櫓ブロンズ』",
+   "lat": 36.3715746,
+   "lng": 140.4786127,
+   "address": "茨城県水戸市宮町１丁目",
+   "access": "水戸駅から北東へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08148/"
+  },
+  {
+   "name": "『水戸城柵町坂下門』",
+   "lat": 36.3727729,
+   "lng": 140.4814806,
+   "address": "茨城県水戸市三の丸２丁目",
+   "access": "水戸駅から北東へ約500m",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08149/"
+  },
+  {
+   "name": "『水戸市水道低区配水塔』",
+   "lat": 36.3779165,
+   "lng": 140.4754052,
+   "address": "茨城県水戸市北見町",
+   "access": "水戸駅から北へ約800m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "碑文",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08071/"
   },
   {
    "name": "『水戸黄門像』",
@@ -86378,6 +88888,26 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07047/"
+  },
+  {
+   "name": "『水海道遊泳会発祥之地』",
+   "lat": 36.0232352,
+   "lng": 139.9863477,
+   "address": "茨城県常総市水海道元町",
+   "access": "水海道駅から北西へ約750m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "常総市",
+    "歴史",
+    "発祥の地",
+    "碑文",
+    "茨城県",
+    "関東鉄道常総線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08161/"
   },
   {
    "name": "『水災紀年』",
@@ -87337,6 +89867,23 @@
    "url": "https://www.memorial-object.jp/04187/"
   },
   {
+   "name": "『江戸時代の医学者 金子寿仙宅』",
+   "lat": 36.1903931,
+   "lng": 140.2341628,
+   "address": "茨城県かすみがうら市中志筑１０８６",
+   "access": "石岡駅から約4.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "かすみがうら市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08117/"
+  },
+  {
    "name": "『江戸水道の石桝と木槌』",
    "lat": 35.6812629,
    "lng": 139.7360427,
@@ -87444,6 +89991,43 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05917/"
+  },
+  {
+   "name": "『決壊口の跡』",
+   "lat": 35.9037125,
+   "lng": 140.1502023,
+   "address": "茨城県龍ケ崎市高須町",
+   "access": "入地駅から約1.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "1980年代後半",
+    "歴史",
+    "茨城県",
+    "龍ヶ崎市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08159/"
+  },
+  {
+   "name": "『決壊口の跡碑』",
+   "lat": 36.1060052,
+   "lng": 139.998841,
+   "address": "茨城県常総市本豊田",
+   "access": "南石下駅から約2.3km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "1990年代前半",
+    "常総市",
+    "歴史",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08162/"
   },
   {
    "name": "『汽笛吹けば　霧笛答ふる　別れかな』",
@@ -87843,6 +90427,23 @@
    "url": "https://www.memorial-object.jp/02800/"
   },
   {
+   "name": "『治功神社』",
+   "lat": 36.3845092,
+   "lng": 140.2615486,
+   "address": "茨城県笠間市笠間",
+   "access": "笠間駅から約1.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08219/"
+  },
+  {
    "name": "『治水祈念の碑』",
    "lat": 35.4561571,
    "lng": 134.7739939,
@@ -87859,6 +90460,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07696/"
+  },
+  {
+   "name": "『治水興農』",
+   "lat": 36.2016226,
+   "lng": 139.9284311,
+   "address": "茨城県下妻市前河原",
+   "access": "大宝駅から約3.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "下妻市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08202/"
   },
   {
    "name": "『沼栄橋新道開設記念碑』",
@@ -89008,6 +91626,41 @@
    "url": "https://www.memorial-object.jp/00199/"
   },
   {
+   "name": "『洪水の碑』",
+   "lat": 36.096718,
+   "lng": 140.401647,
+   "address": "茨城県行方市玉造甲",
+   "access": "高浜駅から約12.1km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "1980年代後半",
+    "碑文",
+    "茨城県",
+    "行方市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08187/"
+  },
+  {
+   "name": "『洪水記念』",
+   "lat": 36.396553,
+   "lng": 140.469853,
+   "address": "茨城県水戸市柳河町",
+   "access": "常陸津田駅から約1.5km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "1930年代",
+    "水戸市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08150/"
+  },
+  {
    "name": "『洪水記念』",
    "lat": 36.421766,
    "lng": 140.451858,
@@ -89101,7 +91754,7 @@
    "lat": 34.340479,
    "lng": 134.8887839,
    "address": "兵庫県洲本市本町８丁目８",
-   "access": "加太駅から約19.0km",
+   "access": "加太駅から直線で約19.0km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "広場・通り"
    ],
@@ -89117,7 +91770,7 @@
    "lat": 34.3397831,
    "lng": 134.8959449,
    "address": "兵庫県洲本市本町４丁目１",
-   "access": "加太駅から約18.4km",
+   "access": "加太駅から直線で約18.4km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "道路沿い"
    ],
@@ -89765,6 +92418,26 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06437/"
+  },
+  {
+   "name": "『海の幸』",
+   "lat": 36.3049395,
+   "lng": 139.9785921,
+   "address": "茨城県筑西市丙３６６",
+   "access": "下館駅から北へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "水戸線",
+    "真岡鐵道真岡線",
+    "筑西市",
+    "茨城県",
+    "関東鉄道常総線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08062/"
   },
   {
    "name": "『海の幸供養塔』",
@@ -90783,6 +93456,22 @@
    "url": "https://www.memorial-object.jp/05941/"
   },
   {
+   "name": "『涅槃仏』",
+   "lat": 36.2897642,
+   "lng": 140.556166,
+   "address": "茨城県東茨城郡大洗町神山町",
+   "access": "大洗駅から約2.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "大洗町",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08267/"
+  },
+  {
    "name": "『消防救急発祥之地』",
    "lat": 35.4457133,
    "lng": 139.6432274,
@@ -90955,7 +93644,7 @@
    "lat": 34.3427842,
    "lng": 134.8943765,
    "address": "兵庫県洲本市栄町１丁目３",
-   "access": "加太駅から約18.7km",
+   "access": "加太駅から直線で約18.7km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "道路沿い"
    ],
@@ -91636,6 +94325,25 @@
    "url": "https://www.memorial-object.jp/02298/"
   },
   {
+   "name": "『清源亭』",
+   "lat": 35.8934491,
+   "lng": 140.0640463,
+   "address": "茨城県取手市取手２丁目９",
+   "access": "取手駅から南東へ約250m",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "JR東日本",
+    "取手市",
+    "常磐線",
+    "茨城県",
+    "関東鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08050/"
+  },
+  {
    "name": "『清澄園記』",
    "lat": 35.6797512,
    "lng": 139.7969934,
@@ -91973,6 +94681,23 @@
    "url": "https://www.memorial-object.jp/04090/"
   },
   {
+   "name": "『湊八景・日和山の秋月』",
+   "lat": 36.3398522,
+   "lng": 140.5899952,
+   "address": "茨城県ひたちなか市湊中央１丁目１",
+   "access": "那珂湊駅から南へ約600m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "ひたちなか市",
+    "ひたちなか海浜鉄道湊線",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08057/"
+  },
+  {
    "name": "『湊川神社』",
    "lat": 34.680738,
    "lng": 135.1764057,
@@ -92195,6 +94920,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03857/"
+  },
+  {
+   "name": "『源烈公　子の日ヶ原の碑』",
+   "lat": 36.318837,
+   "lng": 140.5886724,
+   "address": "茨城県東茨城郡大洗町磯浜町",
+   "access": "大洗駅から約2.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "大洗町",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08268/"
   },
   {
    "name": "『溜池改修記念碑』",
@@ -93915,6 +96657,25 @@
    "url": "https://www.memorial-object.jp/05206/"
   },
   {
+   "name": "『牛の像』",
+   "lat": 36.3741171,
+   "lng": 140.4705778,
+   "address": "茨城県水戸市梅香１丁目",
+   "access": "水戸駅から北西へ約630m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08151/"
+  },
+  {
    "name": "『牛久大仏』",
    "lat": 35.9826452,
    "lng": 140.2202483,
@@ -94186,6 +96947,27 @@
    "url": "https://www.memorial-object.jp/05622/"
   },
   {
+   "name": "『特別史跡 旧弘道館』",
+   "lat": 36.375077,
+   "lng": 140.4776414,
+   "address": "茨城県水戸市三の丸１丁目",
+   "access": "水戸駅から北へ約490m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "歴史",
+    "水戸市",
+    "碑文",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08152/"
+  },
+  {
    "name": "『特別名勝 栗林公園』",
    "lat": 34.3299723,
    "lng": 134.0460016,
@@ -94242,6 +97024,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05943/"
+  },
+  {
+   "name": "『特産新都之碑』",
+   "lat": 36.2129987,
+   "lng": 140.1010605,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南東へ約200m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08174/"
   },
   {
    "name": "『犬のうんち放置禁止』",
@@ -95292,6 +98091,23 @@
    "url": "https://www.memorial-object.jp/01318/"
   },
   {
+   "name": "『獣魂碑』",
+   "lat": 36.0365426,
+   "lng": 140.4810037,
+   "address": "茨城県行方市井貝",
+   "access": "北浦湖畔駅から約10.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "碑文",
+    "茨城県",
+    "行方市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08253/"
+  },
+  {
    "name": "『玄冶店跡』",
    "lat": 35.6866564,
    "lng": 139.7821203,
@@ -96129,6 +98945,23 @@
    "url": "https://www.memorial-object.jp/02873/"
   },
   {
+   "name": "『甘酒地蔵尊』",
+   "lat": 36.3821818,
+   "lng": 140.4687875,
+   "address": "茨城県水戸市金町１丁目４",
+   "access": "常陸青柳駅から約1.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "地蔵",
+    "水戸市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08072/"
+  },
+  {
    "name": "『生命』",
    "lat": 34.6841607,
    "lng": 135.1730933,
@@ -96421,6 +99254,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01319/"
+  },
+  {
+   "name": "『田中正造翁遺徳之賛碑』",
+   "lat": 36.1994512,
+   "lng": 139.6965876,
+   "address": "茨城県古河市古河",
+   "access": "新古河駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "古河市",
+    "歴史",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08199/"
   },
   {
    "name": "『田井清教墓』",
@@ -97455,6 +100306,22 @@
    "url": "https://www.memorial-object.jp/00387/"
   },
   {
+   "name": "『登筑波山歌』",
+   "lat": 36.2132417,
+   "lng": 140.1009959,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南東へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08175/"
+  },
+  {
    "name": "『登録有形文化財　走水水源地』",
    "lat": 35.2623601,
    "lng": 139.7226895,
@@ -97576,6 +100443,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04369/"
+  },
+  {
+   "name": "『白蛇』",
+   "lat": 36.7146086,
+   "lng": 140.7034827,
+   "address": "茨城県高萩市大字安良川１０８９",
+   "access": "高萩駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "茨城県",
+    "高萩市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08099/"
   },
   {
    "name": "『白象王菩薩』",
@@ -99304,23 +102187,6 @@
    "url": "https://www.memorial-object.jp/00996/"
   },
   {
-   "name": "『皇太子殿下小金井御仮寓所跡』",
-   "lat": 35.7157749,
-   "lng": 139.5119876,
-   "address": "東京都小金井市桜町３丁目",
-   "access": "花小金井駅から約1.2km",
-   "categories": [
-    "公園"
-   ],
-   "tags": [
-    "小金井市",
-    "東京都",
-    "歴史"
-   ],
-   "image": "",
-   "url": "https://www.memorial-object.jp/00996/"
-  },
-  {
    "name": "『皇太子殿下御成婚記念』",
    "lat": 35.682397,
    "lng": 139.7802711,
@@ -99462,6 +102328,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01489/"
+  },
+  {
+   "name": "『皇孫殿下御誕生奉祝石玉垣建立記念碑』",
+   "lat": 36.2134838,
+   "lng": 140.101447,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南東へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "碑文",
+    "茨城県",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08176/"
   },
   {
    "name": "『皇居遥拝所』",
@@ -100033,6 +102917,24 @@
    "url": "https://www.memorial-object.jp/04453/"
   },
   {
+   "name": "『真鍋の道標』",
+   "lat": 36.0850608,
+   "lng": 140.1972048,
+   "address": "茨城県土浦市中央１丁目１５",
+   "access": "土浦駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "土浦市",
+    "碑文",
+    "茨城県",
+    "道標"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08091/"
+  },
+  {
    "name": "『眠り地蔵』",
    "lat": 34.895297,
    "lng": 134.650363,
@@ -100308,6 +103210,58 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00131_1.png",
    "url": "https://www.memorial-object.jp/00131/"
+  },
+  {
+   "name": "『石下の歴史』",
+   "lat": 36.110441,
+   "lng": 139.9839946,
+   "address": "茨城県常総市新石下１５７６",
+   "access": "石下駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "常総市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08096/"
+  },
+  {
+   "name": "『石下小学校跡』",
+   "lat": 36.1134252,
+   "lng": 139.974549,
+   "address": "茨城県常総市新石下４４９７",
+   "access": "石下駅から南へ約420m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "常総市",
+    "歴史",
+    "茨城県",
+    "関東鉄道常総線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08044/"
+  },
+  {
+   "name": "『石下町地域交流センター建設の碑』",
+   "lat": 36.1125138,
+   "lng": 139.9807674,
+   "address": "茨城県常総市新石下",
+   "access": "石下駅から南東へ約780m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "常総市",
+    "碑文",
+    "茨城県",
+    "関東鉄道常総線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08163/"
   },
   {
    "name": "『石丸壇改修記念碑』",
@@ -100786,6 +103740,23 @@
    "url": "https://www.memorial-object.jp/01812/"
   },
   {
+   "name": "『石塚開発の碑』",
+   "lat": 35.8601046,
+   "lng": 140.6949787,
+   "address": "茨城県神栖市日川２９９３",
+   "access": "笹川駅から約4.2km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "碑文",
+    "神栖市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08118/"
+  },
+  {
    "name": "『石岡ステーションパークカラクリ時計』",
    "lat": 36.190399709865034,
    "lng": 140.27992082380726,
@@ -101246,7 +104217,7 @@
    "lat": 34.3309679,
    "lng": 134.8531896,
    "address": "兵庫県洲本市大野１２９６",
-   "access": "加太駅から約21.8km",
+   "access": "加太駅から直線で約21.8km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "公園"
    ],
@@ -101461,6 +104432,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02750/"
+  },
+  {
+   "name": "『石造道標地蔵尊』",
+   "lat": 36.2956278,
+   "lng": 140.5100585,
+   "address": "茨城県東茨城郡茨城町大字下石崎",
+   "access": "涸沼駅から約3.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "地蔵",
+    "茨城町",
+    "茨城県",
+    "道標"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08259/"
   },
   {
    "name": "『石阪供養塔』",
@@ -101811,6 +104800,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01490/"
+  },
+  {
+   "name": "『磐舟地蔵尊』",
+   "lat": 36.3147282,
+   "lng": 140.5784782,
+   "address": "茨城県東茨城郡大洗町磯浜町６７５８",
+   "access": "大洗駅から約1.4km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "地蔵",
+    "大洗町",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08122/"
   },
   {
    "name": "『磤馭盧島神社』",
@@ -103370,6 +106376,25 @@
    "url": "https://www.memorial-object.jp/01327/"
   },
   {
+   "name": "『神磯顕彰の碑』",
+   "lat": 36.3151497,
+   "lng": 140.589442,
+   "address": "茨城県東茨城郡大洗町磯浜町",
+   "access": "大洗駅から約2.4km",
+   "categories": [
+    "海浜"
+   ],
+   "tags": [
+    "1950年代後半",
+    "大洗町",
+    "碑文",
+    "茨城県",
+    "顕彰碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08188/"
+  },
+  {
    "name": "『神社復興記念碑』",
    "lat": 35.6935186,
    "lng": 139.7057308,
@@ -104115,6 +107140,23 @@
    "url": "https://www.memorial-object.jp/03078/"
   },
   {
+   "name": "『福聚寺跡慰霊碑』",
+   "lat": 36.5810877,
+   "lng": 140.6557573,
+   "address": "茨城県日立市幸町３丁目",
+   "access": "日立駅から約1.2km",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "tags": [
+    "日立市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08197/"
+  },
+  {
    "name": "『福興観世音』",
    "lat": 35.5757861,
    "lng": 139.7187487,
@@ -104263,6 +107305,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04345/"
+  },
+  {
+   "name": "『科学の門』",
+   "lat": 36.0662359,
+   "lng": 140.0739701,
+   "address": "茨城県つくば市御幸が丘２４",
+   "access": "万博記念公園駅から約1.6km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "1980年代後半",
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08053/"
   },
   {
    "name": "『秦武文公遺趾』",
@@ -105376,6 +108435,24 @@
    "url": "https://www.memorial-object.jp/00294/"
   },
   {
+   "name": "『竹久夢二歌碑』",
+   "lat": 35.7436078,
+   "lng": 140.8416618,
+   "address": "茨城県神栖市波崎新港",
+   "access": "本銚子駅から約1.5km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "歌碑",
+    "碑文",
+    "神栖市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08252/"
+  },
+  {
    "name": "『竹屋旅館跡』",
    "lat": 35.251436399999996,
    "lng": 140.3907489,
@@ -105534,6 +108611,23 @@
    "url": "https://www.memorial-object.jp/00144/"
   },
   {
+   "name": "『笠原水道 / 浴徳泉の碑』",
+   "lat": 36.3538056,
+   "lng": 140.4617328,
+   "address": "茨城県水戸市笠原町",
+   "access": "水戸駅から約2.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "水戸市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08192/"
+  },
+  {
    "name": "『笠塔婆』",
    "lat": 34.8833069,
    "lng": 134.6417846,
@@ -105568,6 +108662,59 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01819/"
+  },
+  {
+   "name": "『笠間城天主跡』",
+   "lat": 36.3825572,
+   "lng": 140.2669761,
+   "address": "茨城県笠間市笠間",
+   "access": "笠間駅から約2.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "歴史",
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08220/"
+  },
+  {
+   "name": "『笠間時朝公を追慕して』",
+   "lat": 36.3831707,
+   "lng": 140.2658878,
+   "address": "茨城県笠間市笠間９４７",
+   "access": "笠間駅から約2.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08104/"
+  },
+  {
+   "name": "『笠間百坊旧跡』",
+   "lat": 36.384764,
+   "lng": 140.2673677,
+   "address": "茨城県笠間市笠間",
+   "access": "笠間駅から約2.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "歴史",
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08221/"
   },
   {
    "name": "『第10番札所(爺神山ミニ四国八十八ヶ所)』",
@@ -110184,6 +113331,191 @@
    "url": "https://www.memorial-object.jp/04415/"
   },
   {
+   "name": "『筑波山』",
+   "lat": 36.2134884,
+   "lng": 140.101127,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南東へ約150m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08177/"
+  },
+  {
+   "name": "『筑波山に登る歌』",
+   "lat": 36.2132468,
+   "lng": 140.1009577,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南東へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08178/"
+  },
+  {
+   "name": "『筑波山をきれいに』",
+   "lat": 36.2135874,
+   "lng": 140.1005745,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南へ約120m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08179/"
+  },
+  {
+   "name": "『筑波山神社　神窟巡拝二十五周年記念碑』",
+   "lat": 36.2134811,
+   "lng": 140.101404,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南東へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "碑文",
+    "茨城県",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08180/"
+  },
+  {
+   "name": "『筑波山神社御造営由来記』",
+   "lat": 36.2133829,
+   "lng": 140.1012712,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南東へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "歴史",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08181/"
+  },
+  {
+   "name": "『筑波山縁起』",
+   "lat": 36.2136659,
+   "lng": 140.1005168,
+   "address": "茨城県つくば市筑波７４５",
+   "access": "宮脇駅から南へ約110m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08054/"
+  },
+  {
+   "name": "『筑波山頂境界確定記念碑』",
+   "lat": 36.2133596,
+   "lng": 140.1013436,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南東へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "碑文",
+    "茨城県",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08182/"
+  },
+  {
+   "name": "『筑波技術短期大学聴覚部の石碑』",
+   "lat": 36.1046288,
+   "lng": 140.1103131,
+   "address": "茨城県つくば市天久保４丁目",
+   "access": "つくば駅から約2.4km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "つくば市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08237/"
+  },
+  {
+   "name": "『筑波技術短期大学視覚部の石碑』",
+   "lat": 36.0967629,
+   "lng": 140.1009702,
+   "address": "茨城県つくば市春日４丁目１２",
+   "access": "つくば駅から約1.8km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "つくば市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08108/"
+  },
+  {
+   "name": "『筑波海軍航空隊ここにありき』",
+   "lat": 36.3279718,
+   "lng": 140.3135571,
+   "address": "茨城県笠間市旭町",
+   "access": "友部駅から約2.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08222/"
+  },
+  {
+   "name": "『筑波海軍航空隊地下戦闘指揮所』",
+   "lat": 36.323582,
+   "lng": 140.312199,
+   "address": "茨城県笠間市矢野下",
+   "access": "友部駅から約3.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "碑文",
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08223/"
+  },
+  {
    "name": "『算学塚』",
    "lat": 35.7227456,
    "lng": 139.8162858,
@@ -110246,6 +113578,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01328/"
+  },
+  {
+   "name": "『築堤記念碑』",
+   "lat": 36.558972,
+   "lng": 140.310715,
+   "address": "茨城県常陸大宮市野口",
+   "access": "玉川村駅から約6.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "1950年代前半",
+    "常陸大宮市",
+    "碑文",
+    "茨城県",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08186/"
   },
   {
    "name": "『築島寺』",
@@ -110999,6 +114350,22 @@
    "url": "https://www.memorial-object.jp/06466/"
   },
   {
+   "name": "『紫峰牛』",
+   "lat": 36.2124529,
+   "lng": 140.1008917,
+   "address": "茨城県つくば市筑波１７９",
+   "access": "宮脇駅から南へ約250m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08055/"
+  },
+  {
    "name": "『細山郷土資料館(撤去)』",
    "lat": 35.6168371,
    "lng": 139.5138183,
@@ -111251,6 +114618,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07486/"
+  },
+  {
+   "name": "『結び石』",
+   "lat": 36.714636,
+   "lng": 140.7039203,
+   "address": "茨城県高萩市大字安良川１０１５",
+   "access": "高萩駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "碑文",
+    "茨城県",
+    "高萩市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08100/"
   },
   {
    "name": "『結講三十周年記念』",
@@ -112054,6 +115438,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06274/"
+  },
+  {
+   "name": "『義士顕彰碑』",
+   "lat": 36.3845961,
+   "lng": 140.2612227,
+   "address": "茨城県笠間市笠間９９９",
+   "access": "笠間駅から約1.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "碑文",
+    "笠間市",
+    "茨城県",
+    "顕彰碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08106/"
   },
   {
    "name": "『義母神像』",
@@ -114394,6 +117796,43 @@
    "url": "https://www.memorial-object.jp/07844/"
   },
   {
+   "name": "『茨城師範学校跡』",
+   "lat": 36.3748832,
+   "lng": 140.4793664,
+   "address": "茨城県水戸市三の丸２丁目",
+   "access": "水戸駅から北東へ約530m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "歴史",
+    "水戸市",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08153/"
+  },
+  {
+   "name": "『茨城百景 砂沼碑』",
+   "lat": 36.1830708,
+   "lng": 139.955425,
+   "address": "茨城県下妻市砂沼新田",
+   "access": "下妻駅から約0.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "下妻市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08203/"
+  },
+  {
    "name": "『茨城百景 高濱の釣場』",
    "lat": 36.16368124786158,
    "lng": 140.29491007102152,
@@ -114417,6 +117856,55 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/04/00078_takahama.png",
    "url": "https://www.memorial-object.jp/00078_takahama/"
+  },
+  {
+   "name": "『茨城百景福岡堰』",
+   "lat": 36.0289555,
+   "lng": 140.0261244,
+   "address": "茨城県つくばみらい市仁左衛門新田",
+   "access": "みどりの駅から約2.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "つくばみらい市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08257/"
+  },
+  {
+   "name": "『茨城県指定文化財 旧笠間城櫓』",
+   "lat": 36.3904898,
+   "lng": 140.2584989,
+   "address": "茨城県笠間市笠間",
+   "access": "笠間駅から約2.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "笠間市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08224/"
+  },
+  {
+   "name": "『茨城船甚句の碑』",
+   "lat": 36.3343609,
+   "lng": 140.5905675,
+   "address": "茨城県東茨城郡大洗町磯浜町８００５",
+   "access": "那珂湊駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "大洗町",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08123/"
   },
   {
    "name": "『茶屋下橋』",
@@ -114989,6 +118477,23 @@
    "url": "https://www.memorial-object.jp/07789/"
   },
   {
+   "name": "『菊地藤吾君碑』",
+   "lat": 36.2131451,
+   "lng": 140.1013446,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南東へ約200m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08183/"
+  },
+  {
    "name": "『菊屋島離農之碑』",
    "lat": 35.6314222,
    "lng": 134.8082556,
@@ -115172,6 +118677,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02814/"
+  },
+  {
+   "name": "『萬霊塔』",
+   "lat": 36.5820943,
+   "lng": 140.6581914,
+   "address": "茨城県日立市相賀町１８",
+   "access": "日立駅から約1.0km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "日立市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08075/"
   },
   {
    "name": "『落幡村村名保存碑』",
@@ -115946,6 +119468,22 @@
    "url": "https://www.memorial-object.jp/04894/"
   },
   {
+   "name": "『薬師尊』",
+   "lat": 36.345558,
+   "lng": 139.9473215,
+   "address": "茨城県筑西市森添島７４３",
+   "access": "折本駅から約2.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "筑西市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08112/"
+  },
+  {
    "name": "『薬王菩薩』",
    "lat": 34.9374118,
    "lng": 134.8290868,
@@ -116092,6 +119630,23 @@
    "url": "https://www.memorial-object.jp/03402/"
   },
   {
+   "name": "『藤沢勘兵衛翁』",
+   "lat": 36.0914036,
+   "lng": 140.1073844,
+   "address": "茨城県つくば市天久保１丁目",
+   "access": "つくば駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "つくば市",
+    "歴史",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08238/"
+  },
+  {
    "name": "『藤田威先生生誕之地』",
    "lat": 35.6209226,
    "lng": 134.4280106,
@@ -116108,6 +119663,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07823/"
+  },
+  {
+   "name": "『藤田東湖像』",
+   "lat": 36.3727229,
+   "lng": 140.4698949,
+   "address": "茨城県水戸市梅香１丁目",
+   "access": "水戸駅から西へ約610m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08154/"
   },
   {
    "name": "『藤田東湖先生護母致命之處』",
@@ -116464,6 +120038,26 @@
    "url": "https://www.memorial-object.jp/05822/"
   },
   {
+   "name": "『蛯原萬吉翁』",
+   "lat": 35.8935255,
+   "lng": 140.0640009,
+   "address": "茨城県取手市取手２丁目９",
+   "access": "取手駅から南東へ約240m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "取手市",
+    "常磐線",
+    "歴史",
+    "茨城県",
+    "関東鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08051/"
+  },
+  {
    "name": "『蛸供養碑』",
    "lat": 35.6301977,
    "lng": 139.2545121,
@@ -116627,6 +120221,24 @@
   },
   {
    "name": "『行幸啓記念碑』",
+   "lat": 35.9377187,
+   "lng": 140.5484634,
+   "address": "茨城県潮来市潮来",
+   "access": "潮来駅から北西へ約120m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "潮来市",
+    "碑文",
+    "茨城県",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08185/"
+  },
+  {
+   "name": "『行幸啓記念碑』",
    "lat": 35.6709945,
    "lng": 139.799319,
    "address": "東京都江東区富岡１丁目２３",
@@ -116646,6 +120258,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02023/"
+  },
+  {
+   "name": "『行幸記念』",
+   "lat": 36.0488181,
+   "lng": 140.2234105,
+   "address": "茨城県稲敷郡阿見町大字青宿１３７",
+   "access": "土浦駅から約3.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "茨城県",
+    "阿見町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08129/"
   },
   {
    "name": "『行成警斎翁の碑』",
@@ -116811,6 +120439,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01223/"
+  },
+  {
+   "name": "『袋田の滝胎内観音』",
+   "lat": 36.7647261,
+   "lng": 140.4052964,
+   "address": "茨城県久慈郡大子町大字袋田",
+   "access": "袋田駅から約2.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "大子町",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08276/"
   },
   {
    "name": "『西の口公園』",
@@ -118157,6 +121801,27 @@
    "url": "https://www.memorial-object.jp/02775/"
   },
   {
+   "name": "『要石建立由来之碑』",
+   "lat": 35.9242959,
+   "lng": 140.1326281,
+   "address": "茨城県龍ケ崎市川原代町",
+   "access": "佐貫駅から南西へ約790m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "1950年代後半",
+    "JR東日本",
+    "常磐線",
+    "歴史",
+    "碑文",
+    "茨城県",
+    "龍ヶ崎市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08093/"
+  },
+  {
    "name": "『見てござる』",
    "lat": 34.6489958,
    "lng": 135.1111568,
@@ -118583,6 +122248,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01654/"
+  },
+  {
+   "name": "『観梅碑』",
+   "lat": 36.3742209,
+   "lng": 140.4518638,
+   "address": "茨城県水戸市常磐町１丁目",
+   "access": "偕楽園駅から西へ約410m（偕楽園駅は梅まつりの時期だけ列車が止まる臨時駅です。ふだんは水戸駅から直線で約2.2km）",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08155/"
   },
   {
    "name": "『観音』",
@@ -121671,6 +125355,24 @@
    "url": "https://www.memorial-object.jp/04421/"
   },
   {
+   "name": "『諏訪神社拝殿改築記念碑』",
+   "lat": 36.3047775,
+   "lng": 140.5610115,
+   "address": "茨城県東茨城郡大洗町大貫町",
+   "access": "大洗駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "碑文",
+    "茨城県",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08269/"
+  },
+  {
    "name": "『論理域』",
    "lat": 35.7213962,
    "lng": 139.6749722,
@@ -121783,6 +125485,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05905/"
+  },
+  {
+   "name": "『護国堂之賦』",
+   "lat": 36.3194621,
+   "lng": 140.5829389,
+   "address": "茨城県東茨城郡大洗町磯浜町",
+   "access": "大洗駅から約1.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08270/"
   },
   {
    "name": "『護国慰霊之碑』",
@@ -122068,6 +125786,38 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03735/"
+  },
+  {
+   "name": "『豊木入日子命』",
+   "lat": 36.2131887,
+   "lng": 140.1011927,
+   "address": "茨城県つくば市筑波",
+   "access": "宮脇駅から南東へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくば市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08184/"
+  },
+  {
+   "name": "『豊田芙雄子像』",
+   "lat": 36.377997,
+   "lng": 140.47183,
+   "address": "茨城県水戸市大町２丁目",
+   "access": "水戸駅から約0.9km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "水戸市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08193/"
   },
   {
    "name": "『豐川吒枳尼眞天』",
@@ -123606,6 +127356,39 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04269/"
+  },
+  {
+   "name": "『軍艦那珂忠魂碑』",
+   "lat": 36.3154716,
+   "lng": 140.5875581,
+   "address": "茨城県東茨城郡大洗町磯浜町６８７９",
+   "access": "大洗駅から約2.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08124/"
+  },
+  {
+   "name": "『軍艦那珂艦歴』",
+   "lat": 36.3154947,
+   "lng": 140.5875927,
+   "address": "茨城県東茨城郡大洗町磯浜町６８７９",
+   "access": "大洗駅から約2.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08125/"
   },
   {
    "name": "『軍艦長門碑』",
@@ -125501,6 +129284,24 @@
    "url": "https://www.memorial-object.jp/03048/"
   },
   {
+   "name": "『那珂湊反射炉跡』",
+   "lat": 36.3435267,
+   "lng": 140.5840633,
+   "address": "茨城県ひたちなか市栄町１丁目１０",
+   "access": "那珂湊駅から南西へ約400m",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "ひたちなか市",
+    "ひたちなか海浜鉄道湊線",
+    "歴史",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08058/"
+  },
+  {
    "name": "『邨井天界霊神』",
    "lat": 35.6541232,
    "lng": 139.2540988,
@@ -126567,6 +130368,24 @@
    "url": "https://www.memorial-object.jp/07986/"
   },
   {
+   "name": "『金刀比羅行者舘治三郎翁碑』",
+   "lat": 36.3154035,
+   "lng": 140.5762268,
+   "address": "茨城県東茨城郡大洗町磯浜町",
+   "access": "大洗駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "大洗町",
+    "歴史",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08271/"
+  },
+  {
    "name": "『金剛力士坐像』",
    "lat": 34.9369925,
    "lng": 134.8290653,
@@ -126792,6 +130611,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04179/"
+  },
+  {
+   "name": "『金沢正志斉像』",
+   "lat": 36.3769757,
+   "lng": 140.4685912,
+   "address": "茨城県水戸市南町３丁目３",
+   "access": "水戸駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "水戸市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08073/"
   },
   {
    "name": "『金町浄水場取水塔』",
@@ -128026,6 +131861,60 @@
    "url": "https://www.memorial-object.jp/07795/"
   },
   {
+   "name": "『長塚節 歌碑 萌ゆる狭沼』",
+   "lat": 36.1917201,
+   "lng": 139.9500409,
+   "address": "茨城県下妻市下木戸",
+   "access": "下妻駅から約1.7km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "下妻市",
+    "歌碑",
+    "碑文",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08204/"
+  },
+  {
+   "name": "『長塚節の像』",
+   "lat": 36.1127351,
+   "lng": 139.9798898,
+   "address": "茨城県常総市新石下",
+   "access": "石下駅から南東へ約710m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "常総市",
+    "茨城県",
+    "関東鉄道常総線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08164/"
+  },
+  {
+   "name": "『長塚節歌碑』",
+   "lat": 36.1140807,
+   "lng": 139.9804619,
+   "address": "茨城県常総市新石下",
+   "access": "石下駅から南東へ約660m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "常総市",
+    "歌碑",
+    "碑文",
+    "茨城県",
+    "関東鉄道常総線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08165/"
+  },
+  {
    "name": "『長壁神社遺趾』",
    "lat": 34.8395053,
    "lng": 134.6946459,
@@ -128663,6 +132552,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02028/"
+  },
+  {
+   "name": "『間宮林蔵像』",
+   "lat": 35.9311781,
+   "lng": 140.0488988,
+   "address": "茨城県取手市岡",
+   "access": "新取手駅から約1.6km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "取手市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08225/"
   },
   {
    "name": "『間瀬久太夫宅阯』",
@@ -130896,6 +134801,26 @@
    "url": "https://www.memorial-object.jp/01568/"
   },
   {
+   "name": "『電力安全碑』",
+   "lat": 36.3767472,
+   "lng": 140.4801621,
+   "address": "茨城県水戸市北見町",
+   "access": "水戸駅から北東へ約750m",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "碑文",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08156/"
+  },
+  {
    "name": "『電気機関車 EF6418』",
    "lat": 35.6716604,
    "lng": 138.74292979999998,
@@ -130919,6 +134844,26 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/07/00134_1.png",
    "url": "https://www.memorial-object.jp/00134/"
+  },
+  {
+   "name": "『電氣事業創業之地』",
+   "lat": 36.3764535,
+   "lng": 140.4796632,
+   "address": "茨城県水戸市北見町",
+   "access": "水戸駅から北東へ約700m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "常磐線",
+    "水戸市",
+    "碑文",
+    "茨城県",
+    "鹿島臨海鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08157/"
   },
   {
    "name": "『電話交換創始之地』",
@@ -131652,6 +135597,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03984/"
+  },
+  {
+   "name": "『静御前之像』",
+   "lat": 36.176135,
+   "lng": 139.7244912,
+   "address": "茨城県古河市下辺見１８８５",
+   "access": "古河駅から約2.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "古河市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08092/"
   },
   {
    "name": "『韓国動乱参戦記念碑』",
@@ -133986,6 +137947,22 @@
    "url": "https://www.memorial-object.jp/05791/"
   },
   {
+   "name": "『風車の弥七の墓』",
+   "lat": 36.6077841,
+   "lng": 140.2900501,
+   "address": "茨城県常陸大宮市松之草",
+   "access": "玉川村駅から約8.2km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "常陸大宮市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08242/"
+  },
+  {
    "name": "『飛梅の碑』",
    "lat": 35.6574419,
    "lng": 139.6534904,
@@ -134019,6 +137996,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00618/"
+  },
+  {
+   "name": "『飛翔』",
+   "lat": 36.1905197,
+   "lng": 139.9490784,
+   "address": "茨城県下妻市長塚",
+   "access": "下妻駅から約1.7km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "下妻市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08205/"
   },
   {
    "name": "『飛翔』",
@@ -134066,6 +138059,22 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2025/09/urawa-hisyo2.png",
    "url": "https://www.memorial-object.jp/hisyo_00004/"
+  },
+  {
+   "name": "『飛翔之像』",
+   "lat": 35.9769741,
+   "lng": 140.3239435,
+   "address": "茨城県稲敷市佐倉",
+   "access": "滑河駅から約11.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "稲敷市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08246/"
   },
   {
    "name": "『飛翔／健康宣言都市』",
@@ -135204,6 +139213,23 @@
   },
   {
    "name": "『馬頭観世音塔』",
+   "lat": 36.3879459,
+   "lng": 140.5809066,
+   "address": "茨城県ひたちなか市大字馬渡",
+   "access": "中根駅から約2.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "ひたちなか市",
+    "茨城県",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08239/"
+  },
+  {
+   "name": "『馬頭観世音塔』",
    "lat": 35.6412004,
    "lng": 139.5239821,
    "address": "東京都稲城市矢野口３９５",
@@ -135429,6 +139455,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00719/"
+  },
+  {
+   "name": "『馬頭観音』",
+   "lat": 36.3455604,
+   "lng": 139.9473481,
+   "address": "茨城県筑西市森添島７４３",
+   "access": "折本駅から約2.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "筑西市",
+    "茨城県",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08113/"
   },
   {
    "name": "『馬頭観音』",
@@ -137008,6 +141051,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07621/"
+  },
+  {
+   "name": "『鬼怒砂丘慰霊塔』",
+   "lat": 36.1321409,
+   "lng": 139.9569602,
+   "address": "茨城県常総市若宮戸",
+   "access": "玉村駅から約1.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "常総市",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08207/"
   },
   {
    "name": "『鬼燈』",
@@ -139014,6 +143073,25 @@
    "url": "https://www.memorial-object.jp/07805/"
   },
   {
+   "name": "『鳥居建設の碑』",
+   "lat": 36.3153072,
+   "lng": 140.5882771,
+   "address": "茨城県東茨城郡大洗町磯浜町",
+   "access": "大洗駅から約2.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "動物",
+    "大洗町",
+    "碑文",
+    "茨城県",
+    "鳥"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08272/"
+  },
+  {
    "name": "『鳥居石』",
    "lat": 35.7189822,
    "lng": 139.7441955,
@@ -139156,6 +143234,26 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04990/"
+  },
+  {
+   "name": "『鳥獣犬供養の碑』",
+   "lat": 36.1118787,
+   "lng": 139.9784447,
+   "address": "茨城県常総市新石下３９００",
+   "access": "石下駅から南東へ約700m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "動物",
+    "常総市",
+    "碑文",
+    "茨城県",
+    "関東鉄道常総線",
+    "鳥"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08045/"
   },
   {
    "name": "『鳩よよみがえれ』",
@@ -139655,6 +143753,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02877/"
+  },
+  {
+   "name": "『鹿島神宮』",
+   "lat": 35.9682766,
+   "lng": 140.6295812,
+   "address": "茨城県鹿嶋市大字宮中２４０４",
+   "access": "鹿島神宮駅から南東へ約410m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "碑文",
+    "茨城県",
+    "鹿島臨海鉄道大洗鹿島線",
+    "鹿嶋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08060/"
   },
   {
    "name": "『麒麟麦酒開源記念碑』",
@@ -140250,6 +144366,24 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00104_1.png",
    "url": "https://www.memorial-object.jp/00104/"
+  },
+  {
+   "name": "『（常総DRR）決壊の跡』",
+   "lat": 36.0975875,
+   "lng": 139.9651558,
+   "address": "茨城県常総市三坂町５６３",
+   "access": "南石下駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "2010年代後半",
+    "常総市",
+    "歴史",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08046/"
   },
   {
    "name": "『（窪田空穂歌碑）』",
@@ -141252,6 +145386,23 @@
    "url": "https://www.memorial-object.jp/00364/"
   },
   {
+   "name": "三沢厚彦『Animal-2004』",
+   "lat": 36.7209374,
+   "lng": 139.686972,
+   "address": "栃木県日光市中央町２３",
+   "access": "今市駅から北西へ約60m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "三沢厚彦",
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08278/"
+  },
+  {
    "name": "三沢憲司『出舟』",
    "lat": 35.4104349,
    "lng": 139.5958979,
@@ -141369,6 +145520,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00359/"
+  },
+  {
+   "name": "中山圭一『aqua』",
+   "lat": 36.7210283,
+   "lng": 139.6867896,
+   "address": "栃木県日光市中央町２３",
+   "access": "今市駅から北西へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "中山圭一",
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08279/"
   },
   {
    "name": "中岡慎太郎『MY FAMILY』",
@@ -142976,6 +147144,25 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2025/12/00031_gokan7.png",
    "url": "https://www.memorial-object.jp/00031_gokan/"
+  },
+  {
+   "name": "原 真一『耳を見るウサギ』",
+   "lat": 36.7210736,
+   "lng": 139.6868055,
+   "address": "栃木県日光市中央町２３",
+   "access": "今市駅から北西へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "うさぎ",
+    "動物",
+    "原真一",
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08285/"
   },
   {
    "name": "原透『白山』",
@@ -144946,6 +149133,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07001/"
+  },
+  {
+   "name": "岡本太郎『未来を視る』",
+   "lat": 36.0585108,
+   "lng": 140.0597915,
+   "address": "茨城県つくば市（諏訪）",
+   "access": "万博記念公園駅から北東へ約30m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "つくばエクスプレス",
+    "つくば市",
+    "岡本太郎",
+    "茨城県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08052/"
   },
   {
    "name": "岡本太郎『母の塔』",
@@ -147217,6 +151422,23 @@
    "url": "https://www.memorial-object.jp/06322/"
   },
   {
+   "name": "横山大観『ガラパゴス祈亀』",
+   "lat": 36.7208514,
+   "lng": 139.6876406,
+   "address": "栃木県日光市中央町２２",
+   "access": "今市駅から北東へ約50m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県",
+    "横山大観"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08280/"
+  },
+  {
    "name": "横山徹『折りたたまれたかたち』",
    "lat": 35.519151,
    "lng": 139.6204162,
@@ -148543,6 +152765,23 @@
    "url": "https://www.memorial-object.jp/00025_darumapoem/"
   },
   {
+   "name": "福田 豊『季節の使者』",
+   "lat": 36.7207849,
+   "lng": 139.6873269,
+   "address": "栃木県日光市中央町２３",
+   "access": "今市駅から北へ約40m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県",
+    "福田豊"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08282/"
+  },
+  {
    "name": "福田　青陽『加納宗七像』",
    "lat": 34.6883997,
    "lng": 135.1965654,
@@ -148686,6 +152925,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03524/"
+  },
+  {
+   "name": "竹内智美『笑顔』",
+   "lat": 36.7209111,
+   "lng": 139.6870167,
+   "address": "栃木県日光市中央町２３",
+   "access": "今市駅から北西へ約50m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県",
+    "竹内智美"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08284/"
   },
   {
    "name": "竹田光幸『永遠　～愛～　天空に語らう』",
@@ -149356,6 +153612,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01210/"
+  },
+  {
+   "name": "菱山裕子『ペイ』",
+   "lat": 36.7211062,
+   "lng": 139.686806,
+   "address": "栃木県日光市中央町２３",
+   "access": "今市駅から北西へ約80m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県",
+    "菱山裕子"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08281/"
   },
   {
    "name": "蓮性寺『ごはん塚』",
@@ -150134,6 +154407,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01145/"
+  },
+  {
+   "name": "阿部光成『想う人』",
+   "lat": 36.7207702,
+   "lng": 139.6873572,
+   "address": "栃木県日光市中央町２２",
+   "access": "今市駅から北へ約30m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県",
+    "阿部光成"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08283/"
   },
   {
    "name": "難波孫次郎『若き心』",
