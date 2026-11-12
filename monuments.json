@@ -8,8 +8,8 @@
   "photos": 0,
   "names": []
  },
- "generated": "2026-11-11",
- "count": 8433,
+ "generated": "2026-11-12",
+ "count": 8528,
  "items": [
   {
    "name": "???wako Shintani『MAN』",
@@ -2662,6 +2662,23 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00204_1.jpg",
    "url": "https://www.memorial-object.jp/00204/"
+  },
+  {
+   "name": "『John K. Emmerson』",
+   "lat": 36.7647811,
+   "lng": 139.5936466,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約3.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08498/"
   },
   {
    "name": "『KATSUURA』",
@@ -7235,6 +7252,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04377/"
+  },
+  {
+   "name": "『さのまる』",
+   "lat": 36.3167016,
+   "lng": 139.6184947,
+   "address": "栃木県佐野市黒袴町",
+   "access": "佐野駅から約3.5km",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "佐野市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08493/"
   },
   {
    "name": "『さわやかまちかど　三ッ沢せせらぎ緑道』",
@@ -18619,6 +18652,22 @@
    "url": "https://www.memorial-object.jp/07499/"
   },
   {
+   "name": "『三猿』",
+   "lat": 36.7570295,
+   "lng": 139.5990229,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08499/"
+  },
+  {
    "name": "『三瓶町名由来の地』",
    "lat": 33.3801875,
    "lng": 132.4224307,
@@ -19940,6 +19989,22 @@
    "url": "https://www.memorial-object.jp/06133/"
   },
   {
+   "name": "『下川石塔群』",
+   "lat": 37.0029834,
+   "lng": 140.1138004,
+   "address": "栃木県那須郡那須町大字寺子乙",
+   "access": "黒田原駅から約2.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "栃木県",
+    "那須町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08547/"
+  },
+  {
    "name": "『下木場欅一枚板看板』",
    "lat": 35.6696696,
    "lng": 139.80459,
@@ -20837,6 +20902,23 @@
   },
   {
    "name": "『並木寄進碑』",
+   "lat": 36.6185718,
+   "lng": 139.7358155,
+   "address": "栃木県日光市小倉",
+   "access": "文挟駅から約2.2km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08500/"
+  },
+  {
+   "name": "『並木寄進碑』",
    "lat": 36.6906441,
    "lng": 139.7648477,
    "address": "栃木県日光市山口４５０",
@@ -21011,6 +21093,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03783/"
+  },
+  {
+   "name": "『中国人殉難烈士慰霊塔』",
+   "lat": 36.6543261,
+   "lng": 139.4112323,
+   "address": "栃木県日光市足尾町",
+   "access": "通洞駅から約3.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08501/"
   },
   {
    "name": "『中国同盟会発祥の地碑』",
@@ -21323,6 +21421,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02898/"
+  },
+  {
+   "name": "『中本町』",
+   "lat": 36.752988,
+   "lng": 139.5923145,
+   "address": "栃木県日光市本町",
+   "access": "東武日光駅から約2.5km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08502/"
   },
   {
    "name": "『中村來内像』",
@@ -21922,6 +22037,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02217/"
+  },
+  {
+   "name": "『丸石』",
+   "lat": 36.7527301,
+   "lng": 139.5901655,
+   "address": "栃木県日光市本町",
+   "access": "東武日光駅から約2.7km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08503/"
   },
   {
    "name": "『丹後ちりめんモニュメント』",
@@ -22879,6 +23011,23 @@
   },
   {
    "name": "『二十三夜』",
+   "lat": 36.5355461,
+   "lng": 140.1868692,
+   "address": "栃木県芳賀郡茂木町大字小井戸",
+   "access": "茂木駅から北東へ約720m",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "二十三夜塔",
+    "栃木県",
+    "茂木町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08466/"
+  },
+  {
+   "name": "『二十三夜』",
    "lat": 36.3456715,
    "lng": 139.9471826,
    "address": "茨城県筑西市森添島",
@@ -22927,6 +23076,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00714/"
+  },
+  {
+   "name": "『二十三夜供養塔』",
+   "lat": 36.3484844,
+   "lng": 139.9390572,
+   "address": "栃木県真岡市古山",
+   "access": "折本駅から約3.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "二十三夜塔",
+    "供養塔",
+    "栃木県",
+    "真岡市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08537/"
   },
   {
    "name": "『二十三夜塔』",
@@ -23798,6 +23966,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03631/"
+  },
+  {
+   "name": "『井原利平翁頌徳碑』",
+   "lat": 36.5362703,
+   "lng": 140.1863307,
+   "address": "栃木県芳賀郡茂木町大字小井戸",
+   "access": "茂木駅から北東へ約750m",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "栃木県",
+    "歴史",
+    "碑文",
+    "茂木町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08467/"
   },
   {
    "name": "『井原西鶴句碑』",
@@ -25484,6 +25670,24 @@
    "url": "https://www.memorial-object.jp/07555/"
   },
   {
+   "name": "『伊勢神宮式年遷宮参拝記念碑』",
+   "lat": 36.5315779,
+   "lng": 140.1832016,
+   "address": "栃木県芳賀郡茂木町大字茂木",
+   "access": "茂木駅から北東へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "栃木県",
+    "碑文",
+    "茂木町",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08468/"
+  },
+  {
    "name": "『伊勢神宮御遷宮記念』",
    "lat": 35.7712785,
    "lng": 139.8787709,
@@ -25658,6 +25862,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07994/"
+  },
+  {
+   "name": "『伊王野氏居館跡碑』",
+   "lat": 36.9590367,
+   "lng": 140.1594541,
+   "address": "栃木県那須郡那須町大字伊王野",
+   "access": "高久駅から約7.6km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "栃木県",
+    "歴史",
+    "碑文",
+    "那須町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08548/"
   },
   {
    "name": "『伊皿子坂』",
@@ -26257,6 +26479,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08209/"
+  },
+  {
+   "name": "『佐野人形協会』",
+   "lat": 36.3540428,
+   "lng": 139.5997632,
+   "address": "栃木県佐野市栃本町",
+   "access": "吉水駅から約2.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "佐野市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08494/"
   },
   {
    "name": "『佐野善作先生像』",
@@ -30242,6 +30480,23 @@
    "url": "https://www.memorial-object.jp/00260/"
   },
   {
+   "name": "『円石』",
+   "lat": 36.7586752,
+   "lng": 139.596059,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.4km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08504/"
+  },
+  {
    "name": "『円覚寺舎利殿』",
    "lat": 36.8078281,
    "lng": 139.7122102,
@@ -32144,6 +32399,23 @@
   },
   {
    "name": "『勝善神』",
+   "lat": 36.6109243,
+   "lng": 139.8306427,
+   "address": "栃木県宇都宮市岩原町",
+   "access": "東武宇都宮駅から約7.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "宇都宮市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08480/"
+  },
+  {
+   "name": "『勝善神』",
    "lat": 36.5394872,
    "lng": 139.8598228,
    "address": "栃木県宇都宮市鶴田町３３３２",
@@ -32715,6 +32987,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02707/"
+  },
+  {
+   "name": "『北向き地蔵』",
+   "lat": 36.9552943,
+   "lng": 140.1552379,
+   "address": "栃木県那須郡那須町大字伊王野",
+   "access": "高久駅から約7.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "地蔵",
+    "栃木県",
+    "那須町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08549/"
   },
   {
    "name": "『北向き地蔵』",
@@ -33331,6 +33620,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07745/"
+  },
+  {
+   "name": "『十九夜塔』",
+   "lat": 36.5515393,
+   "lng": 139.9348192,
+   "address": "栃木県宇都宮市下平出町",
+   "access": "宇都宮駅から約3.3km",
+   "categories": [
+    "公共施設"
+   ],
+   "tags": [
+    "宇都宮市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08481/"
   },
   {
    "name": "『十二天松方正義別荘跡』",
@@ -34168,7 +34473,7 @@
    "lat": 34.4350901,
    "lng": 134.895528,
    "address": "兵庫県淡路市志筑１９０３",
-   "access": "加太駅から約24.6km",
+   "access": "加太駅から直線で約24.6km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "道路沿い"
    ],
@@ -38918,6 +39223,23 @@
    "url": "https://www.memorial-object.jp/08412/"
   },
   {
+   "name": "『唐沢山県立自然公園』",
+   "lat": 36.3542434,
+   "lng": 139.5982071,
+   "address": "栃木県佐野市栃本町",
+   "access": "吉水駅から約2.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "佐野市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08495/"
+  },
+  {
    "name": "『唐獅子特別寄附者』",
    "lat": 33.5268826,
    "lng": 132.7667073,
@@ -40062,6 +40384,24 @@
    "url": "https://www.memorial-object.jp/05676/"
   },
   {
+   "name": "『国指定史跡 唐沢山城跡』",
+   "lat": 36.3542282,
+   "lng": 139.5982159,
+   "address": "栃木県佐野市富士町",
+   "access": "吉水駅から約2.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "佐野市",
+    "栃木県",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08496/"
+  },
+  {
    "name": "『国指定史跡 黒井城跡』",
    "lat": 35.1753633,
    "lng": 135.1007954,
@@ -41183,6 +41523,22 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00188_1.jpg",
    "url": "https://www.memorial-object.jp/00188/"
+  },
+  {
+   "name": "『在学舎此処』",
+   "lat": 37.0365379,
+   "lng": 140.172305,
+   "address": "栃木県那須郡那須町大字寄居",
+   "access": "豊原駅から約2.6km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "栃木県",
+    "那須町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08550/"
   },
   {
    "name": "『在林館(Gallery)』",
@@ -42489,6 +42845,23 @@
   },
   {
    "name": "『地蔵菩薩』",
+   "lat": 36.7600261,
+   "lng": 140.1443589,
+   "address": "栃木県那須郡那珂川町小口",
+   "access": "烏山駅から約12.2km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "地蔵",
+    "栃木県",
+    "那珂川町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08556/"
+  },
+  {
+   "name": "『地蔵菩薩』",
    "lat": 35.4270143,
    "lng": 139.608229,
    "address": "神奈川県横浜市南区蒔田町１０２",
@@ -43581,7 +43954,7 @@
    "lat": 34.402625,
    "lng": 134.8814239,
    "address": "兵庫県淡路市下司３２４",
-   "access": "加太駅から約23.1km",
+   "access": "加太駅から直線で約23.1km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -43772,6 +44145,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06900/"
+  },
+  {
+   "name": "『増長天』",
+   "lat": 36.7582815,
+   "lng": 139.5951015,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08505/"
   },
   {
    "name": "『増長天』",
@@ -45129,6 +45518,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03066/"
+  },
+  {
+   "name": "『大国様』",
+   "lat": 36.7590998,
+   "lng": 139.5956077,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.5km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08506/"
   },
   {
    "name": "『大地のシンフォニー “豊穣への祈り”』",
@@ -47474,6 +47879,22 @@
    "url": "https://www.memorial-object.jp/07654/"
   },
   {
+   "name": "『大谷平和観音』",
+   "lat": 36.5960302,
+   "lng": 139.8202106,
+   "address": "栃木県宇都宮市大谷町",
+   "access": "鹿沼駅から約5.8km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "宇都宮市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08482/"
+  },
+  {
    "name": "『大谷竹次郎翁像』",
    "lat": 35.1685599,
    "lng": 135.2747783,
@@ -47804,6 +48225,26 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00487/"
+  },
+  {
+   "name": "『大鳥居復元記念碑』",
+   "lat": 36.5315626,
+   "lng": 140.1832539,
+   "address": "栃木県芳賀郡茂木町大字茂木",
+   "access": "茂木駅から北東へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "動物",
+    "栃木県",
+    "碑文",
+    "茂木町",
+    "記念碑",
+    "鳥"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08469/"
   },
   {
    "name": "『大鳥居献納者名』",
@@ -48620,6 +49061,22 @@
    "url": "https://www.memorial-object.jp/07834/"
   },
   {
+   "name": "『天然記念物湯本温泉郷』",
+   "lat": 37.0987006,
+   "lng": 140.000921,
+   "address": "栃木県那須郡那須町大字湯本",
+   "access": "黒田原駅から約13.5km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "栃木県",
+    "那須町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08551/"
+  },
+  {
    "name": "『天然記念物馬場大門けやき並木石垣完成記念』",
    "lat": 35.6729536,
    "lng": 139.4792763,
@@ -49165,6 +49622,24 @@
    "url": "https://www.memorial-object.jp/07938/"
   },
   {
+   "name": "『天谷興平翁表彰碑』",
+   "lat": 36.5361991,
+   "lng": 140.1853196,
+   "address": "栃木県芳賀郡茂木町大字小井戸",
+   "access": "茂木駅から北東へ約700m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "栃木県",
+    "歴史",
+    "碑文",
+    "茂木町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08470/"
+  },
+  {
    "name": "『天野神社由緒』",
    "lat": 34.2833296,
    "lng": 134.8112372,
@@ -49426,6 +49901,22 @@
    "url": "https://www.memorial-object.jp/07626/"
   },
   {
+   "name": "『太郎モミ』",
+   "lat": 36.7619974,
+   "lng": 139.6091623,
+   "address": "栃木県日光市所野",
+   "access": "東武日光駅から約1.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08507/"
+  },
+  {
    "name": "『太郎八地蔵尊』",
    "lat": 34.7048937,
    "lng": 135.2326526,
@@ -49522,6 +50013,22 @@
    "url": "https://www.memorial-object.jp/07655/"
   },
   {
+   "name": "『太陽の門』",
+   "lat": 36.5667663,
+   "lng": 139.8676458,
+   "address": "栃木県宇都宮市桜４丁目",
+   "access": "東武宇都宮駅から約1.4km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "宇都宮市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08483/"
+  },
+  {
    "name": "『夫婦とは なんと佳いもの 向かい風』",
    "lat": 34.6490464,
    "lng": 135.1128496,
@@ -49578,6 +50085,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01739/"
+  },
+  {
+   "name": "『夫婦石』",
+   "lat": 36.9816881,
+   "lng": 140.1462755,
+   "address": "栃木県那須郡那須町大字芦野",
+   "access": "黒田原駅から約5.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "栃木県",
+    "那須町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08552/"
   },
   {
    "name": "『奇縁氷人石』",
@@ -53369,7 +53892,7 @@
    "lat": 34.5209229,
    "lng": 134.8788781,
    "address": "兵庫県淡路市室津２４５０",
-   "access": "林崎松江海岸駅から約16.6km",
+   "access": "林崎松江海岸駅から直線で約16.6km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "道路沿い"
    ],
@@ -53800,6 +54323,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01747/"
+  },
+  {
+   "name": "『密迹金剛』",
+   "lat": 36.7582691,
+   "lng": 139.5956299,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.4km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08508/"
   },
   {
    "name": "『富久江地蔵』",
@@ -54615,6 +55154,23 @@
    "url": "https://www.memorial-object.jp/03375/"
   },
   {
+   "name": "『寺子地蔵大菩薩』",
+   "lat": 36.9687655,
+   "lng": 140.1199644,
+   "address": "栃木県那須塩原市寺子",
+   "access": "高久駅から約4.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "地蔵",
+    "栃木県",
+    "那須塩原市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08538/"
+  },
+  {
    "name": "『寺尾稲荷道』",
    "lat": 35.5127428,
    "lng": 139.6797641,
@@ -54787,6 +55343,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05063/"
+  },
+  {
+   "name": "『寿老神』",
+   "lat": 36.7590803,
+   "lng": 139.5959861,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.4km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08509/"
   },
   {
    "name": "『小人地蔵』",
@@ -56782,6 +57354,23 @@
    "url": "https://www.memorial-object.jp/04278/"
   },
   {
+   "name": "『山王林道治山碑』",
+   "lat": 36.8422729,
+   "lng": 139.4572125,
+   "address": "栃木県日光市川俣",
+   "access": "東武日光駅から約17.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08510/"
+  },
+  {
    "name": "『山王神社屋根換』",
    "lat": 33.516941,
    "lng": 132.7614577,
@@ -58320,6 +58909,23 @@
    "url": "https://www.memorial-object.jp/07909/"
   },
   {
+   "name": "『巳待塔』",
+   "lat": 36.6109243,
+   "lng": 139.8305917,
+   "address": "栃木県宇都宮市岩原町",
+   "access": "東武宇都宮駅から約7.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "宇都宮市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08484/"
+  },
+  {
    "name": "『巽地蔵(田井ケ浜趾)』",
    "lat": 34.8009608,
    "lng": 134.6453636,
@@ -58851,6 +59457,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04399/"
+  },
+  {
+   "name": "『布袋尊』",
+   "lat": 36.7591262,
+   "lng": 139.595758,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.4km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08511/"
   },
   {
    "name": "『布袋尊』",
@@ -60246,6 +60868,23 @@
    "url": "https://www.memorial-object.jp/08423/"
   },
   {
+   "name": "『平和祈念之碑』",
+   "lat": 36.5363874,
+   "lng": 140.184656,
+   "address": "栃木県芳賀郡茂木町大字茂木",
+   "access": "茂木駅から北東へ約690m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "栃木県",
+    "碑文",
+    "茂木町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08471/"
+  },
+  {
    "name": "『平和観音』",
    "lat": 35.7737972,
    "lng": 139.4961222,
@@ -61393,6 +62032,25 @@
   },
   {
    "name": "『庚申供養塔』",
+   "lat": 36.7427928,
+   "lng": 139.5649575,
+   "address": "栃木県日光市清滝１丁目",
+   "access": "東武日光駅から約4.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "供養塔",
+    "庚申塔",
+    "日光市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08512/"
+  },
+  {
+   "name": "『庚申供養塔』",
    "lat": 35.1411039,
    "lng": 139.628272,
    "address": "神奈川県三浦市晴海町",
@@ -61559,6 +62217,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08338/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 36.7427627,
+   "lng": 139.564936,
+   "address": "栃木県日光市清滝１丁目",
+   "access": "東武日光駅から約4.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "庚申塔",
+    "日光市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08513/"
   },
   {
    "name": "『庚申塔』",
@@ -63576,6 +64252,23 @@
    "url": "https://www.memorial-object.jp/03452/"
   },
   {
+   "name": "『延命地蔵大士』",
+   "lat": 36.7528268,
+   "lng": 139.5903647,
+   "address": "栃木県日光市本町",
+   "access": "東武日光駅から約2.6km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "地蔵",
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08514/"
+  },
+  {
    "name": "『延命地蔵尊』",
    "lat": 35.544572,
    "lng": 134.8064022,
@@ -64384,6 +65077,22 @@
   },
   {
    "name": "『弁財天』",
+   "lat": 36.7590125,
+   "lng": 139.5959187,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.4km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08515/"
+  },
+  {
+   "name": "『弁財天』",
    "lat": 35.8007694,
    "lng": 139.2947119,
    "address": "東京都青梅市今寺１丁目５３０",
@@ -65177,6 +65886,23 @@
    "url": "https://www.memorial-object.jp/00984/"
   },
   {
+   "name": "『彰徳碑』",
+   "lat": 36.5363694,
+   "lng": 140.1847462,
+   "address": "栃木県芳賀郡茂木町大字茂木",
+   "access": "茂木駅から北東へ約690m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "栃木県",
+    "碑文",
+    "茂木町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08472/"
+  },
+  {
    "name": "『彰忠碑』",
    "lat": 35.45042,
    "lng": 139.6256174,
@@ -65342,6 +66068,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03379/"
+  },
+  {
+   "name": "『征馬の碑』",
+   "lat": 36.9479064,
+   "lng": 140.1040491,
+   "address": "栃木県那須塩原市越堀",
+   "access": "黒磯駅から約4.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "栃木県",
+    "碑文",
+    "那須塩原市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08539/"
   },
   {
    "name": "『待ち合わせコーナー「緑玉」』",
@@ -65621,6 +66364,22 @@
    "url": "https://www.memorial-object.jp/06415/"
   },
   {
+   "name": "『得大勢至菩薩』",
+   "lat": 36.7428304,
+   "lng": 139.5649816,
+   "address": "栃木県日光市清滝１丁目",
+   "access": "東武日光駅から約4.9km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08516/"
+  },
+  {
    "name": "『從是八十八ヶ所道』",
    "lat": 34.649039,
    "lng": 135.1112413,
@@ -65679,6 +66438,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07399/"
+  },
+  {
+   "name": "『御仮屋跡』",
+   "lat": 36.9437459,
+   "lng": 140.1039732,
+   "address": "栃木県那須塩原市鍋掛",
+   "access": "黒磯駅から約4.9km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "栃木県",
+    "歴史",
+    "那須塩原市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08540/"
   },
   {
    "name": "『御休息所前多門』",
@@ -69515,6 +70291,22 @@
   },
   {
    "name": "『恋人の聖地』",
+   "lat": 37.129792,
+   "lng": 140.0391383,
+   "address": "栃木県那須郡那須町大字大島",
+   "access": "豊原駅から約13.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "栃木県",
+    "那須町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08553/"
+  },
+  {
+   "name": "『恋人の聖地』",
    "lat": 36.7644872,
    "lng": 140.4058172,
    "address": "茨城県久慈郡大子町大字袋田",
@@ -69717,6 +70509,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01900/"
+  },
+  {
+   "name": "『恵比寿神』",
+   "lat": 36.7590253,
+   "lng": 139.5961595,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.4km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08517/"
   },
   {
    "name": "『恵比寿神』",
@@ -71154,6 +71962,22 @@
    "url": "https://www.memorial-object.jp/05014/"
   },
   {
+   "name": "『我らここに学ぶ』",
+   "lat": 36.5516399,
+   "lng": 139.928561,
+   "address": "栃木県宇都宮市陽東７丁目",
+   "access": "宇都宮駅から約2.8km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "宇都宮市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08485/"
+  },
+  {
    "name": "『我国塗装発祥之地記念碑』",
    "lat": 35.4392175,
    "lng": 139.6508707,
@@ -71209,6 +72033,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01295/"
+  },
+  {
+   "name": "『戦場ケ原開拓之碑』",
+   "lat": 36.7781641,
+   "lng": 139.4570679,
+   "address": "栃木県日光市中宮祠",
+   "access": "間藤駅から約13.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08518/"
   },
   {
    "name": "『戦役凱旋之碑』",
@@ -72487,6 +73328,24 @@
    "url": "https://www.memorial-object.jp/02273/"
   },
   {
+   "name": "『拝殿改築記念碑』",
+   "lat": 36.5315518,
+   "lng": 140.183317,
+   "address": "栃木県芳賀郡茂木町大字茂木",
+   "access": "茂木駅から北東へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "栃木県",
+    "碑文",
+    "茂木町",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08473/"
+  },
+  {
    "name": "『拾参塚諸縁供養碑』",
    "lat": 35.4907659,
    "lng": 139.5675445,
@@ -72503,6 +73362,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04171/"
+  },
+  {
+   "name": "『持国天』",
+   "lat": 36.7582562,
+   "lng": 139.5951363,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08519/"
   },
   {
    "name": "『持国天』",
@@ -75148,6 +76023,24 @@
    "url": "https://www.memorial-object.jp/08339/"
   },
   {
+   "name": "『日光型庚申塔』",
+   "lat": 36.7516335,
+   "lng": 139.5940731,
+   "address": "栃木県日光市匠町",
+   "access": "東武日光駅から約2.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "庚申塔",
+    "日光市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08520/"
+  },
+  {
    "name": "『日光寺庫裏新築寄付者御芳名』",
    "lat": 34.3366157,
    "lng": 134.7485756,
@@ -76128,7 +77021,7 @@
    "lat": 34.3123916,
    "lng": 134.7711613,
    "address": "兵庫県南あわじ市榎列下幡多４１５",
-   "access": "鳴門駅から約21.0km",
+   "access": "鳴門駅から直線で約21.0km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -78693,6 +79586,23 @@
    "url": "https://www.memorial-object.jp/01905/"
   },
   {
+   "name": "『明治天皇御製碑』",
+   "lat": 36.7392318,
+   "lng": 139.4966822,
+   "address": "栃木県日光市中宮祠",
+   "access": "間藤駅から約10.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08521/"
+  },
+  {
    "name": "『明治天皇戸塚行在所址』",
    "lat": 35.3976173,
    "lng": 139.530526,
@@ -79223,6 +80133,22 @@
    "url": "https://www.memorial-object.jp/03938/"
   },
   {
+   "name": "『星と人間の間』",
+   "lat": 36.5666955,
+   "lng": 139.8680403,
+   "address": "栃木県宇都宮市桜４丁目",
+   "access": "東武宇都宮駅から約1.4km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "宇都宮市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08486/"
+  },
+  {
    "name": "『星界洲』",
    "lat": 35.7215642,
    "lng": 139.673167,
@@ -79345,7 +80271,7 @@
    "lat": 34.4004728,
    "lng": 134.8833229,
    "address": "兵庫県淡路市里２５５",
-   "access": "加太駅から約22.8km",
+   "access": "加太駅から直線で約22.8km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -79976,7 +80902,7 @@
    "lat": 34.4671626,
    "lng": 134.9394716,
    "address": "兵庫県淡路市佐野８２１",
-   "access": "舞子駅から約20.4km",
+   "access": "舞子駅から直線で約20.4km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -81327,7 +82253,7 @@
    "lat": 34.434928,
    "lng": 134.8957211,
    "address": "兵庫県淡路市志筑１９０３",
-   "access": "加太駅から約24.5km",
+   "access": "加太駅から直線で約24.5km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "道路沿い"
    ],
@@ -84992,7 +85918,7 @@
    "lat": 34.3122915,
    "lng": 134.7711672,
    "address": "兵庫県南あわじ市榎列下幡多４１５",
-   "access": "鳴門駅から約21.0km",
+   "access": "鳴門駅から直線で約21.0km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -87893,6 +88819,23 @@
    "url": "https://www.memorial-object.jp/07957/"
   },
   {
+   "name": "『標高八百尺』",
+   "lat": 36.3530977,
+   "lng": 139.600836,
+   "address": "栃木県佐野市富士町",
+   "access": "吉水駅から約2.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "佐野市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08497/"
+  },
+  {
    "name": "『権太夫大神』",
    "lat": 35.6532981,
    "lng": 139.7403352,
@@ -90337,6 +91280,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04281/"
+  },
+  {
+   "name": "『毘陀羅』",
+   "lat": 36.7580292,
+   "lng": 139.5945352,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08522/"
   },
   {
    "name": "『毛野村道路元標』",
@@ -93001,7 +93960,7 @@
    "lat": 34.3360577,
    "lng": 134.7478965,
    "address": "兵庫県南あわじ市松帆櫟田１３３",
-   "access": "鳴門駅から約21.6km",
+   "access": "鳴門駅から直線で約21.6km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -96015,7 +96974,7 @@
    "lat": 34.2698867,
    "lng": 134.737635,
    "address": "兵庫県南あわじ市賀集八幡７０７",
-   "access": "鳴門駅から約15.6km",
+   "access": "鳴門駅から直線で約15.6km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -97395,7 +98354,7 @@
    "lat": 34.2605198,
    "lng": 134.7500907,
    "address": "兵庫県南あわじ市賀集鍛治屋８７",
-   "access": "鳴門駅から約15.8km",
+   "access": "鳴門駅から直線で約15.8km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -98472,6 +99431,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04339/"
+  },
+  {
+   "name": "『烏摩勤伽』",
+   "lat": 36.7580386,
+   "lng": 139.5944738,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08523/"
   },
   {
    "name": "『烏森の地蔵』",
@@ -100483,6 +101458,23 @@
    "url": "https://www.memorial-object.jp/08253/"
   },
   {
+   "name": "『獨協医科大学慰霊碑』",
+   "lat": 36.4725827,
+   "lng": 139.8204804,
+   "address": "栃木県下都賀郡壬生町大字北小林",
+   "access": "おもちゃのまち駅から約1.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "壬生町",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08546/"
+  },
+  {
    "name": "『玄冶店跡』",
    "lat": 35.6866564,
    "lng": 139.7821203,
@@ -101579,7 +102571,7 @@
    "lat": 34.3362352,
    "lng": 134.7478978,
    "address": "兵庫県南あわじ市松帆櫟田１３３",
-   "access": "鳴門駅から約21.6km",
+   "access": "鳴門駅から直線で約21.6km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -102322,6 +103314,23 @@
    "url": "https://www.memorial-object.jp/05403/"
   },
   {
+   "name": "『畜魂碑』",
+   "lat": 36.7436141,
+   "lng": 140.1648398,
+   "address": "栃木県那須郡那珂川町馬頭",
+   "access": "烏山駅から約10.4km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "栃木県",
+    "碑文",
+    "那珂川町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08557/"
+  },
+  {
    "name": "『畠山地蔵尊縁起碑』",
    "lat": 35.4579084,
    "lng": 139.5314533,
@@ -102803,6 +103812,24 @@
    "url": "https://www.memorial-object.jp/04091/"
   },
   {
+   "name": "『白澤の一里塚』",
+   "lat": 36.63825,
+   "lng": 139.9484739,
+   "address": "栃木県宇都宮市白沢町",
+   "access": "宝積寺駅から約2.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "一里塚",
+    "宇都宮市",
+    "栃木県",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08487/"
+  },
+  {
    "name": "『白瀬日本南極探検隊』",
    "lat": 35.7117894,
    "lng": 139.4089478,
@@ -103220,7 +104247,7 @@
    "lat": 34.3123449,
    "lng": 134.7711253,
    "address": "兵庫県南あわじ市榎列下幡多４１５",
-   "access": "鳴門駅から約21.0km",
+   "access": "鳴門駅から直線で約21.0km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -104870,6 +105897,22 @@
    "url": "https://www.memorial-object.jp/02311/"
   },
   {
+   "name": "『益子ポン太』",
+   "lat": 36.4648184,
+   "lng": 140.1060167,
+   "address": "栃木県芳賀郡益子町大字益子",
+   "access": "益子駅から約1.6km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "栃木県",
+    "益子町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08544/"
+  },
+  {
    "name": "『益賀句碑』",
    "lat": 35.7243019,
    "lng": 139.8150734,
@@ -106282,6 +107325,22 @@
    "url": "https://www.memorial-object.jp/03006/"
   },
   {
+   "name": "『石川石材店』",
+   "lat": 36.9791331,
+   "lng": 140.0478618,
+   "address": "栃木県那須塩原市黒磯",
+   "access": "黒磯駅から約1.5km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "栃木県",
+    "那須塩原市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08541/"
+  },
+  {
    "name": "『石幢六角地蔵尊』",
    "lat": 35.7364239,
    "lng": 139.5363673,
@@ -107228,6 +108287,22 @@
    "url": "https://www.memorial-object.jp/08122/"
   },
   {
+   "name": "『磐裂神社』",
+   "lat": 36.7520428,
+   "lng": 139.5962115,
+   "address": "栃木県日光市匠町",
+   "access": "東武日光駅から約2.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08524/"
+  },
+  {
    "name": "『磤馭盧島神社』",
    "lat": 34.3122689,
    "lng": 134.7669717,
@@ -107249,7 +108324,7 @@
    "lat": 34.3121531,
    "lng": 134.7710279,
    "address": "兵庫県南あわじ市榎列下幡多４１５",
-   "access": "鳴門駅から約21.0km",
+   "access": "鳴門駅から直線で約21.0km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "水辺"
    ],
@@ -109356,6 +110431,22 @@
   },
   {
    "name": "『福禄寿』",
+   "lat": 36.7589548,
+   "lng": 139.5962274,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.4km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08525/"
+  },
+  {
+   "name": "『福禄寿』",
    "lat": 34.4673839,
    "lng": 134.9393479,
    "address": "兵庫県淡路市佐野",
@@ -109603,7 +110694,7 @@
    "lat": 34.2579347,
    "lng": 134.7184076,
    "address": "兵庫県南あわじ市福良乙１４",
-   "access": "鳴門駅から約13.4km",
+   "access": "鳴門駅から直線で約13.4km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "道路沿い"
    ],
@@ -110390,6 +111481,23 @@
    "url": "https://www.memorial-object.jp/08329/"
   },
   {
+   "name": "『空烟地蔵』",
+   "lat": 36.7588036,
+   "lng": 139.5953991,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "地蔵",
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08526/"
+  },
+  {
    "name": "『空爆犠牲者之碑』",
    "lat": 34.6501461,
    "lng": 134.9792935,
@@ -110603,6 +111711,22 @@
    "url": "https://www.memorial-object.jp/01410/"
   },
   {
+   "name": "『立木観音』",
+   "lat": 36.7309394,
+   "lng": 139.4916453,
+   "address": "栃木県日光市中宮祠",
+   "access": "間藤駅から約9.4km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08527/"
+  },
+  {
    "name": "『立江地蔵尊』",
    "lat": 35.6676997,
    "lng": 134.7616527,
@@ -110728,6 +111852,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05566/"
+  },
+  {
+   "name": "『竣工記念』",
+   "lat": 36.6846898,
+   "lng": 139.9470204,
+   "address": "栃木県さくら市大中",
+   "access": "氏家駅から約1.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "1950年代前半",
+    "さくら市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08465/"
   },
   {
    "name": "『竣工記念』",
@@ -116637,6 +117778,22 @@
    "url": "https://www.memorial-object.jp/02974/"
   },
   {
+   "name": "『紀念』",
+   "lat": 36.5363656,
+   "lng": 140.1847596,
+   "address": "栃木県芳賀郡茂木町大字茂木",
+   "access": "茂木駅から北東へ約690m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "栃木県",
+    "茂木町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08474/"
+  },
+  {
    "name": "『紀念之松』",
    "lat": 34.8372482,
    "lng": 134.5754237,
@@ -116825,6 +117982,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08055/"
+  },
+  {
+   "name": "『紫式部の墓』",
+   "lat": 36.3799274,
+   "lng": 139.8088965,
+   "address": "栃木県下野市紫",
+   "access": "小金井駅から約3.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "下野市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08543/"
   },
   {
    "name": "『細山郷土資料館(撤去)』",
@@ -117288,6 +118461,24 @@
    "url": "https://www.memorial-object.jp/03043/"
   },
   {
+   "name": "『綱川学之助翁之碑』",
+   "lat": 36.5361989,
+   "lng": 140.1853621,
+   "address": "栃木県芳賀郡茂木町大字小井戸",
+   "access": "茂木駅から北東へ約700m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "栃木県",
+    "歴史",
+    "碑文",
+    "茂木町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08475/"
+  },
+  {
    "name": "『網干神社』",
    "lat": 34.7803942,
    "lng": 134.5896782,
@@ -117511,7 +118702,7 @@
    "lat": 34.2694451,
    "lng": 134.7394046,
    "address": "兵庫県南あわじ市賀集八幡６３０",
-   "access": "鳴門駅から約15.7km",
+   "access": "鳴門駅から直線で約15.7km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "道路沿い"
    ],
@@ -118310,6 +119501,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01494/"
+  },
+  {
+   "name": "『聖徳太子』",
+   "lat": 36.5362293,
+   "lng": 140.1862469,
+   "address": "栃木県芳賀郡茂木町大字小井戸",
+   "access": "茂木駅から北東へ約750m",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "栃木県",
+    "茂木町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08476/"
   },
   {
    "name": "『聖徳太子』",
@@ -119638,6 +120845,23 @@
    "url": "https://www.memorial-object.jp/01825/"
   },
   {
+   "name": "『芭蕉翁塚 (杜鵑の墓)』",
+   "lat": 36.9914783,
+   "lng": 140.0626661,
+   "address": "栃木県那須郡那須町大字高久甲",
+   "access": "高久駅から約2.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "栃木県",
+    "歴史",
+    "那須町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08554/"
+  },
+  {
    "name": "『花ことば』",
    "lat": 35.736396899999995,
    "lng": 140.26987789999998,
@@ -120363,6 +121587,22 @@
    "url": "https://www.memorial-object.jp/08317/"
   },
   {
+   "name": "『茂木桔梗城跡詰』",
+   "lat": 36.5369604,
+   "lng": 140.1845055,
+   "address": "栃木県芳賀郡茂木町大字小井戸",
+   "access": "茂木駅から北へ約740m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "栃木県",
+    "茂木町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08477/"
+  },
+  {
    "name": "『茨城師範学校跡』",
    "lat": 36.3748832,
    "lng": 140.4793664,
@@ -120822,6 +122062,23 @@
    "url": "https://www.memorial-object.jp/07847/"
   },
   {
+   "name": "『荒澤地蔵尊』",
+   "lat": 36.7477922,
+   "lng": 139.5747975,
+   "address": "栃木県日光市清滝１丁目",
+   "access": "東武日光駅から約4.0km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "地蔵",
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08528/"
+  },
+  {
    "name": "『荒神山堰堤』",
    "lat": 34.7442956,
    "lng": 135.2553618,
@@ -121024,6 +122281,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03860/"
+  },
+  {
+   "name": "『菅笠日限地蔵堂』",
+   "lat": 36.7516418,
+   "lng": 139.594556,
+   "address": "栃木県日光市匠町",
+   "access": "東武日光駅から約2.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "地蔵",
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08529/"
   },
   {
    "name": "『菅谷小学校跡』",
@@ -121421,7 +122695,7 @@
    "lat": 34.3128588,
    "lng": 134.771056,
    "address": "兵庫県南あわじ市榎列下幡多４１５",
-   "access": "鳴門駅から約21.1km",
+   "access": "鳴門駅から直線で約21.1km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -125270,6 +126544,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07817/"
+  },
+  {
+   "name": "『記念碑』",
+   "lat": 36.6106237,
+   "lng": 139.8274414,
+   "address": "栃木県宇都宮市岩原町",
+   "access": "鹿沼駅から約7.2km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "宇都宮市",
+    "栃木県",
+    "碑文",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08488/"
   },
   {
    "name": "『記念碑』",
@@ -129423,6 +130715,23 @@
    "url": "https://www.memorial-object.jp/08456/"
   },
   {
+   "name": "『足尾朝鮮人強制連行犠牲者追悼碑』",
+   "lat": 36.6345525,
+   "lng": 139.4210273,
+   "address": "栃木県日光市足尾町",
+   "access": "通洞駅から約1.7km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08530/"
+  },
+  {
    "name": "『足尾町道路元標』",
    "lat": 36.6367856,
    "lng": 139.4410676,
@@ -131230,24 +132539,6 @@
    "url": "https://www.memorial-object.jp/00458/"
   },
   {
-   "name": "『道正塚』",
-   "lat": 35.6603255,
-   "lng": 139.5321359,
-   "address": "東京都調布市上石原１丁目３５",
-   "access": "西調布駅から北東へ約400m",
-   "categories": [
-    "道路沿い"
-   ],
-   "tags": [
-    "京王線",
-    "京王電鉄",
-    "東京都",
-    "調布市"
-   ],
-   "image": "",
-   "url": "https://www.memorial-object.jp/00458/"
-  },
-  {
    "name": "『道灌橋之跡』",
    "lat": 35.7203018,
    "lng": 139.6015475,
@@ -132071,6 +133362,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08058/"
+  },
+  {
+   "name": "『那羅延金剛』",
+   "lat": 36.7582412,
+   "lng": 139.5955997,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.4km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08531/"
   },
   {
    "name": "『邨井天界霊神』",
@@ -133206,6 +134513,22 @@
    "url": "https://www.memorial-object.jp/04348/"
   },
   {
+   "name": "『金子石材』",
+   "lat": 36.9454014,
+   "lng": 140.0901394,
+   "address": "栃木県那須塩原市鍋掛",
+   "access": "黒磯駅から約3.8km",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "栃木県",
+    "那須塩原市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08542/"
+  },
+  {
    "name": "『金山彦之大神 猿田彦之大神』",
    "lat": 34.7196979,
    "lng": 135.4126663,
@@ -134122,6 +135445,22 @@
    "url": "https://www.memorial-object.jp/03049/"
   },
   {
+   "name": "『鍵陀羅』",
+   "lat": 36.758012,
+   "lng": 139.5945164,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08532/"
+  },
+  {
    "name": "『鎌倉古道』",
    "lat": 35.7019819,
    "lng": 139.2573416,
@@ -134539,6 +135878,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07393/"
+  },
+  {
+   "name": "『鎮魂碑』",
+   "lat": 36.8384088,
+   "lng": 139.9532202,
+   "address": "栃木県大田原市薄葉",
+   "access": "野崎駅から南西へ約730m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "大田原市",
+    "宇都宮線",
+    "栃木県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08464/"
   },
   {
    "name": "『鎮魂碑』",
@@ -135183,7 +136541,7 @@
    "lat": 34.3366712,
    "lng": 134.7482003,
    "address": "兵庫県南あわじ市松帆櫟田１９０",
-   "access": "鳴門駅から約21.7km",
+   "access": "鳴門駅から直線で約21.7km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -136966,6 +138324,22 @@
    "url": "https://www.memorial-object.jp/01009/"
   },
   {
+   "name": "『阿跋摩羅』",
+   "lat": 36.7580566,
+   "lng": 139.594497,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08533/"
+  },
+  {
    "name": "『阿閇村道路元標』",
    "lat": 34.7270601,
    "lng": 134.8763267,
@@ -137107,6 +138481,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01667/"
+  },
+  {
+   "name": "『陶のね』",
+   "lat": 36.4659986,
+   "lng": 140.1072902,
+   "address": "栃木県芳賀郡益子町大字益子",
+   "access": "益子駅から約1.7km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "栃木県",
+    "益子町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08545/"
   },
   {
    "name": "『陸上交通殉難者追討之碑』",
@@ -137580,6 +138970,22 @@
   },
   {
    "name": "『雷神』",
+   "lat": 36.7582396,
+   "lng": 139.5951142,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08534/"
+  },
+  {
+   "name": "『雷神』",
    "lat": 35.7111074,
    "lng": 139.7964151,
    "address": "東京都台東区浅草１丁目１８",
@@ -137600,6 +139006,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01850/"
+  },
+  {
+   "name": "『雷電神社跡』",
+   "lat": 36.2246877,
+   "lng": 139.6730856,
+   "address": "栃木県栃木市藤岡町内野",
+   "access": "板倉東洋大前駅から約2.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "栃木市",
+    "栃木県",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08492/"
   },
   {
    "name": "『雷電稲荷神社』",
@@ -140038,6 +141461,23 @@
   },
   {
    "name": "『頌徳碑』",
+   "lat": 36.5361991,
+   "lng": 140.1852874,
+   "address": "栃木県芳賀郡茂木町大字小井戸",
+   "access": "茂木駅から北東へ約700m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "栃木県",
+    "碑文",
+    "茂木町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08478/"
+  },
+  {
+   "name": "『頌徳碑』",
    "lat": 34.7371414,
    "lng": 135.3207989,
    "address": "兵庫県西宮市郷免町４",
@@ -140423,7 +141863,7 @@
    "lat": 34.3121819,
    "lng": 134.7709809,
    "address": "兵庫県南あわじ市榎列下幡多４１５",
-   "access": "鳴門駅から約21.0km",
+   "access": "鳴門駅から直線で約21.0km（淡路島にあり、島内に鉄道はありません。ポートピア洲本・灘ターミナルセンター・岩屋港への船などでの移動が必要です）",
    "categories": [
     "水辺"
    ],
@@ -140730,6 +142170,22 @@
   },
   {
    "name": "『風神』",
+   "lat": 36.7582648,
+   "lng": 139.5950807,
+   "address": "栃木県日光市山内",
+   "access": "東武日光駅から約2.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08535/"
+  },
+  {
+   "name": "『風神』",
    "lat": 35.7111127,
    "lng": 139.7963209,
    "address": "東京都台東区浅草１丁目１８",
@@ -140768,6 +142224,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05791/"
+  },
+  {
+   "name": "『風見鶏の館・旧トーマス邸』",
+   "lat": 36.8078434,
+   "lng": 139.7120033,
+   "address": "栃木県日光市鬼怒川温泉大原",
+   "access": "東武ワールドスクウェア駅から東へ約260m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "日光市",
+    "東武鉄道",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08462/"
   },
   {
    "name": "『風車の弥七の墓』",
@@ -141506,6 +142979,22 @@
   },
   {
    "name": "『馬力神』",
+   "lat": 36.5536418,
+   "lng": 139.9337192,
+   "address": "栃木県宇都宮市陽東８丁目",
+   "access": "宇都宮駅から約3.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "宇都宮市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08489/"
+  },
+  {
+   "name": "『馬力神』",
    "lat": 36.57099,
    "lng": 139.92574,
    "address": "栃木県宇都宮市越戸町３",
@@ -141588,6 +143077,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03948/"
+  },
+  {
+   "name": "『馬頭観世音』",
+   "lat": 36.9599311,
+   "lng": 140.159437,
+   "address": "栃木県那須郡那須町大字伊王野",
+   "access": "高久駅から約7.6km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "栃木県",
+    "那須町",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08555/"
   },
   {
    "name": "『馬頭観世音』",
@@ -143855,6 +145361,23 @@
    "url": "https://www.memorial-object.jp/06126/"
   },
   {
+   "name": "『高雄龍虎塔』",
+   "lat": 36.8073179,
+   "lng": 139.7123616,
+   "address": "栃木県日光市鬼怒川温泉大原",
+   "access": "東武ワールドスクウェア駅から南東へ約310m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "日光市",
+    "東武鉄道",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08463/"
+  },
+  {
    "name": "『髙濵村道路元標』",
    "lat": 34.8044834,
    "lng": 134.6827946,
@@ -143947,6 +145470,23 @@
    "url": "https://www.memorial-object.jp/07621/"
   },
   {
+   "name": "『鬼怒川の渡し跡』",
+   "lat": 36.6489551,
+   "lng": 139.9513277,
+   "address": "栃木県宇都宮市下ケ橋町",
+   "access": "宝積寺駅から約3.2km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "宇都宮市",
+    "栃木県",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08490/"
+  },
+  {
    "name": "『鬼怒砂丘慰霊塔』",
    "lat": 36.1321409,
    "lng": 139.9569602,
@@ -144021,6 +145561,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07179/"
+  },
+  {
+   "name": "『魂』",
+   "lat": 36.5365445,
+   "lng": 140.1844596,
+   "address": "栃木県芳賀郡茂木町大字茂木",
+   "access": "茂木駅から北東へ約700m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "栃木県",
+    "茂木町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08479/"
   },
   {
    "name": "『魂針供養之塔』",
@@ -146794,6 +148350,22 @@
    "url": "https://www.memorial-object.jp/04429/"
   },
   {
+   "name": "『黎明』",
+   "lat": 36.5091421,
+   "lng": 139.860074,
+   "address": "栃木県宇都宮市西川田４丁目",
+   "access": "西川田駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "宇都宮市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08491/"
+  },
+  {
    "name": "『黎明之灯』",
    "lat": 34.684216,
    "lng": 135.1736396,
@@ -147031,6 +148603,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03779/"
+  },
+  {
+   "name": "『龍天井』",
+   "lat": 36.7307669,
+   "lng": 139.492106,
+   "address": "栃木県日光市中宮祠",
+   "access": "間藤駅から約9.4km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "日光市",
+    "栃木県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08536/"
   },
   {
    "name": "『龍松院由来』",
