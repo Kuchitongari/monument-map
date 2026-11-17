@@ -8,8 +8,8 @@
   "photos": 0,
   "names": []
  },
- "generated": "2026-11-15",
- "count": 8754,
+ "generated": "2026-11-17",
+ "count": 8999,
  "items": [
   {
    "name": "???wako Shintani『MAN』",
@@ -2664,6 +2664,22 @@
    "url": "https://www.memorial-object.jp/00204/"
   },
   {
+   "name": "『JRAメモリアルゲート』",
+   "lat": 35.726845,
+   "lng": 139.959,
+   "address": "千葉県船橋市古作２丁目",
+   "access": "船橋法典駅から約0.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "船橋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08942/"
+  },
+  {
    "name": "『John K. Emmerson』",
    "lat": 36.7647811,
    "lng": 139.5936466,
@@ -3661,6 +3677,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05224/"
+  },
+  {
+   "name": "『Steel Knight』",
+   "lat": 35.8027882,
+   "lng": 139.7200317,
+   "address": "埼玉県川口市栄町３丁目８",
+   "access": "川口駅から北東へ約250m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "京浜東北線",
+    "埼玉県",
+    "川口市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09018/"
   },
   {
    "name": "『Suicaのペンギン』",
@@ -4871,6 +4905,27 @@
    "url": "https://www.memorial-object.jp/06890/"
   },
   {
+   "name": "『【市指定文化財】 粟野庚申講・粟野庚申塔群』",
+   "lat": 35.7847037,
+   "lng": 139.9991062,
+   "address": "千葉県鎌ケ谷市粟野",
+   "access": "新鎌ヶ谷駅から北へ約490m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "庚申塔",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08880/"
+  },
+  {
    "name": "『あかりの木』",
    "lat": 34.6884484,
    "lng": 135.1959546,
@@ -5620,6 +5675,42 @@
   },
   {
    "name": "『お地蔵様』",
+   "lat": 35.751284,
+   "lng": 140.2838502,
+   "address": "千葉県印旛郡酒々井町伊篠",
+   "access": "宗吾参道駅から南東へ約300m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京成本線",
+    "京成電鉄",
+    "千葉県",
+    "地蔵",
+    "酒々井町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08932/"
+  },
+  {
+   "name": "『お地蔵様』",
+   "lat": 35.7709128,
+   "lng": 140.2814291,
+   "address": "千葉県成田市台方８８８",
+   "access": "公津の杜駅から約1.7km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "千葉県",
+    "地蔵",
+    "成田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08803/"
+  },
+  {
+   "name": "『お地蔵様』",
    "lat": 35.7822352,
    "lng": 140.3138234,
    "address": "千葉県成田市幸町９１０",
@@ -6027,6 +6118,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07011/"
+  },
+  {
+   "name": "『お祭屋台蔵』",
+   "lat": 35.9000681,
+   "lng": 139.4874083,
+   "address": "埼玉県川越市岸町２丁目２１",
+   "access": "川越駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09045/"
   },
   {
    "name": "『お稲荷さま』",
@@ -6644,6 +6751,22 @@
    "url": "https://www.memorial-object.jp/07404/"
   },
   {
+   "name": "『かぼす 別名「ドージ」』",
+   "lat": 35.7417679,
+   "lng": 140.2012624,
+   "address": "千葉県佐倉市臼井田",
+   "access": "京成臼井駅から約2.3km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "佐倉市",
+    "千葉県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08873/"
+  },
+  {
    "name": "『かまぼこの発祥地』",
    "lat": 34.695302,
    "lng": 135.1902601,
@@ -6847,6 +6970,24 @@
    "url": "https://www.memorial-object.jp/01431/"
   },
   {
+   "name": "『きゅうり』",
+   "lat": 35.8456477,
+   "lng": 139.7984257,
+   "address": "埼玉県草加市松原１丁目３",
+   "access": "獨協大学前〈草加松原〉駅から北西へ約320m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "埼玉県",
+    "東武スカイツリーライン",
+    "東武鉄道",
+    "草加市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09021/"
+  },
+  {
    "name": "『きょうげん塚』",
    "lat": 35.7243895,
    "lng": 139.8160269,
@@ -6996,6 +7137,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03057/"
+  },
+  {
+   "name": "『ぐち聞きさま』",
+   "lat": 35.9111646,
+   "lng": 139.4844868,
+   "address": "埼玉県川越市南通町１９",
+   "access": "本川越駅から南東へ約440m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "西武新宿線",
+    "西武鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09008/"
   },
   {
    "name": "『ぐるぐるまっぷ』",
@@ -7627,6 +7786,24 @@
    "url": "https://www.memorial-object.jp/02520/"
   },
   {
+   "name": "『すくすく』",
+   "lat": 35.8166224,
+   "lng": 139.6766768,
+   "address": "埼玉県戸田市上戸田４丁目９",
+   "access": "戸田駅から東へ約650m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "埼京線",
+    "埼玉県",
+    "戸田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09033/"
+  },
+  {
    "name": "『すぐ人丸辻』",
    "lat": 34.6501945,
    "lng": 134.9997992,
@@ -8094,6 +8271,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04074/"
+  },
+  {
+   "name": "『てすと』",
+   "lat": 35.7047604,
+   "lng": 140.0691516,
+   "address": "千葉県習志野市東習志野７丁目５",
+   "access": "八千代台駅から約2.0km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "千葉県",
+    "習志野市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08808/"
   },
   {
    "name": "『とげぬき地蔵分尊』",
@@ -9315,6 +9508,27 @@
    "url": "https://www.memorial-object.jp/hotatekannon_00017/"
   },
   {
+   "name": "『ほていあおいの命像』",
+   "lat": 35.7037569,
+   "lng": 139.9908673,
+   "address": "千葉県船橋市本町６丁目",
+   "access": "船橋駅から北東へ約560m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "中央総武線",
+    "千葉県",
+    "東武野田線",
+    "東武鉄道",
+    "総武線",
+    "船橋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08835/"
+  },
+  {
    "name": "『ほととぎすの碑』",
    "lat": 35.715263,
    "lng": 139.7973151,
@@ -10065,6 +10279,22 @@
    "url": "https://www.memorial-object.jp/02482/"
   },
   {
+   "name": "『ゆめこ』",
+   "lat": 35.8700019,
+   "lng": 140.396527,
+   "address": "千葉県成田市名木",
+   "access": "下総神崎駅から約3.0km",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "千葉県",
+    "成田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08963/"
+  },
+  {
    "name": "『ゆるぎ石』",
    "lat": 36.0860308,
    "lng": 140.1109121,
@@ -10205,6 +10435,24 @@
    "url": "https://www.memorial-object.jp/00787/"
   },
   {
+   "name": "『りんご』",
+   "lat": 35.845645,
+   "lng": 139.7984069,
+   "address": "埼玉県草加市松原１丁目３",
+   "access": "獨協大学前〈草加松原〉駅から北西へ約320m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "埼玉県",
+    "東武スカイツリーライン",
+    "東武鉄道",
+    "草加市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09022/"
+  },
+  {
    "name": "『りんりんちゃん』",
    "lat": 35.7463812,
    "lng": 139.7196659,
@@ -10287,6 +10535,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02734/"
+  },
+  {
+   "name": "『わらべ唄発祥の所』",
+   "lat": 35.923931,
+   "lng": 139.4923112,
+   "address": "埼玉県川越市郭町２丁目２５",
+   "access": "本川越駅から約1.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "歴史",
+    "発祥の地",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09046/"
   },
   {
    "name": "『わらマンモスとわらぐろ群』",
@@ -10552,6 +10819,22 @@
    "url": "https://www.memorial-object.jp/06357/"
   },
   {
+   "name": "『アンコウクレーン』",
+   "lat": 35.7585894,
+   "lng": 140.0630122,
+   "address": "千葉県船橋市金堀町",
+   "access": "白井駅から約3.0km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉県",
+    "船橋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08943/"
+  },
+  {
    "name": "『アンコール・ワット』",
    "lat": 36.807206,
    "lng": 139.7123925,
@@ -10613,6 +10896,22 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00195_1.jpg",
    "url": "https://www.memorial-object.jp/00195/"
+  },
+  {
+   "name": "『アンデルセン像』",
+   "lat": 35.759219,
+   "lng": 140.0609253,
+   "address": "千葉県船橋市金堀町",
+   "access": "白井駅から約2.9km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉県",
+    "船橋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08944/"
   },
   {
    "name": "『アントン・ヨハネス・ゲールツ記念碑』",
@@ -10889,6 +11188,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04075/"
+  },
+  {
+   "name": "『ウィスコンシン州の石のモニュメント』",
+   "lat": 35.6872225,
+   "lng": 139.9869801,
+   "address": "千葉県船橋市浜町２丁目",
+   "access": "大神宮下駅から約0.9km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉県",
+    "船橋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08945/"
   },
   {
    "name": "『ウィリアムアダムス夫婦墳墓』",
@@ -12594,6 +12909,24 @@
    "url": "https://www.memorial-object.jp/03136/"
   },
   {
+   "name": "『シングルスカルタワー』",
+   "lat": 35.8064968,
+   "lng": 139.6792887,
+   "address": "埼玉県戸田市本町４丁目１０",
+   "access": "戸田公園駅から南東へ約190m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "埼京線",
+    "埼玉県",
+    "戸田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09034/"
+  },
+  {
    "name": "『シンボル塔(噴水塔)』",
    "lat": 35.6813762,
    "lng": 139.5137156,
@@ -12937,6 +13270,24 @@
    "url": "https://www.memorial-object.jp/08386/"
   },
   {
+   "name": "『スプーンのオブジェ』",
+   "lat": 35.8808584,
+   "lng": 139.8248365,
+   "address": "埼玉県越谷市レイクタウン４丁目１",
+   "access": "越谷レイクタウン駅から北東へ約560m",
+   "categories": [
+    "商業地"
+   ],
+   "tags": [
+    "JR東日本",
+    "埼玉県",
+    "武蔵野線",
+    "越谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09031/"
+  },
+  {
    "name": "『スリックミスト』",
    "lat": 35.6630675,
    "lng": 139.6680552,
@@ -13158,6 +13509,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02201/"
+  },
+  {
+   "name": "『タウンゼント・ハリス像』",
+   "lat": 35.7215095,
+   "lng": 140.2174123,
+   "address": "千葉県佐倉市城内町",
+   "access": "京成佐倉駅から約1.2km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "佐倉市",
+    "千葉県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08968/"
   },
   {
    "name": "『タオル美術館ICHIHIRO』",
@@ -14531,6 +14898,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02869/"
+  },
+  {
+   "name": "『ピアノを弾く巨人』",
+   "lat": 35.820566,
+   "lng": 139.670242,
+   "address": "埼玉県戸田市大字新曽３６６",
+   "access": "戸田駅から北へ約320m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "埼京線",
+    "埼玉県",
+    "戸田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09035/"
   },
   {
    "name": "『ピエール・ド・クーベルタン』",
@@ -15998,6 +16383,22 @@
    "url": "https://www.memorial-object.jp/02995/"
   },
   {
+   "name": "『メモリアルパークタワー』",
+   "lat": 35.8065077,
+   "lng": 140.3248339,
+   "address": "千葉県成田市赤荻１４２６",
+   "access": "成田湯川駅から約3.1km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉県",
+    "成田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08804/"
+  },
+  {
    "name": "『メリケン地蔵尊』",
    "lat": 34.6855652,
    "lng": 135.1901639,
@@ -16670,6 +17071,22 @@
    "url": "https://www.memorial-object.jp/08402/"
   },
   {
+   "name": "『ヴィナスの誕生』",
+   "lat": 35.8991776,
+   "lng": 139.9402579,
+   "address": "千葉県柏市柏の葉６丁目",
+   "access": "柏の葉キャンパス駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "柏市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08978/"
+  },
+  {
    "name": "『ヴェルサイユ宮殿』",
    "lat": 36.8066314,
    "lng": 139.7118561,
@@ -17068,6 +17485,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04204/"
+  },
+  {
+   "name": "『一茶句碑』",
+   "lat": 35.7940509,
+   "lng": 139.9515251,
+   "address": "千葉県松戸市常盤平７丁目",
+   "access": "常盤平駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉県",
+    "句碑",
+    "松戸市",
+    "歌碑",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08951/"
   },
   {
    "name": "『一葉塚』",
@@ -17525,6 +17961,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00819/"
+  },
+  {
+   "name": "『七地蔵』",
+   "lat": 35.7937469,
+   "lng": 140.0028529,
+   "address": "千葉県鎌ケ谷市南佐津間",
+   "access": "六実駅から東へ約320m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "地蔵",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08881/"
   },
   {
    "name": "『七宮神社』",
@@ -19564,6 +20019,22 @@
    "url": "https://www.memorial-object.jp/07500/"
   },
   {
+   "name": "『三面大黒天』",
+   "lat": 35.7903258,
+   "lng": 140.0430087,
+   "address": "千葉県白井市根１３６３",
+   "access": "白井駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "千葉県",
+    "白井市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08820/"
+  },
+  {
    "name": "『上佐濃村道路元標』",
    "lat": 35.5838241,
    "lng": 134.9614238,
@@ -20353,6 +20824,24 @@
    "url": "https://www.memorial-object.jp/04382/"
   },
   {
+   "name": "『下総国 佐倉城天主跡』",
+   "lat": 35.7223569,
+   "lng": 140.2153885,
+   "address": "千葉県佐倉市城内町",
+   "access": "京成佐倉駅から約1.3km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "佐倉市",
+    "千葉県",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08969/"
+  },
+  {
    "name": "『下総国分尼寺跡』",
    "lat": 35.7465504,
    "lng": 139.9128898,
@@ -20605,6 +21094,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01267/"
+  },
+  {
+   "name": "『不動明王』",
+   "lat": 35.8011119,
+   "lng": 139.9340894,
+   "address": "千葉県松戸市千駄堀",
+   "access": "新八柱駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "千葉県",
+    "明治時代",
+    "松戸市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08843/"
   },
   {
    "name": "『不動明王』",
@@ -21287,6 +21793,25 @@
    "url": "https://www.memorial-object.jp/05703/"
   },
   {
+   "name": "『並木地蔵尊』",
+   "lat": 35.8389023,
+   "lng": 139.5534593,
+   "address": "埼玉県富士見市東みずほ台１丁目３",
+   "access": "みずほ台駅から東へ約250m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "地蔵",
+    "埼玉県",
+    "富士見市",
+    "東武東上線",
+    "東武鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09041/"
+  },
+  {
    "name": "『並木寄進碑』",
    "lat": 36.6185718,
    "lng": 139.7358155,
@@ -21679,6 +22204,24 @@
    "url": "https://www.memorial-object.jp/05022/"
   },
   {
+   "name": "『中山池　改修記念碑』",
+   "lat": 33.306407,
+   "lng": 132.5991607,
+   "address": "愛媛県宇和島市三間町黒井地",
+   "access": "伊予宮野下駅から直線で約2.0km（最寄りのバス停：運動公園 約300m）",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "宇和島市",
+    "愛媛県",
+    "碑文",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/05022/"
+  },
+  {
    "name": "『中山道戸田の渡』",
    "lat": 35.7965436,
    "lng": 139.6872434,
@@ -21862,6 +22405,22 @@
    "url": "https://www.memorial-object.jp/00759/"
   },
   {
+   "name": "『中村善並大師』",
+   "lat": 35.7821816,
+   "lng": 140.0151609,
+   "address": "千葉県鎌ケ谷市粟野",
+   "access": "新鎌ヶ谷駅から約1.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08983/"
+  },
+  {
    "name": "『中村大佐顕彰碑』",
    "lat": 34.8388476,
    "lng": 134.6922849,
@@ -21971,6 +22530,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00608/"
+  },
+  {
+   "name": "『中村重太郎翁の像』",
+   "lat": 35.880948,
+   "lng": 139.8181795,
+   "address": "埼玉県越谷市レイクタウン９丁目４３",
+   "access": "越谷レイクタウン駅から北西へ約640m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "埼玉県",
+    "武蔵野線",
+    "歴史",
+    "越谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09032/"
   },
   {
    "name": "『中橋』",
@@ -22759,6 +23337,24 @@
    "url": "https://www.memorial-object.jp/01522/"
   },
   {
+   "name": "『乙女の像』",
+   "lat": 35.9157361,
+   "lng": 139.4788007,
+   "address": "埼玉県川越市六軒町１丁目２３",
+   "access": "川越市駅から北東へ約240m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "東武東上線",
+    "東武鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09009/"
+  },
+  {
    "name": "『九ヶ村用水 取水口跡』",
    "lat": 35.7110224,
    "lng": 139.3337779,
@@ -23536,6 +24132,25 @@
   },
   {
    "name": "『二十三夜供養塔』",
+   "lat": 35.7652563,
+   "lng": 140.0615001,
+   "address": "千葉県船橋市大神保町",
+   "access": "白井駅から約2.3km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "二十三夜塔",
+    "供養塔",
+    "千葉県",
+    "碑文",
+    "船橋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08946/"
+  },
+  {
+   "name": "『二十三夜供養塔』",
    "lat": 36.3484844,
    "lng": 139.9390572,
    "address": "栃木県真岡市古山",
@@ -23724,6 +24339,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07731/"
+  },
+  {
+   "name": "『二和開墾百年記念碑』",
+   "lat": 35.7427337,
+   "lng": 140.0175186,
+   "address": "千葉県船橋市二和西３丁目",
+   "access": "滝不動駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "碑文",
+    "船橋市",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08947/"
   },
   {
    "name": "『二子橋』",
@@ -24209,6 +24842,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04218/"
+  },
+  {
+   "name": "『五百羅漢』",
+   "lat": 35.9180087,
+   "lng": 139.4898494,
+   "address": "埼玉県川越市小仙波町１丁目２０",
+   "access": "本川越駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09047/"
   },
   {
    "name": "『五社大神社』",
@@ -24918,6 +25567,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06010/"
+  },
+  {
+   "name": "『人参』",
+   "lat": 35.8434856,
+   "lng": 139.7990052,
+   "address": "埼玉県草加市松原１丁目１",
+   "access": "獨協大学前〈草加松原〉駅から西へ約140m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "埼玉県",
+    "東武スカイツリーライン",
+    "東武鉄道",
+    "草加市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09023/"
   },
   {
    "name": "『人工衛星「おおすみ」模型』",
@@ -25861,6 +26528,22 @@
    "url": "https://www.memorial-object.jp/02107/"
   },
   {
+   "name": "『仙芳仙人塚』",
+   "lat": 35.9175517,
+   "lng": 139.491078,
+   "address": "埼玉県川越市小仙波町１丁目１８",
+   "access": "本川越駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09048/"
+  },
+  {
    "name": "『代々幡橋』",
    "lat": 35.6753555,
    "lng": 139.6758842,
@@ -26528,6 +27211,23 @@
    "url": "https://www.memorial-object.jp/00191/"
   },
   {
+   "name": "『伊藤開山霊神』",
+   "lat": 35.9231974,
+   "lng": 139.4908839,
+   "address": "埼玉県川越市郭町２丁目１５",
+   "access": "本川越駅から約1.3km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09049/"
+  },
+  {
    "name": "『伊豫国分寺塔跡』",
    "lat": 34.0258951,
    "lng": 133.0268912,
@@ -26975,6 +27675,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04062/"
+  },
+  {
+   "name": "『佐倉兵営跡』",
+   "lat": 35.7201162,
+   "lng": 140.2188586,
+   "address": "千葉県佐倉市城内町",
+   "access": "京成佐倉駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "佐倉市",
+    "千葉県",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08970/"
   },
   {
    "name": "『佐白山観光道路完成之碑』",
@@ -28342,6 +29060,26 @@
    "url": "https://www.memorial-object.jp/06698/"
   },
   {
+   "name": "『光明真言道標』",
+   "lat": 35.794764,
+   "lng": 140.002983,
+   "address": "千葉県鎌ケ谷市南佐津間",
+   "access": "六実駅から東へ約340m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "碑文",
+    "道標",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08882/"
+  },
+  {
    "name": "『光花石碑』",
    "lat": 34.839563,
    "lng": 134.695393,
@@ -28668,6 +29406,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01183/"
+  },
+  {
+   "name": "『入間村の碑』",
+   "lat": 35.8343653,
+   "lng": 139.4263185,
+   "address": "埼玉県狭山市大字南入曽５７４",
+   "access": "入曽駅から北へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "埼玉県",
+    "狭山市",
+    "碑文",
+    "西武新宿線",
+    "西武鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09019/"
   },
   {
    "name": "『入間林道竣工記念碑 人と和と努力』",
@@ -29200,6 +29957,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03823/"
+  },
+  {
+   "name": "『八幡神社神社』",
+   "lat": 35.8287606,
+   "lng": 139.8062926,
+   "address": "埼玉県草加市高砂２丁目２０",
+   "access": "草加駅から東へ約270m",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "埼玉県",
+    "東武スカイツリーライン",
+    "東武鉄道",
+    "碑文",
+    "草加市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09024/"
   },
   {
    "name": "『八幡神社遥拝所』",
@@ -29886,6 +30662,41 @@
   },
   {
    "name": "『六地蔵』",
+   "lat": 35.801049,
+   "lng": 139.9339576,
+   "address": "千葉県松戸市千駄堀",
+   "access": "新八柱駅から約1.1km",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "tags": [
+    "千葉県",
+    "地蔵",
+    "松戸市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08952/"
+  },
+  {
+   "name": "『六地蔵』",
+   "lat": 35.7537249,
+   "lng": 139.8945536,
+   "address": "千葉県松戸市栗山",
+   "access": "矢切駅から南西へ約680m",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "北総鉄道",
+    "千葉県",
+    "地蔵",
+    "松戸市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08844/"
+  },
+  {
+   "name": "『六地蔵』",
    "lat": 34.7393318,
    "lng": 135.204102,
    "address": "兵庫県神戸市灘区摩耶山町２",
@@ -30070,6 +30881,27 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02578/"
+  },
+  {
+   "name": "『六地蔵尊』",
+   "lat": 35.9058977,
+   "lng": 139.4864464,
+   "address": "埼玉県川越市菅原町１１",
+   "access": "川越駅から南東へ約310m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "地蔵",
+    "埼玉県",
+    "川越市",
+    "川越線",
+    "東武東上線",
+    "東武鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09010/"
   },
   {
    "name": "『六地蔵尊』",
@@ -31610,6 +32442,23 @@
    "url": "https://www.memorial-object.jp/08304/"
   },
   {
+   "name": "『切られ庚申』",
+   "lat": 35.8036089,
+   "lng": 140.0345379,
+   "address": "千葉県白井市富塚６９３",
+   "access": "西白井駅から約2.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "庚申塔",
+    "白井市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08821/"
+  },
+  {
    "name": "『切割』",
    "lat": 35.3114698,
    "lng": 136.6414225,
@@ -31890,6 +32739,23 @@
    "url": "https://www.memorial-object.jp/08288/"
   },
   {
+   "name": "『初雁武徳殿』",
+   "lat": 35.9247005,
+   "lng": 139.4918921,
+   "address": "埼玉県川越市郭町２丁目２６",
+   "access": "本川越駅から約1.5km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09050/"
+  },
+  {
    "name": "『初音六地蔵』",
    "lat": 35.7237071,
    "lng": 139.7681377,
@@ -31907,6 +32773,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03141/"
+  },
+  {
+   "name": "『別れ道の地蔵』",
+   "lat": 35.9056456,
+   "lng": 139.400989,
+   "address": "埼玉県川越市大字笠幡３６３９",
+   "access": "笠幡駅から南西へ約540m",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "JR東日本",
+    "地蔵",
+    "埼玉県",
+    "川越市",
+    "川越線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09011/"
   },
   {
    "name": "『別府鉄道 キハ２号』",
@@ -32207,6 +33092,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08059/"
+  },
+  {
+   "name": "『剣道道場 川越明信館跡』",
+   "lat": 35.9234548,
+   "lng": 139.4873484,
+   "address": "埼玉県川越市郭町１丁目１８",
+   "access": "本川越駅から約1.2km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09051/"
   },
   {
    "name": "『創建時の正門の石柱』",
@@ -32808,6 +33711,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02040/"
+  },
+  {
+   "name": "『動くコスモス』",
+   "lat": 35.6550953,
+   "lng": 140.2244183,
+   "address": "千葉県佐倉市坂戸",
+   "access": "物井駅から約4.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "佐倉市",
+    "千葉県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08971/"
   },
   {
    "name": "『動物公園』",
@@ -34759,6 +35678,29 @@
    "url": "https://www.memorial-object.jp/08742/"
   },
   {
+   "name": "『千葉駅前交番』",
+   "lat": 35.612906,
+   "lng": 140.1157961,
+   "address": "千葉県千葉市中央区新千葉１丁目",
+   "access": "千葉駅から北東へ約170m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "中央総武線",
+    "内房線",
+    "千葉市",
+    "千葉県",
+    "千葉都市モノレール",
+    "外房線",
+    "成田線",
+    "総武線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08829/"
+  },
+  {
    "name": "『千躰堂』",
    "lat": 34.3574651,
    "lng": 134.1016759,
@@ -34892,6 +35834,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02579/"
+  },
+  {
+   "name": "『南増尾百庚申』",
+   "lat": 35.8161355,
+   "lng": 139.9680985,
+   "address": "千葉県柏市南増尾２丁目７",
+   "access": "逆井駅から約1.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "庚申塔",
+    "柏市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08811/"
   },
   {
    "name": "『南方殉職刑務官顕彰碑』",
@@ -35255,6 +36214,24 @@
    "url": "https://www.memorial-object.jp/03923/"
   },
   {
+   "name": "『南無妙法蓮華経帝釈天』",
+   "lat": 35.7606534,
+   "lng": 139.9402042,
+   "address": "千葉県松戸市高塚新田",
+   "access": "秋山駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08845/"
+  },
+  {
    "name": "『南無水子地蔵尊』",
    "lat": 34.716043,
    "lng": 135.1786001,
@@ -35596,6 +36573,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06381/"
+  },
+  {
+   "name": "『厄割桃』",
+   "lat": 35.9113099,
+   "lng": 139.4845881,
+   "address": "埼玉県川越市南通町１９",
+   "access": "本川越駅から南東へ約430m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "碑文",
+    "西武新宿線",
+    "西武鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09012/"
   },
   {
    "name": "『厄神　祭紀五十年』",
@@ -37235,6 +38231,26 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06148/"
+  },
+  {
+   "name": "『史跡新河岸川河岸場跡』",
+   "lat": 35.8920361,
+   "lng": 139.5048636,
+   "address": "埼玉県川越市大字下新河岸５３",
+   "access": "新河岸駅から東へ約730m",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "東武東上線",
+    "東武鉄道",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09013/"
   },
   {
    "name": "『史跡能島城跡』",
@@ -42635,6 +43651,23 @@
   },
   {
    "name": "『地蔵』",
+   "lat": 35.7498559,
+   "lng": 139.9697886,
+   "address": "千葉県市川市柏井町４丁目",
+   "access": "市川大野駅から約1.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "地蔵",
+    "市川市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08939/"
+  },
+  {
+   "name": "『地蔵』",
    "lat": 35.7488622,
    "lng": 139.9662374,
    "address": "千葉県市川市柏井町４丁目４７９",
@@ -43988,6 +45021,27 @@
    "url": "https://www.memorial-object.jp/08565/"
   },
   {
+   "name": "『坂川排水碑』",
+   "lat": 35.7874276,
+   "lng": 139.8936072,
+   "address": "千葉県松戸市樋野口",
+   "access": "松戸駅から北西へ約710m",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "JR東日本",
+    "千葉県",
+    "常磐線",
+    "新京成線",
+    "新京成電鉄",
+    "松戸市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08846/"
+  },
+  {
    "name": "『坂川道路完成之碑』",
    "lat": 35.8275695,
    "lng": 139.903076,
@@ -44311,6 +45365,23 @@
    "url": "https://www.memorial-object.jp/05562/"
   },
   {
+   "name": "『埼玉県川越商業高等学校開校の地』",
+   "lat": 35.9253434,
+   "lng": 139.4907133,
+   "address": "埼玉県川越市郭町２丁目１１",
+   "access": "本川越駅から約1.5km",
+   "categories": [
+    "公共施設"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09052/"
+  },
+  {
    "name": "『埼玉飛行場跡』",
    "lat": 36.9613536,
    "lng": 140.0219402,
@@ -44344,6 +45415,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01244/"
+  },
+  {
+   "name": "『堀田正睦公像』",
+   "lat": 35.7215605,
+   "lng": 140.2174848,
+   "address": "千葉県佐倉市城内町",
+   "access": "京成佐倉駅から約1.2km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "佐倉市",
+    "千葉県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08972/"
   },
   {
    "name": "『堀部安兵衛武庸之碑』",
@@ -44907,6 +45994,25 @@
    "url": "https://www.memorial-object.jp/00676/"
   },
   {
+   "name": "『境外遺跡』",
+   "lat": 35.829278,
+   "lng": 139.929254,
+   "address": "千葉県松戸市小金",
+   "access": "北小金駅から南へ約490m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "JR東日本",
+    "千葉県",
+    "常磐線",
+    "松戸市",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08847/"
+  },
+  {
    "name": "『境橋』",
    "lat": 35.6644415,
    "lng": 139.6017621,
@@ -44923,6 +46029,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02244/"
+  },
+  {
+   "name": "『墓地』",
+   "lat": 35.6890513,
+   "lng": 140.0316417,
+   "address": "千葉県習志野市藤崎２丁目",
+   "access": "新津田沼駅から東へ約760m",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "習志野市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08879/"
   },
   {
    "name": "『墓地』",
@@ -46929,6 +48053,24 @@
    "url": "https://www.memorial-object.jp/02710/"
   },
   {
+   "name": "『大師塔』",
+   "lat": 35.7947686,
+   "lng": 140.0029199,
+   "address": "千葉県鎌ケ谷市南佐津間",
+   "access": "六実駅から東へ約340m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08883/"
+  },
+  {
    "name": "『大師橋』",
    "lat": 35.5450376,
    "lng": 139.7430248,
@@ -47649,6 +48791,25 @@
    "url": "https://www.memorial-object.jp/02620/"
   },
   {
+   "name": "『大東庚申供養碑』",
+   "lat": 35.8984219,
+   "lng": 139.4459491,
+   "address": "埼玉県川越市大字大袋２４６",
+   "access": "南大塚駅から約1.2km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "供養塔",
+    "埼玉県",
+    "川越市",
+    "庚申塔",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09053/"
+  },
+  {
    "name": "『大東文化大学発祥地』",
    "lat": 35.696141,
    "lng": 139.7451105,
@@ -47983,6 +49144,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08634/"
+  },
+  {
+   "name": "『大気』",
+   "lat": 35.8165055,
+   "lng": 139.6762248,
+   "address": "埼玉県戸田市上戸田４丁目９",
+   "access": "戸田駅から東へ約610m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "埼京線",
+    "埼玉県",
+    "戸田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09036/"
   },
   {
    "name": "『大気像』",
@@ -48584,6 +49763,22 @@
    "url": "https://www.memorial-object.jp/07029/"
   },
   {
+   "name": "『大経寺(顕本法華宗)』",
+   "lat": 35.7603265,
+   "lng": 140.2849702,
+   "address": "千葉県成田市大袋３０１",
+   "access": "宗吾参道駅から約0.9km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "千葉県",
+    "成田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08805/"
+  },
+  {
    "name": "『大絵馬』",
    "lat": 33.2297413,
    "lng": 132.5651802,
@@ -48738,6 +49933,45 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07684/"
+  },
+  {
+   "name": "『大袋尋常小学校跡』",
+   "lat": 35.76244,
+   "lng": 140.2910843,
+   "address": "千葉県成田市公津の杜６丁目",
+   "access": "公津の杜駅から北西へ約430m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "京成本線",
+    "京成電鉄",
+    "千葉県",
+    "成田市",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08872/"
+  },
+  {
+   "name": "『大袋庚申供養碑』",
+   "lat": 35.8972643,
+   "lng": 139.4434658,
+   "address": "埼玉県川越市大字大袋３７８",
+   "access": "南大塚駅から約1.3km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "供養塔",
+    "埼玉県",
+    "川越市",
+    "庚申塔",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09054/"
   },
   {
    "name": "『大谷地蔵』",
@@ -49395,6 +50629,23 @@
    "url": "https://www.memorial-object.jp/08014/"
   },
   {
+   "name": "『大黒天碑』",
+   "lat": 35.936431,
+   "lng": 139.8611394,
+   "address": "千葉県野田市上花輪７５４",
+   "access": "野田市駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "碑文",
+    "野田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08802/"
+  },
+  {
    "name": "『大黒天（青梅七福神）』",
    "lat": 35.7882958,
    "lng": 139.2610354,
@@ -49790,6 +51041,38 @@
    "url": "https://www.memorial-object.jp/02666/"
   },
   {
+   "name": "『天海大僧正』",
+   "lat": 35.9179365,
+   "lng": 139.4902646,
+   "address": "埼玉県川越市小仙波町１丁目１９",
+   "access": "本川越駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09055/"
+  },
+  {
+   "name": "『天満天神』",
+   "lat": 35.6672596,
+   "lng": 140.1974029,
+   "address": "千葉県四街道市みそら１丁目３７",
+   "access": "物井駅から約2.1km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉県",
+    "四街道市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08817/"
+  },
+  {
    "name": "『天満宮』",
    "lat": 34.7234549,
    "lng": 135.4284279,
@@ -49953,6 +51236,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08635/"
+  },
+  {
+   "name": "『天然記念物佐倉城跡のもっこく』",
+   "lat": 35.722402,
+   "lng": 140.21559,
+   "address": "千葉県佐倉市城内町",
+   "access": "京成佐倉駅から約1.3km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "佐倉市",
+    "千葉県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08973/"
   },
   {
    "name": "『天然記念物湯本温泉郷』",
@@ -50777,6 +52077,22 @@
    "url": "https://www.memorial-object.jp/01282/"
   },
   {
+   "name": "『太田道灌公像』",
+   "lat": 35.9248965,
+   "lng": 139.4854927,
+   "address": "埼玉県川越市元町１丁目３",
+   "access": "本川越駅から約1.3km",
+   "categories": [
+    "公共施設"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09056/"
+  },
+  {
    "name": "『太田道灌駒繁松』",
    "lat": 35.7113928,
    "lng": 139.7157042,
@@ -50881,6 +52197,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06340/"
+  },
+  {
+   "name": "『太陽』",
+   "lat": 35.893277,
+   "lng": 139.943363,
+   "address": "千葉県柏市柏の葉６丁目",
+   "access": "柏の葉キャンパス駅から約0.8km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "千葉県",
+    "柏市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08979/"
   },
   {
    "name": "『太陽の広場と噴水彫刻』",
@@ -53436,6 +54768,24 @@
    "url": "https://www.memorial-object.jp/06062/"
   },
   {
+   "name": "『孝心講建設の道標』",
+   "lat": 35.7939166,
+   "lng": 140.0179598,
+   "address": "千葉県鎌ケ谷市軽井沢",
+   "access": "西白井駅から約1.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "碑文",
+    "道標",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08984/"
+  },
+  {
    "name": "『孝養の像』",
    "lat": 34.7421235,
    "lng": 135.3956379,
@@ -53796,6 +55146,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08048/"
+  },
+  {
+   "name": "『宇賀神』",
+   "lat": 35.7689734,
+   "lng": 139.9255424,
+   "address": "千葉県松戸市紙敷",
+   "access": "秋山駅から北西へ約620m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "北総鉄道",
+    "千葉県",
+    "松戸市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08848/"
   },
   {
    "name": "『宇賀神』",
@@ -54317,6 +55684,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07287/"
+  },
+  {
+   "name": "『宗吾道』",
+   "lat": 35.7422088,
+   "lng": 140.2823652,
+   "address": "千葉県印旛郡酒々井町上岩橋",
+   "access": "宗吾参道駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "酒々井町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09000/"
   },
   {
    "name": "『宗方小学校創立百周年記念』",
@@ -55287,6 +56670,23 @@
    "url": "https://www.memorial-object.jp/01747/"
   },
   {
+   "name": "『密蔵院鐘撞堂跡』",
+   "lat": 35.7065156,
+   "lng": 140.2117141,
+   "address": "千葉県佐倉市寺崎３０４４",
+   "access": "佐倉駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "佐倉市",
+    "千葉県",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08807/"
+  },
+  {
    "name": "『密迹金剛』",
    "lat": 36.7582691,
    "lng": 139.5956299,
@@ -55641,6 +57041,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02949/"
+  },
+  {
+   "name": "『富士見櫓跡』",
+   "lat": 35.9230752,
+   "lng": 139.490686,
+   "address": "埼玉県川越市郭町２丁目１５",
+   "access": "本川越駅から約1.3km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09057/"
   },
   {
    "name": "『富山・散居村の民家』",
@@ -56227,6 +57644,22 @@
    "url": "https://www.memorial-object.jp/03580/"
   },
   {
+   "name": "『寺崎城』",
+   "lat": 35.7075493,
+   "lng": 140.2103339,
+   "address": "千葉県佐倉市寺崎",
+   "access": "佐倉駅から約1.4km",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "佐倉市",
+    "千葉県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08874/"
+  },
+  {
    "name": "『寺江亭阯傳説地』",
    "lat": 34.7229442,
    "lng": 135.4466854,
@@ -56259,6 +57692,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02082/"
+  },
+  {
+   "name": "『寿老人』",
+   "lat": 35.7204285,
+   "lng": 140.233123,
+   "address": "千葉県佐倉市新町",
+   "access": "京成佐倉駅から南東へ約610m",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "tags": [
+    "京成本線",
+    "京成電鉄",
+    "佐倉市",
+    "千葉県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08875/"
   },
   {
    "name": "『寿老人』",
@@ -56876,6 +58327,23 @@
    "url": "https://www.memorial-object.jp/04358/"
   },
   {
+   "name": "『小江戸川越 山吹の里』",
+   "lat": 35.9246722,
+   "lng": 139.4919108,
+   "address": "埼玉県川越市郭町２丁目２６",
+   "access": "本川越駅から約1.5km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09058/"
+  },
+  {
    "name": "『小池厚之助先生像』",
    "lat": 35.6830208,
    "lng": 139.6384079,
@@ -57212,6 +58680,25 @@
    "url": "https://www.memorial-object.jp/06982/"
   },
   {
+   "name": "『小金中野牧の込跡』",
+   "lat": 35.7756476,
+   "lng": 139.9937635,
+   "address": "千葉県鎌ケ谷市東中沢２丁目",
+   "access": "北初富駅から南東へ約250m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "歴史",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08884/"
+  },
+  {
    "name": "『小金井橋の要石』",
    "lat": 35.712477,
    "lng": 139.508278,
@@ -57242,6 +58729,42 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00992/"
+  },
+  {
+   "name": "『小金城記念碑』",
+   "lat": 35.8360317,
+   "lng": 139.9227456,
+   "address": "千葉県松戸市大谷口",
+   "access": "小金城趾駅から東へ約490m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "流鉄",
+    "流鉄流山線",
+    "碑文",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08849/"
+  },
+  {
+   "name": "『小金牧の牧士資料』",
+   "lat": 35.8103799,
+   "lng": 140.03515,
+   "address": "千葉県白井市富塚",
+   "access": "西白井駅から約2.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "白井市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08997/"
   },
   {
    "name": "『小鳥と少女』",
@@ -58302,6 +59825,24 @@
    "url": "https://www.memorial-object.jp/00132/"
   },
   {
+   "name": "『山村学園発祥の地』",
+   "lat": 35.9188141,
+   "lng": 139.4894781,
+   "address": "埼玉県川越市小仙波町１丁目２",
+   "access": "本川越駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "歴史",
+    "発祥の地"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09059/"
+  },
+  {
    "name": "『山村暮鳥　老漁夫の詩』",
    "lat": 36.3137259,
    "lng": 140.5842134,
@@ -58499,6 +60040,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07281/"
+  },
+  {
+   "name": "『山縣飛行士殉空之地碑』",
+   "lat": 35.6719671,
+   "lng": 140.0331468,
+   "address": "千葉県習志野市鷺沼５丁目７",
+   "access": "京成幕張本郷駅から約0.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "千葉県",
+    "碑文",
+    "習志野市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08809/"
   },
   {
    "name": "『山邊村道路元標』",
@@ -58930,6 +60488,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01535/"
+  },
+  {
+   "name": "『岸町熊野神社』",
+   "lat": 35.8999111,
+   "lng": 139.4877556,
+   "address": "埼玉県川越市岸町２丁目２",
+   "access": "川越駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09060/"
   },
   {
    "name": "『峰山城趾碑』",
@@ -59771,6 +61346,165 @@
    "url": "https://www.memorial-object.jp/07214/"
   },
   {
+   "name": "『川越城七不思議』",
+   "lat": 35.9239375,
+   "lng": 139.4923675,
+   "address": "埼玉県川越市郭町２丁目２５",
+   "access": "本川越駅から約1.5km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09061/"
+  },
+  {
+   "name": "『川越城南大手門跡』",
+   "lat": 35.9230046,
+   "lng": 139.488996,
+   "address": "埼玉県川越市郭町１丁目２１",
+   "access": "本川越駅から約1.2km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09062/"
+  },
+  {
+   "name": "『川越城大手門跡』",
+   "lat": 35.9248511,
+   "lng": 139.4854672,
+   "address": "埼玉県川越市元町１丁目３",
+   "access": "本川越駅から約1.3km",
+   "categories": [
+    "公共施設"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09063/"
+  },
+  {
+   "name": "『川越城富士見櫓跡』",
+   "lat": 35.9227119,
+   "lng": 139.4905926,
+   "address": "埼玉県川越市郭町２丁目４",
+   "access": "本川越駅から約1.3km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09064/"
+  },
+  {
+   "name": "『川越城本丸門跡』",
+   "lat": 35.9249067,
+   "lng": 139.4916693,
+   "address": "埼玉県川越市郭町２丁目２６",
+   "access": "本川越駅から約1.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09066/"
+  },
+  {
+   "name": "『川越城本丸門跡』",
+   "lat": 35.9251724,
+   "lng": 139.4914964,
+   "address": "埼玉県川越市郭町２丁目３１",
+   "access": "本川越駅から約1.5km",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09065/"
+  },
+  {
+   "name": "『川越城田曲輪門跡』",
+   "lat": 35.9227054,
+   "lng": 139.4904142,
+   "address": "埼玉県川越市郭町２丁目１５",
+   "access": "本川越駅から約1.3km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09067/"
+  },
+  {
+   "name": "『川越城蓮池門跡』",
+   "lat": 35.9256726,
+   "lng": 139.4921153,
+   "address": "埼玉県川越市郭町２丁目２７",
+   "access": "本川越駅から約1.6km",
+   "categories": [
+    "公共施設"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09068/"
+  },
+  {
+   "name": "『川越小唄』",
+   "lat": 35.9235501,
+   "lng": 139.4833744,
+   "address": "埼玉県川越市幸町１５",
+   "access": "本川越駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09069/"
+  },
+  {
    "name": "『川邉勝三郎君頌徳之碑』",
    "lat": 35.3846137,
    "lng": 139.504359,
@@ -60190,6 +61924,25 @@
    "url": "https://www.memorial-object.jp/03924/"
   },
   {
+   "name": "『市川塩浜常夜燈』",
+   "lat": 35.6637313,
+   "lng": 139.9255188,
+   "address": "千葉県市川市塩浜２丁目",
+   "access": "市川塩浜駅から南東へ約360m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "京葉線",
+    "千葉県",
+    "市川市",
+    "武蔵野線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08832/"
+  },
+  {
    "name": "『市川市最高標高地点(標高三〇、一M)』",
    "lat": 35.7477516,
    "lng": 139.898945,
@@ -60350,6 +62103,27 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08218/"
+  },
+  {
+   "name": "『市政30周年句碑』",
+   "lat": 35.8163973,
+   "lng": 139.6760023,
+   "address": "埼玉県戸田市上戸田４丁目９",
+   "access": "戸田駅から東へ約590m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "句碑",
+    "埼京線",
+    "埼玉県",
+    "戸田市",
+    "歌碑",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09037/"
   },
   {
    "name": "『市村座跡』",
@@ -60568,6 +62342,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04399/"
+  },
+  {
+   "name": "『布袋尊』",
+   "lat": 35.7163063,
+   "lng": 140.2230621,
+   "address": "千葉県佐倉市鏑木町",
+   "access": "佐倉駅から北へ約790m",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "JR東日本",
+    "佐倉市",
+    "千葉県",
+    "成田線",
+    "総武本線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08876/"
   },
   {
    "name": "『布袋尊』",
@@ -60797,6 +62590,22 @@
   },
   {
    "name": "『帝釈天』",
+   "lat": 35.7555514,
+   "lng": 139.9899984,
+   "address": "千葉県鎌ケ谷市道野辺",
+   "access": "鎌ヶ谷駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08985/"
+  },
+  {
+   "name": "『帝釈天』",
    "lat": 35.7589758,
    "lng": 139.93431,
    "address": "千葉県松戸市高塚新田",
@@ -60853,6 +62662,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01245/"
+  },
+  {
+   "name": "『帝釈天王』",
+   "lat": 35.7606109,
+   "lng": 139.9401825,
+   "address": "千葉県松戸市高塚新田",
+   "access": "秋山駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08850/"
   },
   {
    "name": "『帝釋天王』",
@@ -61144,6 +62971,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02741/"
+  },
+  {
+   "name": "『常盤木や冬されまさる城の跡』",
+   "lat": 35.7218323,
+   "lng": 140.2170568,
+   "address": "千葉県佐倉市城内町",
+   "access": "京成佐倉駅から約1.2km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "佐倉市",
+    "千葉県",
+    "歴史",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08974/"
   },
   {
    "name": "『常盤橋』",
@@ -61625,6 +63470,22 @@
    "url": "https://www.memorial-object.jp/03677/"
   },
   {
+   "name": "『平和と人間』",
+   "lat": 35.896951,
+   "lng": 139.941508,
+   "address": "千葉県柏市柏の葉６丁目４",
+   "access": "柏の葉キャンパス駅から約1.1km",
+   "categories": [
+    "商業地"
+   ],
+   "tags": [
+    "千葉県",
+    "柏市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08812/"
+  },
+  {
    "name": "『平和の塔』",
    "lat": 35.7739412,
    "lng": 139.5107716,
@@ -61889,6 +63750,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01371/"
+  },
+  {
+   "name": "『平和を呼ぶ像』",
+   "lat": 35.7629953,
+   "lng": 140.0629348,
+   "address": "千葉県船橋市豊富町",
+   "access": "白井駅から約2.5km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉県",
+    "船橋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08948/"
   },
   {
    "name": "『平和モニュメント』",
@@ -63522,6 +65399,197 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08338/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 35.8552662,
+   "lng": 139.4128418,
+   "address": "埼玉県狭山市入間川１丁目１８",
+   "access": "狭山市駅から南へ約230m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "埼玉県",
+    "庚申塔",
+    "狭山市",
+    "碑文",
+    "西武新宿線",
+    "西武鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09020/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 35.8169207,
+   "lng": 140.0738659,
+   "address": "千葉県白井市平塚",
+   "access": "小室駅から約3.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "庚申塔",
+    "白井市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08998/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 35.8187054,
+   "lng": 140.1056016,
+   "address": "千葉県印西市浦部",
+   "access": "千葉ニュータウン中央駅から約2.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "印西市",
+    "庚申塔",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08995/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 35.7606239,
+   "lng": 139.940189,
+   "address": "千葉県松戸市高塚新田",
+   "access": "秋山駅から約1.0km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "千葉県",
+    "庚申塔",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08854/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 35.8088082,
+   "lng": 139.9025707,
+   "address": "千葉県松戸市栄町５丁目",
+   "access": "北松戸駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "千葉県",
+    "庚申塔",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08853/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 35.7801492,
+   "lng": 139.8995591,
+   "address": "千葉県松戸市松戸",
+   "access": "松戸駅から南へ約480m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "JR東日本",
+    "千葉県",
+    "常磐線",
+    "庚申塔",
+    "新京成線",
+    "新京成電鉄",
+    "松戸市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08852/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 35.7804191,
+   "lng": 139.9189628,
+   "address": "千葉県松戸市和名ケ谷",
+   "access": "上本郷駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "庚申塔",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08851/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 35.719544,
+   "lng": 139.9758659,
+   "address": "千葉県船橋市山手３丁目",
+   "access": "塚田駅から西へ約640m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "千葉県",
+    "庚申塔",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "碑文",
+    "船橋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08836/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 35.832018,
+   "lng": 140.1249781,
+   "address": "千葉県印西市発作６６５",
+   "access": "布佐駅から約2.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "印西市",
+    "庚申塔",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08818/"
+  },
+  {
+   "name": "『庚申塔』",
+   "lat": 35.8069935,
+   "lng": 140.0308969,
+   "address": "千葉県柏市藤ケ谷９１０",
+   "access": "西白井駅から約2.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "庚申塔",
+    "柏市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08813/"
   },
   {
    "name": "『庚申塔』",
@@ -65280,6 +67348,24 @@
    "url": "https://www.memorial-object.jp/00853/"
   },
   {
+   "name": "『庚申塔・青面金剛供養塔など３８の石物群』",
+   "lat": 35.7877445,
+   "lng": 140.0142887,
+   "address": "千葉県鎌ケ谷市軽井沢",
+   "access": "六実駅から約1.5km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "供養塔",
+    "千葉県",
+    "庚申塔",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08986/"
+  },
+  {
    "name": "『庚申塔他』",
    "lat": 35.6873699,
    "lng": 139.2526452,
@@ -65329,6 +67415,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01052/"
+  },
+  {
+   "name": "『庚申塚』",
+   "lat": 35.7480372,
+   "lng": 140.0277674,
+   "address": "千葉県船橋市二和東４丁目",
+   "access": "三咲駅から南西へ約130m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "庚申塔",
+    "船橋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08837/"
   },
   {
    "name": "『庚申塚』",
@@ -65846,6 +67951,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03933/"
+  },
+  {
+   "name": "『延命地蔵』",
+   "lat": 35.8142012,
+   "lng": 139.8035449,
+   "address": "埼玉県草加市瀬崎２丁目３７",
+   "access": "谷塚駅から東へ約220m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "地蔵",
+    "埼玉県",
+    "東武スカイツリーライン",
+    "東武鉄道",
+    "草加市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09025/"
   },
   {
    "name": "『延命地蔵』",
@@ -66770,6 +68894,25 @@
    "url": "https://www.memorial-object.jp/03758/"
   },
   {
+   "name": "『廿三夜』",
+   "lat": 35.7193513,
+   "lng": 139.9758933,
+   "address": "千葉県船橋市山手３丁目",
+   "access": "塚田駅から南西へ約650m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "二十三夜塔",
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "船橋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08838/"
+  },
+  {
    "name": "『廿三夜塔』",
    "lat": 35.6530042,
    "lng": 139.7044491,
@@ -66787,6 +68930,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02392/"
+  },
+  {
+   "name": "『弁才天』",
+   "lat": 35.7537789,
+   "lng": 139.9770045,
+   "address": "千葉県鎌ケ谷市中沢",
+   "access": "馬込沢駅から約1.9km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "千葉県",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08885/"
   },
   {
    "name": "『弁玉歌碑』",
@@ -68993,6 +71152,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07353/"
+  },
+  {
+   "name": "『御所覧塚』",
+   "lat": 35.4281987,
+   "lng": 140.0676551,
+   "address": "千葉県市原市深城７８９",
+   "access": "馬立駅から約4.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "市原市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08815/"
   },
   {
    "name": "『御政築記念碑』",
@@ -71462,6 +73637,60 @@
   },
   {
    "name": "『忠魂碑』",
+   "lat": 35.8127097,
+   "lng": 139.8042158,
+   "address": "埼玉県草加市瀬崎３丁目２",
+   "access": "谷塚駅から南東へ約320m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "埼玉県",
+    "東武スカイツリーライン",
+    "東武鉄道",
+    "碑文",
+    "草加市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09026/"
+  },
+  {
+   "name": "『忠魂碑』",
+   "lat": 35.7554639,
+   "lng": 140.0995008,
+   "address": "千葉県八千代市桑納",
+   "access": "八千代中央駅から約3.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "八千代市",
+    "千葉県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08982/"
+  },
+  {
+   "name": "『忠魂碑』",
+   "lat": 35.7625355,
+   "lng": 139.9277783,
+   "address": "千葉県松戸市秋山",
+   "access": "秋山駅から南西へ約410m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "北総鉄道",
+    "千葉県",
+    "松戸市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08855/"
+  },
+  {
+   "name": "『忠魂碑』",
    "lat": 36.3048013,
    "lng": 140.5609551,
    "address": "茨城県東茨城郡大洗町大貫町",
@@ -72219,6 +74448,22 @@
   },
   {
    "name": "『恐竜』",
+   "lat": 35.7034101,
+   "lng": 140.1019634,
+   "address": "千葉県千葉市花見川区柏井４丁目２",
+   "access": "八千代台駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉市",
+    "千葉県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08830/"
+  },
+  {
+   "name": "『恐竜』",
    "lat": 34.7307401,
    "lng": 135.4387054,
    "address": "兵庫県尼崎市浜１丁目",
@@ -72289,6 +74534,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06632/"
+  },
+  {
+   "name": "『恵比寿』",
+   "lat": 35.7193518,
+   "lng": 140.2269687,
+   "address": "千葉県佐倉市鏑木町",
+   "access": "京成佐倉駅から南へ約690m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京成本線",
+    "京成電鉄",
+    "佐倉市",
+    "千葉県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08877/"
   },
   {
    "name": "『恵比寿』",
@@ -72375,6 +74638,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01900/"
+  },
+  {
+   "name": "『恵比寿神』",
+   "lat": 35.7904126,
+   "lng": 140.0430761,
+   "address": "千葉県白井市根１３６３",
+   "access": "白井駅から約1.2km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "千葉県",
+    "白井市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08822/"
   },
   {
    "name": "『恵比寿神』",
@@ -73727,6 +76006,22 @@
    "url": "https://www.memorial-object.jp/06514/"
   },
   {
+   "name": "『成田ゆめ牧場 福禄寿』",
+   "lat": 35.8701709,
+   "lng": 140.3962623,
+   "address": "千葉県成田市名木",
+   "access": "下総神崎駅から約3.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "成田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08964/"
+  },
+  {
    "name": "『成田山』",
    "lat": 35.8082301,
    "lng": 139.9443649,
@@ -74480,6 +76775,24 @@
    "url": "https://www.memorial-object.jp/06694/"
   },
   {
+   "name": "『戸田ボートコース聖火台』",
+   "lat": 35.801921,
+   "lng": 139.6746992,
+   "address": "埼玉県戸田市戸田公園２",
+   "access": "戸田公園駅から南西へ約740m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "埼京線",
+    "埼玉県",
+    "戸田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09038/"
+  },
+  {
    "name": "『戸田伊豆守』",
    "lat": 35.2245247,
    "lng": 139.7118998,
@@ -74623,6 +76936,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08711/"
+  },
+  {
+   "name": "『房総の魅力500選』",
+   "lat": 35.7470899,
+   "lng": 139.9033753,
+   "address": "千葉県市川市国府台３丁目",
+   "access": "矢切駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "市川市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08940/"
   },
   {
    "name": "『房総の魅力500選』",
@@ -78583,6 +80912,22 @@
    "url": "https://www.memorial-object.jp/01774/"
   },
   {
+   "name": "『日本の音風景百選』",
+   "lat": 35.7606186,
+   "lng": 139.8851275,
+   "address": "千葉県松戸市下矢切",
+   "access": "柴又駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08953/"
+  },
+  {
    "name": "『日本ブラジル修好100周年記念』",
    "lat": 35.4613127,
    "lng": 139.6376638,
@@ -79723,6 +82068,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04944/"
+  },
+  {
+   "name": "『日露戦役記念碑』",
+   "lat": 35.6904095,
+   "lng": 140.0342892,
+   "address": "千葉県習志野市藤崎１丁目７",
+   "access": "新津田沼駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "碑文",
+    "習志野市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08810/"
   },
   {
    "name": "『日露戦役記念碑』",
@@ -81410,6 +83772,23 @@
    "url": "https://www.memorial-object.jp/01387/"
   },
   {
+   "name": "『明戸古墳石棺』",
+   "lat": 35.7484696,
+   "lng": 139.8984397,
+   "address": "千葉県市川市国府台３丁目",
+   "access": "矢切駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉県",
+    "市川市",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08833/"
+  },
+  {
    "name": "『明日に』",
    "lat": 35.6040748,
    "lng": 139.505906,
@@ -81511,6 +83890,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/00941/"
+  },
+  {
+   "name": "『明治 大正 昭和 平成の 四世に亘る 佐倉醫のこころ 茲に遺す』",
+   "lat": 35.7229144,
+   "lng": 140.2178501,
+   "address": "千葉県佐倉市城内町",
+   "access": "京成佐倉駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "佐倉市",
+    "千葉県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08975/"
   },
   {
    "name": "『明治10年西南役征討役宇和郡殉難者の碑』",
@@ -81691,6 +84087,26 @@
    "url": "https://www.memorial-object.jp/02059/"
   },
   {
+   "name": "『明治天皇休憩所跡』",
+   "lat": 36.028769,
+   "lng": 139.7290409,
+   "address": "埼玉県北葛飾郡杉戸町杉戸２丁目１３",
+   "access": "東武動物公園駅から北東へ約480m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "埼玉県",
+    "杉戸町",
+    "東武スカイツリーライン",
+    "東武日光線",
+    "東武鉄道",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09044/"
+  },
+  {
    "name": "『明治天皇小佛峠御小休所阯及御野立所』",
    "lat": 35.6357117,
    "lng": 139.2167873,
@@ -81782,6 +84198,23 @@
    "url": "https://www.memorial-object.jp/08521/"
   },
   {
+   "name": "『明治天皇御駐蹕記念』",
+   "lat": 35.7201445,
+   "lng": 140.2188391,
+   "address": "千葉県佐倉市城内町",
+   "access": "京成佐倉駅から約1.1km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "佐倉市",
+    "千葉県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08976/"
+  },
+  {
    "name": "『明治天皇戸塚行在所址』",
    "lat": 35.3976173,
    "lng": 139.530526,
@@ -81860,6 +84293,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08103/"
+  },
+  {
+   "name": "『明治天皇草加行在所』",
+   "lat": 35.8311771,
+   "lng": 139.8074627,
+   "address": "埼玉県草加市住吉２丁目３",
+   "access": "草加駅から北東へ約490m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "埼玉県",
+    "東武スカイツリーライン",
+    "東武鉄道",
+    "草加市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09027/"
   },
   {
    "name": "『明治天皇行在所之蹟』",
@@ -81985,6 +84436,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08618/"
+  },
+  {
+   "name": "『明治天皇駐駅の碑』",
+   "lat": 35.6619584,
+   "lng": 140.0524267,
+   "address": "千葉県千葉市花見川区幕張町３丁目",
+   "access": "京成幕張駅から西へ約310m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "京成千葉線",
+    "京成電鉄",
+    "千葉市",
+    "千葉県",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08936/"
   },
   {
    "name": "『明治憲法起草の碑』",
@@ -82390,6 +84860,24 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/08/00211_1.jpg",
    "url": "https://www.memorial-object.jp/00211/"
+  },
+  {
+   "name": "『春をよぶ像』",
+   "lat": 35.9160253,
+   "lng": 139.4788593,
+   "address": "埼玉県川越市六軒町１丁目１９",
+   "access": "川越市駅から北東へ約270m",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "東武東上線",
+    "東武鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09014/"
   },
   {
    "name": "『春を待つ』",
@@ -83771,7 +86259,7 @@
    "lat": 34.9199689,
    "lng": 135.2291748,
    "address": "兵庫県三田市大原",
-   "access": "新三田駅から約2.2km",
+   "access": "新三田駅から直線で約2.2km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "道路沿い"
    ],
@@ -88785,6 +91273,24 @@
    "url": "https://www.memorial-object.jp/04493/"
   },
   {
+   "name": "『松戸の梨』",
+   "lat": 35.7973649,
+   "lng": 139.9406032,
+   "address": "千葉県松戸市千駄堀",
+   "access": "新八柱駅から北へ約630m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "千葉県",
+    "松戸市",
+    "武蔵野線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08856/"
+  },
+  {
    "name": "『松戸市立中部小学校跡記念碑』",
    "lat": 35.7828048,
    "lng": 139.898752,
@@ -88845,6 +91351,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07604/"
+  },
+  {
+   "name": "『松本清』",
+   "lat": 35.8299631,
+   "lng": 139.9317129,
+   "address": "千葉県松戸市小金",
+   "access": "北小金駅から南へ約390m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "千葉県",
+    "常磐線",
+    "松戸市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08857/"
   },
   {
    "name": "『松本翠影 句碑』",
@@ -88982,6 +91506,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02085/"
+  },
+  {
+   "name": "『松郷沿革之記』",
+   "lat": 35.9188889,
+   "lng": 139.4829678,
+   "address": "埼玉県川越市連雀町６",
+   "access": "本川越駅から北へ約550m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "西武新宿線",
+    "西武鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09015/"
   },
   {
    "name": "『松陰先生終焉之地』",
@@ -89374,6 +91916,22 @@
    "url": "https://www.memorial-object.jp/01187/"
   },
   {
+   "name": "『柏村警部殉職之地』",
+   "lat": 35.7874493,
+   "lng": 140.3959874,
+   "address": "千葉県成田市天神峰１４３",
+   "access": "空港第2ビル駅から約1.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "成田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08806/"
+  },
+  {
    "name": "『柳の精』",
    "lat": 35.5189434,
    "lng": 139.4785083,
@@ -89411,6 +91969,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01788/"
+  },
+  {
+   "name": "『柳原水閘』",
+   "lat": 35.752165,
+   "lng": 139.8916503,
+   "address": "千葉県松戸市下矢切",
+   "access": "矢切駅から約1.0km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08954/"
   },
   {
    "name": "『柳原稲荷神社 富士塚』",
@@ -89748,6 +92323,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01480/"
+  },
+  {
+   "name": "『校舎新築之碑』",
+   "lat": 35.7717261,
+   "lng": 139.9995055,
+   "address": "千葉県鎌ケ谷市富岡１丁目",
+   "access": "初富駅から南西へ約110m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "碑文",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08886/"
   },
   {
    "name": "『核兵器廃絶・平和都市宣言』",
@@ -90604,6 +93198,42 @@
    "url": "https://www.memorial-object.jp/06688/"
   },
   {
+   "name": "『森のかざぐるま』",
+   "lat": 35.7114998,
+   "lng": 139.9818281,
+   "address": "千葉県船橋市北本町１丁目",
+   "access": "新船橋駅から東へ約180m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "船橋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08839/"
+  },
+  {
+   "name": "『森のささやき』",
+   "lat": 35.7974614,
+   "lng": 139.9406486,
+   "address": "千葉県松戸市千駄堀",
+   "access": "新八柱駅から北へ約640m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "千葉県",
+    "松戸市",
+    "武蔵野線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08858/"
+  },
+  {
    "name": "『森のシマウマ』",
    "lat": 34.6806392,
    "lng": 135.1755171,
@@ -90671,6 +93301,22 @@
    "url": "https://www.memorial-object.jp/05072/"
   },
   {
+   "name": "『森井警部補殉職之地』",
+   "lat": 35.7879371,
+   "lng": 140.39597,
+   "address": "千葉県成田市天神峰",
+   "access": "空港第2ビル駅から約1.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "成田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08965/"
+  },
+  {
    "name": "『森山欽司先生胸像』",
    "lat": 36.55928004396182,
    "lng": 139.89794019721612,
@@ -90714,6 +93360,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/02907/"
+  },
+  {
+   "name": "『森志久馬先生』",
+   "lat": 35.7421766,
+   "lng": 139.9077233,
+   "address": "千葉県市川市国府台１丁目",
+   "access": "国府台駅から北東へ約790m",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "京成本線",
+    "京成電鉄",
+    "千葉県",
+    "市川市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08834/"
   },
   {
    "name": "『森本荘三郎君』",
@@ -92178,6 +94842,22 @@
    "url": "https://www.memorial-object.jp/00197/"
   },
   {
+   "name": "『歓喜天』",
+   "lat": 35.8035732,
+   "lng": 140.0345006,
+   "address": "千葉県白井市富塚６９３",
+   "access": "西白井駅から約2.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "白井市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08823/"
+  },
+  {
    "name": "『止め塚』",
    "lat": 35.5400824,
    "lng": 139.7081522,
@@ -93333,7 +96013,7 @@
    "lat": 34.9399577,
    "lng": 135.2412499,
    "address": "兵庫県三田市尼寺",
-   "access": "新三田駅から約4.4km",
+   "access": "新三田駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -97853,6 +100533,22 @@
   },
   {
    "name": "『浅間大神』",
+   "lat": 35.768311,
+   "lng": 140.0095443,
+   "address": "千葉県鎌ケ谷市東初富２丁目",
+   "access": "初富駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08987/"
+  },
+  {
+   "name": "『浅間大神』",
    "lat": 35.2683862,
    "lng": 139.6609753,
    "address": "神奈川県横須賀市不入斗町３丁目",
@@ -100367,6 +103063,43 @@
    "url": "https://www.memorial-object.jp/03267/"
   },
   {
+   "name": "『渋谷総司贈位顕彰碑』",
+   "lat": 35.7938915,
+   "lng": 140.002224,
+   "address": "千葉県鎌ケ谷市南佐津間",
+   "access": "六実駅から東へ約260m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "碑文",
+    "鎌ケ谷市",
+    "顕彰碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08887/"
+  },
+  {
+   "name": "『渋谷金蔵氏之像』",
+   "lat": 35.760416,
+   "lng": 139.8952024,
+   "address": "千葉県松戸市下矢切",
+   "access": "矢切駅から北西へ約580m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "北総鉄道",
+    "千葉県",
+    "松戸市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08859/"
+  },
+  {
    "name": "『渚』",
    "lat": 35.6329364,
    "lng": 139.7362686,
@@ -101489,6 +104222,24 @@
    "url": "https://www.memorial-object.jp/04432/"
   },
   {
+   "name": "『瀬崎の富士塚』",
+   "lat": 35.812667,
+   "lng": 139.8045138,
+   "address": "埼玉県草加市瀬崎３丁目２",
+   "access": "谷塚駅から南東へ約350m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "埼玉県",
+    "東武スカイツリーライン",
+    "東武鉄道",
+    "草加市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09006/"
+  },
+  {
    "name": "『瀬戸内のジャンヌ・ダルク 鶴姫』",
    "lat": 34.2480898,
    "lng": 133.0035074,
@@ -101662,6 +104413,25 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06441/"
+  },
+  {
+   "name": "『火あぶり地蔵尊』",
+   "lat": 35.8178769,
+   "lng": 139.8047957,
+   "address": "埼玉県草加市瀬崎２丁目１",
+   "access": "谷塚駅から北東へ約520m",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "地蔵",
+    "埼玉県",
+    "東武スカイツリーライン",
+    "東武鉄道",
+    "草加市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09007/"
   },
   {
    "name": "『火の神様』",
@@ -102465,7 +105235,7 @@
    "lat": 34.9399747,
    "lng": 135.2412365,
    "address": "兵庫県三田市尼寺",
-   "access": "新三田駅から約4.4km",
+   "access": "新三田駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -103835,6 +106605,59 @@
   },
   {
    "name": "『猿田彦大神』",
+   "lat": 35.8011774,
+   "lng": 139.9339539,
+   "address": "千葉県松戸市千駄堀",
+   "access": "新八柱駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08955/"
+  },
+  {
+   "name": "『猿田彦大神』",
+   "lat": 35.7644347,
+   "lng": 140.0049998,
+   "address": "千葉県鎌ケ谷市右京塚",
+   "access": "鎌ヶ谷駅から東へ約690m",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08888/"
+  },
+  {
+   "name": "『猿田彦大神』",
+   "lat": 35.7848421,
+   "lng": 139.9150023,
+   "address": "千葉県松戸市松戸新田",
+   "access": "上本郷駅から南へ約550m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "松戸市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08860/"
+  },
+  {
+   "name": "『猿田彦大神』",
    "lat": 35.7704745,
    "lng": 139.9080794,
    "address": "千葉県松戸市二十世紀が丘萩町３８",
@@ -104154,6 +106977,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06720/"
+  },
+  {
+   "name": "『玉光大神』",
+   "lat": 35.7222751,
+   "lng": 140.2550347,
+   "address": "千葉県印旛郡酒々井町上本佐倉２２５",
+   "access": "大佐倉駅から約0.9km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "千葉県",
+    "酒々井町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08826/"
   },
   {
    "name": "『玉参拝講』",
@@ -104641,7 +107480,7 @@
    "lat": 34.9404777,
    "lng": 135.2373272,
    "address": "兵庫県三田市小野",
-   "access": "新三田駅から約4.3km",
+   "access": "新三田駅から直線で約4.3km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -105826,6 +108665,26 @@
    "url": "https://www.memorial-object.jp/02560/"
   },
   {
+   "name": "『町名由来碑』",
+   "lat": 35.7321921,
+   "lng": 140.2749904,
+   "address": "千葉県印旛郡酒々井町中央台１丁目",
+   "access": "酒々井駅から北西へ約50m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "千葉県",
+    "成田線",
+    "歴史",
+    "碑文",
+    "酒々井町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08933/"
+  },
+  {
    "name": "『町村境』",
    "lat": 34.7749096,
    "lng": 135.4070514,
@@ -106469,6 +109328,24 @@
    "url": "https://www.memorial-object.jp/00726/"
   },
   {
+   "name": "『白井開拓三十年記念碑』",
+   "lat": 35.7715155,
+   "lng": 140.0229996,
+   "address": "千葉県白井市冨士１９８",
+   "access": "西白井駅から約1.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "白井市",
+    "碑文",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08824/"
+  },
+  {
    "name": "『白滝不動尊の大震災記念碑』",
    "lat": 35.4192671,
    "lng": 139.6406123,
@@ -106538,6 +109415,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/04369/"
+  },
+  {
+   "name": "『白菜』",
+   "lat": 35.8434888,
+   "lng": 139.7989798,
+   "address": "埼玉県草加市松原１丁目１",
+   "access": "獨協大学前〈草加松原〉駅から西へ約150m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "埼玉県",
+    "東武スカイツリーライン",
+    "東武鉄道",
+    "草加市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09028/"
   },
   {
    "name": "『白蛇』",
@@ -108644,6 +111539,24 @@
    "url": "https://www.memorial-object.jp/04411/"
   },
   {
+   "name": "『目の神様』",
+   "lat": 35.9111597,
+   "lng": 139.4845653,
+   "address": "埼玉県川越市南通町１９",
+   "access": "本川越駅から南東へ約440m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "埼玉県",
+    "川越市",
+    "西武新宿線",
+    "西武鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09016/"
+  },
+  {
    "name": "『目白地蔵尊』",
    "lat": 35.7129322,
    "lng": 139.7947128,
@@ -109138,6 +112051,23 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03333/"
+  },
+  {
+   "name": "『矢切の渡し碑』",
+   "lat": 35.7594858,
+   "lng": 139.8838576,
+   "address": "千葉県松戸市下矢切",
+   "access": "柴又駅から約0.9km",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08956/"
   },
   {
    "name": "『矢切観音』",
@@ -111541,7 +114471,7 @@
    "lat": 34.9399879,
    "lng": 135.2412204,
    "address": "兵庫県三田市尼寺",
-   "access": "新三田駅から約4.4km",
+   "access": "新三田駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -111558,7 +114488,7 @@
    "lat": 34.9399972,
    "lng": 135.241201,
    "address": "兵庫県三田市尼寺",
-   "access": "新三田駅から約4.4km",
+   "access": "新三田駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -112990,6 +115920,22 @@
    "url": "https://www.memorial-object.jp/07401/"
   },
   {
+   "name": "『福島警視殉職之地』",
+   "lat": 35.7883019,
+   "lng": 140.3959539,
+   "address": "千葉県成田市天神峰",
+   "access": "空港第2ビル駅から約1.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "成田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08966/"
+  },
+  {
    "name": "『福徳子育地蔵尊』",
    "lat": 35.7447307,
    "lng": 139.7968628,
@@ -113139,6 +116085,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07205/"
+  },
+  {
+   "name": "『福禄寿』",
+   "lat": 35.7192322,
+   "lng": 140.2269899,
+   "address": "千葉県佐倉市鏑木町",
+   "access": "京成佐倉駅から南へ約710m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京成本線",
+    "京成電鉄",
+    "佐倉市",
+    "千葉県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08878/"
   },
   {
    "name": "『福禄寿』",
@@ -113383,6 +116347,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08197/"
+  },
+  {
+   "name": "『福聚観音』",
+   "lat": 35.8437047,
+   "lng": 139.5407014,
+   "address": "埼玉県富士見市大字鶴馬２６３８",
+   "access": "鶴瀬駅から南東へ約260m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "埼玉県",
+    "富士見市",
+    "東武東上線",
+    "東武鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09043/"
   },
   {
    "name": "『福興観世音』",
@@ -113860,6 +116842,22 @@
    "url": "https://www.memorial-object.jp/06888/"
   },
   {
+   "name": "『稲毛記念館』",
+   "lat": 35.6198607,
+   "lng": 140.0607929,
+   "address": "千葉県千葉市美浜区高浜７丁目",
+   "access": "稲毛海岸駅から約1.6km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉市",
+    "千葉県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08938/"
+  },
+  {
    "name": "『稲畑汀子句碑』",
    "lat": 34.8704067,
    "lng": 134.5419389,
@@ -114186,6 +117184,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03506/"
+  },
+  {
+   "name": "『空の安全』",
+   "lat": 35.7423664,
+   "lng": 140.3847408,
+   "address": "千葉県成田市三里塚",
+   "access": "芝山千代田駅から約1.9km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉県",
+    "成田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08967/"
   },
   {
    "name": "『空をイメージしたモニュメント』",
@@ -114676,6 +117690,26 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06006/"
+  },
+  {
+   "name": "『竣工記念碑』",
+   "lat": 35.8168486,
+   "lng": 139.6782171,
+   "address": "埼玉県戸田市上戸田１丁目１７",
+   "access": "戸田駅から東へ約780m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "埼京線",
+    "埼玉県",
+    "戸田市",
+    "碑文",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09039/"
   },
   {
    "name": "『竣工記念碑』",
@@ -116644,6 +119678,26 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05922/"
+  },
+  {
+   "name": "『第一土地区画整理組合』",
+   "lat": 35.8267897,
+   "lng": 139.9214433,
+   "address": "千葉県松戸市幸谷",
+   "access": "新松戸駅から北へ約150m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "千葉県",
+    "土地区画整理事業",
+    "常磐線",
+    "松戸市",
+    "武蔵野線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08861/"
   },
   {
    "name": "『第一東京市立中学校発祥之地』",
@@ -120632,6 +123686,27 @@
    "url": "https://www.memorial-object.jp/00548/"
   },
   {
+   "name": "『納屋川岸跡』",
+   "lat": 35.7842688,
+   "lng": 139.8947694,
+   "address": "千葉県松戸市松戸",
+   "access": "松戸駅から西へ約530m",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "JR東日本",
+    "千葉県",
+    "常磐線",
+    "新京成線",
+    "新京成電鉄",
+    "松戸市",
+    "歴史"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08862/"
+  },
+  {
    "name": "『納札塚』",
    "lat": 35.7214672,
    "lng": 139.7263035,
@@ -120886,6 +123961,22 @@
   },
   {
    "name": "『絆』",
+   "lat": 35.6374356,
+   "lng": 139.9154172,
+   "address": "千葉県浦安市高洲４丁目",
+   "access": "新浦安駅から約1.4km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉県",
+    "浦安市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08994/"
+  },
+  {
+   "name": "『絆』",
    "lat": 35.6868807,
    "lng": 139.7645726,
    "address": "東京都千代田区大手町１丁目７",
@@ -121043,7 +124134,7 @@
    "lat": 34.9399142,
    "lng": 135.2412526,
    "address": "兵庫県三田市尼寺",
-   "access": "新三田駅から約4.4km",
+   "access": "新三田駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -121367,6 +124458,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07711/"
+  },
+  {
+   "name": "『緑の風』",
+   "lat": 35.8982314,
+   "lng": 139.9323972,
+   "address": "千葉県柏市柏の葉４丁目",
+   "access": "柏の葉キャンパス駅から約1.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "柏市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08980/"
   },
   {
    "name": "『緑の風』",
@@ -122074,6 +125181,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08623/"
+  },
+  {
+   "name": "『習志野駐屯地のかさ松』",
+   "lat": 35.7118239,
+   "lng": 140.0529998,
+   "address": "千葉県船橋市薬円台３丁目",
+   "access": "習志野駅から約1.0km",
+   "categories": [
+    "その他"
+   ],
+   "tags": [
+    "千葉県",
+    "船橋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08949/"
   },
   {
    "name": "『習志野騎兵旅団発祥の地』",
@@ -123947,7 +127070,7 @@
    "lat": 34.9399714,
    "lng": 135.2408453,
    "address": "兵庫県三田市尼寺",
-   "access": "新三田駅から約4.4km",
+   "access": "新三田駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -123980,7 +127103,7 @@
    "lat": 34.9397098,
    "lng": 135.2407806,
    "address": "兵庫県三田市尼寺",
-   "access": "新三田駅から約4.4km",
+   "access": "新三田駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -124481,6 +127604,22 @@
    "url": "https://www.memorial-object.jp/08477/"
   },
   {
+   "name": "『茜浜緑地東経140度線通過標』",
+   "lat": 35.6556745,
+   "lng": 139.9967129,
+   "address": "千葉県習志野市茜浜３丁目",
+   "access": "新習志野駅から約2.0km",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "千葉県",
+    "習志野市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08977/"
+  },
+  {
    "name": "『茨城師範学校跡』",
    "lat": 36.3748832,
    "lng": 140.4793664,
@@ -124770,6 +127909,44 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03351/"
+  },
+  {
+   "name": "『草加宿清水本陣跡』",
+   "lat": 35.8316729,
+   "lng": 139.8064461,
+   "address": "埼玉県草加市住吉１丁目１３",
+   "access": "草加駅から北東へ約470m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "埼玉県",
+    "東武スカイツリーライン",
+    "東武鉄道",
+    "歴史",
+    "草加市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09029/"
+  },
+  {
+   "name": "『草加町道路元標』",
+   "lat": 35.828311,
+   "lng": 139.8062101,
+   "address": "埼玉県草加市高砂２丁目２１",
+   "access": "草加駅から東へ約260m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "埼玉県",
+    "東武スカイツリーライン",
+    "東武鉄道",
+    "碑文",
+    "草加市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09030/"
   },
   {
    "name": "『草木塔』",
@@ -125301,6 +128478,46 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/06722/"
+  },
+  {
+   "name": "『華表建設記念碑』",
+   "lat": 35.719587,
+   "lng": 139.9759939,
+   "address": "千葉県船橋市山手３丁目",
+   "access": "塚田駅から西へ約630m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "碑文",
+    "船橋市",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08840/"
+  },
+  {
+   "name": "『萌』",
+   "lat": 35.9105504,
+   "lng": 139.4830698,
+   "address": "埼玉県川越市脇田町１０",
+   "access": "川越駅から北へ約390m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "埼玉県",
+    "川越市",
+    "川越線",
+    "東武東上線",
+    "東武鉄道"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09017/"
   },
   {
    "name": "『萩のひろば』",
@@ -126558,6 +129775,22 @@
   },
   {
    "name": "『虚空蔵菩薩』",
+   "lat": 35.9600398,
+   "lng": 139.8804672,
+   "address": "千葉県野田市鶴奉",
+   "access": "愛宕駅から約1.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "千葉県",
+    "野田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08962/"
+  },
+  {
+   "name": "『虚空蔵菩薩』",
    "lat": 34.9373933,
    "lng": 134.8290828,
    "address": "兵庫県加西市北条町北条１２９３",
@@ -126902,6 +130135,24 @@
    "url": "https://www.memorial-object.jp/01565/"
   },
   {
+   "name": "『融合と発展の像』",
+   "lat": 35.8170079,
+   "lng": 139.6780635,
+   "address": "埼玉県戸田市上戸田１丁目１７",
+   "access": "戸田駅から東へ約770m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "埼京線",
+    "埼玉県",
+    "戸田市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09040/"
+  },
+  {
    "name": "『螺舎秀民句碑』",
    "lat": 35.7239059,
    "lng": 139.8160615,
@@ -127243,6 +130494,38 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08276/"
+  },
+  {
+   "name": "『製鋼工場 スクラップ装入シュート』",
+   "lat": 35.5730082,
+   "lng": 140.1242852,
+   "address": "千葉県千葉市中央区川崎町",
+   "access": "蘇我駅から約1.2km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉市",
+    "千葉県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09002/"
+  },
+  {
+   "name": "『製鋼工場 転炉』",
+   "lat": 35.5715945,
+   "lng": 140.1242973,
+   "address": "千葉県千葉市中央区川崎町",
+   "access": "蘇我駅から約1.3km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉市",
+    "千葉県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09003/"
   },
   {
    "name": "『西の口公園』",
@@ -128187,7 +131470,7 @@
    "lat": 34.9364484,
    "lng": 135.235097,
    "address": "兵庫県三田市尼寺",
-   "access": "新三田駅から約3.8km",
+   "access": "新三田駅から直線で約3.8km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "山林・山道"
    ],
@@ -129432,7 +132715,7 @@
    "lat": 34.9398433,
    "lng": 135.240857,
    "address": "兵庫県三田市尼寺",
-   "access": "新三田駅から約4.4km",
+   "access": "新三田駅から直線で約4.4km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "寺社境内"
    ],
@@ -129520,6 +132803,26 @@
   },
   {
    "name": "『記念碑』",
+   "lat": 35.8124145,
+   "lng": 139.9207318,
+   "address": "千葉県松戸市馬橋",
+   "access": "馬橋駅から東へ約320m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "JR東日本",
+    "千葉県",
+    "常磐線",
+    "松戸市",
+    "碑文",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08863/"
+  },
+  {
+   "name": "『記念碑』",
    "lat": 35.7608212,
    "lng": 140.2904908,
    "address": "千葉県成田市公津の杜６丁目９",
@@ -129581,7 +132884,7 @@
    "lat": 34.978457,
    "lng": 135.1976343,
    "address": "兵庫県三田市須磨田",
-   "access": "藍本駅から約3.8km",
+   "access": "藍本駅から直線で約3.8km（徒歩では遠く、車などでの移動が必要です）",
    "categories": [
     "道路沿い"
    ],
@@ -135690,6 +138993,44 @@
   },
   {
    "name": "『道祖神』",
+   "lat": 35.7800132,
+   "lng": 139.9743088,
+   "address": "千葉県鎌ケ谷市初富",
+   "access": "くぬぎ山駅から南西へ約280m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "道祖神",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08890/"
+  },
+  {
+   "name": "『道祖神』",
+   "lat": 35.7951082,
+   "lng": 140.0032737,
+   "address": "千葉県鎌ケ谷市南佐津間",
+   "access": "六実駅から東へ約380m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "道祖神",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08889/"
+  },
+  {
+   "name": "『道祖神』",
    "lat": 35.8004911,
    "lng": 139.9327691,
    "address": "千葉県松戸市千駄堀１２１０",
@@ -136796,6 +140137,23 @@
    "url": "https://www.memorial-object.jp/00964/"
   },
   {
+   "name": "『酒の井の碑』",
+   "lat": 35.7272495,
+   "lng": 140.2665241,
+   "address": "千葉県印旛郡酒々井町酒々井１３７",
+   "access": "酒々井駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "碑文",
+    "酒々井町"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08827/"
+  },
+  {
    "name": "『酒井量惠先生碑』",
    "lat": 35.020232,
    "lng": 135.1541928,
@@ -137340,6 +140698,22 @@
    "url": "https://www.memorial-object.jp/02852/"
   },
   {
+   "name": "『野戦重砲兵第七連隊門柱』",
+   "lat": 35.7444886,
+   "lng": 139.9051145,
+   "address": "千葉県市川市国府台２丁目",
+   "access": "国府台駅から約0.9km",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "千葉県",
+    "市川市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08941/"
+  },
+  {
    "name": "『野方笑い地蔵尊』",
    "lat": 35.7191849,
    "lng": 139.6514462,
@@ -137452,6 +140826,56 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01414/"
+  },
+  {
+   "name": "『野菊のこみち碑』",
+   "lat": 35.7597481,
+   "lng": 139.8857032,
+   "address": "千葉県松戸市下矢切",
+   "access": "柴又駅から約1.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08957/"
+  },
+  {
+   "name": "『野菊のこみち起点碑』",
+   "lat": 35.7597438,
+   "lng": 139.8857192,
+   "address": "千葉県松戸市下矢切",
+   "access": "柴又駅から約1.0km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08958/"
+  },
+  {
+   "name": "『野菊のような人』",
+   "lat": 35.7595518,
+   "lng": 139.8907633,
+   "address": "千葉県松戸市下矢切",
+   "access": "矢切駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08959/"
   },
   {
    "name": "『野菊の墓文学碑』",
@@ -139709,6 +143133,23 @@
    "url": "https://www.memorial-object.jp/07326/"
   },
   {
+   "name": "『開拓の碑』",
+   "lat": 35.7756851,
+   "lng": 140.0250891,
+   "address": "千葉県白井市冨士２２５",
+   "access": "西白井駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "白井市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08825/"
+  },
+  {
    "name": "『開拓記念碑』",
    "lat": 34.3769083,
    "lng": 133.6497033,
@@ -141195,6 +144636,22 @@
    "url": "https://www.memorial-object.jp/06007/"
   },
   {
+   "name": "『阿夫利神社 (Aburi Shurine)』",
+   "lat": 35.8153616,
+   "lng": 140.0935205,
+   "address": "千葉県印西市高西新田",
+   "access": "千葉ニュータウン中央駅から約2.7km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "千葉県",
+    "印西市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08996/"
+  },
+  {
    "name": "『阿婆羅底童子』",
    "lat": 35.6302684,
    "lng": 139.2546853,
@@ -142004,6 +145461,25 @@
    "url": "https://www.memorial-object.jp/02533/"
   },
   {
+   "name": "『雨の三叉路(分水界)』",
+   "lat": 35.7666798,
+   "lng": 140.0029139,
+   "address": "千葉県鎌ケ谷市富岡２丁目",
+   "access": "鎌ヶ谷駅から北東へ約580m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "碑文",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08891/"
+  },
+  {
    "name": "『雪おんな縁の地』",
    "lat": 35.7843401,
    "lng": 139.2649846,
@@ -142352,6 +145828,24 @@
    "url": "https://www.memorial-object.jp/00508/"
   },
   {
+   "name": "『電電公社ベンチ』",
+   "lat": 35.600791,
+   "lng": 140.1024802,
+   "address": "千葉県千葉市中央区中央港１丁目",
+   "access": "千葉みなと駅から南へ約660m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "京葉線",
+    "千葉市",
+    "千葉県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08934/"
+  },
+  {
    "name": "『震災供養』",
    "lat": 35.2818582,
    "lng": 139.6513956,
@@ -142404,6 +145898,27 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05764/"
+  },
+  {
+   "name": "『震災記念』",
+   "lat": 35.776202,
+   "lng": 140.001362,
+   "address": "千葉県鎌ケ谷市新鎌ケ谷２丁目",
+   "access": "新鎌ヶ谷駅から南東へ約430m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "1920年代",
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08816/"
   },
   {
    "name": "『震災記念の碑』",
@@ -142855,6 +146370,338 @@
   },
   {
    "name": "『青面金剛』",
+   "lat": 35.8149458,
+   "lng": 140.0449195,
+   "address": "千葉県白井市中",
+   "access": "白井駅から約3.5km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "白井市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08999/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.7866049,
+   "lng": 140.0099345,
+   "address": "千葉県鎌ケ谷市粟野",
+   "access": "新鎌ヶ谷駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08988/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.7583495,
+   "lng": 140.0142633,
+   "address": "千葉県鎌ケ谷市鎌ケ谷１丁目",
+   "access": "鎌ヶ谷大仏駅から北東へ約60m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08893/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.788565,
+   "lng": 140.0050892,
+   "address": "千葉県鎌ケ谷市粟野",
+   "access": "六実駅から南東へ約780m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08892/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.8088083,
+   "lng": 139.9024822,
+   "address": "千葉県松戸市栄町５丁目",
+   "access": "北松戸駅から約1.2km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08869/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.7737255,
+   "lng": 139.8883259,
+   "address": "千葉県松戸市上矢切",
+   "access": "松戸駅から約1.6km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "明治時代",
+    "松戸市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08868/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.76645,
+   "lng": 139.884271,
+   "address": "千葉県松戸市上矢切",
+   "access": "京成金町駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08867/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.7685961,
+   "lng": 139.8962116,
+   "address": "千葉県松戸市上矢切",
+   "access": "矢切駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08866/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.8083406,
+   "lng": 139.9418628,
+   "address": "千葉県松戸市金ケ作",
+   "access": "常盤平駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08865/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.7743594,
+   "lng": 139.9142759,
+   "address": "千葉県松戸市和名ケ谷",
+   "access": "北国分駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08864/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.8397112,
+   "lng": 140.1290765,
+   "address": "千葉県印西市発作８９０",
+   "access": "布佐駅から約1.1km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "千葉県",
+    "印西市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08819/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.7855083,
+   "lng": 139.9084651,
+   "address": "千葉県松戸市岩瀬",
+   "access": "松戸駅から東へ約690m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "JR東日本",
+    "千葉県",
+    "常磐線",
+    "新京成線",
+    "新京成電鉄",
+    "松戸市",
+    "江戸時代"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08797/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.8061505,
+   "lng": 139.9546198,
+   "address": "千葉県松戸市金ケ作",
+   "access": "常盤平駅から北東へ約510m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08796/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.7604892,
+   "lng": 139.897902,
+   "address": "千葉県松戸市下矢切",
+   "access": "矢切駅から北西へ約410m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "北総鉄道",
+    "千葉県",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08795/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.8016377,
+   "lng": 139.9441082,
+   "address": "千葉県松戸市常盤平１丁目",
+   "access": "常盤平駅から西へ約570m",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08794/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.7903967,
+   "lng": 139.9326203,
+   "address": "千葉県松戸市千駄堀",
+   "access": "みのり台駅から東へ約330m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08793/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.8042591,
+   "lng": 139.9442074,
+   "address": "千葉県松戸市金ケ作",
+   "access": "常盤平駅から西へ約540m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08792/"
+  },
+  {
+   "name": "『青面金剛』",
+   "lat": 35.7841408,
+   "lng": 139.9166387,
+   "address": "千葉県松戸市松戸新田",
+   "access": "上本郷駅から南へ約620m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08791/"
+  },
+  {
+   "name": "『青面金剛』",
    "lat": 35.8211925,
    "lng": 139.9208915,
    "address": "千葉県松戸市二ツ木７５７",
@@ -143290,6 +147137,64 @@
   },
   {
    "name": "『青面金剛像』",
+   "lat": 35.7960783,
+   "lng": 140.0014501,
+   "address": "千葉県鎌ケ谷市中佐津間１丁目",
+   "access": "六実駅から北東へ約310m",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "碑文",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08894/"
+  },
+  {
+   "name": "『青面金剛像』",
+   "lat": 35.8013072,
+   "lng": 139.9364666,
+   "address": "千葉県松戸市千駄堀７２３",
+   "access": "新八柱駅から約1.1km",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08799/"
+  },
+  {
+   "name": "『青面金剛像』",
+   "lat": 35.7864613,
+   "lng": 139.9029398,
+   "address": "千葉県松戸市小根本",
+   "access": "松戸駅から北東へ約300m",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "JR東日本",
+    "千葉県",
+    "常磐線",
+    "新京成線",
+    "新京成電鉄",
+    "松戸市",
+    "江戸時代",
+    "碑文"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08798/"
+  },
+  {
+   "name": "『青面金剛像』",
    "lat": 35.7916137,
    "lng": 139.9054921,
    "address": "千葉県松戸市竹ケ花１２８",
@@ -143698,6 +147603,25 @@
    "url": "https://www.memorial-object.jp/03777/"
   },
   {
+   "name": "『青面金剛文字塔』",
+   "lat": 35.7885936,
+   "lng": 140.0049077,
+   "address": "千葉県鎌ケ谷市粟野",
+   "access": "六実駅から南東へ約770m",
+   "categories": [
+    "水辺"
+   ],
+   "tags": [
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "碑文",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08895/"
+  },
+  {
    "name": "『青面金剛明王』",
    "lat": 35.5076139,
    "lng": 139.6195307,
@@ -143720,6 +147644,24 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03820/"
+  },
+  {
+   "name": "『青面金剛王』",
+   "lat": 35.7196246,
+   "lng": 139.9760355,
+   "address": "千葉県船橋市山手３丁目",
+   "access": "塚田駅から西へ約630m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "船橋市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08841/"
   },
   {
    "name": "『青面金剛祭所』",
@@ -145613,6 +149555,25 @@
    "url": "https://www.memorial-object.jp/00720/"
   },
   {
+   "name": "『題目庚申道標』",
+   "lat": 35.7536217,
+   "lng": 139.9766698,
+   "address": "千葉県鎌ケ谷市中沢",
+   "access": "馬込沢駅から約1.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "庚申塔",
+    "碑文",
+    "道標",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08989/"
+  },
+  {
    "name": "『題目碑』",
    "lat": 34.8391496,
    "lng": 134.6705743,
@@ -146095,6 +150056,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/05951/"
+  },
+  {
+   "name": "『風太像』",
+   "lat": 35.6453867,
+   "lng": 140.1265659,
+   "address": "千葉県千葉市若葉区源町",
+   "access": "動物公園駅から北へ約330m",
+   "categories": [
+    "広場・通り"
+   ],
+   "tags": [
+    "千葉市",
+    "千葉県"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08937/"
   },
   {
    "name": "『風神』",
@@ -146991,6 +150968,25 @@
    "url": "https://www.memorial-object.jp/00440/"
   },
   {
+   "name": "『馬萩観世音』",
+   "lat": 35.8319969,
+   "lng": 139.9063482,
+   "address": "千葉県松戸市新松戸７丁目",
+   "access": "南流山駅から南へ約650m",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "JR東日本",
+    "つくばエクスプレス",
+    "千葉県",
+    "松戸市",
+    "武蔵野線"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08870/"
+  },
+  {
    "name": "『馬頭坂』",
    "lat": 35.4438356,
    "lng": 139.5705264,
@@ -147005,6 +151001,221 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/03948/"
+  },
+  {
+   "name": "『馬頭観世音』",
+   "lat": 35.5844965,
+   "lng": 140.169508,
+   "address": "千葉県千葉市中央区川戸町",
+   "access": "大森台駅から約1.8km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉市",
+    "千葉県",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09004/"
+  },
+  {
+   "name": "『馬頭観世音』",
+   "lat": 35.7406086,
+   "lng": 140.2801524,
+   "address": "千葉県印旛郡酒々井町上岩橋",
+   "access": "京成酒々井駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "酒々井町",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09001/"
+  },
+  {
+   "name": "『馬頭観世音』",
+   "lat": 35.7581578,
+   "lng": 139.9831312,
+   "address": "千葉県鎌ケ谷市中沢",
+   "access": "鎌ヶ谷駅から約1.4km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "千葉県",
+    "鎌ケ谷市",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08993/"
+  },
+  {
+   "name": "『馬頭観世音』",
+   "lat": 35.7764386,
+   "lng": 140.0125276,
+   "address": "千葉県鎌ケ谷市初富",
+   "access": "初富駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "鎌ケ谷市",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08992/"
+  },
+  {
+   "name": "『馬頭観世音』",
+   "lat": 35.7683322,
+   "lng": 140.0095256,
+   "address": "千葉県鎌ケ谷市東初富２丁目",
+   "access": "初富駅から約0.9km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "鎌ケ谷市",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08991/"
+  },
+  {
+   "name": "『馬頭観世音』",
+   "lat": 35.7884837,
+   "lng": 140.0164449,
+   "address": "千葉県鎌ケ谷市軽井沢",
+   "access": "西白井駅から約1.4km",
+   "categories": [
+    "霊園・墓地"
+   ],
+   "tags": [
+    "千葉県",
+    "鎌ケ谷市",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08990/"
+  },
+  {
+   "name": "『馬頭観世音』",
+   "lat": 35.8009014,
+   "lng": 139.9335161,
+   "address": "千葉県松戸市千駄堀",
+   "access": "新八柱駅から約1.1km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08960/"
+  },
+  {
+   "name": "『馬頭観世音』",
+   "lat": 35.7961265,
+   "lng": 140.0039932,
+   "address": "千葉県鎌ケ谷市佐津間",
+   "access": "六実駅から北東へ約490m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "鎌ケ谷市",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08896/"
+  },
+  {
+   "name": "『馬頭観世音』",
+   "lat": 35.8007291,
+   "lng": 139.9330372,
+   "address": "千葉県松戸市千駄堀",
+   "access": "新八柱駅から約1.1km",
+   "categories": [
+    "公共施設"
+   ],
+   "tags": [
+    "1920年代",
+    "千葉県",
+    "松戸市",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08871/"
+  },
+  {
+   "name": "『馬頭観世音』",
+   "lat": 35.7417271,
+   "lng": 140.2815108,
+   "address": "千葉県印旛郡酒々井町上岩橋７３５",
+   "access": "京成酒々井駅から約1.2km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "酒々井町",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08828/"
+  },
+  {
+   "name": "『馬頭観世音』",
+   "lat": 35.7854603,
+   "lng": 139.9084489,
+   "address": "千葉県松戸市岩瀬",
+   "access": "松戸駅から東へ約690m",
+   "categories": [
+    "寺社境内"
+   ],
+   "tags": [
+    "JR東日本",
+    "千葉県",
+    "常磐線",
+    "新京成線",
+    "新京成電鉄",
+    "松戸市",
+    "江戸時代",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08801/"
+  },
+  {
+   "name": "『馬頭観世音』",
+   "lat": 35.7604761,
+   "lng": 139.8979567,
+   "address": "千葉県松戸市下矢切",
+   "access": "矢切駅から北西へ約400m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "北総鉄道",
+    "千葉県",
+    "明治時代",
+    "松戸市",
+    "碑文",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08800/"
   },
   {
    "name": "『馬頭観世音』",
@@ -147843,6 +152054,62 @@
   },
   {
    "name": "『馬頭観音』",
+   "lat": 35.7686224,
+   "lng": 139.8962332,
+   "address": "千葉県松戸市上矢切",
+   "access": "矢切駅から約1.3km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "松戸市",
+    "碑文",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08961/"
+  },
+  {
+   "name": "『馬頭観音』",
+   "lat": 35.7221251,
+   "lng": 139.9646011,
+   "address": "千葉県船橋市古作１丁目",
+   "access": "船橋法典駅から約1.0km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "船橋市",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08950/"
+  },
+  {
+   "name": "『馬頭観音』",
+   "lat": 35.7852922,
+   "lng": 140.0000399,
+   "address": "千葉県鎌ケ谷市粟野",
+   "access": "新鎌ヶ谷駅から北へ約550m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "東武アーバンパークライン",
+    "東武鉄道",
+    "鎌ケ谷市",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08897/"
+  },
+  {
+   "name": "『馬頭観音』",
    "lat": 35.932519,
    "lng": 139.8867302,
    "address": "千葉県野田市山崎１５１４",
@@ -148342,6 +152609,23 @@
   },
   {
    "name": "『馬頭観音像』",
+   "lat": 35.6100416,
+   "lng": 140.2023283,
+   "address": "千葉県千葉市若葉区北谷津町３２６",
+   "access": "千城台駅から約1.8km",
+   "categories": [
+    "山林・山道"
+   ],
+   "tags": [
+    "千葉市",
+    "千葉県",
+    "馬頭観音"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08831/"
+  },
+  {
+   "name": "『馬頭観音像』",
    "lat": 35.6998755,
    "lng": 139.2642883,
    "address": "東京都八王子市上川町２９９１",
@@ -148804,6 +153088,26 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/08716/"
+  },
+  {
+   "name": "『騎兵第１３連隊記念碑』",
+   "lat": 35.6923883,
+   "lng": 140.0499363,
+   "address": "千葉県船橋市三山２丁目",
+   "access": "京成大久保駅から北へ約730m",
+   "categories": [
+    "学校"
+   ],
+   "tags": [
+    "京成本線",
+    "京成電鉄",
+    "千葉県",
+    "碑文",
+    "船橋市",
+    "記念碑"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08842/"
   },
   {
    "name": "『髑髏庵』",
@@ -151313,6 +155617,27 @@
    "url": "https://www.memorial-object.jp/05519/"
   },
   {
+   "name": "『魚文の句碑』",
+   "lat": 35.7614001,
+   "lng": 140.0142573,
+   "address": "千葉県鎌ケ谷市東鎌ケ谷１丁目",
+   "access": "鎌ヶ谷大仏駅から北へ約390m",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "京成松戸線",
+    "京成電鉄",
+    "千葉県",
+    "句碑",
+    "歌碑",
+    "碑文",
+    "鎌ケ谷市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08898/"
+  },
+  {
    "name": "『魚籃坂』",
    "lat": 35.6418029,
    "lng": 139.7372827,
@@ -151408,6 +155733,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/01420/"
+  },
+  {
+   "name": "『鮮魚街道常夜燈』",
+   "lat": 35.8056972,
+   "lng": 140.0293223,
+   "address": "千葉県柏市藤ケ谷",
+   "access": "西白井駅から約2.4km",
+   "categories": [
+    "道路沿い"
+   ],
+   "tags": [
+    "千葉県",
+    "柏市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08981/"
   },
   {
    "name": "『鯉塚』",
@@ -152702,6 +157043,22 @@
    ],
    "image": "",
    "url": "https://www.memorial-object.jp/07796/"
+  },
+  {
+   "name": "『鼻喰い田』",
+   "lat": 35.858382,
+   "lng": 140.0064746,
+   "address": "千葉県柏市大井新田３８",
+   "access": "我孫子駅から約1.6km",
+   "categories": [
+    "公園"
+   ],
+   "tags": [
+    "千葉県",
+    "柏市"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/08814/"
   },
   {
    "name": "『鼻欠地蔵』",
@@ -162424,6 +166781,27 @@
    ],
    "image": "https://www.memorial-object.jp/wp-content/uploads/2026/06/00109_1.png",
    "url": "https://www.memorial-object.jp/00109/"
+  },
+  {
+   "name": "藤田久数『時世』",
+   "lat": 35.9077354,
+   "lng": 139.4838434,
+   "address": "埼玉県川越市脇田町１０６",
+   "access": "川越駅から北東へ約90m",
+   "categories": [
+    "駅前"
+   ],
+   "tags": [
+    "JR東日本",
+    "埼玉県",
+    "川越市",
+    "川越線",
+    "東武東上線",
+    "東武鉄道",
+    "藤田久数"
+   ],
+   "image": "",
+   "url": "https://www.memorial-object.jp/09005/"
   },
   {
    "name": "藤田文蔵『陸奥宗光公像』",
